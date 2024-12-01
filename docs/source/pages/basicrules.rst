@@ -18,6 +18,9 @@ The game is a conversation. Players take turns to describe what their characters
 - presents a **risk**, that the player must accept before continuing
 - has an **uncertain** outcome, and a failure state is interesting
 
+
+.. _rolling-the-dice:
+
 Rolling the dice
 ~~~~~~~~~~~~~~~~
 
