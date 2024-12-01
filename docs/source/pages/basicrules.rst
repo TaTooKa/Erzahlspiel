@@ -41,7 +41,9 @@ then check the total:
 Risk
 ----
 
-.. image:: ../_static/images/rpg-image-3.jpeg
+.. figure:: ../_static/images/rpg-image-3.jpeg
+
+   art © `Jeff Delierre <https://www.infectedbyart.com/contestpiece.asp?piece=3422>`_
 
 A risk can be anything from a narrative consequence (something bad happens, the situation worsens, etc), a negative condition that the character receives, or in some dire situations, outright death. GMs must state clearly what the risk is before the dice are rolled.
 
