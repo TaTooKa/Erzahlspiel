@@ -27,11 +27,12 @@ Granular Bonuses
 
 **Granular Bonuses** mean that instead of only gaining +1 for being Skilled and +1 for having a relevant Item, these could be +2 or +3.
 
-Characters can either be *Skilled* at something (+1), or an *Expert* (+2), or even a *Master* (+3).
+- Characters can either be *Skilled* at something (+1), or an *Expert* (+2), or even a *Master* (+3).
+- Items that Characters have can either be *Mundane* (+1), *Special* or *Masterwork* (+2), or even *Unique* or *Legendary* (+3).
 
-Items that Characters have can either be *Mundane* (+1), *Special* or *Masterwork* (+2), or even *Unique* or *Legendary* (+3).
+.. warning::
 
-The main issue (mechanically speaking) about this Option is that a +3 is already a big modifier in a 2d6 dice roll. If you combine both Skills and Items in this way, action rolls would become impossible to fail in most scenarios. It is recommended that you use this Optional Rule sparingly: Either Give +1/+2/+3 Bonuses to Skills but not Items (or viceversa), or only allow these bonuses up to +2, or allow any but always cap any roll at +3 max bonuses.
+   The main issue (mechanically speaking) about this Option is that a +3 is already a big modifier in a 2d6 dice roll. If you combine both Skills and Items in this way, action rolls would become impossible to fail in most scenarios. It is recommended that you use this Optional Rule sparingly: Either Give +1/+2/+3 Bonuses to Skills but not Items (or viceversa), or only allow these bonuses up to +2, or allow any but always cap any roll at +3 max bonuses.
 
 Clocks
 ------
