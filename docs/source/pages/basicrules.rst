@@ -61,8 +61,9 @@ Difficulty
 ----------
 
 .. figure:: ../_static/images/rpg-image-4.jpg
-   :width: 400
+   :figwidth: 400
    :align: center
+
    text for the image
 
 Since there is a set range of outcomes for any roll (6-; 7~9; 10+), in order to increase or decrease the difficulty of an action, the GM can impose a modifier of ±X to a roll.
