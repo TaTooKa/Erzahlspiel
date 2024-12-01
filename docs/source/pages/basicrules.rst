@@ -17,8 +17,8 @@ The game is a conversation. Players take turns to describe what their characters
 - just **happens** as described and what's the outcome
 - is **impossible**, or what extra steps would be required
 - has a **cost**, that the character must pay or suffer in order to perform the action
-- presents a **risk**, that the player must accept before continuing
-- has an **uncertain** outcome, and a failure state is interesting
+- presents a **risk**, that the player must avoid before continuing (🎲🎲)
+- has an **uncertain** outcome, and a failure state is interesting (🎲🎲)
 
 
 .. _rolling-the-dice:
