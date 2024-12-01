@@ -8,7 +8,9 @@ The *Game Master* ("GM") interprets the rest of the world and all *Non-Player-Ch
 Action Resolution
 -----------------
 
-.. image:: ../_static/images/rpg-image-2.jpg
+.. figure:: ../_static/images/rpg-image-2.jpg
+
+   art © `Alex Mordovets <https://aem.artstation.com/projects/dyQzJ>`_
 
 The game is a conversation. Players take turns to describe what their characters do. Then the GM declares if the action...
 
@@ -64,7 +66,7 @@ Difficulty
    :figwidth: 400
    :align: center
 
-   text for the image
+   art © Fantasy Flight Games
 
 Since there is a set range of outcomes for any roll (6-; 7~9; 10+), in order to increase or decrease the difficulty of an action, the GM can impose a modifier of ±X to a roll.
 
