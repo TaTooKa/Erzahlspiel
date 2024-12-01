@@ -1,7 +1,9 @@
 Opposition 
 ----------
 
-Think about the Opposition (adversaries or obstacles) as puzzles to solve, not stat blocks to match against the player's dice rolls like in a boardgame.
+The Opposition are whatever **Adversaries** or **Obstacles** the PCs find in their adventures that impede their progress towards their objectives.
+
+Think of them as puzzles to solve, not stat blocks to match against the player's dice rolls like in a boardgame.
 
 In Erzählspiel, the players should overcome the Opposition by making hard choices, being clever or thinking outside of the box. 
 
@@ -16,9 +18,9 @@ If the Opposition is an adversary, **What do they do to get what they want?**
 
 If it is an Obstacle, **What is its main function to impede the PCs or others?**
 
-A wild creature might want to kill in order to feed; a robber might want to take your valuables, without necessarily having to murder you (in fact, they'd might want to avoid that if possible).
+A wild creature might want to kill in order to feed; a robber might want to take your valuables, without necessarily having to murder you (in fact, they'd might want to avoid that if possible). A locked door's objective is to impede intruders to pass through. A pit trap in the floor is there so that intruders miss it and fall down (and probably get hurt enough to deter their progress).
 
-Defining the **Behaviors** of the Opposition also determines how far they'd be willing to go, or which ones are their limits (or at which point they might consider surrendering or fleeing).
+Defining the **Behaviors** of the Opposition also determines how far they'd be willing to go, or which ones are their limits (or at which point they might consider surrendering or fleeing). In the case of Obstacles, knowing exactly why they are in that place and who put them there is key to understand their limitations and how they could be overcome.
 
 Risks
 =====
