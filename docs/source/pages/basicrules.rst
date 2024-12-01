@@ -26,7 +26,7 @@ The game is a conversation. Players take turns to describe what their characters
 Rolling the dice
 ~~~~~~~~~~~~~~~~
 
-If there is **risk** or **uncertainty** and the player decides to move forward, then they must **roll 2d6**, and:
+If there is **risk** or **uncertainty** and the player decides to move forward [#]_, then they must **roll 2d6**, and:
 
 - add +1 if they have a relevant *skill*, 
 - add +1 if they have a relevant *item*,
@@ -78,3 +78,9 @@ Since there is a set range of outcomes for any roll (6-; 7~9; 10+), in order to 
 These modifiers could increase to ±2 if the GM deems so (specially if there are more than one circumstance affecting the action), but should keep in mind that a ±2 would have a huge impact in a 2d6 roll. 
 
 **Negative Conditions** already impose negative modifiers to character actions, which is another factor for the GM to consider when imposing difficulty penalties.
+
+------------
+
+.. rubric:: Footnotes
+
+.. [#] The player must be willing to take the risk before rolling. They always have the option to back down and choose another course of action.
