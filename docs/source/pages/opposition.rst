@@ -35,8 +35,8 @@ Adversaries or Obstacles that present physical harm could cause injury (in the f
 
 By properly telegraphing the **Risks** presented by the Opposition, the GM gives the players all the information necessary for them to make interesting choices. If they find a way to get around of these risks by mitigating them or outright negating them, even better!
 
-Protection
-==========
+Protections
+===========
 
 *The things that the Opposition has that make it difficult for the PCs to hinder or overcome it.*
 
@@ -44,11 +44,11 @@ Protection
 
 What impedes the players to quickly end the encounter by just attempting to overcome it with a basic action and rolling the dice?
 
-Adversaries or Obstacles should have at least one (may be more) protections that must be overcome individually or by doing something specific. It could be some sort of armor or defense that must be disabled first. It could we a weak-point that must be targeted (in which the *fictional positioning* for that to happen could imply one or more action tests). 
+Adversaries or Obstacles should have at least one Protection (may be more) that must be overcome individually or by doing something specific. It could be some sort of armor or defense that must be disabled first. It could we a weak-point that must be targeted (in which the *fictional positioning* for that to happen could imply one or more action tests). 
 
 It could be something that represents endurance or resistance, that must be wittled down ("their superior numbers must be reduced", or "We need to weaken it before giving the final blow!"). If this is the case, consider having whatever solution worked at first not be available any more for further attempts, lest you fall into the trap of "I attack!" "you dealt damage, now roll again!".
 
-Designing interesting **Protections** for the Opposition, the GM can provide engaging puzzles for the players to overcome by thinking on their toes.
+By designing interesting **Protections** for the Opposition, the GM can provide engaging puzzles for the players to overcome by thinking on their toes.
 
 
 ------------
