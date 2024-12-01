@@ -7,7 +7,9 @@ This is a rules-light, universal tabletop roleplaying game that follows the etho
 
 This means that the focus should be put into making a believable (but not necessarily "realistic") setting and simulation of its internal rules instead of getting bogged down in specific mechanics and procedures. Players should interpret their characters as living persons inside this world and make decisions based on the context, their backgrounds and tools at hand. the Game Master should run the world sincerelly and impartially, as a neutral referee.
 
-.. image:: _static/images/rpg-image-1.png
+.. figure:: _static/images/rpg-image-1.png
+
+   art © `Akim Kaliberda <https://www.artstation.com/artwork/NzDk5>`_
 
 In order to play, you will need at least two six-sided dice (preferrably a pair per player), writing implements and some sheets of paper in which to take notes and write character skills, items and conditions.
 
