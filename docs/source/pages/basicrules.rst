@@ -59,7 +59,7 @@ The best way to avoid a risk is to try another course of action. If that's not p
 Defense
 ^^^^^^^
 
-For risk of physical harm, characters can defend themselves by breaking some item they carry that could provide some sort of protection for the current situation [#]_. A broken item is useless (some could be repaired with time/tools/etc).
+For risk of physical harm, characters can defend themselves by sacrificing an item they carry that could provide some sort of protection for the current situation [#]_. Said Item could be lost or completely destroyed, or just temporarily broken (it becomes useless until repaired by spending time and/or using proper tools). 
 
 Difficulty
 ----------
@@ -75,7 +75,7 @@ Since there is a set range of outcomes for any roll (6-; 7~9; 10+), in order to 
 - If the character has some sort of **advantage** from an external circumstance, or the action would be particularily **easy** for an average person, they gain +1 to the roll.
 - If the character has some sort of **disadvantage** from an external circumstance, or the action would be particularily **hard** for an average person, they recieve -1 to the roll.
 
-These modifiers could increase to ±2 if the GM deems so (specially if there are more than one circumstance affecting the action), but should keep in mind that a ±2 would have a huge impact in a 2d6 roll. 
+These modifiers could increase to ±2 if the GM deems so (specially if there are more than one circumstance affecting the action), but should keep in mind that a ±2 would have a huge impact in a 2d6 roll [#]_. 
 
 **Negative Conditions** already impose negative modifiers to character actions, which is another factor for the GM to consider when imposing difficulty penalties.
 
@@ -85,4 +85,5 @@ These modifiers could increase to ±2 if the GM deems so (specially if there are
 
 .. [#] The player must be willing to take the risk before rolling. They always have the option to back down and choose another course of action.
 .. [#] Being **Taken Out** usually means losing the ability to stay in play with the agency to alter the world around them. This could be represented in different ways, depending on the context of the situation; exhausted, beffudled, K.O.d, or even dead.
-.. [#] Whatever the player decides to break, it must make sense in the fiction. You cannot stop a bullet with a screwdriver (well, in most cases). Creativity is encouraged, but the GM has the final word on what makes sense and what is a stretch.
+.. [#] Whatever the player decides to break, it must make sense in the fiction. You cannot stop a bullet with a screwdriver (...in most cases). Creativity is encouraged, but the GM has the final word on what makes sense and what is a stretch.
+.. [#] In an unmodified 2d6 roll (+0), the most likely result is 7 (with a 16.67% chance). On 2d6+1, the most likely result moves up to 8. On 2d6+2 it's 9, and with 2d6+3 it's 10 (meaning it's likely to always succeed).
