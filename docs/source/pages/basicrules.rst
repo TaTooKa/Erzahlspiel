@@ -49,7 +49,7 @@ A risk can be anything from a narrative consequence (something bad happens, the 
 
 **Negative Conditions** give a -1 each to any related roll (in actions in which the condition would adversely affect the character).
 
-3 or more Conditions usually mean that the character risks death in their next attempt (at GM discretion).
+3 or more Conditions usually mean that the character risks being **Taken Out** [#]_ in their next attempt (at GM discretion).
 
 Avoiding Risk
 ~~~~~~~~~~~~~
@@ -59,7 +59,7 @@ The best way to avoid a risk is to try another course of action. If that's not p
 Defense
 ^^^^^^^
 
-For risk of physical harm, characters can defend themselves by breaking some item they carry that could provide some sort of protection for the current situation. A broken item is useless (some could be repaired with time/tools/etc).
+For risk of physical harm, characters can defend themselves by breaking some item they carry that could provide some sort of protection for the current situation [#]_. A broken item is useless (some could be repaired with time/tools/etc).
 
 Difficulty
 ----------
@@ -84,3 +84,5 @@ These modifiers could increase to ±2 if the GM deems so (specially if there are
 .. rubric:: Footnotes
 
 .. [#] The player must be willing to take the risk before rolling. They always have the option to back down and choose another course of action.
+.. [#] Being **Taken Out** usually means losing the ability to stay in play with the agency to alter the world around them. This could be represented in different ways, depending on the context of the situation; exhausted, beffudled, K.O.d, or even dead.
+.. [#] Whatever the player decides to break, it must make sense in the fiction. You cannot stop a bullet with a screwdriver (well, in most cases). Creativity is encouraged, but the GM has the final word on what makes sense and what is a stretch.
