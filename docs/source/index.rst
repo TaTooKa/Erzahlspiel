@@ -20,6 +20,7 @@ The GM will most likely peruse one of the Worlds and Scenarios provided in this 
    :hidden:
 
    pages/basicrules
+   pages/opposition
    pages/optionalrules
    pages/principles
    pages/about
