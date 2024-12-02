@@ -1,9 +1,9 @@
 Erzählspiel
 ===========
 
-Erzählspiel means "narrative game" in German.
+Erzählspiel means "narrative game" or "storytelling game" in German.
 
-This is a rules-light, universal tabletop roleplaying game that follows the ethos of the FKR (Free Kriegsspiel Roleplaying) of "Play Worlds, not Rules".
+This is a rules-light, universal tabletop roleplaying game that follows the ethos of the FKR (*Free Kriegsspiel Roleplaying*) of **"Play Worlds, not Rules"**.
 
 This means that the focus should be put into making a believable (but not necessarily "realistic") setting and simulation of its internal rules instead of getting bogged down in specific mechanics and procedures. Players should interpret their characters as living persons inside this world and make decisions based on the context, their backgrounds and tools at hand. the Game Master should run the world sincerelly and impartially, as a neutral referee.
 
