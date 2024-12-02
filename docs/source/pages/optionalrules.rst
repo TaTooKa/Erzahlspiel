@@ -45,6 +45,19 @@ Clocks
 
 Todo
 
+Other Dice Systems
+------------------
+
+3d6
+===
+
+TODO
+
+d20
+===
+
+TODO
+
 Magic Systems
 -------------
 
