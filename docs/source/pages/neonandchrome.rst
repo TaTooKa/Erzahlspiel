@@ -290,7 +290,7 @@ Expert at *Stealth*, Skilled at *Melee*, *Climbing*.
 Expert at *Persuasion*, Skilled at *Connections*, *Deception*.
 
 ▸ The **Hardboiled Sleuth** is an ex-cop turned gumshoe, an investigative journalist or an avenging vigilante.
-Expert at *Reading People*, Adept at *Tracking*, *Intimidation*.
+Expert at *Reading People*, Skilled at *Tracking*, *Intimidation*.
 
 Etiquette
 ^^^^^^^^^
@@ -341,8 +341,28 @@ Gear
 
 buy your gear with *CryptoBits* (฿). Everyone starts with some cheap way of accessing the Net, like a *SmartScreen* or *AR glasses*, and 8 K฿ to spend in **Gear**, **Cyberware** and **Programs**. Don’t bother tracking pocket-change transactions lower than 1 K฿, like a pack of vapes, a storage chip, a bowl of ramen, a taxi ride, etc. 
 
+Armor / Wearables
+^^^^^^^^^^^^^^^^^
+
 - **Skin-tight suit (light):** armorgel weave. +1 for defensive actions. Break to avoid receiving a *Mild* Condition. 1 K฿. 
 - **Reinforced Vest (medium):** +1 for defensive actions. Break to avoid receiving a *Mild* or *Moderate* Condition. 2 K฿.
+- **Tactical Armor (heavy):** +2 for defensive actions. -1 for agility/speed related rolls. Break to avoid receiving a *Mild*, *Moderate* or *Severe* Condition. 3 K฿.
+- **Optical Camo Clothing:** Turns invisible on command. Best when combined with *Optical Camo Skin*. 1 K฿.
+
+Weapons and Mods
+^^^^^^^^^^^^^^^^
+
+- **Katana:** very sharp. +1 for melee attack/defense. Break to avoid a Condition from a melee attack. 1 K฿. 
+- **Heavy Melee Weapon:** (chainsaw/sledgehammer/etc). +2 for melee attacks; can break armor. *two-handed*. *slow*. *bulky*. 1 K฿.
+- **Taser:** *one-handed*. *concealable*. Stuns w/o permanent damage. 1 K฿.
+- **Handgun:** *one-handed*. *concealable*. -1 at *long range*. 1 K฿. 
+- **Assault Rifle:** *two-handed*. +1 against groups of enemies. 2 K฿.
+
+Misc and Tools
+^^^^^^^^^^^^^^
+
+- **SkillSoft Chip:** Plug it in a slot and know a skill instantly.  *Skilled*: 2 K฿| *Expert*: 3 K฿ | *Master*: 4 K฿.
+- **VR Goggles:** Access Virtual Reality without a *Neuralink*. 1 K฿.
 
 
 Cyberware
