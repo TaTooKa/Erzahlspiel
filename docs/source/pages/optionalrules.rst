@@ -51,7 +51,27 @@ Other Dice Systems
 3d6
 ===
 
-TODO
+Instead of rolling 2d6, roll 3d6 and add the results for a total between 3 and 18 [#]_.Then [#]_:
+
+- add +1 if *Skilled* at the action, +2 if *Expert*, +3 if *Master*
+- add +1 if *Item* is relevant, +2 if its *Special* or *Masterwork*, +3 if *Unique* or *Legendary*.
+- add +1 if *helped* by circumstances or by someone else (but they share any risk or consequence)
+
+Then check the total:
+
+- a 9 or less is a **FAILURE**. Suffer full risk and/or don't get what they intended to do.
+- a 10 to 13 is a **PARTIAL SUCCESS**. They achieve the intended outcome but partially, and/or suffer a lesser version of the risk.
+- a 14 or more is a **SUCCESS**. They get what they wanted, and avoid any risk.
+
+.. tip:: The range probabilities are very similar to rolling 2d6.
++-----------------+--------+--------+
+|                 |  2d6   |  3d6   |
++=================+========+========+
+|     FAILURE     | 41,67% | 37,49% |
+| PARTIAL SUCCESS | 41,67% | 46,29% |
+|     SUCCESS     | 16,67% | 16,21% |
++-----------------+--------+--------+
+
 
 d20
 ===
@@ -62,3 +82,10 @@ Magic Systems
 -------------
 
 Todo
+
+------------
+
+.. rubric:: Footnotes
+
+.. [#] This is a more "bell curve" style of rolling, where the average result is 10.5, and the extremes (3 and 18) are very unlikely to happen.
+.. [#] With more granular results you can apply more nuanced modifiers, just like in the Granular Bonuses section above.
