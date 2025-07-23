@@ -40,6 +40,17 @@ Granular Bonuses
    - Only allow these bonuses up to +2, or 
    - Allow any, but always cap any roll modifiers at +3 max.
 
+Critical Successes
+------------------
+
+There are two options for Critical Successes:
+
+- When rolling the dice, if the result is a **natural 12** (i.e. the two dice show a total of 12, regardless of any modifiers), this is a **Critical Success**.
+- If the result (after applying modifiers) is **14 or more**, this is a **Critical Success**.
+
+A Critical Success means that the Character not only achieves their intended outcome, but also does so in a spectacular way, or with some additional positive effect. The GM helps interpret the exact details and benefits.
+
+
 Clocks
 ------
 
@@ -53,9 +64,9 @@ Other Dice Systems
 
 Instead of rolling 2d6, roll 3d6 and add the results for a total between 3 and 18 [#]_. Then:
 
-- add +1 if *Skilled* at the action, +2 if *Expert*, +3 if *Master*
+- add +1 if *Skilled* at the action, +2 if *Expert*, +3 if *Master*.
 - add +1 if *Item* is relevant, +2 if its *Special* or *Masterwork*, +3 if *Unique* or *Legendary*.
-- add +1 if *helped* by circumstances or by someone else (but they share any risk or consequence)
+- add +1 if *helped* by circumstances, and +1 if *helped* by someone else (but they share any risk or consequence).
 
 Then check the total:
 
