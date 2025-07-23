@@ -51,7 +51,7 @@ Other Dice Systems
 3d6
 ===
 
-Instead of rolling 2d6, roll 3d6 and add the results for a total between 3 and 18 [#]_.Then [#]_:
+Instead of rolling 2d6, roll 3d6 and add the results for a total between 3 and 18 [#]_. Then:
 
 - add +1 if *Skilled* at the action, +2 if *Expert*, +3 if *Master*
 - add +1 if *Item* is relevant, +2 if its *Special* or *Masterwork*, +3 if *Unique* or *Legendary*.
@@ -91,5 +91,4 @@ Todo
 
 .. rubric:: Footnotes
 
-.. [#] This is a more "bell curve" style of rolling, where the average result is 10.5, and the extremes (3 and 18) are very unlikely to happen.
-.. [#] With more granular results you can apply more nuanced modifiers, just like in the Granular Bonuses section above.
+.. [#] This is a more "bell curve" style of rolling, where the average result is 10.5, and the extremes (3 and 18) are very unlikely to happen. With more granular results you can apply more nuanced modifiers, just like in the Granular Bonuses section above.
