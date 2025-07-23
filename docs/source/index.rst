@@ -29,5 +29,6 @@ The GM will most likely peruse one of the Worlds and Scenarios provided in this 
    :caption: Worlds
    :hidden:
 
+   pages/generic
    pages/dyingsun
    pages/galaxyfaraway
