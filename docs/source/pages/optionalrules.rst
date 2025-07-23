@@ -124,6 +124,7 @@ d20
 
 TODO
 
+.. _instinct-checks:
 
 Instinct Checks
 ---------------

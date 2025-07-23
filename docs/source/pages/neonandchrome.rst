@@ -437,7 +437,7 @@ Programs
 - **RENDER**: Control local AR feeds or VR constructs to project a brief illusion of your creation. 2 K฿.
 - **RIDE**: Gain access to a drone/camera/AR/VR goggles/eyes/Neuralink‘s senses, in read-only mode. 1 K฿.
 - **SCAN**: Search for specific device types or users in a wide area, or find a specific ID. 1 K฿.
-- **SPIKE**: Trigger a stress response (Instinct Check) in someone with a Neuralink. 2 K฿.
+- **SPIKE**: Trigger a stress response (:hoverxref:`Instinct Check <instinct-check>`) in someone with a Neuralink. 2 K฿.
 - **SPOOF**: Generate false ID/credentials/background records stolen from a nearby or pre-selected target. 1 K฿.
 - **TRACK**: Install malware on target to always know their location regardless of distance (or network hops). 1 K฿.
 - **VIRUS**: Install on device; provokes malfunctioning Conditions and propagates to nearby targets. 2 K฿.
