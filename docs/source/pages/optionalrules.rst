@@ -63,7 +63,9 @@ Then check the total:
 - a 10 to 13 is a **PARTIAL SUCCESS**. They achieve the intended outcome but partially, and/or suffer a lesser version of the risk.
 - a 14 or more is a **SUCCESS**. They get what they wanted, and avoid any risk.
 
-.. tip:: The range probabilities are very similar to rolling 2d6.
+
+The range probabilities are very similar to rolling 2d6:
+
 +-----------------+--------+--------+
 |                 |  2d6   |  3d6   |
 +=================+========+========+
