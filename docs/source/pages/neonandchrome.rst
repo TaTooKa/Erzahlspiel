@@ -293,7 +293,7 @@ Expert at *Persuasion*, Skilled at *Connections*, *Deception*.
 Expert at *Reading People*, Adept at *Tracking*, *Intimidation*.
 
 Etiquette
-~~~~~~~~~
+^^^^^^^^^
 
 Get an etiquette-related skill depending on your Lifepath’s **Family Background** and **Childhood Environment**:
 
@@ -306,7 +306,7 @@ Get an etiquette-related skill depending on your Lifepath’s **Family Backgroun
 +----------------------+---------------+
 
 Other Skills
-~~~~~~~~~~~~
+^^^^^^^^^^^^
 
 Also pick another 3 skills of your choice.
 
@@ -335,3 +335,22 @@ Also pick another 3 skills of your choice.
 +--------------+-----------------+
 | Medicine     |                 |
 +--------------+-----------------+
+
+Gear
+~~~~
+
+buy your gear with *CryptoBits* (฿). Everyone starts with some cheap way of accessing the Net, like a *SmartScreen* or *AR glasses*, and 8 K฿ to spend in **Gear**, **Cyberware** and **Programs**. Don’t bother tracking pocket-change transactions lower than 1 K฿, like a pack of vapes, a storage chip, a bowl of ramen, a taxi ride, etc. 
+
+- **Skin-tight suit (light):** armorgel weave. +1 for defensive actions. Break to avoid receiving a *Mild* Condition. 1 K฿. 
+- **Reinforced Vest (medium):** +1 for defensive actions. Break to avoid receiving a *Mild* or *Moderate* Condition. 2 K฿.
+
+
+Cyberware
+~~~~~~~~~
+
+TODO
+
+Programs
+~~~~~~~~
+
+TODO
