@@ -368,7 +368,7 @@ Weapons and Mods
 Misc and Tools
 ^^^^^^^^^^^^^^
 
-- **SkillSoft Chip:** Plug it in a slot and know a skill instantly.  *Skilled*: 2 K฿| *Expert*: 3 K฿ | *Master*: 4 K฿.
+- **SkillSoft Chip:** Plug it in a slot and know a skill instantly.  *Skilled*: 2 K฿ | *Expert*: 3 K฿ | *Master*: 4 K฿.
 - **VR Goggles:** Access Virtual Reality without a *Neuralink*. 1 K฿.
 - **Electronic toolbox:** +1 for Electronics actions. 1 K฿.
 - **Mechanic toolbox:** +1 for Mechanics actions. 1 K฿.
@@ -380,7 +380,41 @@ Misc and Tools
 Cyberware
 ~~~~~~~~~
 
-TODO
+Install **Cyberware** on a *Ripperdoc* shop during Downtime, or choose what you already have during character creation.
+
+- **Synth Skin:** +1 for defending against superficial harm like cuts or scratches. 1 K฿. 
+
+  - **Optical Camo Weave:** Turns invisible on command. Best when combined with Optical Camo Clothing. 1 K฿.
+  - **Pheromonal Secretor:** +1 on social tests (+2 if lots of touching is involved). 1 K฿.
+  - **Self-healing Polymer:** superficial harm takes half as long to heal. 1 K฿.
+  - **Kevlar Lattice:** bullet-proof plates. very obvious. +1 for defensive actions. 1 K฿.
+
+- **Neuralink:** Digital Interface for the brain. Access AR/VR without gadgets, directly through your senses. Includes 1 universal chip slot/port (installed behind ear). 1 K฿. 
+
+  - **SenSim™ recorder:** save 1 hour of sensory input. 1 K฿. 
+  - **Smart Link:** connect to a weapon’s Smart Link Mod. 1 K฿.
+  - **SkillSoft Slot:** plug in SkillSoft chips, 1 K฿ each (max 4). Installed on nape or behind ears. 
+
+- **Skeletal Lacing:** Titanium-alloy bone structure replacement. +1 for defense and resistance actions. 2 K฿. 
+- **Wired Reflexes:** Enhanced nervous system replacement. +1 for agility or quickness related actions. 2 K฿.
+- **Cyber-Arms/Legs:** Hard plastic or metallic limbs. Break to avoid receiving a Condition. 1 K฿.
+
+  - **Pneumatic joints:** +1 for strength related actions. 1 K฿. 
+  - **Spring servos:** +1 for agility/quickness actions. 1 K฿. 
+  - **Concealable compartment:** pocket/holster-sized. 1 K฿. 
+  - **Hydraulic articulations:** silent joints, +1 for stealth related actions. 1 K฿.
+
+- **Cyber-Eyes:** Improved vision, +1 for visual perception related actions. Replaces AR glasses. 1 K฿.
+
+  - **Protective covers:** embedded shades/goggles. 1 K฿.
+  - **Enhanced scopes:** 6X zoom, thermal, IR. 1 K฿.
+
+- **Cyber-Ears:** Improved hearing, +1 for auditory perception related actions. 1 K฿.
+  - **Echolocation:** “see” through hearing. 1 K฿.
+  - **Bio-stress meter:** voice/biometrics lie detector. 1 K฿.
+
+- **Retractable Blades:** nails/claws. +1 for melee attacks. 1 K฿.
+
 
 Programs
 ~~~~~~~~
