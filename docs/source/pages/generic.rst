@@ -36,7 +36,32 @@ Cyberpunk
 Skills
 ~~~~~~
 
-TODO
++--------------+-----------------+
+| Academics    | Melee           |
++--------------+-----------------+
+| Business     | Performance     |
++--------------+-----------------+
+| Climbing     | Persuasion      |
++--------------+-----------------+
+| Connections  | Piloting        |
++--------------+-----------------+
+| Deception    | Reading People  |
++--------------+-----------------+
+| Hacking      | Running         |
++--------------+-----------------+
+| Electronics  | Science         |
++--------------+-----------------+
+| Explosives   | Shooting        |
++--------------+-----------------+
+| Forgery      | Sleight of Hand |
++--------------+-----------------+
+| Intimidation | Stealth         |
++--------------+-----------------+
+| Mechanics    | Tracking        |
++--------------+-----------------+
+| Medicine     |                 |
++--------------+-----------------+
+
 
 Items
 ~~~~~

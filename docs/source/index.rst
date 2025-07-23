@@ -32,3 +32,4 @@ The GM will most likely peruse one of the Worlds and Scenarios provided in this 
    pages/generic
    pages/dyingsun
    pages/galaxyfaraway
+   pages/riseofthemachines
