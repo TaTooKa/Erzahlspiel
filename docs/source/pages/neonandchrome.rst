@@ -357,12 +357,24 @@ Weapons and Mods
 - **Taser:** *one-handed*. *concealable*. Stuns w/o permanent damage. 1 K฿.
 - **Handgun:** *one-handed*. *concealable*. -1 at *long range*. 1 K฿. 
 - **Assault Rifle:** *two-handed*. +1 against groups of enemies. 2 K฿.
+- **Sniper Rifle:** *two-handed*. *bulky*. very obvious. +1 against far away targets. -1 in close combat. 2 K฿.
+- **Shotgun:** *two-handed*. +1 against close targets. 2 K฿.
+- **Launcher:** (grenade/rocket). *two-handed*. very *bulky*/*heavy*; +2 for personnel or structural attacks. Very limited ammo. 3 K฿.
+- **Silencer:** for handguns only. Almost silent. 1 K฿.
+- **Suppressor:** for assault or sniper rifles. Less noisy. 1 K฿.
+- **Special Ammo:** choose: armor piercing/self-guided/tranq dart/incendiary/toxic/smoke. 1 clip or mag. 1 K฿.
+- **Smart Link Mod:** Install on a firearm to adapt it for autoaim, IFF mode and fine control through a *Smart Link*, either through *AR glasses* (+1) or *Cyber-Eyes* / *Neuralink* (+2). 1 K฿.
 
 Misc and Tools
 ^^^^^^^^^^^^^^
 
 - **SkillSoft Chip:** Plug it in a slot and know a skill instantly.  *Skilled*: 2 K฿| *Expert*: 3 K฿ | *Master*: 4 K฿.
 - **VR Goggles:** Access Virtual Reality without a *Neuralink*. 1 K฿.
+- **Electronic toolbox:** +1 for Electronics actions. 1 K฿.
+- **Mechanic toolbox:** +1 for Mechanics actions. 1 K฿.
+- **Medkit:** heal *Mild/Moderate* wounds. 3 uses. 1 K฿.
+- **Combat Drone:** +1 for your combat checks. 2 K฿.
+- **Spy Drone:** +1 for your stealth/recon actions. 2 K฿.
 
 
 Cyberware
