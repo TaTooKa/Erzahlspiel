@@ -3,6 +3,8 @@ Neon and Chrome
 
 *The year 20XX. MegaCorporations are more powerful than nation states. Technology is everywhere, powering the surveillance state and the consumerism machine of the inescapable technofeudalist dystopia. The billonaires and the 1-percent live like kings, while the middle class is almost extinguished. The rest are drowned in debt and poverty, under the mantra of "High Tech and Low Life". You are a cyberpunk: A societal anomaly; A glitch in the system. You fight against the megacorps and injustice while trying to survive to live another day.*
 
+Recommended rules: :hoverxref:`3d6 <3d6>`, :hoverxref:`Criticals <criticals>`, :hoverxref:`Conditions <conditions>`, :hoverxref:`Instinct Checks <instinct-checks>`, :hoverxref:`Clocks <clocks>`.
+
 Character Creation
 ------------------
 

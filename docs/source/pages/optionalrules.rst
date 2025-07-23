@@ -7,6 +7,9 @@ This is a collection of advanced rules and procedures that are by no means neces
 
    art © `Celia Lowenthal <https://www.celialowenthal.com/>`_
 
+
+.. _fate-die:
+
 Fate Die 
 --------
 
@@ -24,6 +27,8 @@ or...
 
 Do the guards notice the PCs? 1-2: Yes, they sound the alarm!; 3-4: No, but they are suspicious, moving to investigate; 5-6: Not at all, the PCs are safe for now.
 
+.. _granular-bonuses:
+
 Granular Bonuses
 ----------------
 
@@ -40,6 +45,8 @@ Granular Bonuses
    - Only allow these bonuses up to +2, or 
    - Allow any, but always cap any roll modifiers at +3 max.
 
+
+.. _criticals:
 
 Criticals
 ---------
@@ -64,6 +71,8 @@ There are two options for Critical Failures (GMs can use either or both at their
 
 A Critical Failure means that the Character not only fails at their intended outcome, but also suffers some additional negative effect. The GM helps interpret the exact details and consequences.
 
+.. _conditions:
+
 Conditions
 ----------
 
@@ -79,6 +88,7 @@ Resisting Conditions
 
 When Resisting Conditions from a negative source, a **SUCCESS** avoids it entirely, a **PARTIAL SUCCESS** begets a *Mild* Condition, a **FAILURE** begets a *Moderate* one, and a **CRITICAL FAILURE** begets a *Severe* one.
 
+.. _clocks:
 
 Clocks
 ------
@@ -87,6 +97,8 @@ Todo
 
 Other Dice Systems
 ------------------
+
+.. _3d6:
 
 3d6
 ~~~
@@ -118,6 +130,8 @@ The range probabilities are very similar to rolling 2d6:
 |     SUCCESS     | 16,67% | 16,21% |
 +-----------------+--------+--------+
 
+
+.. _d20:
 
 d20
 ~~~
