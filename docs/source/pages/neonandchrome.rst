@@ -384,7 +384,7 @@ Install **Cyberware** on a *Ripperdoc* shop during Downtime, or choose what you 
 
 - **Synth Skin:** +1 for defending against superficial harm like cuts or scratches. 1 K฿. 
 
-  - **Optical Camo Weave:** Turns invisible on command. Best when combined with Optical Camo Clothing. 1 K฿.
+  - **Optical Camo Weave:** Turns invisible on command. Best when combined with *Optical Camo Clothing*. 1 K฿.
   - **Pheromonal Secretor:** +1 on social tests (+2 if lots of touching is involved). 1 K฿.
   - **Self-healing Polymer:** superficial harm takes half as long to heal. 1 K฿.
   - **Kevlar Lattice:** bullet-proof plates. very obvious. +1 for defensive actions. 1 K฿.
@@ -392,8 +392,8 @@ Install **Cyberware** on a *Ripperdoc* shop during Downtime, or choose what you 
 - **Neuralink:** Digital Interface for the brain. Access AR/VR without gadgets, directly through your senses. Includes 1 universal chip slot/port (installed behind ear). 1 K฿. 
 
   - **SenSim™ recorder:** save 1 hour of sensory input. 1 K฿. 
-  - **Smart Link:** connect to a weapon’s Smart Link Mod. 1 K฿.
-  - **SkillSoft Slot:** plug in SkillSoft chips, 1 K฿ each (max 4). Installed on nape or behind ears. 
+  - **Smart Link:** connect to a weapon’s *Smart Link Mod*. 1 K฿.
+  - **SkillSoft Slot:** plug in *SkillSoft chips*, 1 K฿ each (max 4). Installed on nape or behind ears. 
 
 - **Skeletal Lacing:** Titanium-alloy bone structure replacement. +1 for defense and resistance actions. 2 K฿. 
 - **Wired Reflexes:** Enhanced nervous system replacement. +1 for agility or quickness related actions. 2 K฿.
@@ -404,12 +404,13 @@ Install **Cyberware** on a *Ripperdoc* shop during Downtime, or choose what you 
   - **Concealable compartment:** pocket/holster-sized. 1 K฿. 
   - **Hydraulic articulations:** silent joints, +1 for stealth related actions. 1 K฿.
 
-- **Cyber-Eyes:** Improved vision, +1 for visual perception related actions. Replaces AR glasses. 1 K฿.
+- **Cyber-Eyes:** Improved vision, +1 for visual perception related actions. Replaces *AR glasses*. 1 K฿.
 
   - **Protective covers:** embedded shades/goggles. 1 K฿.
   - **Enhanced scopes:** 6X zoom, thermal, IR. 1 K฿.
 
 - **Cyber-Ears:** Improved hearing, +1 for auditory perception related actions. 1 K฿.
+
   - **Echolocation:** “see” through hearing. 1 K฿.
   - **Bio-stress meter:** voice/biometrics lie detector. 1 K฿.
 
@@ -419,4 +420,25 @@ Install **Cyberware** on a *Ripperdoc* shop during Downtime, or choose what you 
 Programs
 ~~~~~~~~
 
-TODO
+**Programs** are commands or quick hacks that anyone can run (with a *Hacking* roll) and are much faster than coding a solution in the moment. Once purchased, they are saved in your user cloud storage and are always available. 
+
+- **ALARM**: Trigger all alarm systems in the vicinity. 1 K฿.
+- **BEFRIEND**: Target bot/turret/drone/camera/etc treats you as a friendly. 1 K฿.
+- **BLIND**: Overwhelm target device/Neuralink’s optics with a “blind” Condition. 1 K฿.
+- **BYPASS**: Open target electronic lock or E.C.M. 1 K฿.
+- **CLEAN**: Locate and remove any malware present in target device or Neuralink. 1 K฿.
+- **DELAY**: Make target device/Neuralink’s directives and movements twice as slow. 1 K฿.
+- **ISOLATE**: Target device/Neuralink’s input and output are blocked and disconnected from the Net, with an “offline” Condition. 2 K฿.
+- **MUTE**: Block target’s comms, voice, speakers, wireless commands or other sensory output. 2 K฿.
+- **OVERHEAT**: Target’s tech/cyberware cooling systems stop working and they receive heat damage. 1 K฿.
+- **PACIFY**: All target device/Neuralink’s actions are restricted to non-violent/non-offensive. 2 K฿.
+- **PING**: Reveals target’s and nearby devices’ locations. 1 K฿.
+- **PUPPET**: “Possess” a drone/bot/turret/etc. 2 K฿.
+- **RENDER**: Control local AR feeds or VR constructs to project a brief illusion of your creation. 2 K฿.
+- **RIDE**: Gain access to a drone/camera/AR/VR goggles/eyes/Neuralink‘s senses, in read-only mode. 1 K฿.
+- **SCAN**: Search for specific device types or users in a wide area, or find a specific ID. 1 K฿.
+- **SPIKE**: Trigger a stress response (Instinct Check) in someone with a Neuralink. 2 K฿.
+- **SPOOF**: Generate false ID/credentials/background records stolen from a nearby or pre-selected target. 1 K฿.
+- **TRACK**: Install malware on target to always know their location regardless of distance (or network hops). 1 K฿.
+- **VIRUS**: Install on device; provokes malfunctioning Conditions and propagates to nearby targets. 2 K฿.
+- **WIPE**: Delete target device/Neuralink’s last 10 seconds of sensory input and memory retention. 2 K฿.
