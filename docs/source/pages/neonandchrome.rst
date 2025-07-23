@@ -68,8 +68,6 @@ Roll d12 (or d20 for greater chance at mixed styles).
 Hairstyle and Details
 ^^^^^^^^^^^^^^^^^^^^^
 
-Roll d6 twice.
-
 +----+--------------------------+----+----------------------+
 | d6 | Hairstyle                | d6 | Color / Decorations  |
 +====+==========================+====+======================+
@@ -89,8 +87,6 @@ Roll d6 twice.
 
 Adornments
 ^^^^^^^^^^
-
-Roll d10 once or twice. 
 
 +---+------------------+----+-------------------------+
 | 1 | Tattoos          | 6  | Tongue / Face piercings |
@@ -134,3 +130,185 @@ Mannerism
 +---+-----------------------+----+--------------------------+
 | 5 | Monotone / cold       | 10 | Breathy / Squeaky voice  |
 +---+-----------------------+----+--------------------------+
+
+Family Background
+^^^^^^^^^^^^^^^^^
+
++---+-------------------------------------------------------------------------------------------------------------------+
+| 1 | **Urban Homeless**. Shanty towns, tent villages, dumpsters, abandoned cars and shipping containers.               |
++---+-------------------------------------------------------------------------------------------------------------------+
+| 2 | **Gangers**. Either part of the “family” or a resource to be exploited. Probably didn’t know your actual parents. |
++---+-------------------------------------------------------------------------------------------------------------------+
+| 3 | **Combat Zoners**. Decaying building somewhere in the ‘Zone’, heavily fortified, abandoned by society.            |
++---+-------------------------------------------------------------------------------------------------------------------+
+| 4 | **Nomad Pack**. Grew up on the road, living in trailers and tents, or reclaiming a deserted ghost-town.           |
++---+-------------------------------------------------------------------------------------------------------------------+
+| 5 | **Megabuilding Rats**. Grew up in one of the post-war megabuildings. Small apartment in the lower floors.         |
++---+-------------------------------------------------------------------------------------------------------------------+
+| 6 | **Corporate Workers**. Middle class, suburban homes, minivans and corporate-run technical schools.                |
++---+-------------------------------------------------------------------------------------------------------------------+
+| 7 | **Corporate Managers**. Middle management still meant a decent home and a safe life.                              |
++---+-------------------------------------------------------------------------------------------------------------------+
+| 8 | **Corporate Execs**. Wealthy, powerful, with servants and luxury homes.                                           |
++---+-------------------------------------------------------------------------------------------------------------------+
+
+Childhood Environment
+^^^^^^^^^^^^^^^^^^^^^
+
+Take the previous table result and add a d4. If you moved up in “class”, explain why.
+
++------+---------------------------------------------------------------------------------+
+| 2-3  | Ran on the streets, with no adult supervision.                                  |
++------+---------------------------------------------------------------------------------+
+| 4    | Wrecked buildings, squats or near a combat zone.                                |
++------+---------------------------------------------------------------------------------+
+| 5    | In the outskirts, or in ruins of deserted towns.                                |
++------+---------------------------------------------------------------------------------+
+| 6    | In a decaying, once upscale neighborhood.                                       |
++------+---------------------------------------------------------------------------------+
+| 7-8  | In a corp-owned, overpopulated megabuilding.                                    |
++------+---------------------------------------------------------------------------------+
+| 9-11 | Safe Corp Zone walled off from the rest of the city.                            |
++------+---------------------------------------------------------------------------------+
+| 12   | In a Corporate luxury “starscraper,” high above the rest of the teeming rabble. |
++------+---------------------------------------------------------------------------------+
+
+
+Your Crisis
+^^^^^^^^^^^
+
+**Your Crisis** is what led you to where you are in life now.
+
++---+--------------------------------------------------------+
+| 1 | Family lost everything through betrayal/bad management |
++---+--------------------------------------------------------+
+| 2 | Family exiled/driven from home/nation by politics/war  |
++---+--------------------------------------------------------+
+| 3 | Family vanished/perished; you are the only survivor    |
++---+--------------------------------------------------------+
+| 4 | Cursed by a feud; inherited or by your own actions     |
++---+--------------------------------------------------------+
+| 5 | In huge debt; inherited or by your own actions         |
++---+--------------------------------------------------------+
+| 6 | Wanted by the law for a serious crime; guilty or not   |
++---+--------------------------------------------------------+
+
+
+Friends
+^^^^^^^
+
+**Do you have any friends?** Roll d6, 1: No friends. 2-5: You have one friend. 6: You have two. Who are they to you?
+
++---+-------------------------------------------------------+
+| 1 | An ex-lover you’re on good terms with.                |
++---+-------------------------------------------------------+
+| 2 | Someone you grew up with.                             |
++---+-------------------------------------------------------+
+| 3 | A mentor or parental figure.                          |
++---+-------------------------------------------------------+
+| 4 | A former boss who remembers you fondly.               |
++---+-------------------------------------------------------+
+| 5 | An old enemy/rival you’ve made peace with.            |
++---+-------------------------------------------------------+
+| 6 | Someone you share a hobby with and geek out together. |
++---+-------------------------------------------------------+
+
+Enemies
+^^^^^^^
+
+**Do you have any enemies?** Roll d6, 1: No enemies. 2-5: You have one enemy. 6: You have two. Who are they to you?
+
++---+------------------------------------------------------+
+| 1 | A former friend or lover.                            |
++---+------------------------------------------------------+
+| 2 | An enemy from your childhood.                        |
++---+------------------------------------------------------+
+| 3 | An old boss who betrayed you.                        |
++---+------------------------------------------------------+
+| 4 | One of your relatives.                               |
++---+------------------------------------------------------+
+| 5 | A former partner or coworker.                        |
++---+------------------------------------------------------+
+| 6 | A mysterious figure. You don’t even know they exist. |
++---+------------------------------------------------------+
+
+
+Your Tragic Love Affair
+^^^^^^^^^^^^^^^^^^^^^^^
+
+**Your Tragic Love Affair** is the one that ripped your heart out.
+
++---+-------------------------------------------------+
+| 1 | Your lover died, either via accident or murder. |
++---+-------------------------------------------------+
+| 2 | Your lover mysteriously vanished.               |
++---+-------------------------------------------------+
+| 3 | A personal goal or vendetta came between you.   |
++---+-------------------------------------------------+
+| 4 | Your lover was imprisoned or exiled.            |
++---+-------------------------------------------------+
+| 5 | Your lover left you for someone else.           |
++---+-------------------------------------------------+
+| 6 | Your lover went insane or cyberpsycho.          |
++---+-------------------------------------------------+
+
+What You Value Most
+^^^^^^^^^^^^^^^^^^^
+
++---+-------------+----+---------------------+
+| 1 | Money       | 7  | Vengeance           |
++---+-------------+----+---------------------+
+| 2 | Honor       | 8  | Love                |
++---+-------------+----+---------------------+
+| 3 | Your word   | 9  | Power               |
++---+-------------+----+---------------------+
+| 4 | Honesty     | 10 | Family              |
++---+-------------+----+---------------------+
+| 5 | Knowledge   | 11 | Friendship          |
++---+-------------+----+---------------------+
+| 6 | Law & order | 12 | Protecting the weak |
++---+-------------+----+---------------------+
+
+Archetype
+~~~~~~~~~
+
+Your Archetype defines your starting skills and what role you fulfill in a group of runners. Choose one:
+
+▸ The **Tech Wiz** is a master hacker, pro netrunner and specialist in all sorts of electronics and technology.
+
+Expert at *Hacking*, Skilled at *Electronics*, *Security*.
+
+▸ The **Drone Jock** is an ace pilot, gearhead and puppeteer of flying drones and other vehicles.
+
+Expert at *Piloting*, Skilled at *Electronics* and *Mechanics*.
+
+Other Skills
+~~~~~~~~~~~~
+
+Also pick another 3 skills.
+
++--------------+-----------------+
+| Academics    | Melee           |
++--------------+-----------------+
+| Business     | Performance     |
++--------------+-----------------+
+| Climbing     | Persuasion      |
++--------------+-----------------+
+| Connections  | Piloting        |
++--------------+-----------------+
+| Deception    | Reading People  |
++--------------+-----------------+
+| Hacking      | Running         |
++--------------+-----------------+
+| Electronics  | Science         |
++--------------+-----------------+
+| Explosives   | Shooting        |
++--------------+-----------------+
+| Forgery      | Sleight of Hand |
++--------------+-----------------+
+| Intimidation | Stealth         |
++--------------+-----------------+
+| Mechanics    | Tracking        |
++--------------+-----------------+
+| Medicine     |                 |
++--------------+-----------------+
