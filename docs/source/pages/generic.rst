@@ -9,7 +9,21 @@ Medieval Fantasy
 Skills
 ~~~~~~
 
-TODO
++------------+--------------+------------+------------+
+| Acrobatics | Foraging     | Lore       | Sailing    |
++------------+--------------+------------+------------+
+| Athletics  | Healing      | Nature     | Song       |
++------------+--------------+------------+------------+
+| Battle     | Herbalism    | Perception | Sorcery    |
++------------+--------------+------------+------------+
+| Courtesy   | Hiding       | Persuasion | Taming     |
++------------+--------------+------------+------------+
+| Craft      | Hunting      | Pickpocket | Tracking   |
++------------+--------------+------------+------------+
+| Deception  | Intimidation | Riddles    | Traditions |
++------------+--------------+------------+------------+
+| Explore    | Lockpicking  | Riding     | Travel     |
++------------+--------------+------------+------------+
 
 Items
 ~~~~~
