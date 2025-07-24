@@ -457,12 +457,12 @@ A *Moderate* Condition is healed with a single Downtime Activity. A *Severe* Con
 ▸ **TRAINING**: Learn a new skill or improve an existing one, either on your own, or by taking special classes, or by being tutored by an ally, etc.
 
 - Learning a new skill at *Skilled* (+1) just takes a single Downtime Activity slot.
-- Improving from *Skilled* (+1) to *Expert* (+2), or from *Expert* (+2) to *Master* (+3), takes a 4-Segment clock (each Downtime Activity spent on training marks 1 segment).
+- Improving from *Skilled* (+1) to *Expert* (+2), or from *Expert* (+2) to *Master* (+3), takes a 4-Segment :hoverxref:`clock <clocks>` (each Downtime Activity spent on training marks 1 segment).
 
 ▸ **SHOPPING**: Spend your hard earned ฿ in **Gear**, **Cyberware** or **Programs**. A single shopping session (spending a Downtime Activity slot) lets you visit the *Shadow Markets*, the *Ripperdoc Shop* and the *Hackers’ Bazaar*.
 
 ▸ **PERSONAL PROJECT**: Work on something you care about or you want to do yourself. It could be repairing broken armor or other gear, trying to gain a new contact, investigating something important to you, dealing with personal stuff, etc.
-Tell the GM what it is about and they will tell you how many Segments the Clock that represents your Personal Project will have. Each attempt to make progress will entail the expenditure of a Downtime Activity slot, and a dice roll with a relevant skill (how much progress you mark depends on the level of success).
+Tell the GM what it is about and they will tell you how many Segments the :hoverxref:`Clock <clocks>` that represents your Personal Project will have. Each attempt to make progress will entail the expenditure of a Downtime Activity slot, and a dice roll with a relevant skill (how much progress you mark depends on the level of success).
 
 Tracking Consumables
 ~~~~~~~~~~~~~~~~~~~~

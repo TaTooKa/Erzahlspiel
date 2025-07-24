@@ -93,7 +93,9 @@ When Resisting Conditions from a negative source, a **SUCCESS** avoids it entire
 Clocks
 ------
 
-Todo
+PROGRESS can be tallied for any situation that involves some sort of timer or level of advancement, with the help of **“Clocks”**. 
+
+A Clock is usually drawn in 4, 6, 8 or 10 segments (like a circle with pizza slices). When a PC makes progress, the GM marks a segment. When all are marked, the situation that was timed comes to happen. A PARTIAL SUCCESS marks 1 segment; a SUCCESS marks 2 segments; a CRITICAL SUCCESS marks 3 segments.
 
 Other Dice Systems
 ------------------
