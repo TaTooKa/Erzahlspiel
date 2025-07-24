@@ -54,6 +54,7 @@ html_logo = "_static/images/Erzahlspiel-logo.png"
 html_theme_options = {
     'logo_only': True,
     'display_version': True,
+    "use_sidenotes": True,
 }
 
 def setup(app):
