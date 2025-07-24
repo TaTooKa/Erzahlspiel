@@ -43,6 +43,7 @@ hoverxref_roles = [
     'setting',
     'footnote',
 ]
+hoverxref_auto_ref = True
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
