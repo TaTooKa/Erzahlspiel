@@ -154,17 +154,16 @@ Instinct Checks
 
 **Instinct Checks** are triggered in situations of extreme fear or pain, or life-threatening damage or danger. The result dictates if you can maintain your composure or are forced to act in a certain way. Roll and add modifiers (skills/items/abilities/etc) that would help keeping your cool in the specific situation:
 
-+-----------------------------------------------------------------------------------------------------------------------------------------------------------+
-| **CRITICAL FAILURE**. gain a Severe Condition like “very stressed” AND the GM picks your character’s behavior from “Fight”, “Flight”, “Freeze” or “Fawn”. |
-+-----------------------------------------------------------------------------------------------------------------------------------------------------------+
-| **FAILURE**. gain a Moderate Condition like “stressed”, AND choose a behavior from “Fight”, “Flight”, “Freeze” or “Fawn”.                                 |
-+-----------------------------------------------------------------------------------------------------------------------------------------------------------+
-| **PARTIAL SUCCESS**. Choose: gain a Mild Condition like “troubled”, OR choose a behavior from “Fight”, “Flight”, “Freeze” or “Fawn”.                      |
-+-----------------------------------------------------------------------------------------------------------------------------------------------------------+
-| **SUCCESS**. You maintain your composure and are not adversely affected by the situation.                                                                 |
-+-----------------------------------------------------------------------------------------------------------------------------------------------------------+
-| **CRITICAL SUCCESS**. You maintain your composure, and gain +1 for further **Instinct Checks** during the scene.                                          |
-+-----------------------------------------------------------------------------------------------------------------------------------------------------------+
+.. csv-table:: Instinct Check Results
+
+   "**CRITICAL FAILURE**. gain a Severe Condition like “very stressed”
+     AND the GM picks your character’s behavior from  `Fight`, `Flight`, `Freeze` or `Fawn`."
+   "**FAILURE**. gain a Moderate Condition like “stressed”, 
+     AND choose a behavior from `Fight`, `Flight`, `Freeze` or `Fawn`."
+   "**PARTIAL SUCCESS**. Choose: gain a Mild Condition like “troubled”, 
+     OR choose a behavior from `Fight`, `Flight`, `Freeze` or `Fawn`."
+   "**SUCCESS**. You maintain your composure and are not adversely affected by the situation."
+   "**CRITICAL SUCCESS**. You maintain your composure, and gain +1 for further **Instinct Checks** during the scene."
 
 
 - **Fight**: lash out violently; attack anyone (friend or foe)
