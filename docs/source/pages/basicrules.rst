@@ -26,7 +26,9 @@ The game is a conversation. Players take turns to describe what their characters
 Rolling the dice
 ~~~~~~~~~~~~~~~~
 
-If there is **risk** or **uncertainty** and the player decides to move forward [#]_, then they must **roll 2d6**, and:
+If there is **risk** or **uncertainty** and the player decides to move forward [^1]_, then they must **roll 2d6**, and:
+
+[^1] The player must be willing to take the risk before rolling. They always have the option to back down and choose another course of action.
 
 - add +1 if they have a relevant *skill*, 
 - add +1 if they have a relevant *item*,
@@ -83,7 +85,6 @@ These modifiers could increase to ±2 if the GM deems so (specially if there are
 
 .. rubric:: Footnotes
 
-.. [#] The player must be willing to take the risk before rolling. They always have the option to back down and choose another course of action.
 .. [#] Being **Taken Out** usually means losing the ability to stay in play with the agency to alter the world around them. This could be represented in different ways, depending on the context of the situation; exhausted, beffudled, K.O.d, or even dead.
 .. [#] Whatever the player decides to break, it must make sense in the fiction. You cannot stop a bullet with a screwdriver (...in most cases). Creativity is encouraged, but the GM has the final word on what makes sense and what is a stretch.
 .. [#] In an unmodified 2d6 roll (+0), the most likely result is 7 (with a 16.67% chance). On 2d6+1, the most likely result moves up to 8. On 2d6+2 it's 9, and with 2d6+3 it's 10 (meaning it's likely to always succeed).
