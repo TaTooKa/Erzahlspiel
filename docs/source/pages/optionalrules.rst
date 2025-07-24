@@ -156,12 +156,9 @@ Instinct Checks
 
 .. csv-table:: Instinct Check Results
 
-   "**CRITICAL FAILURE**. gain a Severe Condition like “very stressed”
-     AND the GM picks your character’s behavior from  `Fight`, `Flight`, `Freeze` or `Fawn`."
-   "**FAILURE**. gain a Moderate Condition like “stressed”, 
-     AND choose a behavior from `Fight`, `Flight`, `Freeze` or `Fawn`."
-   "**PARTIAL SUCCESS**. Choose: gain a Mild Condition like “troubled”, 
-     OR choose a behavior from `Fight`, `Flight`, `Freeze` or `Fawn`."
+   "**CRITICAL FAILURE**. gain a *Severe* Condition like “very stressed” AND the GM picks your character’s behavior from  ``Fight``, ``Flight``, ``Freeze`` or ``Fawn``."
+   "**FAILURE**. gain a *Moderate* Condition like “stressed”, AND choose a behavior from ``Fight``, ``Flight``, ``Freeze`` or ``Fawn``."
+   "**PARTIAL SUCCESS**. Choose: gain a *Mild* Condition like “troubled”, OR choose a behavior from ``Fight``, ``Flight``, ``Freeze`` or ``Fawn``."
    "**SUCCESS**. You maintain your composure and are not adversely affected by the situation."
    "**CRITICAL SUCCESS**. You maintain your composure, and gain +1 for further **Instinct Checks** during the scene."
 
