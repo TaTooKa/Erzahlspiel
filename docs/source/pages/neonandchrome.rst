@@ -299,13 +299,16 @@ Etiquette
 
 Get an etiquette-related skill depending on your Lifepath’s **Family Background** and **Childhood Environment**:
 
-+----------------------+---------------+
-| Ganger / Street Rat  | *Streetwise*  |
-+----------------------+---------------+
-| Nomad / Zoner        | *Survival*    |
-+----------------------+---------------+
-| Upper-middle / Corpo | *Bureaucracy* |
-+----------------------+---------------+
++----------------------+------------------+
+| **Background**       | **Skill gained** |
++======================+==================+
+| Ganger / Street Rat  | *Streetwise*     |
++----------------------+------------------+
+| Nomad / Zoner        | *Survival*       |
++----------------------+------------------+
+| Upper-middle / Corpo | *Bureaucracy*    |
++----------------------+------------------+
+
 
 Other Skills
 ^^^^^^^^^^^^
