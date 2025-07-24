@@ -58,9 +58,11 @@ Protections
 
 What impedes the players to quickly end the encounter by just attempting to overcome it with a basic action and rolling the dice?
 
-Adversaries or Obstacles should have at least one Protection (may be more) that must be overcome individually or by doing something specific. It could be some sort of armor or defense that must be disabled first. It could we a weak-point that must be targeted (in which the *fictional positioning* for that to happen could imply one or more action tests). 
+Adversaries or Obstacles should have at least one Protection (may be more) that must be overcome individually or by doing something specific. It could be some sort of armor or defense that must be disabled first. It could be a weak-point that must be targeted (in which the *fictional positioning* for that to happen could imply one or more action tests). 
 
-It could be something that represents endurance or resistance, that must be wittled down ("their superior numbers must be reduced", or "We need to weaken it before giving the final blow!"). If this is the case, consider having whatever solution worked at first not be available any more for further attempts, lest you fall into the trap of "I attack!" "you dealt damage, now roll again!".
+It could be something that represents endurance or resistance, that must be wittled down [#]_ ("their superior numbers must be reduced", or "We need to weaken it before giving the final blow!"). If this is the case, consider having whatever solution worked at first not be available any more for further attempts, lest you fall into the trap of "I attack!" "you dealt damage, now roll again!".
+
+.. [#] This resistance "track" or "meter" can be something completely narrative (think of steps that must be overcome before a final blow), or it could be represented with :hoverxref:`Conditions <conditions>` or a :hoverxref:`Clock <clocks>`.
 
 By designing interesting **Protections** for the Opposition, the GM can provide engaging puzzles for the players to overcome by thinking on their toes.
 
