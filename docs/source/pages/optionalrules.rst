@@ -13,22 +13,14 @@ This is a collection of advanced rules and procedures that are by no means neces
 Fate Die 
 --------
 
-When the GM doesn't know something and instead of adjudicating for it arbitrarily wants to leave it to the fates, roll 1d6, in which a low result is bad for the PCs, and high is good.
+When the GM doesn't know something and instead of adjudicating for it arbitrarily wants to leave it to the fates, roll 1d6 [#]_, in which a low result is bad for the PCs, and high is good.
+
+.. [#] You can use a larger dice (like a d8, d10, d12, etc) but maintain the same range results if you want to tweak the odds towards less chance of trouble or signs of it.
 
 For example:
 
 - **1-2**: trouble
-- **3-4**: signs of troubl
-+----------------------+------------------+
-| **Background**       | **Skill gained** |
-+======================+==================+
-| Ganger / Street Rat  | *Streetwise*     |
-+----------------------+------------------+
-| Nomad / Zoner        | *Survival*       |
-+----------------------+------------------+
-| Upper-middle / Corpo | *Bureaucracy*    |
-+----------------------+------------------+
-e
+- **3-4**: signs of trouble
 - **5-6**: Everything's fine
 
 Or use it to answer a YES/NO question, i.e.: Does the PC run out of ammo? 1-2: Yes; 3-4: No but there's only 1 or 2 bullets left; 5-6: Not yet, plenty to go.
