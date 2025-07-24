@@ -34,17 +34,13 @@ Granular Bonuses
 
 **Granular Bonuses** mean that, when :hoverxref:`Rolling the dice <rolling-the-dice>`, instead of only gaining +1 for being Skilled and +1 for having a relevant Item, these could be bonuses of +2 or +3.
 
-- Characters can either be *Skilled* at something (+1), or an *Expert* (+2), or even a *Master* (+3).
-- Items that Characters have can either be *Mundane* (+1), *Special* or *Masterwork* (+2), or even *Unique* or *Legendary* (+3).
-
 .. warning::
    :class: margin
 
-   The main issue (mechanically speaking) about this Option is that a +3 is already a big modifier in a 2d6 dice roll. If you combine both Skills and Items in this way, action rolls would become impossible to fail in most scenarios. It is recommended that you use this Optional Rule sparingly: Either...
-   
-   - Give +1/+2/+3 Bonuses to Skills but not Items (or viceversa), or 
-   - Only allow these bonuses up to +2, or 
-   - Allow any, but always cap any roll modifiers at +3 max.
+   The main issue (mechanically speaking) about this Option is that a +3 is already a big modifier in a 2d6 dice roll. If you combine both Skills and Items in this way, action rolls would become impossible to fail in most scenarios. It is recommended that you use this Optional Rule sparingly, or cap any roll modifiers at +3 max.
+
+- Characters can either be *Skilled* at something (+1), or an *Expert* (+2), or even a *Master* (+3).
+- Items that Characters have can either be *Mundane* (+1), *Special* or *Masterwork* (+2), or even *Unique* or *Legendary* (+3).
 
 
 .. _criticals:
@@ -124,15 +120,14 @@ Instead of rolling 2d6, roll 3d6 and add the results for a total between 3 and 1
 
 Then check the total:
 
-- a 9 or less is a **FAILURE**. Suffer full risk and/or don't get what they intended to do.
-- a 10 to 13 is a **PARTIAL SUCCESS**. They achieve the intended outcome but partially, and/or suffer a lesser version of the risk.
-- a 14 or more is a **SUCCESS**. They get what they wanted, and avoid any risk.
-
 .. tip:: 
    :class: margin
 
    If using Critical Successes, with 3d6 either a natural 18 or a total of 18+ is a Critical Success. For Critical Failures, a natural 3 or a total of 3 or less is a Critical Failure. The GM decides which option to use at their games.
 
+- a 9 or less is a **FAILURE**. Suffer full risk and/or don't get what they intended to do.
+- a 10 to 13 is a **PARTIAL SUCCESS**. They achieve the intended outcome but partially, and/or suffer a lesser version of the risk.
+- a 14 or more is a **SUCCESS**. They get what they wanted, and avoid any risk.
 
 The range probabilities are very similar to rolling 2d6:
 
