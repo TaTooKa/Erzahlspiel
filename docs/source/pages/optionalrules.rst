@@ -38,6 +38,7 @@ Granular Bonuses
 - Items that Characters have can either be *Mundane* (+1), *Special* or *Masterwork* (+2), or even *Unique* or *Legendary* (+3).
 
 .. warning::
+   :class: margin
 
    The main issue (mechanically speaking) about this Option is that a +3 is already a big modifier in a 2d6 dice roll. If you combine both Skills and Items in this way, action rolls would become impossible to fail in most scenarios. It is recommended that you use this Optional Rule sparingly: Either...
    
@@ -127,7 +128,10 @@ Then check the total:
 - a 10 to 13 is a **PARTIAL SUCCESS**. They achieve the intended outcome but partially, and/or suffer a lesser version of the risk.
 - a 14 or more is a **SUCCESS**. They get what they wanted, and avoid any risk.
 
-.. tip:: If using Critical Successes, with 3d6 either a natural 18 or a total of 18+ is a Critical Success. For Critical Failures, a natural 3 or a total of 3 or less is a Critical Failure. The GM decides which option to use at their games.
+.. tip:: 
+   :class: margin
+
+   If using Critical Successes, with 3d6 either a natural 18 or a total of 18+ is a Critical Success. For Critical Failures, a natural 3 or a total of 3 or less is a Critical Failure. The GM decides which option to use at their games.
 
 
 The range probabilities are very similar to rolling 2d6:
