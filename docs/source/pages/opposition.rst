@@ -22,7 +22,7 @@ If it is an Obstacle, **What is its main function to impede the PCs or others?**
 
 A wild creature might want to kill in order to feed; a robber might want to take your valuables, without necessarily having to murder you (in fact, they'd might want to avoid that if possible). A locked door's objective is to impede intruders to pass through. A pit trap in the floor is there so that intruders miss it and fall down (and probably get hurt enough to deter their progress).
 
-Defining the **Behaviors** of the Opposition also determines how far they'd be willing to go, or which ones are their limits (or at which point they might consider surrendering or fleeing). In the case of Obstacles, knowing exactly why they are in that place and who put them there is key to understand their limitations and how they could be overcome.
+Defining the **Behaviors** of the Opposition also determines how far they'd be willing to go, or which ones are their limits (or at which point they might consider surrendering or fleeing--might also trigger an :hoverxref:`Instinct Check <instinct-checks>`). In the case of Obstacles, knowing exactly why they are in that place and who put them there is key to understand their limitations and how they could be overcome.
 
 Risks
 =====

@@ -13,7 +13,7 @@ This is a collection of advanced rules and procedures that are by no means neces
 Fate Die 
 --------
 
-When the GM doesn't know something and instead of adjudicating for it arbitrarily wants to leave it to the fates, roll 1d6 [#]_, in which a low result is bad for the PCs, and high is good.
+When the GM doesn't know something and instead of arbitrarily adjudicating for it, they want to leave it to the fates, they can roll 1d6 [#]_, in which a low result is bad for the PCs, and high is good.
 
 .. [#] You can use a larger dice (like a d8, d10, d12, etc) but maintain the same range results if you want to tweak the odds towards less chance of trouble or signs of it.
 
