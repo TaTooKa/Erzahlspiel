@@ -345,11 +345,13 @@ buy your gear with *CryptoBits* (฿). Everyone starts with some cheap way of ac
 
 Armor / Wearables
 ^^^^^^^^^^^^^^^^^
+.. csv-table:: Armor / Wearables
+ :widths: 90, 10
 
-- **Skin-tight suit (light):** armorgel weave. +1 for defensive actions. Break to avoid receiving a *Mild* Condition. 1 K฿. 
-- **Reinforced Vest (medium):** +1 for defensive actions. Break to avoid receiving a *Mild* or *Moderate* Condition. 2 K฿.
-- **Tactical Armor (heavy):** +2 for defensive actions. -1 for agility/speed related rolls. Break to avoid receiving a *Mild*, *Moderate* or *Severe* Condition. 3 K฿.
-- **Optical Camo Clothing:** Turns invisible on command. Best when combined with *Optical Camo Skin*. 1 K฿.
+ "**Skin-tight suit (light):** armorgel weave. +1 for defensive actions. Break to avoid receiving a *Mild* Condition.","1 K฿"
+ "**Reinforced Vest (medium):** +1 for defensive actions. Break to avoid receiving a *Mild* or *Moderate* Condition.","2 K฿"
+ "**Tactical Armor (heavy):** +2 for defensive actions. -1 for agility/speed related rolls. Break to avoid receiving a *Mild*, *Moderate* or *Severe* Condition.","3 K฿"
+ "**Optical Camo Clothing:** Turns invisible on command. Best when combined with *Optical Camo Skin*.","1 K฿"
 
 Weapons and Mods
 ^^^^^^^^^^^^^^^^
