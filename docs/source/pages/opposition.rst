@@ -14,6 +14,10 @@ The GM should think and design the Opposition in terms of **Behaviors**, **Risks
 Behaviors
 =========
 
+.. figure:: ../_static/images/rpg-image-10.jpg
+
+   art © `Wizards of the Coast <https://company.wizards.com/en>`_
+
 *The objectives of the Opposition, which are at odds with the needs or desires of the PCs.*
 
 If the Opposition is an adversary, **What do they do to get what they want?**
@@ -27,6 +31,10 @@ Defining the **Behaviors** of the Opposition also determines how far they'd be w
 Risks
 =====
 
+.. figure:: ../_static/images/rpg-image-11.jpg
+
+   art © `Aleksi Briclot <https://www.artstation.com/aleksi>`_
+
 *The things that the Opposition does that threatens the PCs, or something they have or want.*
 
 **What can the Opposition do that endangers the PCs in some way?** 
@@ -39,6 +47,10 @@ By properly telegraphing the **Risks** presented by the Opposition, the GM gives
 
 Protections
 ===========
+
+.. figure:: ../_static/images/rpg-image-12.jpg
+
+   art © `Kudos Productions <https://www.artstation.com/artwork/8em3NR>`_
 
 *The things that the Opposition has that make it difficult for the PCs to hinder or overcome it.*
 
