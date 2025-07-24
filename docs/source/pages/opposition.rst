@@ -33,7 +33,7 @@ Risks
 
 What happens when a PC that's accepting this risk rolls a FAILURE? And what happens in case of a PARTIAL SUCCESS? 
 
-Adversaries or Obstacles that present physical harm could cause injury (in the form of Conditions) or even death. But they could also impart adversities of a different nature to a Character (being incapacitated, pinned, poisoned, blind, etc) or the environment (covering an exit, blocking passage, altering the terrain, provoking an ongoing hazard, endangering an object or NPC, etc).
+Adversaries or Obstacles that present physical harm could cause injury (in the form of :hoverxref:`Conditions <conditions>`) or even death. But they could also impart adversities of a different nature to a Character (being incapacitated, pinned, poisoned, blind, etc) or the environment (covering an exit, blocking passage, altering the terrain, provoking an ongoing hazard, endangering an object or NPC, etc).
 
 By properly telegraphing the **Risks** presented by the Opposition, the GM gives the players all the information necessary for them to make interesting choices. If they find a way to get around of these risks by mitigating them or outright negating them, even better!
 
