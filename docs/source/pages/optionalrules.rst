@@ -76,6 +76,10 @@ A Critical Failure means that the Character not only fails at their intended out
 Conditions
 ----------
 
+.. figure:: ../_static/images/rpg-image-9.jpg
+
+   art © `Enora <https://www.artstation.com/artwork/8BgvG/>`_
+
 *Conditions* are negative effects that characters receive (each gives -1 to related rolls in which the Condition might affect the outcome negatively). They can be *Mild*, *Moderate* or *Severe*, and a character can only have one of each type. If they receive a Condition of a type they already have, they gain a new one from a higher tier. If they can’t, they are **Taken Out**. Conditions take time and some sort of healing process to recover; the time and effort required depends on their severity (hours, days, weeks).
 
 Applying Conditions
