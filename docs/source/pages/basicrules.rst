@@ -28,6 +28,8 @@ Rolling the dice
 
 If there is **risk** or **uncertainty** and the player decides to move forward [#]_, then they must **roll 2d6**, and:
 
+.. [#] The player must be willing to take the risk before rolling the dice. They always have the option to back down and choose another course of action.
+
 - add +1 if they have a relevant *skill*, 
 - add +1 if they have a relevant *item*,
 - add +1 if *helped* by circumstances or by someone else (but they share any risk or consequence)
@@ -51,6 +53,8 @@ A risk can be anything from a narrative consequence (something bad happens, the 
 
 3 or more Conditions usually mean that the character risks being **Taken Out** [#]_ in their next attempt (at GM discretion).
 
+.. [#] Being **Taken Out** usually means losing the ability to stay in play with the agency to alter the world around them. This could be represented in different ways, depending on the context of the situation; exhausted, beffudled, K.O.d, or even dead.
+
 Avoiding Risk
 ~~~~~~~~~~~~~
 
@@ -60,6 +64,8 @@ Defense
 ^^^^^^^
 
 For risk of physical harm, characters can defend themselves by sacrificing an item they carry that could provide some sort of protection for the current situation [#]_. Said Item could be lost or completely destroyed, or just temporarily broken (it becomes useless until repaired by spending time and/or using proper tools). 
+
+.. [#] Whatever the player decides to break, it must make sense in the fiction. You cannot stop a bullet with a screwdriver (...in most cases). Creativity is encouraged, but the GM has the final word on what makes sense and what is a stretch.
 
 Difficulty
 ----------
@@ -77,13 +83,6 @@ Since there is a set range of outcomes for any roll (6-; 7~9; 10+), in order to 
 
 These modifiers could increase to ±2 if the GM deems so (specially if there are more than one circumstance affecting the action), but should keep in mind that a ±2 would have a huge impact in a 2d6 roll [#]_. 
 
-**Negative Conditions** already impose negative modifiers to character actions, which is another factor for the GM to consider when imposing difficulty penalties.
-
-------------
-
-.. rubric:: Footnotes
-
-.. [#] The player must be willing to take the risk before rolling. They always have the option to back down and choose another course of action.
-.. [#] Being **Taken Out** usually means losing the ability to stay in play with the agency to alter the world around them. This could be represented in different ways, depending on the context of the situation; exhausted, beffudled, K.O.d, or even dead.
-.. [#] Whatever the player decides to break, it must make sense in the fiction. You cannot stop a bullet with a screwdriver (...in most cases). Creativity is encouraged, but the GM has the final word on what makes sense and what is a stretch.
 .. [#] In an unmodified 2d6 roll (+0), the most likely result is 7 (with a 16.67% chance). On 2d6+1, the most likely result moves up to 8. On 2d6+2 it's 9, and with 2d6+3 it's 10 (meaning it's likely to always succeed).
+
+**Negative Conditions** already impose negative modifiers to character actions, which is another factor for the GM to consider when imposing difficulty penalties.
