@@ -7,7 +7,7 @@ copyright = '2024, TaTooKa'
 author = 'TaTooKa'
 
 release = '0.1'
-version = '0.1.0'
+version = '0.2.0'
 
 # -- General configuration
 
@@ -35,6 +35,14 @@ html_theme = 'sphinx_rtd_theme'
 
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
+
+# -- Options for hoverxref
+hoverxref_roles = [
+    'numref',
+    'confval',
+    'setting',
+    'footnote',
+]
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
