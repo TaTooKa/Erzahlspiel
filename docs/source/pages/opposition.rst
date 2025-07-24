@@ -9,6 +9,8 @@ In Erzählspiel, the players should overcome the Opposition by making hard choic
 
 The GM should think and design the Opposition in terms of **Behaviors**, **Risks** and **Protections** [#]_.
 
+.. [#] These concepts are taken almost verbatim from the mind of **Jason Tocci** (creator of the **2400** RPG). They're just too good to defile; they must be proselytized as is. See `this article <https://pretendo.games/2020/11/24/combat-in-24xx/#stat>`_ by him for his thoughts on the matter.
+
 Behaviors
 =========
 
@@ -58,9 +60,3 @@ Any or all of the **Behaviors**, **Risks** and **Protections** the Opposition ha
 - Have to investigate and identify previously, with proper preparation and legwork
 - Discover gradually as they attempt things that don't work when confronting the Opposition
 - Observe as the Opposition does their things and the GM telegraphs with or without subtlety
-
-------------
-
-.. rubric:: Footnotes
-
-.. [#] These concepts are taken almost verbatim from the mind of **Jason Tocci** (creator of the **2400** RPG). They're just too good to defile; they must be proselytized as is. See `this article <https://pretendo.games/2020/11/24/combat-in-24xx/#stat>`_ by him for his thoughts on the matter.
