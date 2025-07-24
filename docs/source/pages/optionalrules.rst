@@ -145,7 +145,33 @@ The range probabilities are very similar to rolling 2d6:
 d20
 ~~~
 
-TODO
+Instead of rolling 2d6, roll 1d20 ± modifiers [#]_ and consult the following ranges:
+
+.. [#] This imposes a flat distribution (each number in the twenty-sided dice has the same probability of occurrence) which means that dice rolls will be more "swingy", and modifiers will have more impact on every action in the game.
+
+- add +1 if *Skilled* at the action, +2 if *Expert*, +3 if *Master*.
+- add +1 if *Item* is relevant, +2 if its *Special* or *Masterwork*, +3 if *Unique* or *Legendary*.
+- add +1 if *helped* by circumstances, and +1 if *helped* by someone else (but they share any risk or consequence).
+
+Then check the total [#]_:
+
+.. [#] If using Critical Successes, with a d20 either a natural 20 or a total of 20+ is a Critical Success. For Critical Failures, a natural 1 or a total of 1 or less is a Critical Failure. The GM decides which option to use at their games.
+
+- a 9 or less is a **FAILURE**. Suffer full risk and/or don't get what they intended to do.
+- a 10 to 16 is a **PARTIAL SUCCESS**. They achieve the intended outcome but partially, and/or suffer a lesser version of the risk.
+- a 17 or more is a **SUCCESS**. They get what they wanted, and avoid any risk.
+
+The range probabilities are somewhat similar to rolling 2d6:
+
++-----------------+--------+--------+
+|                 |  2d6   |  1d20  |
++=================+========+========+
+|     FAILURE     | 41,67% |  45%   |
++-----------------+--------+--------+
+| PARTIAL SUCCESS | 41,67% |  35%   |
++-----------------+--------+--------+
+|     SUCCESS     | 16,67% |  20%   |
++-----------------+--------+--------+
 
 .. _instinct-checks:
 
