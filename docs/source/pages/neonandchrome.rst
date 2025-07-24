@@ -416,23 +416,26 @@ Programs
 
 **Programs** are commands or quick hacks that anyone can run (with a *Hacking* roll) and are much faster than coding a solution in the moment. Once purchased, they are saved in your user cloud storage and are always available. 
 
-- **ALARM**: Trigger all alarm systems in the vicinity. 1 K฿.
-- **BEFRIEND**: Target bot/turret/drone/camera/etc treats you as a friendly. 1 K฿.
-- **BLIND**: Overwhelm target device/Neuralink’s optics with a “blind” Condition. 1 K฿.
-- **BYPASS**: Open target electronic lock or E.C.M. 1 K฿.
-- **CLEAN**: Locate and remove any malware present in target device or Neuralink. 1 K฿.
-- **DELAY**: Make target device/Neuralink’s directives and movements twice as slow. 1 K฿.
-- **ISOLATE**: Target device/Neuralink’s input and output are blocked and disconnected from the Net, with an “offline” Condition. 2 K฿.
-- **MUTE**: Block target’s comms, voice, speakers, wireless commands or other sensory output. 2 K฿.
-- **OVERHEAT**: Target’s tech/cyberware cooling systems stop working and they receive heat damage. 1 K฿.
-- **PACIFY**: All target device/Neuralink’s actions are restricted to non-violent/non-offensive. 2 K฿.
-- **PING**: Reveals target’s and nearby devices’ locations. 1 K฿.
-- **PUPPET**: “Possess” a drone/bot/turret/etc. 2 K฿.
-- **RENDER**: Control local AR feeds or VR constructs to project a brief illusion of your creation. 2 K฿.
-- **RIDE**: Gain access to a drone/camera/AR/VR goggles/eyes/Neuralink‘s senses, in read-only mode. 1 K฿.
-- **SCAN**: Search for specific device types or users in a wide area, or find a specific ID. 1 K฿.
-- **SPIKE**: Trigger a stress response (:hoverxref:`Instinct Check <instinct-checks>`) in someone with a Neuralink. 2 K฿.
-- **SPOOF**: Generate false ID/credentials/background records stolen from a nearby or pre-selected target. 1 K฿.
-- **TRACK**: Install malware on target to always know their location regardless of distance (or network hops). 1 K฿.
-- **VIRUS**: Install on device; provokes malfunctioning Conditions and propagates to nearby targets. 2 K฿.
-- **WIPE**: Delete target device/Neuralink’s last 10 seconds of sensory input and memory retention. 2 K฿.
+.. csv-table:: Programs
+ :widths: 90, 10
+
+ "**ALARM**: Trigger all alarm systems in the vicinity.","1 K฿"
+ "**BEFRIEND**: Target bot/turret/drone/camera/etc treats you as a friendly.","1 K฿"
+ "**BLIND**: Overwhelm target device/Neuralink’s optics with a “blind” Condition.","1 K฿"
+ "**BYPASS**: Open target electronic lock or E.C.M.","1 K฿"
+ "**CLEAN**: Locate and remove any malware present in target device or Neuralink.","1 K฿"
+ "**DELAY**: Make target device/Neuralink’s directives and movements twice as slow.","1 K฿"
+ "**ISOLATE**: Target device/Neuralink’s input and output are blocked and disconnected from the Net, with an “offline” Condition.","2 K฿"
+ "**MUTE**: Block target’s comms, voice, speakers, wireless commands or other sensory output. ","2 K฿"
+ "**OVERHEAT**: Target’s tech/cyberware cooling systems stop working and they receive heat damage.","1 K฿"
+ "**PACIFY**: All target device/Neuralink’s actions are restricted to non-violent/non-offensive.","2 K฿"
+ "**PING**: Reveals target’s and nearby devices’ locations.","1 K฿"
+ "**PUPPET**: “Possess” a drone/bot/turret/etc.","2 K฿"
+ "**RENDER**: Control local AR feeds or VR constructs to project a brief illusion of your creation.","2 K฿"
+ "**RIDE**: Gain access to a drone/camera/AR/VR goggles/eyes/Neuralink‘s senses, in read-only mode.","1 K฿"
+ "**SCAN**: Search for specific device types or users in a wide area, or find a specific ID.","1 K฿"
+ "**SPIKE**: Trigger a stress response (:hoverxref:`Instinct Check <instinct-checks>`) in someone with a Neuralink.","2 K฿"
+ "**SPOOF**: Generate false ID/credentials/background records stolen from a nearby or pre-selected target.","1 K฿"
+ "**TRACK**: Install malware on target to always know their location regardless of distance (or network hops).","1 K฿"
+ "**VIRUS**: Install on device; provokes malfunctioning Conditions and propagates to nearby targets.","2 K฿"
+ "**WIPE**: Delete target device/Neuralink’s last 10 seconds of sensory input and memory retention.","2 K฿"
