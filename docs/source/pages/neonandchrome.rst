@@ -439,3 +439,32 @@ Programs
  "**TRACK**: Install malware on target to always know their location regardless of distance (or network hops).","1 K฿"
  "**VIRUS**: Install on device; provokes malfunctioning Conditions and propagates to nearby targets.","2 K฿"
  "**WIPE**: Delete target device/Neuralink’s last 10 seconds of sensory input and memory retention.","2 K฿"
+
+
+Running on the Edge
+-------------------
+
+An assortment of rules and mechanics for **Neon & Chrome** and the cyberpunk genre.
+
+Downtime
+~~~~~~~~
+
+The **Downtime phase** occurs between runs. Each character can do two *Downtime Activities* per phase.
+
+▸ **HEALING**: Lie down in your hideout, visit a Ripperdoc shop, get treatment from a contact or ally, etc.
+A *Moderate* Condition is healed with a single Downtime Activity. A *Severe* Condition requires two Downtime Activity expenditures (could be split in different Downtime phases if needed).
+
+▸ **TRAINING**: Learn a new skill or improve an existing one, either on your own, or by taking special classes, or by being tutored by an ally, etc.
+
+- Learning a new skill at *Skilled* (+1) just takes a single Downtime Activity slot.
+- Improving from *Skilled* (+1) to *Expert* (+2), or from *Expert* (+2) to *Master* (+3), takes a 4-Segment clock (each Downtime Activity spent on training marks 1 segment).
+
+▸ **SHOPPING**: Spend your hard earned ฿ in Gear, Cyberware or Programs. A single shopping session (spending a Downtime Activity slot) lets you visit the Shadow Markets, the Ripperdoc Shop and the Hackers’ Bazaar.
+
+▸ **PERSONAL PROJECT**: Work on something you care about or you want to do yourself. It could be repairing broken armor or other gear, trying to gain a new contact, investigating something important to you, dealing with personal stuff, etc.
+Tell the GM what it is about and they will tell you how many Segments the Clock that represents your Personal Project will have. Each attempt to make progress will entail the expenditure of a Downtime Activity slot, and a dice roll with a relevant skill (how much progress you mark depends on the level of success).
+
+Tracking Consumables
+~~~~~~~~~~~~~~~~~~~~
+
+Tracking regular ammo or other consumables is not necessary. A character might run out on a :hoverxref:`Critical Failure <criticals>`, or as the result of a bad :hoverxref:`Fate Roll <fate-die>`.

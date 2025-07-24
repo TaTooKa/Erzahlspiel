@@ -57,7 +57,7 @@ Critical Successes
 There are two options for Critical Successes (GMs can use either or both at their games):
 
 - When rolling the dice, if the result is a **natural 12** (i.e. the two dice show a total of 12, regardless of any modifiers), this is a **Critical Success**.
-- If the result (after applying modifiers) is **14 or more**, this is a **Critical Success**.
+- If the result (after applying modifiers) is **12 or more**, this is a **Critical Success**.
 
 A Critical Success means that the Character not only achieves their intended outcome, but also does so in a spectacular way, or with some additional positive effect. The GM helps interpret the exact details and benefits.
 
@@ -115,7 +115,7 @@ Then check the total:
 - a 10 to 13 is a **PARTIAL SUCCESS**. They achieve the intended outcome but partially, and/or suffer a lesser version of the risk.
 - a 14 or more is a **SUCCESS**. They get what they wanted, and avoid any risk.
 
-.. tip:: If using Critical Successes, with 3d6 either a natural 18 or a total of 20+ is a Critical Success. For Critical Failures, a natural 3 or a total of 3 or less is a Critical Failure. The GM decides which option to use at their games.
+.. tip:: If using Critical Successes, with 3d6 either a natural 18 or a total of 18+ is a Critical Success. For Critical Failures, a natural 3 or a total of 3 or less is a Critical Failure. The GM decides which option to use at their games.
 
 
 The range probabilities are very similar to rolling 2d6:
