@@ -43,7 +43,7 @@ Basic Granular Bonuses
 
 Basic Granular Bonuses can be +1/+2/+3 [#]_. 
 
-.. [#] These are ideal for 2d6 roll systems. Warning! The main problem (mechanically speaking) about this Option is that a +3 is already a big modifier in a 2d6 dice roll. If you combine both Skills and Items in this way (for a max of +6), action rolls would become impossible to fail in most scenarios. It is recommended that you use this Optional Rule sparingly, or cap any roll modifiers at +3 max.
+.. [#] Warning! The main problem (mechanically speaking) about this Option is that a +3 is already a big modifier in a 2d6 dice roll. If you combine both Skills and Items in this way (for a max of +6), action rolls would become impossible to fail in most scenarios. It is recommended that you use this Optional Rule sparingly, or cap any roll modifiers at +3 max.
 
 - **Skills**: Characters can be *Skilled* at something (+1), or an *Expert* (+2), or even a *Master* (+3).
 - **Items**: Items that Characters have can be *Mundane* (+1), *Special* or *Masterwork* (+2), or even *Unique* or *Legendary* (+3).
@@ -53,7 +53,7 @@ Basic Granular Bonuses can be +1/+2/+3 [#]_.
 Expanded Granular Bonuses
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Basic Granular Bonuses can be +1/+2/+3/+4/+5 [#]_. 
+Expanded Granular Bonuses can be +1/+2/+3/+4/+5 [#]_. 
 
 .. [#] The Expanded Granular Bonuses are better suited for larger ranges of dice rolls, like when using 3d6, 1d20, etc. They offer more progression between each step, and cause a greater effect on the extremes. If you combine Skill and Item bonuses this way, you might reach a +10 bonus (although that would be rare, the average is +3 to +5).
 
