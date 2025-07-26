@@ -131,21 +131,28 @@ Other Dice Systems
 3d6
 ~~~
 
-Instead of rolling 2d6, roll 3d6 and add the results for a total between 3 and 18 [#]_. Then:
+Instead of rolling 2d6 as per the core rules, roll 3d6 and add the results for a total between 3 and 18 [#]_, ± modifiers:
 
 .. [#] This is a more "bell curve" style of rolling, where the average result is 10.5, and the extremes (3 and 18) are very unlikely to happen. With more granular results you can apply more nuanced modifiers, just like in the Granular Bonuses section above.
 
-- add +1 if *Skilled* at the action, +2 if *Expert*, +3 if *Master*.
-- add +1 if *Item* is relevant, +2 if its *Special* or *Masterwork*, +3 if *Unique* or *Legendary*.
+- add +X [#]_ if your character has a relevant Skill,
+
+.. [#] +1 if using the base rules; +1 to +3 if using :hoverxref:`Basic Granular Bonuses <basic-granular-bonuses>`; +1 to +5 if using :hoverxref:`Expanded Granular Bonuses <expanded-granular-bonuses>`.
+
+- add +X [#]_ if your character has a relevant Item, 
+
+.. [#] +1 if using the base rules; +1 to +3 if using :hoverxref:`Basic Granular Bonuses <basic-granular-bonuses>`; +1 to +5 if using :hoverxref:`Expanded Granular Bonuses <expanded-granular-bonuses>`.
+
 - add +1 if *helped* by circumstances, and +1 if *helped* by someone else (but they share any risk or consequence).
+- subtract -X for any relevant negative *hindrance* or :hoverxref:`Condition <conditions>` that affects your character.
 
-Then check the total [#]_:
-
-.. [#] If using Critical Successes, with 3d6 either a natural 18 or a total of 18+ is a Critical Success. For Critical Failures, a natural 3 or a total of 3 or less is a Critical Failure. The GM decides which option to use at their games.
+Then check the total :
 
 - a 9 or less is a **FAILURE**. Suffer full risk and/or don't get what they intended to do.
 - a 10 to 13 is a **PARTIAL SUCCESS**. They achieve the intended outcome but partially, and/or suffer a lesser version of the risk.
-- a 14 or more is a **SUCCESS**. They get what they wanted, and avoid any risk.
+- a 14 or more [#]_ is a **SUCCESS**. They get what they wanted, and avoid any risk.
+
+.. [#] If using Critical Successes, with 3d6 either a natural 18 or a total of 18+ is a Critical Success. For Critical Failures, a natural 3 or a total of 3 or less is a Critical Failure. The GM decides which option to use at their games.
 
 The range probabilities are very similar to rolling 2d6:
 
