@@ -47,11 +47,14 @@ Risk
 
    art © `Jeff Delierre <https://www.infectedbyart.com/contestpiece.asp?piece=3422>`_
 
-A risk can be anything from a narrative consequence (something bad happens, the situation worsens, etc), a negative condition that the character receives, or in some dire situations, outright death. GMs must state clearly what the risk is before the dice are rolled.
+A risk can be anything from a narrative consequence (something bad happens, the situation worsens, etc), a negative condition or a *hindrance* that the character receives, or in some dire situations, outright death. GMs must state clearly what the risk is before the dice are rolled.
 
-**Negative Conditions** give a -1 each to any related roll (in actions in which the condition would adversely affect the character).
+Hindrances
+~~~~~~~~~~
 
-3 or more Conditions usually mean that the character risks being **Taken Out** [#]_ in their next attempt (at GM discretion).
+**Hindrances** are negative conditions that give a -1 each to any related roll (in actions in which the *hindrance* would adversely affect the character).
+
+3 or more *hindrances* usually mean that the character risks being **Taken Out** [#]_ in their next attempt (at GM discretion).
 
 .. [#] Being **Taken Out** usually means losing the ability to stay in play with the agency to alter the world around them. This could be represented in different ways, depending on the context of the situation; exhausted, beffudled, K.O.d, or even dead.
 
@@ -85,4 +88,4 @@ These modifiers could increase to ±2 if the GM deems so (specially if there are
 
 .. [#] In an unmodified 2d6 roll (+0), the most likely result is 7 (with a 16.67% chance). On 2d6+1, the most likely result moves up to 8. On 2d6+2 it's 9, and with 2d6+3 it's 10 (meaning it's likely to always succeed).
 
-**Negative Conditions** already impose negative modifiers to character actions, which is another factor for the GM to consider when imposing difficulty penalties.
+**Hindrances** already impose negative modifiers to character actions, which is another factor for the GM to consider when imposing difficulty penalties.
