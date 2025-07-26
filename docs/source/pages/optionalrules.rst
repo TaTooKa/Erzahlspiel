@@ -136,15 +136,11 @@ Instead of rolling 2d6 as per the core rules, roll 3d6 and add the results for a
 .. [#] This is a more "bell curve" style of rolling, where the average result is 10.5, and the extremes (3 and 18) are very unlikely to happen. With more granular results you can apply more nuanced modifiers, just like in the Granular Bonuses section above.
 
 - add +X [#]_ if your character has a relevant Skill,
-
-.. [#] +1 if using the base rules; +1 to +3 if using Basic Granular Bonuses; +1 to +5 if using Expanded Granular Bonuses.
-
 - add +X [#]_ if your character has a relevant Item, 
-
-.. [#] +1 if using the base rules; +1 to +3 if using Basic Granular Bonuses; +1 to +5 if using Expanded Granular Bonuses.
-
 - add +1 if *helped* by circumstances, and +1 if *helped* by someone else (but they share any risk or consequence).
 - subtract -X for any relevant negative *hindrance* or :hoverxref:`Condition <conditions>` that affects your character.
+
+.. [#] +1 if using the base rules; +1 to +3 if using Basic Granular Bonuses; +1 to +5 if using Expanded Granular Bonuses.
 
 Then check the total :
 
