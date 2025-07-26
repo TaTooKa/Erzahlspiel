@@ -35,6 +35,7 @@ If there is **risk** or **uncertainty** and the player decides to move forward [
 - add +1 if they have a relevant *skill*, 
 - add +1 if they have a relevant *item*,
 - add +1 if *helped* by circumstances or by someone else (but they share any risk or consequence)
+- subtract -1 for each relevant :hoverxref:`hindrance <hindrances>` that affects the character
 
 then check the total:
 
