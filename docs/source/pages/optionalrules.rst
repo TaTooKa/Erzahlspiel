@@ -131,16 +131,16 @@ Other Dice Systems
 3d6
 ~~~
 
-Instead of rolling 2d6 as per the core rules, roll 3d6 and add the results for a total between 3 and 18 [#]_, ± modifiers:
+Instead of rolling 2d6 as per the :hoverxref:`basic dice rolling rules <rolling-the-dice>`, roll **3d6** and add the results for a total between 3 and 18 [#]_, ± modifiers:
 
 .. [#] This is a more "bell curve" style of rolling, where the average result is 10.5, and the extremes (3 and 18) are very unlikely to happen. With more granular results you can apply more nuanced modifiers, just like in the Granular Bonuses section above.
 
-- add +X [#]_ if your character has a relevant Skill,
-- add +X [#]_ if your character has a relevant Item, 
+- add +1 [#]_ if your character has a relevant Skill,
+- add +1 if your character has a relevant Item, 
 - add +1 if *helped* by circumstances, and +1 if *helped* by someone else (but they share any risk or consequence).
-- subtract -X for any relevant negative *hindrance* or :hoverxref:`Condition <conditions>` that affects your character.
+- subtract -1 for any relevant :hoverxref:`hindrance <hindrances>` or :hoverxref:`Condition <conditions>` that affects your character.
 
-.. [#] +1 if using the base rules; +1 to +3 if using Basic Granular Bonuses; +1 to +5 if using Expanded Granular Bonuses.
+.. [#] Use +1 if using the base rules; +1 to +3 if using **Basic Granular Bonuses**; +1 to +5 if using **Expanded Granular Bonuses**.
 
 Then check the total :
 
@@ -168,13 +168,16 @@ The range probabilities are very similar to rolling 2d6:
 d20
 ~~~
 
-Instead of rolling 2d6, roll 1d20 ± modifiers [#]_ and consult the following ranges:
+Instead of rolling 2d6 as per the :hoverxref:`basic dice rolling rules <rolling-the-dice>`, roll **1d20** [#]_ ± modifiers:
 
 .. [#] This imposes a flat distribution (each number in the twenty-sided dice has the same probability of occurrence) which means that dice rolls will be more "swingy", and modifiers will have more impact on every action in the game.
 
-- add +1 if *Skilled* at the action, +2 if *Expert*, +3 if *Master*.
-- add +1 if *Item* is relevant, +2 if its *Special* or *Masterwork*, +3 if *Unique* or *Legendary*.
+- add +1 [#]_ if your character has a relevant Skill,
+- add +1 if your character has a relevant Item, 
 - add +1 if *helped* by circumstances, and +1 if *helped* by someone else (but they share any risk or consequence).
+- subtract -1 for any relevant :hoverxref:`hindrance <hindrances>` or :hoverxref:`Condition <conditions>` that affects your character.
+
+.. [#] Use +1 if using the base rules; +1 to +3 if using **Basic Granular Bonuses**; +1 to +5 if using **Expanded Granular Bonuses**.
 
 Then check the total [#]_:
 

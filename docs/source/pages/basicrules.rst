@@ -5,6 +5,8 @@ Players interpret Characters (AKA *Player-Characters*, or "PCs").
 
 The *Game Master* ("GM") interprets the rest of the world and all *Non-Player-Characters* ("NPCs").
 
+.. _action-resolution:
+
 Action Resolution
 -----------------
 
@@ -40,6 +42,8 @@ then check the total:
 - a 7 to 9 is a **PARTIAL SUCCESS**. They achieve the intended outcome but partially, and/or suffer a lesser version of the risk.
 - a 10 or more is a **SUCCESS**. They get what they wanted, and avoid any risk.
 
+.. _risk:
+
 Risk
 ----
 
@@ -49,19 +53,12 @@ Risk
 
 A risk can be anything from a narrative consequence (something bad happens, the situation worsens, etc), a negative condition or a *hindrance* that the character receives, or in some dire situations, outright death. GMs must state clearly what the risk is before the dice are rolled.
 
-Hindrances
-~~~~~~~~~~
-
-**Hindrances** are negative conditions that give a -1 each to any related roll (in actions in which the *hindrance* would adversely affect the character).
-
-3 or more *hindrances* usually mean that the character risks being **Taken Out** [#]_ in their next attempt (at GM discretion).
-
-.. [#] Being **Taken Out** usually means losing the ability to stay in play with the agency to alter the world around them. This could be represented in different ways, depending on the context of the situation; exhausted, beffudled, K.O.d, or even dead.
-
 Avoiding Risk
 ~~~~~~~~~~~~~
 
 The best way to avoid a risk is to try another course of action. If that's not possible and/or the player still wants to move forward with that action, then they would suffer the full Risk in case of a FAILURE, or a lesser version of it in case of a PARTIAL SUCCESS. Only a full SUCCESS would grant them total avoidance of the Risk.
+
+.. _defense:
 
 Defense
 ^^^^^^^
@@ -69,6 +66,17 @@ Defense
 For risk of physical harm, characters can defend themselves by sacrificing an item they carry that could provide some sort of protection for the current situation [#]_. Said Item could be lost or completely destroyed, or just temporarily broken (it becomes useless until repaired by spending time and/or using proper tools). 
 
 .. [#] Whatever the player decides to break, it must make sense in the fiction. You cannot stop a bullet with a screwdriver (...in most cases). Creativity is encouraged, but the GM has the final word on what makes sense and what is a stretch.
+
+.. _hindrances:
+
+Hindrances
+----------
+
+**Hindrances** are negative conditions that give a -1 each to any related roll (in actions in which the *hindrance* would adversely affect the character).
+
+3 or more *hindrances* usually mean that the character risks being **Taken Out** [#]_ in their next attempt (at GM discretion).
+
+.. [#] Being **Taken Out** usually means losing the ability to stay in play with the agency to alter the world around them. This could be represented in different ways, depending on the context of the situation; exhausted, beffudled, K.O.d, or even dead.
 
 Difficulty
 ----------
