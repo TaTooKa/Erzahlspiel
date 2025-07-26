@@ -75,9 +75,16 @@ Hindrances
 
 **Hindrances** are negative conditions that give a -1 each to any related roll (in actions in which the *hindrance* would adversely affect the character).
 
-3 or more *hindrances* usually mean that the character risks being **Taken Out** [#]_ in their next attempt (at GM discretion).
+3 or more *hindrances* usually mean that the character risks being **Taken Out** in their next attempt (at GM discretion).
 
-.. [#] Being **Taken Out** usually means losing the ability to stay in play with the agency to alter the world around them. This could be represented in different ways, depending on the context of the situation; exhausted, beffudled, K.O.d, or even dead.
+.. _taken-out:
+
+Taken Out
+~~~~~~~~~
+
+Being **Taken Out** usually means losing the ability to stay in play with the agency to alter the world around them. This could be represented in different ways, depending on the context of the situation; exhausted, beffudled, K.O.d, or even dead [#]_.
+
+.. [#] If a character is **Taken Out** for long periods of time (or forever, if they died), their player should make a new character to introduce ASAP. Favor inclusion and fun over realism and rules. You might meet a new ally in the next room, promote a NPC to PC, or jump forward in time to recruiting a new teammate.
 
 Difficulty
 ----------
