@@ -96,7 +96,7 @@ Conditions
 
    art © `Enora <https://www.artstation.com/artwork/8BgvG/>`_
 
-*Conditions* are negative effects that characters receive (each gives -1 to related rolls [#]_ in which the Condition might affect the outcome negatively). They can be *Mild*, *Moderate* or *Severe*, and a character can only have one of each type. If they receive a Condition of a type they already have, they gain a new one from a higher tier. If they can’t, they are **:hoverxref:`Taken Out <taken-out>`**. Conditions take time and some sort of healing process to recover; the time and effort required depends on their severity (hours, days, weeks).
+*Conditions* are negative effects that characters receive (each gives -1 to related rolls [#]_ in which the Condition might affect the outcome negatively). They can be *Mild*, *Moderate* or *Severe*, and a character can only have one of each type. If they receive a Condition of a type they already have, they gain a new one from a higher tier. If they can’t, they are :hoverxref:`Taken Out <taken-out>`. Conditions take time and some sort of healing process to recover; the time and effort required depends on their severity (hours, days, weeks).
 
 .. [#] Alternatively, consider having *Mild* Conditions give a -1, *Moderate* Conditions impose a -2, and *Severe* Conditions cause a -3.
 
