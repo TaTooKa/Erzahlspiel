@@ -2,6 +2,10 @@
  white-space: normal !important;
 }
 
+.table tbody tr {
+      transition: 1s ease-in-out;
+}
+
 figure figcaption {
     opacity: 35%;
 }
