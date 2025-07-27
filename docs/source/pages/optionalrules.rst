@@ -179,13 +179,13 @@ Instead of rolling 2d6 as per the :hoverxref:`basic dice rolling rules <rolling-
 
 .. [#] Use +1 if using the base rules; +1 to +3 if using **Basic Granular Bonuses**; +1 to +5 if using **Expanded Granular Bonuses**.
 
-Then check the total [#]_:
+Then check the total:
 
 .. [#] If using the optional rule for **Criticals**, with a d20 either a natural 20 or a total of 20+ is a Critical Success. For Critical Failures, a natural 1 or a total of 1 or less is a Critical Failure. The GM decides which option to use at their games.
 
 - a 9 or less is a **FAILURE**. Suffer full risk and/or don't get what they intended to do.
 - a 10 to 16 is a **PARTIAL SUCCESS**. They achieve the intended outcome but partially, and/or suffer a lesser version of the risk.
-- a 17 or more is a **SUCCESS**. They get what they wanted, and avoid any risk.
+- a 17 or more [#]_ is a **SUCCESS**. They get what they wanted, and avoid any risk.
 
 The range probabilities are somewhat similar to rolling 2d6:
 
