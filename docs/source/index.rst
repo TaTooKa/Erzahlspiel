@@ -35,5 +35,6 @@ The GM will most likely peruse one of the Worlds and Scenarios provided in this 
    pages/dyingsun
    pages/neonandchrome
    pages/grittyspacescifi
+   pages/superpowers
    pages/galaxyfaraway
    pages/riseofthemachines
