@@ -204,7 +204,13 @@ The range probabilities are somewhat similar to rolling 2d6:
 Instinct Checks
 ---------------
 
-**Instinct Checks** are triggered in situations of extreme fear or pain, or life-threatening damage or danger. The result dictates if you can maintain your composure or are forced to act in a certain way. Roll and add modifiers (skills/items/abilities/etc) that would help keeping your cool in the specific situation:
+.. figure:: ../_static/images/rpg-image-15.jpg
+
+   art © `Geoffroy Thoorens <https://www.artstation.com/djahal>`_
+
+**Instinct Checks** are triggered in situations of extreme fear or pain, or life-threatening damage or danger. The result dictates if you can maintain your composure or are forced to act in a certain way. Roll and add modifiers (skills/items/abilities/etc) [#]_ that would help keeping your cool in the specific situation:
+
+.. [#] The **Instinct Checks** rule works best with other *Optional Rules* like **Criticals** and **Conditions** (described above). 
 
 .. csv-table:: Instinct Check Results
 
