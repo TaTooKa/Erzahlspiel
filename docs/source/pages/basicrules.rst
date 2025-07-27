@@ -81,16 +81,16 @@ Hindrances
 
 *Hindrances* are usually gained as a consequence of a bad roll (most likely after failing to avoid a danger or resist damage), but the GM can also impose a hindrance to a character automatically if the narrative demands so. A *hindrance* can be anything detrimental for the character that could affect them in future actions, like a physical injury, a negative condition like being over-encumbered or exhausted, a mental state like being over-stressed or terrified, a social state like being ashamed, distressed or humiliated, etc. 
 
-3 or more *hindrances* usually mean that the character risks being **Taken Out** in their next attempt (at GM discretion).
+3 or more *hindrances* usually mean that the character risks being **Taken Out** [#]_ in their next attempt (at GM discretion).
+
+.. [#] If a character is **Taken Out** for long periods of time (or forever, if they died), their player should make a new character to introduce ASAP. Favor inclusion and fun over realism and rules. You might meet a new ally in the next room, promote a NPC to PC, or jump forward in time to recruiting a new teammate.
 
 .. _taken-out:
 
 Taken Out
 ~~~~~~~~~
 
-Being **Taken Out** usually means losing the ability to stay in play with the agency to alter the world around them. This could be represented in different ways, depending on the context of the situation; exhausted, beffudled, K.O.d, or even dead [#]_.
-
-.. [#] If a character is **Taken Out** for long periods of time (or forever, if they died), their player should make a new character to introduce ASAP. Favor inclusion and fun over realism and rules. You might meet a new ally in the next room, promote a NPC to PC, or jump forward in time to recruiting a new teammate.
+Being **Taken Out** usually means losing the ability to stay in play with the agency to alter the world around them. This could be represented in different ways, depending on the context of the situation; exhausted, beffudled, K.O.d, or even dead.
 
 Difficulty
 ----------
