@@ -73,7 +73,13 @@ For risk of physical harm, characters can defend themselves by sacrificing an it
 Hindrances
 ----------
 
+.. figure:: ../_static/images/rpg-image-14.jpg
+
+   art © `Marco Checchetto <https://www.instagram.com/mchecc18>`_
+
 **Hindrances** are negative conditions that give a -1 each to any related roll (in actions in which the *hindrance* would adversely affect the character).
+
+*Hindrances* are usually gained as a consequence of a bad roll (most likely after failing to avoid a danger or resist damage), but the GM can also impose a hindrance to a character automatically if the narrative demands so. A *hindrance* can be anything detrimental for the character that could affect them in future actions, like a physical injury, a negative condition like being over-encumbered or exhausted, a mental state like being over-stressed or terrified, a social state like being ashamed, distressed or humiliated, etc. 
 
 3 or more *hindrances* usually mean that the character risks being **Taken Out** in their next attempt (at GM discretion).
 
