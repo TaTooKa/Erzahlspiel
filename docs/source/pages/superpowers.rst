@@ -7,9 +7,21 @@ Character Creation
 Origin
 ~~~~~~
 
-Roll d10 or choose your character's Origin:
+Roll d10 or choose:
 
-TODO
+.. csv-table:: Origin
+ :widths: 10, 30, 60
+
+"1","ALIEN","You are some sort of extra-terrestrial, from another planet or dimension, with different abilities or biological traits."
+"2","ARTIFICIAL","You are an artificially built construct, like a robot or golem."
+"3","TECH-ENHANCED","You are a mortal being enhanced by technology, be it cyber implants grafted into your body or advanced gadgets that you use."
+"4","CHOSEN","Either by destiny or by a powerful being, you’ve been granted special abilities because of your worthiness, or as part of a prophecy or legacy."
+"5","TRANSFORMED","You have been mutated or enhanced over human limits by some sort of super science or magic, intentionally or as a hard-to-repeat accident."
+"6","MYTHIC","You come from mythical origins, either from a divine pantheon of deities, angelic or demonic ancestors, or supernatural legends."
+"7","MAGICAL","You have studied or been touched by magic, or you have some sort of mystical ancestry or connection to outer planes of existence."
+"8","TRAINED","You are a regular mortal being that has trained in one or more areas of expertise to an amazing level."
+"9","TIME-DISPLACED","You come from another time, be it the far future or the past, that gives you an edge in skill and/or equipment."
+"10","GENETICS","You were born with or destined to develop amazing abilities, from an X-Gene or as part of a new link in evolution."
 
 Powers
 ~~~~~~
