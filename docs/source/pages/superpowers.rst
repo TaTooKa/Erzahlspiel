@@ -44,8 +44,8 @@ Roll a d100 or choose:
 #. ANIMAL MIMICRY
 #. AQUATIC
 #. ASTRAL PROJECTION
-#. BODY OF :hoverxref:`ELEMENT <superpowers-elements-table>`
-#. BODY OF :hoverxref:`MATERIAL <superpowers-materials-table>`
+#. BODY OF :hoverxref:`ELEMENT <superpower-elements>`
+#. BODY OF :hoverxref:`MATERIAL <superpower-materials>`
 #. BURROWING
 #. CAMOUFLAGE
 #. CYBERKINESIS
@@ -55,7 +55,7 @@ Roll a d100 or choose:
 #. DREAM CONTROL
 #. DUPLICATION
 #. ELASTICITY
-#. :hoverxref:`ELEMENT <superpowers-elements-table>` CONTROL
+#. :hoverxref:`ELEMENT <superpower-elements>` CONTROL
 #. EMOTION CONTROL
 #. ENERGY ABSORPTION
 #. ENERGY AURA
@@ -113,14 +113,12 @@ Roll a d100 or choose:
 #. WEATHER CONTROL
 #. Roll again!
 
-.. _superpowers-elements-table:
+.. _superpower-elements:
 
-Elements
-^^^^^^^^
+Superpower Elements
+^^^^^^^^^^^^^^^^^^^
 
 Test with text to see what happens.
-
-**Elements**
 
 .. csv-table:: Element
  :widths: 10, 90
@@ -138,9 +136,12 @@ Test with text to see what happens.
  "11", "Sound"
  "12", "Water"
 
-.. _superpowers-materials-table:
+.. _superpower-materials:
 
-**Materials**
+Superpower Materials
+^^^^^^^^^^^^^^^^^^^^
+
+Test with text to see what happens.
 
 .. csv-table:: Material
  :widths: 10, 90
