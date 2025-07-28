@@ -60,6 +60,7 @@ Roll a d100 or choose:
 #. DUPLICATION
 #. ELASTICITY
 #. :hoverxref:`ELEMENT <superpower-elements>` CONTROL
+#. :hoverxref:`ELEMENT <superpower-elements>` AURA
 #. EMOTION CONTROL
 #. ENERGY ABSORPTION
 #. ENERGY AURA
@@ -83,6 +84,7 @@ Roll a d100 or choose:
 #. MAGIC
 #. MAGNETIC CONTROL
 #. MARTIAL ARTS
+#. :hoverxref:`MATERIAL <superpower-materials>` CONTROL
 #. METAMORPHOSIS
 #. MIMICRY
 #. MIND CONTROL
@@ -186,7 +188,7 @@ Many of the Extras and Limits only apply to some powers, while others “already
  "RANGED","You can use a normally touch-based or short-range power out to long range."
  "RANGELESS","You can use your power out to a distance based on its power level (from nearby to anywhere in the universe), provided you know the location of the target."
  "REVERSIBLE","You can reverse the effects of your power, ending them at will or making it do the opposite of what it would normally do."
- "Sub-effect","This power includes another power as a sub-effect of its own, i.e. Fire Aura might include Flight as a Sub-Effect."
+ "SUB-EFFECT","This power includes another power as a sub-effect of its own, i.e. Fire Aura might include Flight as a Sub-Effect."
 
 
 .. csv-table:: Limits
