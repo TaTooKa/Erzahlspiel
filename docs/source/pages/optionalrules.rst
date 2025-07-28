@@ -226,6 +226,25 @@ Instinct Checks
 - **Freeze**: Become immobilized; in shock; unable to act
 - **Fawn**: Surrender; yield; submit to (or ally with) the enemy
 
+.. _attributes:
+
+Attributes
+----------
+
+Character **Attributes** can be used instead of (or along with) **Skill** bonuses (Either the +1 from Skills in the base rules, or the extended ones from :hoverxref:`Expanded Granular Bonuses <expanded-granular-bonuses>`).
+
+The **Attributes** are like the basic Characteristics of a character:
+
+- **VIGOR**: strength, endurance, resistance.
+- **DEXTERITY**: agility, speed, nimbleness.
+- **PERCEPTION**: awareness, precision, senses.
+- **INTELLIGENCE**: smarts, IQ, knowledge.
+- **WILLPOWER**: focus, resolve, self-control.
+- **CHARISMA**: personality, allure, influence.
+
+The idea is that the player adds one of their character's Attribute modifiers to each roll. If it's not obvious, the GM tells the player which Attribute to use.
+
+Attributes go from +1 to +3. In some games, GMs can also have characters with negative modifiers to represent characters that are bad at certain things (the usual there is to have Attributes go from -3 to +3, with an average of +0).
 
 Magic Systems
 -------------
