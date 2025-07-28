@@ -26,11 +26,15 @@ Roll d10 or choose:
 Powers
 ~~~~~~
 
-Powers work like :hoverxref:`granular skills <expanded-granular-bonuses>`, acting as modifiers that go from +1 to +5. But Powers, first and foremost, give *narrative permission*. The higher the power level, the stronger or more capable the power is.
+Powers are special or supernatural abilities that, first and foremost, give *narrative permission*. The higher the power level, the stronger or more capable the power is: use it as a guideline to determine if you can do something or not with the Power, and to what extent. When rolling dice, Powers work like :hoverxref:`granular skills <expanded-granular-bonuses>`, acting as modifiers that go from +1 to +5. 
 
-**Power levels**: Basic (+1), Good (+2), Incredible (+3), Fantastic (+4), Supreme (+5).
+**Power levels**: *Basic* (+1), *Good* (+2), *Incredible* (+3), *Fantastic* (+4), *Supreme* (+5).
 
-If your character has **Skills** or **Items** to help them instead of **Powers**, just use :hoverxref:`Granular Bonuses <expanded-granular-bonuses>` for those instead.
+Your power might come from an innate ability, artificial enhancement or supernatural/magitech item that you have.
+
+If your character has mundane **Skills** or **Items** to help them instead of **Powers**, just use the name tiers of :hoverxref:`Granular Bonuses <expanded-granular-bonuses>` for those instead.
+
+The GM establishes the amount of Powers and their levels for the characters in the game. The default is one *Basic* (+1), one *Good* (+2) and one *Incredible* (+3).
 
 Power List
 ^^^^^^^^^^
@@ -89,6 +93,7 @@ Roll a d100 or choose:
 #. POISON
 #. POSTCOGNITION
 #. POWER ABSORPTION
+#. POWER AUGMENTATION
 #. POWER NULLIFICATION
 #. PRECOGNITION
 #. REGENERATION
@@ -158,3 +163,47 @@ Roll d12 or choose:
  "10", "Fungi"
  "11", "Antimatter"
  "12", "Bone"
+
+.. _extras-and-limits:
+
+Extras and Limits
+~~~~~~~~~~~~~~~~~
+
+You can customize each of your Powers: You can pick an **Extra** for it by lowering its Power Level by one. You can increase its Power Level by one by picking a **Limit** for it. You can do this as many times as you want, as long as the Power Level doesn’t end lower than +1 or greater than +5.
+
+Many of the Extras and Limits only apply to some powers, while others “already include it”; Use common sense when defining the “base properties” of a power.
+
+.. csv-table:: Extras
+ :widths: 30, 70
+
+ "AFFECTS OTHERS","You can affect other people with this power, not just yourself. If you can only affect others, use the Others Only Limit instead."
+ "AFFECTS [X]","Your power works on a type of target normally immune to it, or has a specific type of effect that is out of the ordinary."
+ "AREA","Your power affects a wide area instead of a single target."
+ "CONTAGIOUS","The effect of your power is contagious and may spread to someone else who comes into contact with a target while the power is still in effect."
+ "DEFENSIVE","You can use this power to defend yourself or protect others."
+ "DURATION","Your power lasts longer than usual, based on its power level."
+ "PASSENGERS","Your movement-related power can carry people or objects along."
+ "RANGED","You can use a normally touch-based or short-range power out to long range."
+ "RANGELESS","You can use your power out to a distance based on its power level (from nearby to anywhere in the universe), provided you know the location of the target."
+ "REVERSIBLE","You can reverse the effects of your power, ending them at will or making it do the opposite of what it would normally do."
+ "Sub-effect","This power includes another power as a sub-effect of its own, i.e. Fire Aura might include Flight as a Sub-Effect."
+
+
+.. csv-table:: Limits
+ :widths: 30, 70
+
+ "BLOCKED BY [X]","Your power does not affect some common type of object or substance, such as wood, aluminum, or things colored yellow, for example."
+ "BURNOUT","After you use your power, it stops working for a while."
+ "CLOSE RANGE","Your normally long-range power only works at close range."
+ "CONCENTRATION","You must concentrate to maintain the power, meaning that you can’t do other things properly in the meantime, and certain hindrances could break that concentration, thus ending the effect."
+ "CONSTANT","The power is always active (making it hindering or very inconvenient). For damaging powers, this means you may damage people and things around you. Other powers may make you appear freakish or just make life difficult for you."
+ "CONSTRAINED TO [X]","Your power only works with a certain subset of its domain. For example, “Element Control” usually covers all elements, but using this Limit you could constrain it to “Water Control”."
+ "DEGRADING","Your power loses effectiveness over time when used. This can be represented as lowering its level on each turn that passes, until you have an opportunity to recover."
+ "EXCLUSIVE","You cannot use or maintain other powers while using this one (either gets interrupted/turns off)."
+ "LINE-OF-SIGHT","You must be able to see the targets of your power."
+ "UNCONTROLLED","You cannot vary this power’s level or exert any fine control. Sometimes it works at max potency, others it might fizzle out or do unexpected things."
+ "ONLY [X]","Your power works only in a given situation or against a particular subject, such as only at night, only when you’re angry, only against men (or women), and so forth."
+ "OTHERS ONLY","The power only affects others; you cannot use it on yourself. "
+ "TOUCH ONLY","Your normally ranged power only works by touching the target."
+ "WEAKNESS TO [X]","Your power is heavily diminished or turned off when something specific happens or when you are exposed to a certain type of energy or material."
+
