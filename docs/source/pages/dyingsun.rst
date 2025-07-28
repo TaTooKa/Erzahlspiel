@@ -138,6 +138,9 @@ When generating random weapons/armor, first roll for **material quality** (2d6),
 
 .. _materials-table:
 
+Materials Table
+^^^^^^^^^^^^^^^
+
 .. list-table:: Material Quality
    :widths: 15 25 60
    :header-rows: 1
@@ -163,6 +166,9 @@ Weapons
 Use this table as a guideline or roll on it as instructed by your Class.
 
 .. _weapons-table:
+
+Weapons Table
+^^^^^^^^^^^^^
 
 .. list-table:: Weapons
    :widths: 15 70 15
@@ -204,6 +210,9 @@ Armor
 Characters can only use one piece of armor in each body part (reroll if repeated during character creation). You are *over-encumbered* if using more than 3.
 
 .. _armor-table:
+
+Armor Table
+^^^^^^^^^^^
 
 .. list-table:: Armor
    :header-rows: 1

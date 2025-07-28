@@ -118,7 +118,7 @@ Roll a d100 or choose:
 Superpower Elements
 ^^^^^^^^^^^^^^^^^^^
 
-Test with text to see what happens.
+Roll d12 or choose:
 
 .. csv-table:: Element
  :widths: 10, 90
@@ -141,7 +141,7 @@ Test with text to see what happens.
 Superpower Materials
 ^^^^^^^^^^^^^^^^^^^^
 
-Test with text to see what happens.
+Roll d12 or choose:
 
 .. csv-table:: Material
  :widths: 10, 90
