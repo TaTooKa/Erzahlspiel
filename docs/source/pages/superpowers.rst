@@ -115,6 +115,8 @@ Roll a d100 or choose:
 
 .. _superpowers-elements-table:
 
+**Elements**
+
 .. csv-table:: Element
  :widths: 10, 90
 
@@ -132,6 +134,8 @@ Roll a d100 or choose:
  "12", "Water"
 
 .. _superpowers-materials-table:
+
+**Materials**
 
 .. csv-table:: Material
  :widths: 10, 90
