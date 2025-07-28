@@ -115,6 +115,11 @@ Roll a d100 or choose:
 
 .. _superpowers-elements-table:
 
+Elements
+^^^^^^^^
+
+Test with text to see what happens.
+
 **Elements**
 
 .. csv-table:: Element
