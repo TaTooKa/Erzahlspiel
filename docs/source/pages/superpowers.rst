@@ -7,6 +7,8 @@ Character Creation
 Origin
 ~~~~~~
 
+Roll d10 or choose your character's Origin:
+
 TODO
 
 Powers
