@@ -26,7 +26,7 @@ Roll d10 or choose:
 Powers
 ~~~~~~
 
-Powers work like :hoverxref:`Granular Skills <expanded-granular-bonuses>`, acting as modifiers that go from +1 to +5. But Powers, first and foremost, give *narrative permission*. The higher the power level, the stronger or more capable the power is.
+Powers work like :hoverxref:`granular skills <expanded-granular-bonuses>`, acting as modifiers that go from +1 to +5. But Powers, first and foremost, give *narrative permission*. The higher the power level, the stronger or more capable the power is.
 
 **Power levels**: Basic (+1), Good (+2), Incredible (+3), Fantastic (+4), Supreme (+5).
 
@@ -44,8 +44,8 @@ Roll a d100 or choose:
 #. ANIMAL MIMICRY
 #. AQUATIC
 #. ASTRAL PROJECTION
-#. BODY OF [ELEMENT]
-#. BODY OF [MATERIAL]
+#. BODY OF :hoverxref:`ELEMENT <superpowers-elements-table>`
+#. BODY OF :hoverxref:`MATERIAL <superpowers-materials-table>`
 #. BURROWING
 #. CAMOUFLAGE
 #. CYBERKINESIS
@@ -55,7 +55,7 @@ Roll a d100 or choose:
 #. DREAM CONTROL
 #. DUPLICATION
 #. ELASTICITY
-#. ELEMENT CONTROL
+#. :hoverxref:`ELEMENT <superpowers-elements-table>` CONTROL
 #. EMOTION CONTROL
 #. ENERGY ABSORPTION
 #. ENERGY AURA
@@ -112,3 +112,39 @@ Roll a d100 or choose:
 #. WEAPON
 #. WEATHER CONTROL
 #. Roll again!
+
+.. _superpowers-elements-table:
+
+.. csv-table:: Element
+ :widths: 10, 90
+
+ "1", "Air"
+ "2", "Darkness"
+ "3", "Earth"
+ "4", "Electricity"
+ "5", "Energy"
+ "6", "Fire"
+ "7", "Force"
+ "8", "Hellfire"
+ "9", "Ice"
+ "10", "Iron"
+ "11", "Sound"
+ "12", "Water"
+
+.. _superpowers-materials-table:
+
+.. csv-table:: Material
+ :widths: 10, 90
+
+ "1", "Wood"
+ "2", "Metal"
+ "3", "Flesh"
+ "4", "Gas"
+ "5", "Rock"
+ "6", "Lava"
+ "7", "Liquid"
+ "8", "Acid"
+ "9", "Plant"
+ "10", "Fungi"
+ "11", "Antimatter"
+ "12", "Bone"
