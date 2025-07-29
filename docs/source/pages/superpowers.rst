@@ -10,7 +10,7 @@ Origin
 The **Origin** explains how you got your powers. Roll d10 or choose:
 
 .. csv-table:: Origin
- :widths: 10, 30, 60
+ :widths: 5, 20, 75
 
  "1","ALIEN","You are some sort of extra-terrestrial, from another planet or dimension, with different abilities or biological traits."
  "2","ARTIFICIAL","You are an artificially built construct, like a robot or golem."
@@ -29,7 +29,7 @@ Archetype
 The **Archetype** defines your personality, how you act and how others see you.  Roll d8 or choose:
 
 .. csv-table:: Archetype
- :widths: 10, 30, 60
+ :widths: 5, 20, 75
 
  "1", "BEACON", "A shining example of heroism, driven to inspire others through courage and conviction."
  "2", "FREAK", "Changed by strange forces, they struggle with what makes them different—and powerful."
@@ -204,7 +204,7 @@ You can customize each of your Powers: You can pick an **Extra** for it by lower
 Many of the Extras and Limits only apply to some powers, while others “already include it”; Use common sense when defining the “base properties” of a power.
 
 .. csv-table:: Extras
- :widths: 30, 70
+ :widths: 20, 80
 
  "AFFECTS OTHERS","You can affect other people with this power, not just yourself. If you can only affect others, use the *Others Only* Limit instead."
  "AFFECTS [X]","Your power works on a type of target normally immune to it, or has a specific type of effect that is out of the ordinary."
@@ -220,7 +220,7 @@ Many of the Extras and Limits only apply to some powers, while others “already
 
 
 .. csv-table:: Limits
- :widths: 30, 70
+ :widths: 20, 80
 
  "BLOCKED BY [X]","Your power does not affect some common type of object or substance, such as wood, aluminum, or things colored yellow, for example."
  "BURNOUT","After you use your power, it stops working for a while."

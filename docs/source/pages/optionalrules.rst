@@ -213,12 +213,13 @@ Instinct Checks
 .. [#] The **Instinct Checks** rule works best with other *Optional Rules* like **Criticals** and **Conditions** (described above). 
 
 .. csv-table:: Instinct Check Results
+ :widths: 20, 80
 
-   "**CRITICAL FAILURE**. gain a *Severe* Condition like “very stressed” AND the GM picks your character’s behavior from  ``Fight``, ``Flight``, ``Freeze`` or ``Fawn``."
-   "**FAILURE**. gain a *Moderate* Condition like “stressed”, AND choose a behavior from ``Fight``, ``Flight``, ``Freeze`` or ``Fawn``."
-   "**PARTIAL SUCCESS**. Choose: gain a *Mild* Condition like “troubled”, OR choose a behavior from ``Fight``, ``Flight``, ``Freeze`` or ``Fawn``."
-   "**SUCCESS**. You maintain your composure and are not adversely affected by the situation."
-   "**CRITICAL SUCCESS**. You maintain your composure, and gain +1 for further **Instinct Checks** during the scene."
+   "**CRITICAL FAILURE**", "Gain a *Severe* Condition like “very stressed” AND the GM picks your character’s behavior from  ``Fight``, ``Flight``, ``Freeze`` or ``Fawn``."
+   "**FAILURE**", "Gain a *Moderate* Condition like “stressed”, AND choose a behavior from ``Fight``, ``Flight``, ``Freeze`` or ``Fawn``."
+   "**PARTIAL SUCCESS**", "Choose: gain a *Mild* Condition like “troubled”, OR choose a behavior from ``Fight``, ``Flight``, ``Freeze`` or ``Fawn``."
+   "**SUCCESS**", "You maintain your composure and are not adversely affected by the situation."
+   "**CRITICAL SUCCESS**", "You maintain your composure, and gain +1 for further **Instinct Checks** during the scene."
 
 
 - **Fight**: lash out violently; attack anyone (friend or foe)
