@@ -19,8 +19,8 @@ The game is a conversation. Players take turns to describe what their characters
 - just **happens** as described and what's the outcome
 - is **impossible**, or what extra steps would be required
 - has a **cost**, that the character must pay or suffer in order to perform the action
-- presents a **risk**, that the player must avoid before continuing (🎲🎲)
-- has an **uncertain** outcome, and a failure state is interesting (🎲🎲)
+- presents a :hoverxref:`**risk** <risk>`, that the player must avoid before continuing (:hoverxref:`🎲🎲 <rolling-the-dice>`)
+- has an **uncertain** outcome, and a failure state is interesting (:hoverxref:`🎲🎲 <rolling-the-dice>`)
 
 
 .. _rolling-the-dice:
@@ -28,7 +28,7 @@ The game is a conversation. Players take turns to describe what their characters
 Rolling the dice
 ~~~~~~~~~~~~~~~~
 
-If there is **risk** or **uncertainty** and the player decides to move forward [#]_, then they must **roll 2d6**, and:
+If there is :hoverxref:`**risk** <risk>` or **uncertainty** and the player decides to move forward [#]_, then they must **roll 2d6**, and:
 
 .. [#] The player must be willing to take the risk before rolling the dice. They always have the option to back down and choose another course of action.
 
