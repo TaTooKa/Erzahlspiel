@@ -206,7 +206,7 @@ Many of the Extras and Limits only apply to some powers, while others “already
 .. csv-table:: Extras
  :widths: 30, 70
 
- "AFFECTS OTHERS","You can affect other people with this power, not just yourself. If you can only affect others, use the Others Only Limit instead."
+ "AFFECTS OTHERS","You can affect other people with this power, not just yourself. If you can only affect others, use the *Others Only* Limit instead."
  "AFFECTS [X]","Your power works on a type of target normally immune to it, or has a specific type of effect that is out of the ordinary."
  "AREA","Your power affects a wide area instead of a single target."
  "CONTAGIOUS","The effect of your power is contagious and may spread to someone else who comes into contact with a target while the power is still in effect."
@@ -227,13 +227,14 @@ Many of the Extras and Limits only apply to some powers, while others “already
  "CLOSE RANGE","Your normally long-range power only works at close range."
  "CONCENTRATION","You must concentrate to maintain the power, meaning that you can’t do other things properly in the meantime, and certain hindrances could break that concentration, thus ending the effect."
  "CONSTANT","The power is always active (making it hindering or very inconvenient). For damaging powers, this means you may damage people and things around you. Other powers may make you appear freakish or just make life difficult for you."
- "CONSTRAINED TO [X]","Your power only works with a certain subset of its domain. For example, “Element Control” usually covers all elements, but using this Limit you could constrain it to “Water Control”."
+ "CONSTRAINED TO [X]","Your power only works with a certain subset of its domain. For example, “Animal Control” usually covers all animals, but using this Limit you could constrain it to “Squirrel Control”."
  "DEGRADING","Your power loses effectiveness over time when used. This can be represented as lowering its level on each turn that passes, until you have an opportunity to recover."
  "EXCLUSIVE","You cannot use or maintain other powers while using this one (either gets interrupted/turns off)."
  "LINE-OF-SIGHT","You must be able to see the targets of your power."
  "UNCONTROLLED","You cannot vary this power’s level or exert any fine control. Sometimes it works at max potency, others it might fizzle out or do unexpected things."
  "ONLY [X]","Your power works only in a given situation or against a particular subject, such as only at night, only when you’re angry, only against men (or women), and so forth."
- "OTHERS ONLY","The power only affects others; you cannot use it on yourself. "
+ "OTHERS ONLY","The power only affects others; you cannot use it on yourself."
+ "SELF ONLY","The power only affects you; you cannot use it on others."
  "TOUCH ONLY","Your normally ranged power only works by touching the target."
  "WEAKNESS TO [X]","Your power is heavily diminished or turned off when something specific happens or when you are exposed to a certain type of energy or material."
 
