@@ -7,7 +7,7 @@ Character Creation
 Origin
 ~~~~~~
 
-Roll d10 or choose:
+The **Origin** explains how you got your powers. Roll d10 or choose:
 
 .. csv-table:: Origin
  :widths: 10, 30, 60
@@ -22,6 +22,42 @@ Roll d10 or choose:
  "8","TRAINED","You are a regular mortal being that has trained in one or more areas of expertise to an amazing level."
  "9","TIME-DISPLACED","You come from another time, be it the far future or the past, that gives you an edge in skill and/or equipment."
  "10","GENETICS","You were born with or destined to develop amazing abilities, from an X-Gene or as part of a new link in evolution."
+
+Archetype
+~~~~~~~~~
+
+The **Archetype** defines your personality, how you act and how others see you.  Roll d8 or choose:
+
+.. csv-table:: Archetype
+ :widths: 10, 30, 60
+
+ "1", "BEACON", "A shining example of heroism, driven to inspire others through courage and conviction."
+ "2", "FREAK", "Changed by strange forces, they struggle with what makes them different—and powerful."
+ "3", "BRAIN", "A genius with the tools and intellect to outthink any problem—or create new ones."
+ "4", "JESTER", "The wisecracking trickster who masks deep truths behind humor and chaos."
+ "5", "BROODING", "A haunted vigilante fueled by pain, shadows, and an unshakable sense of justice."
+ "6", "OUTSIDER", "An alien or stranger trying to understand—and protect—a world not their own."
+ "7", "BRUTE", "A powerhouse of strength and will, always ready to smash through any obstacle."
+ "8", "UNCONTROLLED", "A volatile force of raw emotion and power, struggling to keep it all together."
+
+Principles and Beliefs
+~~~~~~~~~~~~~~~~~~~~~~
+
+Roll d10 or choose:
+
+.. csv-table:: Principles and Beliefs
+ :widths: 10, 90
+
+ "1", "With great power comes great responsibility."
+ "2", "We do not kill, otherwise we are villains ourselves."
+ "3", "Protect the innocent first, punish evildoers second."
+ "4", "Sometimes the end justifies the means."
+ "5", "Everyone deserves a 2nd chance and can be redeemed."
+ "6", "I must keep the beast inside me under control."
+ "7", "We must set the example for the common people."
+ "8", "Justice must be served--even when the law fails."
+ "9", "A true hero stands even when the world turns against them."
+ "10", "I don't need to be loved, just feared and respected."
 
 Powers
 ~~~~~~
@@ -125,21 +161,18 @@ Superpower Elements
 
 Roll d12 or choose:
 
-.. csv-table:: Element
- :widths: 10, 90
-
- "1", "Air"
- "2", "Darkness"
- "3", "Earth"
- "4", "Electricity"
- "5", "Energy"
- "6", "Fire"
- "7", "Force"
- "8", "Hellfire"
- "9", "Ice"
- "10", "Iron"
- "11", "Sound"
- "12", "Water"
+#. Air
+#. Darkness
+#. Earth
+#. Electricity
+#. Energy
+#. Fire
+#. Force
+#. Hellfire
+#. Ice
+#. Iron
+#. Sound
+#. Water
 
 .. _superpower-materials:
 
@@ -148,21 +181,18 @@ Superpower Materials
 
 Roll d12 or choose:
 
-.. csv-table:: Material
- :widths: 10, 90
-
- "1", "Wood"
- "2", "Metal"
- "3", "Flesh"
- "4", "Gas"
- "5", "Rock"
- "6", "Lava"
- "7", "Liquid"
- "8", "Acid"
- "9", "Plant"
- "10", "Fungi"
- "11", "Antimatter"
- "12", "Bone"
+#. Wood
+#. Metal
+#. Flesh
+#. Gas
+#. Rock
+#. Lava
+#. Liquid
+#. Acid
+#. Plant
+#. Fungi
+#. Antimatter
+#. Bone
 
 .. _extras-and-limits:
 
