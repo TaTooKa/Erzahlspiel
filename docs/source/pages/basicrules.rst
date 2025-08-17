@@ -77,20 +77,24 @@ Roll |blackdie| if you have **Overwhelming Disadvantage** (because of cumulative
 Descriptors
 -----------
 
-Descriptors are narrative truths that characters, obstacles or even the scene could have. These can be aspects or traits that give some sort of *narrative permission* (For example, a character with ``Wings`` would be able to fly, while others that don't have that Descriptor wouldn't be able to. Another character might have an ``Axe`` that would let them chop down a tree.). They could also give **Advantage** or **Disadvantage** to certain actions (For example, a character with the Descriptor ``Strong`` would have **Advantage** when trying to lift something heavy, while a character with the Descriptor ``Injured Leg`` would have **Disadvantage** when trying to run).
+Descriptors are narrative truths that characters, obstacles or even the scene could have. 
+
+These can be aspects or traits that give some sort of *narrative permission* (For example, a character with ``Wings`` would be able to fly, while others that don't have that Descriptor wouldn't be able to. Another character might have an ``Axe`` that would let them chop down a tree.). 
+
+They could also give **Advantage** or **Disadvantage** to certain actions (For example, a character with the Descriptor ``Strong`` would have **Advantage** when trying to lift something heavy, while a character with the Descriptor ``Injured Leg`` would have **Disadvantage** when trying to run).
 
 .. _interpret-the-odds:
 
 Interpreting the Odds
 ---------------------
 
-The GM interprets the context of the narrative and any Descriptor that is in play (and could alter the odds of the action), concluding whether the character has Advantage or Disadvantage.
+The GM interprets the context of the narrative and any :hoverxref:`Descriptor <descriptors>` that is in play (and could alter the odds of the action), concluding whether the character has Advantage or Disadvantage.
 
-Some game mechanics might say they give "Advantage" or "Disadvantage". Other things like **Descriptors** usually impose Advantage or Disadvantage to certain actions.
+Some game mechanics might say they give "Advantage" or "Disadvantage" in specific situations. Other things like :hoverxref:`Descriptors <descriptors>` or :hoverxref:`Conditions <conditions>` usually impose Advantage or Disadvantage to certain actions.
 
 Some GMs like to tally each and every one of the Descriptors, Conditions or other situations in play that could alter the odds, subtracting positives from negatives. Others like to eyeball it and infer whether there is match (50/50) of if the scales are tipped one way or the other (Advantageous or Disadvantageous for the character initiating the action).
 
-Whichever the case, the GM only defines which die the player must roll. The player can decide to move forward with the action with those odds, or back down and try something else. 
+Whichever the case, the GM only defines which die the player must :hoverxref:`roll <rolling-the-dice>`. The player can decide to move forward with the action with those odds, or back down and try something else. 
 
 .. _risk:
 
@@ -101,12 +105,12 @@ Risk
 
    art © `Jeff Delierre <https://www.infectedbyart.com/contestpiece.asp?piece=3422>`_
 
-A risk can be anything from a narrative consequence (something bad happens, the situation worsens, etc), a negative **Condition** that the character receives, or in some dire situations, outright death. GMs must state clearly what the risk is before the dice are rolled.
+A risk can be anything from a narrative consequence (something bad happens, the situation worsens, etc), a negative :hoverxref:`Condition <conditions>` that the character receives, or in some dire situations, outright death. GMs must state clearly what the risk is before the dice are rolled.
 
 Avoiding Risk
 ~~~~~~~~~~~~~
 
-The best way to avoid a risk is to try another course of action. If that's not possible and/or the player still wants to move forward with that action, then they would suffer varying degrees of risk in the form of Conditions (see **Resisting Conditions**).
+The best way to avoid a risk is to try another course of action. If that's not possible and/or the player still wants to move forward with that action, then they would suffer varying degrees of risk in the form of Conditions (see :hoverxref:`Resisting Conditions <resisting-conditions>`).
 
 .. _conditions:
 
@@ -119,11 +123,12 @@ Conditions
 
 **Conditions** are negative *Descriptors* a character might receive from external sources like damage or other hindrances. They usually give **Disadvantage** for related action rolls.
 
-Condition **Slots** are limited; a character can have only one *Mild*, *Moderate* and *Severe* Condition. Gaining one in a slot already filled increases it to the next tier. If they don’t have empty slots, they are *Taken Out* [#]_ (out of action, without a say in their fate).
+Condition **Slots** are limited; a character can have only one *Mild*, *Moderate* and *Severe* Condition. Gaining one in a slot already filled increases it to the next tier. If they don’t have empty slots, they are :hoverxref:`Taken Out <taken-out>` (out of action, without a say in their fate).
+
+Examples: ``Mild laceration``, ``Moderate Embarrassment)``, ``Severe Internal Bleeding)``, ``Stunned (Mild)``
 
 Conditions **Recover** over time after beginning some sort of appropriate treatment. As a rule of thumb, *Mild* Conditions recover after a few minutes or hours, *Moderate* ones recover after a few days, and *Severe* ones recover after weeks or months.
 
-.. [#] If a character is **Taken Out** for long periods of time (or forever, if they died), their player should make a new character to introduce ASAP. Favor inclusion and fun over realism and rules. You might meet a new ally in the next room, promote a NPC to PC, or jump forward in time to recruiting a new teammate.
 
 The different results on a die roll can be used to know what type of Condition you apply or receive:
 
@@ -152,7 +157,9 @@ The different results on a die roll can be used to know what type of Condition y
 Taken Out
 ~~~~~~~~~
 
-Being **Taken Out** usually means losing the ability to stay in play with the agency to alter the world around them. This could be represented in different ways, depending on the context of the situation; exhausted, beffudled, K.O.d, or even dead.
+Being **Taken Out** [#]_ usually means losing the ability to stay in play with the agency to alter the world around them. This could be represented in different ways, depending on the context of the situation; exhausted, beffudled, K.O.d, or even dead.
+
+.. [#] If a character is **Taken Out** for long periods of time (or forever, if they died), their player should make a new character to introduce ASAP. Favor inclusion and fun over realism and rules. You might meet a new ally in the next room, promote a NPC to PC, or jump forward in time to recruiting a new teammate.
 
 Difficulty
 ----------
