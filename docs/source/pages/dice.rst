@@ -40,7 +40,7 @@ It is recommended to use the **Narrative Dice** for a more immersive and faster 
 .. rst-class:: center-aligned
 
 .. csv-table:: Narrative Dice Faces and Probabilities
-   :widths: 16, 16, 16, 16, 16, 16
+   :widths: 10, 18, 18, 18, 18, 18
 
    "", "|blackdie|", "|reddie|", "|yellowdie|", "|greendie|", "|bluedie|"
    "6", "YES! BUT...", "YES!", "YES! AND...", "YES! AND...", "YES! AND..."
