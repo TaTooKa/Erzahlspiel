@@ -28,6 +28,8 @@ Narrative Dice
 
 It is recommended to use the **Narrative Dice** for a more immersive and faster experience. These are custom six-sided dice of different colors, with text like "YES!", "NO!", "YES, AND...", "NO, BUT...", etc. 
 
+.. rst-class:: center-aligned
+
 .. csv-table:: 
 
    "|blackdie|", "|reddie|", "|yellowdie|", "|greendie|", "|bluedie|"
@@ -38,7 +40,13 @@ It is recommended to use the **Narrative Dice** for a more immersive and faster 
 Narrative Dice Probabilities
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-TODO
+.. rst-class:: center-aligned
+
+.. csv-table:: 
+
+   "", "|blackdie|", "|reddie|", "|yellowdie|", "|greendie|", "|bluedie|"
+   "6", "YES! BUT...", "YES!", "YES! AND...", "YES! AND...", "YES! AND..."
+   "Success Chance", "16%", "33%", "50%", "66%", "84%"
 
 Virtual Narrative Dice
 ~~~~~~~~~~~~~~~~~~~~~~
