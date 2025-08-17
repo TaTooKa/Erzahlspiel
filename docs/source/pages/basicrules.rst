@@ -71,6 +71,14 @@ Roll |blackdie| if you have **Overwhelming Disadvantage** (because of cumulative
  "NO!", "You failed at what you were trying to do."
  "NO! AND...", "You failed at what you were trying to do, and it’s even worse, or another thing detrimental to you also happens."
 
+
+.. _descriptors:
+
+Descriptors
+-----------
+
+TODO
+
 .. _risk:
 
 Risk
