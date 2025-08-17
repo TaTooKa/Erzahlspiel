@@ -37,19 +37,21 @@ It is recommended to use the **Narrative Dice** for a more immersive and faster 
 
 .. _narrative-dice-probabilities:
 
-.. rst-class:: center-aligned
+.. container:: narrative-dice-probabilities
 
-.. csv-table:: Narrative Dice Faces and Probabilities
-   :widths: 10, 18, 18, 18, 18, 18
+   .. rst-class:: center-aligned
 
-   "", "|blackdie|", "|reddie|", "|yellowdie|", "|greendie|", "|bluedie|"
-   "6", "YES! BUT...", "YES!", "YES! AND...", "YES! AND...", "YES! AND..."
-   "5", "NO! BUT...",  "YES! BUT...",  "YES!",  "YES!",  "YES! AND..."
-   "4", "NO!",  "NO! BUT...",  "YES! BUT...",  "YES!",  "YES!"
-   "3", "NO!",  "NO!",  "NO! BUT...",  "YES! BUT...",  "YES!"
-   "2", "NO! AND...",  "NO!",  "NO!",  "NO! BUT...",  "YES! BUT..."
-   "1", "NO! AND...",  "NO! AND...",  "NO! AND...",  "NO!",  "NO! BUT..."
-   "Success Chance", "16%", "33%", "50%", "66%", "84%"
+   .. csv-table:: Narrative Dice Faces and Probabilities
+      :widths: 10, 18, 18, 18, 18, 18
+
+      "", "|blackdie|", "|reddie|", "|yellowdie|", "|greendie|", "|bluedie|"
+      "6", "YES! BUT...", "YES!", "YES! AND...", "YES! AND...", "YES! AND..."
+      "5", "NO! BUT...",  "YES! BUT...",  "YES!",  "YES!",  "YES! AND..."
+      "4", "NO!",  "NO! BUT...",  "YES! BUT...",  "YES!",  "YES!"
+      "3", "NO!",  "NO!",  "NO! BUT...",  "YES! BUT...",  "YES!"
+      "2", "NO! AND...",  "NO!",  "NO!",  "NO! BUT...",  "YES! BUT..."
+      "1", "NO! AND...",  "NO! AND...",  "NO! AND...",  "NO!",  "NO! BUT..."
+      "Success Chance", "16%", "33%", "50%", "66%", "84%"
 
 Virtual Narrative Dice
 ~~~~~~~~~~~~~~~~~~~~~~

@@ -47,7 +47,7 @@ The game is a conversation. Players take turns to describe what their characters
 Rolling the dice
 ~~~~~~~~~~~~~~~~
 
-If there is :hoverxref:`risk <risk>` or **uncertainty** and the player decides to move forward [#]_, the GM asserts their odds of success and asks the player to roll a specific :hoverxref:`Narrative Die <narrative-dice>`:
+If there is :hoverxref:`risk <risk>` or **uncertainty** and the player decides to move forward [#]_, the GM :hoverxref:`asserts their odds <interpret-the-odds>` of success and asks the player to roll a specific :hoverxref:`Narrative Die <narrative-dice>`:
 
 .. [#] The player must be willing to take the risk before rolling the dice. They always have the option to back down and choose another course of action.
 
@@ -77,7 +77,7 @@ Roll |blackdie| if you have **Overwhelming Disadvantage** (because of cumulative
 Descriptors
 -----------
 
-TODO
+Descriptors are narrative truths that characters, obstacles or even the scene could have. These can be aspects or traits that give some sort of *narrative permission* (For example, a character with ``Wings`` would be able to fly, while others that don't have that Descriptor wouldn't be able to. Another character might have an ``Axe`` that would let them chop down a tree.). They could also give **Advantage** or **Disadvantage** to certain actions (For example, a character with the Descriptor ``Strong`` would have **Advantage** when trying to lift something heavy, while a character with the Descriptor ``Injured Leg`` would have **Disadvantage** when trying to run).
 
 .. _interpret-the-odds:
 
