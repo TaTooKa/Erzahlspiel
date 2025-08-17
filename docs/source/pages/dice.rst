@@ -1,20 +1,43 @@
+.. |blackdie| image:: ../_static/images/black-die.png
+   :height: 35px
+   :align: bottom
+
+.. |reddie| image:: ../_static/images/red-die.png
+   :height: 35px
+   :align: bottom
+
+.. |yellowdie| image:: ../_static/images/yellow-die.png
+   :height: 35px
+   :align: bottom
+
+.. |greendie| image:: ../_static/images/green-die.png
+   :height: 35px
+   :align: bottom
+
+.. |bluedie| image:: ../_static/images/blue-die.png
+   :height: 35px
+   :align: bottom
+
 Dice
 ====
+
+.. _narrative-dice:
 
 Narrative Dice
 --------------
 
-It is recommended to use the **Narrative Dice** for a more immersive and faster experience.
+It is recommended to use the **Narrative Dice** for a more immersive and faster experience. These are custom six-sided dice of different colors, with text like "YES!", "NO!", "YES, AND...", "NO, BUT...", etc. 
 
-.. figure:: ../_static/images/black-die.png
 
-.. figure:: ../_static/images/red-die.png
+The black die: |blackdie|
 
-.. figure:: ../_static/images/yellow-die.png
+The red die: |reddie|
 
-.. figure:: ../_static/images/green-die.png
+The yellow die: |yellowdie|
 
-.. figure:: ../_static/images/blue-die.png
+The green die: |greendie|
+
+The blue die: |bluedie|
 
 Narrative Dice Probabilities
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~

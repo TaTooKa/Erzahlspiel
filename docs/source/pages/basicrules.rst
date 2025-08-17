@@ -1,3 +1,23 @@
+.. |blackdie| image:: ../_static/images/black-die.png
+   :height: 35px
+   :align: bottom
+
+.. |reddie| image:: ../_static/images/red-die.png
+   :height: 35px
+   :align: bottom
+
+.. |yellowdie| image:: ../_static/images/yellow-die.png
+   :height: 35px
+   :align: bottom
+
+.. |greendie| image:: ../_static/images/green-die.png
+   :height: 35px
+   :align: bottom
+
+.. |bluedie| image:: ../_static/images/blue-die.png
+   :height: 35px
+   :align: bottom
+
 Basic Rules
 ===========
 
@@ -19,29 +39,27 @@ The game is a conversation. Players take turns to describe what their characters
 - just **happens** as described and what's the outcome
 - is **impossible**, or what extra steps would be required
 - has a **cost**, that the character must pay or suffer in order to perform the action
-- presents a :hoverxref:`risk <risk>`, that the player must avoid before continuing (:hoverxref:`🎲🎲 <rolling-the-dice>`)
-- has an **uncertain** outcome, and a failure state is interesting (:hoverxref:`🎲🎲 <rolling-the-dice>`)
-
+- presents a :hoverxref:`risk <risk>`, that the player must avoid before continuing (:hoverxref:`dice roll <rolling-the-dice>`)
+- has an **uncertain** outcome, and a failure state is interesting (:hoverxref:`dice roll <rolling-the-dice>`)
 
 .. _rolling-the-dice:
 
 Rolling the dice
 ~~~~~~~~~~~~~~~~
 
-If there is :hoverxref:`risk <risk>` or **uncertainty** and the player decides to move forward [#]_, then they must **roll 2d6**, and:
+If there is :hoverxref:`risk <risk>` or **uncertainty** and the player decides to move forward [#]_, the GM asserts their odds of success and asks the player to roll a specific :hoverxref:`Narrative Die <narrative-dice>`:
 
-.. [#] The player must be willing to take the risk before rolling the dice. They always have the option to back down and choose another course of action.
+Roll |yellowdie| by default, when the odds are 50/50.
 
-- add +1 if they have a relevant *skill*, 
-- add +1 if they have a relevant *item*,
-- add +1 if *helped* by circumstances or by someone else (but they share any risk or consequence)
-- subtract -1 for each relevant :hoverxref:`hindrance <hindrances>` that affects the character
+Roll |greendie| If you have **Advantage** for an action, from your character traits, skills, items or other external circumstances.
 
-then check the total:
+Roll |bluedie| If you have **Overwhelming Advantage** (because of cumulative Advantages, or by comparison of power levels, skill difference, item superiority, and such).
 
-- a 6 or less is a **FAILURE**. Suffer full risk and/or don't get what they intended to do. 
-- a 7 to 9 is a **PARTIAL SUCCESS**. They achieve the intended outcome but partially, and/or suffer a lesser version of the risk.
-- a 10 or more is a **SUCCESS**. They get what they wanted, and avoid any risk.
+Roll |reddie| If you have **Disadvantage** from any condition, hindrance or other external circumstances.
+
+Roll |blackdie| if you have **Overwhelming Disadvantage** (because of cumulative Disadvantages or negative conditions, or by comparison of power levels, skill difference, item superiority, and such). 
+
+
 
 .. _risk:
 
