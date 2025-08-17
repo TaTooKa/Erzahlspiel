@@ -79,6 +79,19 @@ Descriptors
 
 TODO
 
+.. _interpret-the-odds:
+
+Interpreting the Odds
+---------------------
+
+The GM interprets the context of the narrative and any Descriptor that is in play (and could alter the odds of the action), concluding whether the character has Advantage or Disadvantage.
+
+Some game mechanics might say they give "Advantage" or "Disadvantage". Other things like **Descriptors** usually impose Advantage or Disadvantage to certain actions.
+
+Some GMs like to tally each and every one of the Descriptors, Conditions or other situations in play that could alter the odds, subtracting positives from negatives. Others like to eyeball it and infer whether there is match (50/50) of if the scales are tipped one way or the other (Advantageous or Disadvantageous for the character initiating the action).
+
+Whichever the case, the GM only defines which die the player must roll. The player can decide to move forward with the action with those odds, or back down and try something else. 
+
 .. _risk:
 
 Risk
@@ -88,38 +101,51 @@ Risk
 
    art © `Jeff Delierre <https://www.infectedbyart.com/contestpiece.asp?piece=3422>`_
 
-A risk can be anything from a narrative consequence (something bad happens, the situation worsens, etc), a negative condition or a *hindrance* that the character receives, or in some dire situations, outright death. GMs must state clearly what the risk is before the dice are rolled.
+A risk can be anything from a narrative consequence (something bad happens, the situation worsens, etc), a negative **Condition** that the character receives, or in some dire situations, outright death. GMs must state clearly what the risk is before the dice are rolled.
 
 Avoiding Risk
 ~~~~~~~~~~~~~
 
-The best way to avoid a risk is to try another course of action. If that's not possible and/or the player still wants to move forward with that action, then they would suffer the full Risk in case of a FAILURE, or a lesser version of it in case of a PARTIAL SUCCESS. Only a full SUCCESS would grant them total avoidance of the Risk.
+The best way to avoid a risk is to try another course of action. If that's not possible and/or the player still wants to move forward with that action, then they would suffer varying degrees of risk in the form of Conditions (see **Resisting Conditions**).
 
-.. _defense:
+.. _conditions:
 
-Defense
-^^^^^^^
-
-For risk of physical harm, characters can defend themselves by sacrificing an item they carry that could provide some sort of protection for the current situation [#]_. Said Item could be lost or completely destroyed, or just temporarily broken (it becomes useless until repaired by spending time and/or using proper tools). 
-
-.. [#] Whatever the player decides to break, it must make sense in the fiction. You cannot stop a bullet with a screwdriver (...in most cases). Creativity is encouraged, but the GM has the final word on what makes sense and what is a stretch.
-
-.. _hindrances:
-
-Hindrances
+Conditions
 ----------
 
 .. figure:: ../_static/images/rpg-image-14.jpg
 
    art © `Marco Checchetto <https://www.instagram.com/mchecc18>`_
 
-**Hindrances** are negative conditions that give a -1 each to any related roll (in actions in which the *hindrance* would adversely affect the character).
+**Conditions** are negative *Descriptors* a character might receive from external sources like damage or other hindrances. They usually give **Disadvantage** for related action rolls.
 
-*Hindrances* are usually gained as a consequence of a bad roll (most likely after failing to avoid a danger or resist damage), but the GM can also impose a hindrance to a character automatically if the narrative demands so. A *hindrance* can be anything detrimental for the character that could affect them in future actions, like a physical injury, a negative condition like being over-encumbered or exhausted, a mental state like being over-stressed or terrified, a social state like being ashamed, distressed or humiliated, etc. 
+Condition **Slots** are limited; a character can have only one *Mild*, *Moderate* and *Severe* Condition. Gaining one in a slot already filled increases it to the next tier. If they don’t have empty slots, they are *Taken Out* [#]_ (out of action, without a say in their fate).
 
-3 or more *hindrances* usually mean that the character risks being **Taken Out** [#]_ in their next attempt (at GM discretion).
+Conditions **Recover** over time after beginning some sort of appropriate treatment. As a rule of thumb, *Mild* Conditions recover after a few minutes or hours, *Moderate* ones recover after a few days, and *Severe* ones recover after weeks or months.
 
 .. [#] If a character is **Taken Out** for long periods of time (or forever, if they died), their player should make a new character to introduce ASAP. Favor inclusion and fun over realism and rules. You might meet a new ally in the next room, promote a NPC to PC, or jump forward in time to recruiting a new teammate.
+
+The different results on a die roll can be used to know what type of Condition you apply or receive:
+
+.. _applying-conditions:
+
+.. csv-table:: Applying Conditions
+ :widths: 30, 70
+
+ "YES! AND...", "*Severe* Condition applied"
+ "YES!", "*Moderate* Condition applied"
+ "YES! BUT...", "*Mild* Condition applied"
+ "any NO", "No Condition applied"
+
+.. _resisting-conditions:
+
+.. csv-table:: Resisting Conditions
+ :widths: 30, 70
+
+ "any YES", "No Condition received"
+ "NO! BUT...", "*Mild* Condition received"
+ "NO!", "*Moderate* Condition received"
+ "NO! AND...", "*Severe* Condition received"
 
 .. _taken-out:
 
@@ -137,13 +163,6 @@ Difficulty
 
    art © Fantasy Flight Games
 
-Since there is a set range of outcomes for any roll (6-; 7~9; 10+), in order to increase or decrease the difficulty of an action, the GM can impose a modifier of ±X to a roll.
+If the GM wants to increase or decrease the difficulty of an action, they can do so by declaring a *Descriptor* that affects the action, and changes the die the player must roll, thus changing their :hoverxref:`odds of success <narrative-dice-probabilities>` (For example, changing the die from |yellowdie| to |reddie| changes the chance of getting any YES from 50% to 33%). 
 
-- If the character has some sort of **advantage** from an external circumstance, or the action would be particularily **easy** for an average person, they gain +1 to the roll.
-- If the character has some sort of **disadvantage** from an external circumstance, or the action would be particularily **hard** for an average person, they recieve -1 to the roll.
-
-These modifiers could increase to ±2 if the GM deems so (specially if there are more than one circumstance affecting the action), but should keep in mind that a ±2 would have a huge impact in a 2d6 roll [#]_. 
-
-.. [#] In an unmodified 2d6 roll (+0), the most likely result is 7 (with a 16.67% chance). On 2d6+1, the most likely result moves up to 8. On 2d6+2 it's 9, and with 2d6+3 it's 10 (meaning it's likely to always succeed).
-
-**Hindrances** already impose negative modifiers to character actions, which is another factor for the GM to consider when imposing difficulty penalties.
+Alternatively, the GM can just say that the action is "easier than normal" (and increase the die the player would roll), or that is "harder than normal" (and decrease the die the player would roll).
