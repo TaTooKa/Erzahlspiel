@@ -11,8 +11,6 @@ This means that the focus should be put into making a believable (but not necess
 
    art © `Akim Kaliberda <https://www.artstation.com/artwork/NzDk5>`_
 
-In order to play, you will need at least two six-sided dice (preferrably a pair per player) [#]_, writing implements and some sheets of paper in which to take notes and write character skills, items and conditions.
-
 In order to play, you will either need a set of `Narrative Dice <https://tinyurl.com/NarrativeDice>`_, or up to three six-sided dice (d6) if using the alternative dice rules.
 
 .. [#] certain *Optional rules* or alternatives might require rolling other dice for certain situations. Also, in the **Worlds** sections, there are many random table generators that demand the use of other RPG dice like the d4, d8, d10, d12, d20, etc. It is recommended that (at least) the GM has a full set of polyhedral dice at hand.  
