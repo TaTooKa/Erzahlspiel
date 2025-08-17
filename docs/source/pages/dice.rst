@@ -28,16 +28,12 @@ Narrative Dice
 
 It is recommended to use the **Narrative Dice** for a more immersive and faster experience. These are custom six-sided dice of different colors, with text like "YES!", "NO!", "YES, AND...", "NO, BUT...", etc. 
 
+.. csv-table:: 
 
-The black die: |blackdie|
+   "|blackdie|", "|reddie|", "|yellowdie|", "|greendie|", "|bluedie|"
+   "Black Die",  "Red Die", "Yellow Die", "Green Die", "Blue Die"
 
-The red die: |reddie|
-
-The yellow die: |yellowdie|
-
-The green die: |greendie|
-
-The blue die: |bluedie|
+.. _narrative-dice-probabilities:
 
 Narrative Dice Probabilities
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -54,6 +50,8 @@ Building your own custom Narrative Dice
 
 TODO
 
+
+.. _regular-dice:
 
 Regular six-sided dice
 ----------------------

@@ -49,6 +49,8 @@ Rolling the dice
 
 If there is :hoverxref:`risk <risk>` or **uncertainty** and the player decides to move forward [#]_, the GM asserts their odds of success and asks the player to roll a specific :hoverxref:`Narrative Die <narrative-dice>`:
 
+.. [#] The player must be willing to take the risk before rolling the dice. They always have the option to back down and choose another course of action.
+
 Roll |yellowdie| by default, when the odds are 50/50.
 
 Roll |greendie| If you have **Advantage** for an action, from your character traits, skills, items or other external circumstances.
@@ -59,7 +61,15 @@ Roll |reddie| If you have **Disadvantage** from any condition, hindrance or othe
 
 Roll |blackdie| if you have **Overwhelming Disadvantage** (because of cumulative Disadvantages or negative conditions, or by comparison of power levels, skill difference, item superiority, and such). 
 
+.. csv-table:: Dice roll outcomes
+ :widths: 10, 90
 
+ "YES! AND...", "You achieve what you intended with greater effect, or another thing beneficial to you also happens."
+ "YES!", "You achieve what you intended to do."
+ "YES! BUT...", "You are successful in what you tried to do, but to a certain degree, or another thing detrimental to you also happens."
+ "NO! BUT...", "You failed at what you were trying to achieve, but it’s not too bad, or another thing beneficial to you also happens."
+ "NO!", "You failed at what you were trying to do."
+ "NO! AND...", "You failed at what you were trying to do, and it’s even worse, or another thing detrimental to you also happens."
 
 .. _risk:
 
