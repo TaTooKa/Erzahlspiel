@@ -1,4 +1,0 @@
-Galaxy Far Away
-===============
-
-TODO

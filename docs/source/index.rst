@@ -30,13 +30,80 @@ The GM will most likely peruse one of the Worlds and Scenarios provided in this 
    pages/about
 
 .. toctree::
+   :caption: Magic Systems
+   :hidden:
+
+   pages/magicsystems/sigilmagic
+   pages/magicsystems/materialcomponentmagic
+
+.. toctree::
    :caption: Worlds
    :hidden:
 
-   pages/generic
-   pages/dyingsun
-   pages/neonandchrome
-   pages/grittyspacescifi
-   pages/superpowers
-   pages/galaxyfaraway
-   pages/riseofthemachines
+   pages/worlds/generic
+
+.. toctree::
+   :caption: Vanilla Fantasy
+   :hidden:
+
+   pages/worlds/vanillafantasy/characters
+
+.. toctree::
+   :caption: Grimdark Fantasy
+   :hidden:
+
+   pages/worlds/grimdarkfantasy/characters
+   pages/worlds/grimdarkfantasy/darkmagic
+
+.. toctree::
+   :caption: Interplanetary
+   :hidden:
+
+   pages/worlds/interplanetary/characters
+   pages/worlds/interplanetary/spacephysics
+   pages/worlds/interplanetary/spacetravel
+   pages/worlds/interplanetary/spacecraft
+   pages/worlds/interplanetary/solsystem
+
+.. toctree::
+   :caption: Gritty Space Sci-Fi
+   :hidden:
+
+   pages/worlds/grittyspacescifi/characters
+
+.. toctree::
+   :caption: Galaxy Far Away
+   :hidden:
+
+   pages/worlds/galaxyfaraway/characters
+
+.. toctree::
+   :caption: Zombie Apocalypse
+   :hidden:
+
+   pages/worlds/zombieapocalypse/characters
+
+.. toctree::
+   :caption: Dying Sun
+   :hidden:
+
+   pages/worlds/dyingsun/characters
+
+.. toctree::
+   :caption: Neon and Chrome
+   :hidden:
+
+   pages/worlds/neonandchrome/characters
+   pages/worlds/neonandchrome/runningontheedge
+
+.. toctree::
+   :caption: Atomic Wasteland
+   :hidden:
+
+   pages/worlds/atomicwasteland/characters
+
+.. toctree::
+   :caption: Super Powers
+   :hidden:
+
+   pages/worlds/superpowers/characters

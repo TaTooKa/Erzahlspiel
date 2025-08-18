@@ -1,11 +1,8 @@
-Super Powers
-============
-
 Character Creation
-------------------
+==================
 
 Origin
-~~~~~~
+------
 
 The **Origin** explains how you got your powers. Roll d10 or choose:
 
@@ -24,7 +21,7 @@ The **Origin** explains how you got your powers. Roll d10 or choose:
  "10","GENETICS","You were born with or destined to develop amazing abilities, from an X-Gene or as part of a new link in evolution."
 
 Archetype
-~~~~~~~~~
+---------
 
 The **Archetype** defines your personality, how you act and how others see you.  Roll d8 or choose:
 
@@ -41,7 +38,7 @@ The **Archetype** defines your personality, how you act and how others see you. 
  "8", "UNCONTROLLED", "A volatile force of raw emotion and power, struggling to keep it all together."
 
 Principles and Beliefs
-~~~~~~~~~~~~~~~~~~~~~~
+----------------------
 
 Roll d10 or choose:
 
@@ -60,22 +57,24 @@ Roll d10 or choose:
  "10", "I don't need to be loved, just feared and respected."
 
 Powers
-~~~~~~
+------
 
-Powers are special or supernatural abilities that, first and foremost, give *narrative permission*. The higher the power level, the stronger or more capable the power is: use it as a guideline to determine if you can do something or not with the Power, and to what extent. When rolling dice, Powers work like :hoverxref:`granular skills <expanded-granular-bonuses>`, acting as modifiers that go from +1 to +5. 
+Powers are special or supernatural abilities that, first and foremost, give *narrative permission*. The higher the power level, the stronger or more capable the power is: use it as a guideline to determine if you can do something or not with the Power, and to what extent. When rolling dice, Powers work like :hoverxref:`modifiers <bonusesmaluses>`, but that can be +1, +2, +3, +4 or +5. 
 
 **Power levels**: *Basic* (+1), *Good* (+2), *Incredible* (+3), *Fantastic* (+4), *Supreme* (+5).
 
 Your power might come from an innate ability, artificial enhancement or supernatural/magitech item that you have.
 
-If your character has mundane **Skills** or **Items** to help them instead of **Powers**, just use the name tiers of :hoverxref:`Granular Bonuses <expanded-granular-bonuses>` for those instead.
+If your character has mundane **Skills** or **Items** to help them instead of **Powers**, just use the :hoverxref:`tiers and keywords <bonusesmaluseskeywords>` of those instead.
 
 The GM establishes the amount of Powers and their levels for the characters in the game. The default is one *Basic* (+1), one *Good* (+2) and one *Incredible* (+3).
 
 Power List
-^^^^^^^^^^
+~~~~~~~~~~
 
 Roll a d100 or choose:
+
+.. rst-class:: three-columns
 
 #. ADHERENCE
 #. ANATOMIC SEPARATION
@@ -161,6 +160,8 @@ Superpower Elements
 
 Roll d12 or choose:
 
+.. rst-class:: three-columns
+
 #. Air
 #. Darkness
 #. Earth
@@ -181,6 +182,8 @@ Superpower Materials
 
 Roll d12 or choose:
 
+.. rst-class:: three-columns
+
 #. Wood
 #. Metal
 #. Flesh
@@ -197,7 +200,7 @@ Roll d12 or choose:
 .. _extras-and-limits:
 
 Extras and Limits
-~~~~~~~~~~~~~~~~~
+-----------------
 
 You can customize each of your Powers: You can pick an **Extra** for it by lowering its Power Level by one. You can increase its Power Level by one by picking a **Limit** for it. You can do this as many times as you want, as long as the Power Level doesn’t end lower than +1 or greater than +5.
 
@@ -237,4 +240,3 @@ Many of the Extras and Limits only apply to some powers, while others “already
  "SELF ONLY","The power only affects you; you cannot use it on others."
  "TOUCH ONLY","Your normally ranged power only works by touching the target."
  "WEAKNESS TO [X]","Your power is heavily diminished or turned off when something specific happens or when you are exposed to a certain type of energy or material."
-
