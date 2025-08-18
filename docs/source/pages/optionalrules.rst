@@ -68,6 +68,29 @@ The GM can decide how much progress each event or action makes on a clock, or th
 
 .. _instinct-checks:
 
+.. _descriptor-tiers:
+
+Descriptor Tiers
+----------------
+
+Descriptors could have different tiers that represent their power level, quality or intensity. They have no mechanical effect on their own, but they can be used by the GM to compare between characters' Descriptors when :hoverxref:`asserting the odds <interpret-the-odds>` to choose which die the player must roll.
+
++--------------+------------+---------------+------------+
+|  Type / Tier |   Minor    |    Moderate   |    Major   |
++==============+============+===============+============+
+|     Skill    |    Adept   |     Expert    |   Master   |
++--------------+------------+---------------+------------+
+| Item Quality |   Mundane  |   Masterwork  |  Legendary |
++--------------+------------+---------------+------------+
+|   Condition  |    Mild    |    Moderate   |   Severe   |
++--------------+------------+---------------+------------+
+
+For example, a character with the Descriptor ``Martial arts Expert`` would have **Advantage** over a character with the Descriptor ``Martial arts Adept``. A character with the Descriptor ``Legendary Sword`` would have **Advantage** over a character with the Descriptor ``Masterwork Sword``. [#]_ 
+
+.. [#] Some GMs like to give **Overwhelming Advantage** or **Overwhelming Disadvantage** when the Tier is two levels higher or lower than that of the opposition.
+
+GMs are free to interpet these differences in tiers however they want, based on external circumstances or context, or disregard the level difference altogether when they deem unnecessary.
+
 Instinct Checks
 ---------------
 
