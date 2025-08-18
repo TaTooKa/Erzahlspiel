@@ -88,6 +88,7 @@ The GM will most likely peruse one of the Worlds and Scenarios provided in this 
    :hidden:
 
    pages/worlds/dyingsun/characters
+   pages/worlds/dyingsun/dyingsun
 
 .. toctree::
    :caption: Neon and Chrome
