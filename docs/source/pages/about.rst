@@ -21,8 +21,10 @@ Touchstones and Inspiration
 Other RPGs
 ~~~~~~~~~~
 
+- **Fate** by Evil Hat Productions
 - **24XX** by Jason Tocci 
 - **Powered by the Apocalypse** RPGs, and **World of Dungeons** by John Harper
+- **Blades in the Dark** by John Harper
 - Many **OSR** and **FKR** hacks and one-page systems
-- **Blackmoor**
-- **Traveller**
+- **Blackmoor** by Dave Arneson
+- **Traveller** by Marc Miller
