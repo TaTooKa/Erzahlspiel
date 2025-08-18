@@ -26,6 +26,8 @@ Dice
 Narrative Dice
 --------------
 
+.. figure:: ../_static/images/narrative-dice-photo-1.jpg
+
 It is recommended to use the **Narrative Dice** for a more immersive and faster experience. These are custom six-sided dice of different colors, with text like "YES!", "NO!", "YES, AND...", "NO, BUT...", etc. 
 
 .. rst-class:: center-aligned
@@ -62,6 +64,8 @@ You can use them while playing online or even in person, if you prefer not to ca
 
 Building your own custom Narrative Dice
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+.. figure:: ../_static/images/narrative-dice-photo-2.jpg
 
 If you want to create your own custom Narrative Dice, you can use blank six-sided dice and write your own phrases on them. Use the :hoverxref:`above table <narrative-dice-probabilities>` that lists the faces of each die color as reference.
 
