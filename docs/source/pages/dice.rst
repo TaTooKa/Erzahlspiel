@@ -63,7 +63,11 @@ You can use them while playing online or even in person, if you prefer not to ca
 Building your own custom Narrative Dice
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-TODO
+If you want to create your own custom Narrative Dice, you can use blank six-sided dice and write your own phrases on them. This allows you to tailor the dice to your specific game and narrative style. Use the :hoverxref:`above table <narrative-dice-probabilities>` that lists the faces of each die color as reference.
+
+There are hobby stores and online retailers that sell blank six-sided dice (white or of different colors). You can use a permanent marker or paint to write the phrases you want on each face of the dice.
+
+You can also use `this image <../_static/images/dice-faces-stickers.png>`_ with all faces (black or white) and print it on adhesive paper, then cut and stick it on blank dice.
 
 .. _regular-dice:
 
@@ -82,4 +86,8 @@ An alternative way to roll in Erzählspiel is to use **regular six-sided dice (d
  "2", "NO!", "You failed at what you were trying to do."
  "1", "NO! AND...", "You failed at what you were trying to do, and it’s even worse, or another thing detrimental to you also happens."
 
-Roll 1d6 by default, when the odds are 50/50. If a character has **Advantage** for an action, the player rolls two d6 and takes the higher result. If they have **Overwhelming Advantage**, they roll three d6 and take the highest. If they have Disadvantage, they roll two d6 and take the lower result, and for Overwhelming Disadvantage, they roll three d6 and take the lowest.
+Roll 1d6 by default, when the odds are 50/50. 
+
+If a character has **Advantage** for an action, the player rolls two d6 and takes the higher result. If they have **Overwhelming Advantage**, they roll three d6 and take the highest. 
+
+If they have **Disadvantage**, they roll two d6 and take the lower result, and for **Overwhelming Disadvantage**, they roll three d6 and take the lowest.
