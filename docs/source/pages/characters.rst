@@ -1,6 +1,10 @@
 Characters
 ==========
 
+.. figure:: ../_static/images/rpg-image-27.jpg
+
+   art © `Clyde Caldwell <https://clydecaldwell.com/>`_
+
 In Erzählspiel, characters are defined by their :hoverxref:`Descriptors <descriptors>` in natural language, which are short phrases that capture their key traits, skills, and backgrounds. 
 
 The rules of this game don't care about 5% increments in skills, or high crunch in mechanics which deal with math and fine-tuning of game properties to min-max or do "builds". The focus is on narrative context and :hoverxref:`the GM's interpretation of the situation <interpret-the-odds>`, comparing what they know (or infer) from the fiction, the characters' traits and the particularities of the scene.
