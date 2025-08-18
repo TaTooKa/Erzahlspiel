@@ -78,6 +78,8 @@ You can also use `this image <../_static/images/dice-faces-stickers.png>`_ with 
 Regular six-sided dice
 ----------------------
 
+.. figure:: ../_static/images/regular-dice-photo-1.jpg
+
 An alternative way to roll in Erzählspiel is to use **regular six-sided dice (d6)** instead of the Narrative Dice. In this case, the GM will need to interpret the results of the d6 rolls and translate them into the narrative outcomes that the Narrative Dice would provide.
 
 .. csv-table:: Six-sided die results
