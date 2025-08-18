@@ -56,14 +56,14 @@ It is recommended to use the **Narrative Dice** for a more immersive and faster 
 Virtual Narrative Dice
 ~~~~~~~~~~~~~~~~~~~~~~
 
-If you want to use the Narrative Dice but don't have physical ones, you can use `Virtual Narrative Dice <https://tinyurl.com/NarrativeDice>`_. It allows you to roll the dice virtually and see the results in a similar way to the physical dice.
+If you want to use the Narrative Dice but don't have physical ones, you can use the `Virtual Narrative Dice <https://tinyurl.com/NarrativeDice>`_ implemented in `ddice.com <http://dddice.com>`_. It allows you to roll the dice virtually and see the results in a similar way to the physical dice.
 
 You can use them while playing online or even in person, if you prefer not to carry the physical dice around.
 
 Building your own custom Narrative Dice
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-If you want to create your own custom Narrative Dice, you can use blank six-sided dice and write your own phrases on them. This allows you to tailor the dice to your specific game and narrative style. Use the :hoverxref:`above table <narrative-dice-probabilities>` that lists the faces of each die color as reference.
+If you want to create your own custom Narrative Dice, you can use blank six-sided dice and write your own phrases on them. Use the :hoverxref:`above table <narrative-dice-probabilities>` that lists the faces of each die color as reference.
 
 There are hobby stores and online retailers that sell blank six-sided dice (white or of different colors). You can use a permanent marker or paint to write the phrases you want on each face of the dice.
 
