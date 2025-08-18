@@ -59,12 +59,12 @@ The GM can decide how much progress each event or action makes on a clock, or th
 .. container:: making-progress
 
    .. csv-table:: Making Progress
-   :widths: 30, 70
+      :widths: 30, 70
 
-   "YES! AND...", "Mark 3 progress segments"
-   "YES!", "Mark 2 progress segments"
-   "YES! BUT...", "Mark 1 progress segment"
-   "any NO", "No progress made"
+      "YES! AND...", "Mark 3 progress segments"
+      "YES!", "Mark 2 progress segments"
+      "YES! BUT...", "Mark 1 progress segment"
+      "any NO", "No progress made"
 
 .. _instinct-checks:
 
@@ -79,7 +79,7 @@ Instinct Checks
 
 
 .. csv-table:: Instinct Check Results
- :widths: 20, 80
+ :widths: 10, 90
 
    "YES! AND...", "You maintain your composure and gain *Advantage* for further **Instinct Checks** during the scene."
    "YES!", "You maintain your composure and are not adversely affected by the situation."
