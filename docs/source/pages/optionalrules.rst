@@ -73,7 +73,7 @@ The GM can decide how much progress each event or action makes on a clock, or th
 Descriptor Tiers
 ----------------
 
-Descriptors could have different tiers that represent their power level, quality or intensity. This tiers have no mechanical effect on their own, but they can be used by the GM to compare between characters' Descriptors when :hoverxref:`asserting the odds <interpret-the-odds>` to choose which die the player must roll.
+Descriptors could have different tiers that represent their power level, quality or intensity. These tiers have no mechanical effect on their own, but they can be used by the GM to compare between characters' Descriptors when :hoverxref:`asserting the odds <interpret-the-odds>` to choose which die the player must roll.
 
 +--------------+------------+---------------+------------+
 |  Type / Tier |   Minor    |    Moderate   |    Major   |
