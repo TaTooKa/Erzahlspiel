@@ -137,7 +137,7 @@ The different results on a die roll can be used to know what type of Condition y
 .. container:: applying-conditions
 
    .. csv-table:: Applying Conditions
-      :widths: 30, 70
+      :widths: 20, 80
 
       "YES! AND...", "*Severe* Condition applied"
       "YES!", "*Moderate* Condition applied"
@@ -149,7 +149,7 @@ The different results on a die roll can be used to know what type of Condition y
 .. container:: resisting-conditions
 
    .. csv-table:: Resisting Conditions
-      :widths: 30, 70
+      :widths: 20, 80
 
       "any YES", "No Condition received"
       "NO! BUT...", "*Mild* Condition received"
