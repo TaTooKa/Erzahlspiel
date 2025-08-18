@@ -85,7 +85,7 @@ unnecessary things; just follow the internal logic of the
 world, and your gut, using the basic rules provided by
 this game.
 
-**Either failure/partial/success should move the story
+**Either result on a dice roll should move the story
 forward.** Don’t fall into the trap of “nothing happens”
 after a roll. Make it count. Make it change the state of
 the narrative one way or another. If necessary, wrap
@@ -165,10 +165,10 @@ shouldn’t try to force them in (let alone impose a whole
 plot or structured story; those never work without
 feeling “railroady” to players). It is best to have some
 ideas beforehand without commiting too much to them.
-“Draw maps, leave blanks” means you can prepare
-places, background situations or states, but leaving
-room for the characters to act and decide which way to
-go or what course of action to take. You, as the GM, can
+“Draw maps, leave blanks” is a famous principle that 
+means you can prepare places, background situations or states, 
+but leaving room for the characters to act and decide which 
+way to go or what course of action to take. You, as the GM, can
 also be surprised with the outcome of the story, which
 is oftentimes more fun than knowing every detail and
 possibility.
