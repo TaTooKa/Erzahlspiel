@@ -134,23 +134,27 @@ The different results on a die roll can be used to know what type of Condition y
 
 .. _applying-conditions:
 
-.. csv-table:: Applying Conditions
- :widths: 30, 70
+.. container:: applying-conditions
 
- "YES! AND...", "*Severe* Condition applied"
- "YES!", "*Moderate* Condition applied"
- "YES! BUT...", "*Mild* Condition applied"
- "any NO", "No Condition applied"
+   .. csv-table:: Applying Conditions
+   :widths: 30, 70
+
+   "YES! AND...", "*Severe* Condition applied"
+   "YES!", "*Moderate* Condition applied"
+   "YES! BUT...", "*Mild* Condition applied"
+   "any NO", "No Condition applied"
 
 .. _resisting-conditions:
 
-.. csv-table:: Resisting Conditions
- :widths: 30, 70
+.. container:: resisting-conditions
 
- "any YES", "No Condition received"
- "NO! BUT...", "*Mild* Condition received"
- "NO!", "*Moderate* Condition received"
- "NO! AND...", "*Severe* Condition received"
+   .. csv-table:: Resisting Conditions
+   :widths: 30, 70
+
+   "any YES", "No Condition received"
+   "NO! BUT...", "*Mild* Condition received"
+   "NO!", "*Moderate* Condition received"
+   "NO! AND...", "*Severe* Condition received"
 
 .. _taken-out:
 
