@@ -125,7 +125,7 @@ Conditions
 
 Condition **Slots** are limited; a character can have only one *Mild*, *Moderate* and *Severe* Condition. Gaining one in a slot already filled increases it to the next tier. If they don’t have empty slots, they are :hoverxref:`Taken Out <taken-out>` (out of action, without a say in their fate).
 
-Examples: ``Mild laceration``, ``Moderate Embarrassment)``, ``Severe Internal Bleeding)``, ``Stunned (Mild)``
+Examples: ``Mild laceration``, ``Moderate Embarrassment``, ``Severe Internal Bleeding``, ``Stunned (Mild)``
 
 Conditions **Recover** over time after beginning some sort of appropriate treatment. As a rule of thumb, *Mild* Conditions recover after a few minutes or hours, *Moderate* ones recover after a few days, and *Severe* ones recover after weeks or months.
 

@@ -56,17 +56,30 @@ It is recommended to use the **Narrative Dice** for a more immersive and faster 
 Virtual Narrative Dice
 ~~~~~~~~~~~~~~~~~~~~~~
 
-TODO
+If you want to use the Narrative Dice but don't have physical ones, you can use `Virtual Narrative Dice <https://tinyurl.com/NarrativeDice>`_. It allows you to roll the dice virtually and see the results in a similar way to the physical dice.
+
+You can use them while playing online or even in person, if you prefer not to carry the physical dice around.
 
 Building your own custom Narrative Dice
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 TODO
 
-
 .. _regular-dice:
 
 Regular six-sided dice
 ----------------------
 
-TODO
+An alternative way to roll in Erzählspiel is to use **regular six-sided dice (d6)** instead of the Narrative Dice. In this case, the GM will need to interpret the results of the d6 rolls and translate them into the narrative outcomes that the Narrative Dice would provide.
+
+.. csv-table:: Six-sided die results
+ :widths: 10, 20, 90
+
+ "6", "YES! AND...", "You achieve what you intended with greater effect, or another thing beneficial to you also happens."
+ "5", "YES!", "You achieve what you intended to do."
+ "4", "YES! BUT...", "You are successful in what you tried to do, but to a certain degree, or another thing detrimental to you also happens."
+ "3", "NO! BUT...", "You failed at what you were trying to achieve, but it’s not too bad, or another thing beneficial to you also happens."
+ "2", "NO!", "You failed at what you were trying to do."
+ "1", "NO! AND...", "You failed at what you were trying to do, and it’s even worse, or another thing detrimental to you also happens."
+
+Roll 1d6 by default, when the odds are 50/50. If a character has **Advantage** for an action, the player rolls two d6 and takes the higher result. If they have **Overwhelming Advantage**, they roll three d6 and take the highest. If they have Disadvantage, they roll two d6 and take the lower result, and for Overwhelming Disadvantage, they roll three d6 and take the lowest.
