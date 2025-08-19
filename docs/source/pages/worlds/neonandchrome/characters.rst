@@ -8,7 +8,7 @@
 
 **TOUCHSTONES and INSPIRATIONS**: *Neuromancer* and the *Sprawl Trilogy* by William Gibson. *Blade Runner* by Ridley Scott. *Cyberpunk 2020* by R. Talsorian Games. *Ghost In The Shell* by Masamune Shirow. *Cyberpunk 2077* by CD Projekt Red. *Snatcher* and *Policenauts* by Hideo Kojima.
 
-**OPTIONAL RULES**: This setting assumes the use of the following `Optional Rules <../../optionalrules>`_: :hoverxref:`Descriptor Tiers <descriptor-tiers>`; :hoverxref:`Instinct Checks <instinct-checks>`.
+**OPTIONAL RULES**: This setting assumes the use of the following `Optional Rules <../../optionalrules.html>`_: :hoverxref:`Descriptor Tiers <descriptor-tiers>`; :hoverxref:`Instinct Checks <instinct-checks>`.
 
 Character Creation
 ==================
@@ -364,9 +364,9 @@ buy your gear with *CryptoBits* (฿). Everyone starts with some cheap way of ac
 .. csv-table:: Armor / Wearables
  :widths: 90, 10
 
- "**Skin-tight suit (light):** armorgel weave. +1 for defensive actions.","1 K฿"
- "**Reinforced Vest (medium):** +2 for defensive actions.","2 K฿"
- "**Tactical Armor (heavy):** +3 for defensive actions. -1 for agility/speed related rolls.","3 K฿"
+ "**Skin-tight suit (light):** Flexible bodysuit laced with armorgel threads. Sleek, silent, and built for mobility.","1 K฿"
+ "**Reinforced Vest (medium):** rugged, impact-resistant vest lined with smart-fibers that stiffen on impact.","2 K฿"
+ "**Tactical Armor (heavy):** Full-body plating with bulletproof carbon-fiber layers, designed for frontline chaos. *bulky*.","3 K฿"
  "**Optical Camo Clothing:** Turns invisible on command. Best when combined with *Optical Camo Skin*.","1 K฿"
 
 .. csv-table:: Weapons and Mods
