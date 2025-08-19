@@ -21,6 +21,10 @@ The **Lifepath** defines your character’s background, origins, aspect and pers
 Cultural Origin
 ~~~~~~~~~~~~~~~
 
+.. figure:: /_static/images/rpg-image-28.jpg
+
+   art © `Janet Aulisio <https://en.wikipedia.org/wiki/Janet_Aulisio>`_
+
 Roll d10 to get your cultural origin and pick 2 languages you know.
 
 +----+--------------------------------+-----------------------------------------------------------------------------------+
