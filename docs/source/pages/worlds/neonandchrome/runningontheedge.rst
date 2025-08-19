@@ -26,7 +26,7 @@ Tell the GM what it is about and they will tell you if:
 Tracking Consumables
 ~~~~~~~~~~~~~~~~~~~~
 
-Tracking regular ammo or other consumables is not necessary. A character might run out on a :hoverxref:`Negative roll outcome <dice-roll-outcomes>`, or when the GM considers it would make narrative sense.
+Tracking regular ammo or other consumables is not necessary. A character might run out on a :hoverxref:`Negative roll outcome <rolling-the-dice>`, after a :hoverxref:`Fate Die roll <fate-die>`, or when the GM considers it would make narrative sense.
 
 The NET
 ~~~~~~~~

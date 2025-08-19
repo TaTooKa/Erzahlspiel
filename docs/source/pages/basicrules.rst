@@ -61,8 +61,6 @@ Roll |reddie| If you have **Disadvantage** from any condition, hindrance or othe
 
 Roll |blackdie| if you have **Overwhelming Disadvantage** (because of cumulative Disadvantages or negative conditions, or by comparison of power levels, skill difference, item superiority, and such). 
 
-.. _dice-roll-outcomes:
-
 .. csv-table:: Dice roll outcomes
  :widths: 10, 90
 
