@@ -178,6 +178,10 @@ Family Background
 Childhood Environment
 ~~~~~~~~~~~~~~~~~~~~~
 
+.. figure:: /_static/images/rpg-image-32.jpg
+
+   art © `Yong Yi Lee <https://leeyongyi.com/>`_
+
 Take the previous table result and add a d4. If you moved up in “class”, explain why.
 
 +------+---------------------------------------------------------------------------------+
