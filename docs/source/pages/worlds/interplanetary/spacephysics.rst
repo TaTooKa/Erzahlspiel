@@ -191,9 +191,9 @@ One of the dangers humans face when in space is oxygen deprivation. This might b
    :widths: 20, 80
 
    "1 Hour of Oxygen left", "Air is hard to breathe. Someone with an appropriate Skill might be allowed a roll to notice."
-   "30 minutes of Oxygen left", "It’s getting hard not to hyperventilate. Everyone affected gains the ``Hard to breathe (Mild)`` Condition, and loses 1 HP per minute."
-   "5 minutes of Oxygen left", "Everyone can notice the first telltales of asphyxiation. Everyone affected gains the ``Asphyxiating (Moderate)`` Condition, and loses 3 HP per minute."
-   "All Oxygen gone", "Everyone automatically passes out. They lose 5 HP per minute until dead."
+   "30 minutes of Oxygen left", "It’s getting hard not to hyperventilate. Everyone affected gains the ``Hard to breathe (Mild)`` Condition."
+   "5 minutes of Oxygen left", "Everyone can notice the first telltales of asphyxiation. Everyone affected gains the ``Asphyxiating (Moderate)`` Condition."
+   "All Oxygen gone", "Everyone automatically passes out. They last 5~10 minutes until dead."
 
 Losing pressure
 ~~~~~~~~~~~~~~~
@@ -226,10 +226,10 @@ Most spacers have at hand a bunch of life-saving **Slap Patches**, which are fol
    .. csv-table:: Effects of Pressure Loss
       :widths: 20, 80
 
-      "¾ of Normal Pressure", "No apparent effects other than eardrums popping. Anyone not accustomed to living/working in space will automatically lose 1 HP and do an :hoverxref:`Instinct Check <instinct-checks>`. Habitats or vessels that have pressure sensors will detect pressure loss and attempt to close hatches, if available."
+      "¾ of Normal Pressure", "No apparent effects other than eardrums popping. Anyone not accustomed to living/working in space will automatically do an :hoverxref:`Instinct Check <instinct-checks>` to keep calm. Habitats or vessels that have pressure sensors will detect pressure loss and attempt to close hatches, if available."
       "½ of Normal Pressure", "The air in the area is becoming hard to breathe. Anyone without a respirator or vac-suit gains the ``Hard to breathe (Mild)`` Condition."
-      "¼ of Normal Pressure", "The oxygen in the volume is less than required to remain conscious. If the depressurization was abrupt, everyone exposed gains the ``Asphyxiating (Moderate)`` Condition. If it took a while, everyone affected automatically falls unconscious. Additionally, characters affected will lose 5 HP per minute, and gain the ``The Bends (Moderate)`` Condition, as nitrogen boils out of the blood, until *Zero Pressure* is reached."
-      "Zero Pressure", "The compartment is airless and in a vacuum. Anyone exposed begins to suffer extreme pain; huge bruises begin to form all over their bodies, their blood boils, surface capillaries begin to burst, their eardrums rupture, and their noses and ears bleed. They gain ``The Bends (Moderate)`` Condition if they didn’t already have it. Additionally, each character loses 1 HP per second until dead."
+      "¼ of Normal Pressure", "The oxygen in the volume is less than required to remain conscious. If the depressurization was abrupt, everyone exposed gains the ``Asphyxiating (Moderate)`` Condition. If it took a while, everyone affected automatically falls unconscious. Additionally, characters affected will gain the ``The Bends (Moderate)`` Condition, as nitrogen boils out of the blood, until *Zero Pressure* is reached."
+      "Zero Pressure", "The compartment is airless and in a vacuum. Anyone exposed begins to suffer extreme pain; huge bruises begin to form all over their bodies, their blood boils, surface capillaries begin to burst, their eardrums rupture, and their noses and ears bleed. They gain ``The Bends (Moderate)`` Condition if they didn’t already have it. Additionally, each character increases the severity of each Condition they have each second until dead."
     
    When someone is *“spaced”* (thrown out of an airlock without a vac-suit), they immediately begin to suffer the effects of **Zero Pressure**.
 
@@ -246,14 +246,10 @@ Radiation consists of invisible, tiny atomic particles which break havoc when pa
 
 Radiation is of utmost importance to spacers because they are not protected by a huge magnetic field and a dense atmosphere like earthers do. Its dosage is usually measured in **Sieverts** (Sv) or **milliSieverts** (mSv). As the name suggests, 1000 mSv equals 1 Sv.
 
-Characters that receive a dose of Radiation of 1+ Sv in a short time span automatically [#]_ lose 1 HP per Sv received, plus any effects detailed on the *Radiation Effects* table.
-
-.. [#] it could actually take a few minutes for the health loss to kick in, at GM discretion.
-
 Radiation effects
 ~~~~~~~~~~~~~~~~~
 
-Players must tally each specific amount of Sv their characters gain. They will acquire :hoverxref:`Conditions <conditions>` on certain occasions, related to the amount of radiation they have been exposed to.
+Players must tally each specific amount of Sv their characters gain. They will acquire :hoverxref:`Conditions <conditions>` on certain occasions, related to the amount of radiation they have been exposed to. Receiving large doses (1+ Sv) in a short time span is particularly dangerous and can lead to immediate health effects.
 
 .. csv-table:: Radiation Effects
    :header: "Sv Acquired", "Radiation Sickness Effects"
@@ -421,7 +417,7 @@ This table represents the effects of different temperatures on the human body an
    "**Environmental Temperature**", "**Effects in the body** for *short exposure* (a few seconds up to a minute) or *long exposure* (a few minutes or more)."
    "Less than 15° C", "*Short exposure*: Gain ``Hypothermia (Moderate)``; extreme shivering.
 
-   *Long exposure*: Gain ``Frostbite (Severe)`` and Immediately and for every hour of continuous exposure, lose 3 HP."
+   *Long exposure*: Gain ``Frostbite (Severe)`` and for every hour of continuous exposure, regain that Condition or increase its severity."
    "Less than 0° C", "*Short exposure*: very uncomfortable shivering and muscle cramps.
 
    *Long exposure*: Gain the ``Severe Hypothermia`` Condition."
@@ -438,13 +434,13 @@ This table represents the effects of different temperatures on the human body an
 
    *Short exposure*: sweating, dizziness, confusion, fainting.
 
-   *Long exposure*: Gain ``Moderate Dehydration``, and Immediately and for every hour of continuous exposure, lose 3 HP."
+   *Long exposure*: Gain ``Moderate Dehydration``, and for every hour of continuous exposure, regain that Condition or increase its severity."
    "45° C", "Risk of heat exhaustion or heat stroke increases significantly. Proteins in the body begin denaturing, nerve impulses slow down, and organ function may be compromised.
 
    *Short exposure*: sweating, nausea, dizziness, confusion, fainting.
 
-   *Long exposure*: Gain ``Heat Stroke (Severe)`` and Immediately and for every hour of continuous exposure, lose 5 HP."
+   *Long exposure*: Gain ``Heat Stroke (Severe)`` and for every hour of continuous exposure, regain that Condition or increase its severity."
    "50° C or more", "The body loses its ability to cool itself effectively. Sweating becomes insufficient, leading to a dangerous rise in core temperature. Heat stroke may cause severe damage to organs such as the brain, heart, kidneys, and liver.
 
    *Short exposure*: sweating, nausea, dizziness, confusion, fainting.
-   *Long exposure*: Gain ``Heat Stroke (Severe)`` and Immediately and for every hour of continuous exposure, lose 10 HP."
+   *Long exposure*: Gain ``Heat Stroke (Severe)`` and for every hour of continuous exposure, regain that Condition or increase its severity."
