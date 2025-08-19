@@ -153,6 +153,10 @@ Mannerism
 Family Background
 ~~~~~~~~~~~~~~~~~
 
+.. figure:: /_static/images/rpg-image-31.jpg
+
+   art © `Hector Garrido <https://en.wikipedia.org/wiki/Hector_Garrido>`_
+
 +---+-------------------------------------------------------------------------------------------------------------------+
 | 1 | **Urban Homeless**. Shanty towns, tent villages, dumpsters, abandoned cars and shipping containers.               |
 +---+-------------------------------------------------------------------------------------------------------------------+
