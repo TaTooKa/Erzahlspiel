@@ -13,7 +13,7 @@ The **Downtime phase** occurs between runs. Each character can do two *Downtime 
 ▸ **HEALING**: Lie down in your hideout, visit a Ripperdoc shop, get treatment from a contact or ally, etc.
 A *Moderate* Condition is healed with a single Downtime Activity. A *Severe* Condition requires two Downtime Activity expenditures (could be split in different Downtime phases if needed).
 
-▸ **TRAINING**: Say what are you training on, and Gain 1 XP. May do this only once per Downtime Phase.
+▸ **TRAINING**: Say what are you training on and set up a 4-segment :hoverxref:`Clock <clocks>`. Each time you take this Downtime Activity, roll to :hoverxref:`Make Progress <making-progress>`. When all segments are marked, you gain a new skill Descriptor or improve an existing one (e.g. from *Adept* to *Expert*).
 
 ▸ **SHOPPING**: Spend your hard earned ฿ in **Gear**, **Cyberware** or **Programs**. A single shopping session (spending a Downtime Activity slot) lets you visit the *Shadow Markets*, the *Ripperdoc Shop* and the *Hackers’ Bazaar*.
 
@@ -21,12 +21,12 @@ A *Moderate* Condition is healed with a single Downtime Activity. A *Severe* Con
 Tell the GM what it is about and they will tell you if:
 
 - it is something you can achieve in a single Downtime Activity, or 
-- it requires an Adversary :hoverxref:`Challenge <challenges>`: The GM defines its level and HP, and asks for a roll with a related skill each Downtime Activity you spend on it. Once its HP is reduced to 0 or less, you finished the project. 
+- It requires a :hoverxref:`Clock <clocks>` (The GM will tell you how many segments it has). Each time you take this Downtime Activity, roll to :hoverxref:`Make Progress <making-progress>`. When all segments are marked, you achieve your goal.
 
 Tracking Consumables
 ~~~~~~~~~~~~~~~~~~~~
 
-Tracking regular ammo or other consumables is not necessary. A character might run out on a :hoverxref:`Critical Failure <criticals>`, or when the GM considers it would make narrative sense.
+Tracking regular ammo or other consumables is not necessary. A character might run out on a :hoverxref:`Negative roll outcome <dice-roll-outcomes>`, or when the GM considers it would make narrative sense.
 
 The NET
 ~~~~~~~~
@@ -35,19 +35,21 @@ The NET is an information network that permeates the whole world and is mostly a
 
 **AR stands for “Augmented Reality”**. It can be accessed with a *SmartScreen*, *AR Glasses* or *Cyber-Eyes*. It is also known as *“Shallow mode”*.
 
-**VR stands for “Virtual Reality”**. It can be accessed with *VR Goggles* or a *Neuralink*. It is also known as *“Deep mode”*. You gain +3 for Hacking tests, but because of the sensory deprivation, IRL actions are at -5 or outright impossible.
+**VR stands for “Virtual Reality”**. It can be accessed with *VR Goggles* or a *Neuralink*. It is also known as *“Deep mode”*. You gain **Advantage** for Hacking tests, but because of the sensory deprivation, IRL actions are at **Overwhelming Disadvantage** or outright impossible.
 
 HACKING
 ^^^^^^^
 
-Hacking is the process of trying to bypass electronic security systems or altering a computer’s (or its software’s) behavior. It’s done by rolling with the *Hacking* skill. A single attempt could take hours (and at -1), unless using a special Program, custom-tailored for the task. Doing so in “Shallow mode” takes seconds or minutes; Running them in “Deep mode” is faster (milliseconds or instantaneous).
+Hacking is the process of trying to bypass electronic security systems or altering a computer’s (or its software’s) behavior. Since computer use (and NET use) is so obiquitous, anyone can attempt it (but having a skill like ``Hacking`` helps). A single attempt could take hours, unless using a special **Program**, custom-tailored for the task. Doing so in “Shallow mode” takes seconds or minutes; Running them in “Deep mode” is faster (milliseconds or instantaneous).
 
 .. csv-table:: Hacking Results
 
- "**CRITICAL FAILURE**: *Alert!* Choose one: you are locked out of the system OR your position is compromised. If in “Deep mode”, gain a ``Dumpshock Damage (Moderate, -3)`` Condition."
- "**FAILURE**. *Warning!* You achieve what you wanted but choose one: They are alerted of your presence and location now, OR you leave a trail that will be found later. If in “Deep mode”, gain a ``Neural Jolt (Mild, -1)`` Condition."
- "**SUCCESS**. You achieve what you intended to do."
- "**CRITICAL SUCCESS**. You achieve what you intended and you do it in half the time, or with increased effect."
+ "**YES! AND...**. You achieve what you intended and you do it in half the time, or with increased effect."
+ "**YES!**. You achieve what you intended to do."
+ "**YES! BUT...**. *Warning!* You achieve what you wanted but choose one: They are alerted of your presence and location now, OR you leave a trail that will be found later. If in “Deep mode”, gain a ``Neural Jolt (Mild)`` Condition."
+ "**NO! BUT...**. You failed at your hacking attempt, but manage to avoid raising any alarms or getting any *dumpshock damage*."
+ "**NO!**: *Alert!* Choose one: you are locked out of the system OR your position is compromised. If in “Deep mode”, gain a ``Dumpshock Damage (Moderate)`` Condition."
+ "**NO! AND...**: *Alert!* You are locked out of the system AND your position is compromised. If in “Deep mode”, gain a ``Dumpshock Damage (Severe)`` Condition."
 
 DRONE PILOTING
 ^^^^^^^^^^^^^^
@@ -56,6 +58,6 @@ Drone Piloting also requires a wireless connection to the target and is similar 
 
 Doing so in “Shallow Mode” is possible but not ideal (an overlay of the drone’s view appears in AR and the user must use gestures or some other form of analog control).
 
-Doing so in “Deep Mode” gives you full immersion and you gain +3 for Piloting tests, but because of the sensory deprivation, IRL actions are at -5 or outright impossible.
+Doing so in “Deep Mode” gives you full immersion and you gain **Advantage** for Piloting tests, but because of the sensory deprivation, IRL actions are at **Overwhelming Disadvantage** or outright impossible.
 
-Additionally, a DRONE JOCK can use their Combat/Spy Drones by gaining +2 for other skill checks, if it makes sense.
+Additionally, a DRONE JOCK can use their Combat/Spy Drones to gain **Advantage** for other skill checks, when it makes sense.
