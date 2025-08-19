@@ -66,8 +66,6 @@ The GM can decide how much progress each event or action makes on a clock, or th
       "YES! BUT...", "Mark 1 progress segment"
       "any NO", "No progress made"
 
-.. _instinct-checks:
-
 .. _descriptor-tiers:
 
 Descriptor Tiers
@@ -90,6 +88,8 @@ For example, a character with the Descriptor ``Martial arts Expert`` would have 
 .. [#] Some GMs like to give **Overwhelming Advantage** or **Overwhelming Disadvantage** when the Tier is two levels higher or lower than that of the opposition.
 
 GMs are free to interpet these differences in tiers however they want, based on external circumstances or context, or disregard the level difference altogether when they deem unnecessary.
+
+.. _instinct-checks:
 
 Instinct Checks
 ---------------

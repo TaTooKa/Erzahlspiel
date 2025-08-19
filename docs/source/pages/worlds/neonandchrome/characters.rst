@@ -8,7 +8,7 @@
 
 **TOUCHSTONES and INSPIRATIONS**: *Neuromancer* and the *Sprawl Trilogy* by William Gibson. *Blade Runner* by Ridley Scott. *Cyberpunk 2020* by R. Talsorian Games. *Ghost In The Shell* by Masamune Shirow. *Cyberpunk 2077* by CD Projekt Red. *Snatcher* and *Policenauts* by Hideo Kojima.
 
-**OPTIONAL RULES**: This setting assumes the use of the following `Optional Rules <../../pages/optionalrules>`_: :hoverxref:`Descriptor Tiers <descriptor-tiers>`; :hoverxref:`Instinct Checks <instinct-checks>`.
+**OPTIONAL RULES**: This setting assumes the use of the following `Optional Rules <../../optionalrules>`_: :hoverxref:`Descriptor Tiers <descriptor-tiers>`; :hoverxref:`Instinct Checks <instinct-checks>`.
 
 Character Creation
 ==================
