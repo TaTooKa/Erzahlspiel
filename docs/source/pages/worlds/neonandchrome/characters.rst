@@ -204,6 +204,10 @@ Take the previous table result and add a d4. If you moved up in “class”, exp
 Your Crisis
 ~~~~~~~~~~~
 
+.. figure:: /_static/images/rpg-image-33.jpg
+
+   art © `Gunbuster - Studio GAINAX <https://v-storage.jp/gunbuster/>`_
+
 **Your Crisis** is what led you to where you are in life now.
 
 +---+--------------------------------------------------------+
