@@ -206,7 +206,7 @@ Your Crisis
 
 .. figure:: /_static/images/rpg-image-33.jpg
 
-   art © `Gunbuster - Studio GAINAX <https://v-storage.jp/gunbuster/>`_
+   art © `Gunbuster - GAINAX <https://v-storage.jp/gunbuster/>`_
 
 **Your Crisis** is what led you to where you are in life now.
 
@@ -228,6 +228,10 @@ Your Crisis
 Friends
 ~~~~~~~
 
+.. figure:: /_static/images/rpg-image-34.jpg
+
+   art © `Edgerunners - Studio TRIGGER <https://www.cyberpunk.net/en/edgerunners>`_
+
 **Do you have any friends?** Roll d6, 1: No friends. 2-5: You have one friend. 6: You have two. Who are they to you?
 
 +---+-------------------------------------------------------+
@@ -246,6 +250,10 @@ Friends
 
 Enemies
 ~~~~~~~
+
+.. figure:: /_static/images/rpg-image-35.jpg
+
+   art © `Angel Cop - Ichirō Itano <https://en.wikipedia.org/wiki/Ichir%C5%8D_Itano>`_
 
 **Do you have any enemies?** Roll d6, 1: No enemies. 2-5: You have one enemy. 6: You have two. Who are they to you?
 
