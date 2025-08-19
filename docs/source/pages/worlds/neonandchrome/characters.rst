@@ -275,6 +275,10 @@ Enemies
 Your Tragic Love Affair
 ~~~~~~~~~~~~~~~~~~~~~~~
 
+.. figure:: /_static/images/rpg-image-36.png
+
+   art © `AD Police Files - Youmex <https://en.wikipedia.org/wiki/Youmex>`_
+
 **Your Tragic Love Affair** is the one that ripped your heart out.
 
 +---+-------------------------------------------------+
