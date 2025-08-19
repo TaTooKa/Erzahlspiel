@@ -145,12 +145,12 @@ Make a dice roll modified by any skill that might help you resist a burst of Hig
 .. csv-table:: High-G burst outcomes
    :widths: 20, 80
 
-   "**YES! AND...**.", "You resist the effects of the High-G burst and gain **Advantage** for future High-G burst checks during the scene."
-   "**YES!**.", " You resist the effects of the High-G burst."
-   "**YES! BUT...**.", "You barely resist the effects of the High-G burst. Gain the ``Tunnel Vision (Mild)`` Condition for ~10 minutes."
-   "**NO! BUT...**.", "You cannot resist the effects of the High-G burst, but it's less severe than expected. Gain the ``Tunnel Vision (Mild)`` Condition for ~5 minutes."
-   "**NO!**.", "You cannot resist the effects of the High-G burst. You begin to pass out **(G-LOC)** [#]_. Gain the ``G-LOC (Mild)`` Condition for ~5 minutes."
-   "**NO! AND...**.", "You cannot resist the effects of the High-G burst. You begin to pass out **(G-LOC)** [#]_. Gain the ``G-LOC (Mild)`` Condition for ~5 minutes, and the ``Cerebral Hypoxia (Severe)`` Condition for ~10 minutes. "
+   "**YES! AND...**", "You resist the effects of the High-G burst and gain **Advantage** for future High-G burst checks during the scene."
+   "**YES!**", "You resist the effects of the High-G burst."
+   "**YES! BUT...**", "You barely resist the effects of the High-G burst. Gain the ``Tunnel Vision (Mild)`` Condition for ~10 minutes."
+   "**NO! BUT...**", "You cannot resist the effects of the High-G burst, but it's less severe than expected. Gain the ``Tunnel Vision (Mild)`` Condition for ~5 minutes."
+   "**NO!**", "You cannot resist the effects of the High-G burst. You begin to pass out **(G-LOC)** [#]_. Gain the ``G-LOC (Mild)`` Condition for ~5 minutes."
+   "**NO! AND...**", "You cannot resist the effects of the High-G burst. You begin to pass out **(G-LOC)** [#]_. Gain the ``G-LOC (Mild)`` Condition for ~5 minutes, and the ``Cerebral Hypoxia (Severe)`` Condition for ~10 minutes. "
 
 .. [#] **G-LOC** stands for *G-Force Induced Loss-of-Conciousness*, a concept originally used in aerospace engineering and piloting.
 
