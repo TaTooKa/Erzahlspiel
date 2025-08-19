@@ -83,6 +83,10 @@ Roll d12 (or d20 for greater chance at mixed styles).
 Hairstyle and Details
 ~~~~~~~~~~~~~~~~~~~~~
 
+.. figure:: /_static/images/rpg-image-30.jpg
+
+   art © `Cyber City Oedo 808 - MADHOUSE <https://www.madhouse.co.jp/>`_
+
 +----+--------------------------+----+----------------------+
 | d6 | Hairstyle                | d6 | Color / Decorations  |
 +====+==========================+====+======================+
