@@ -418,7 +418,7 @@ This table represents the effects of different temperatures on the human body an
    :widths: 20, 80
 
    "**Environmental Temperature**", "**Effects in the body** for *short exposure* (a few seconds up to a minute) or *long exposure* (a few minutes or more)."
-   "Less than 15° C", "*Short exposure*: Gain ``Hypothermia (Moderate)``; extreme shivering.
+   "Less than -15° C", "*Short exposure*: Gain ``Hypothermia (Moderate)``; extreme shivering.
 
    *Long exposure*: Gain ``Frostbite (Severe)`` and for every hour of continuous exposure, regain that Condition or increase its severity."
    "Less than 0° C", "*Short exposure*: very uncomfortable shivering and muscle cramps.
