@@ -52,6 +52,10 @@ Roll d10 to get your cultural origin and pick 2 languages you know.
 Wardrobe Style
 ~~~~~~~~~~~~~~
 
+.. figure:: /_static/images/rpg-image-29.jpg
+
+   art © `CD PROJEKT RED <https://www.cdprojektred.com>`_
+
 Roll d12 (or d20 for greater chance at mixed styles).
 
 +-----+----------------------------------------------------------------+
