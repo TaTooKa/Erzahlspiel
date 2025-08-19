@@ -39,7 +39,7 @@ Thrust
 Centrifugal Force
 ^^^^^^^^^^^^^^^^^
 
-**Centrifugal Force** is achieved by rotating the vessel or habitat around a central axis. This way, everything inside it would experience a force pushing it towards the outside boundaries (away from the center). This is the most commonly used method of artificial gravity in most space stations and even some vessels. The main drawback is the *Coriolis Effect* (a sideways motion created by the spin). The smaller the vessel (or the closer to the central axis), the more pronounced this effect is, and it can be powerful enough to cause dizziness or nausea (represented as a Condition like ``Coriolis vertigo (Mild, -1)``). This force can also cause unwanted physical side-effects, for example, throwing a ball spinward would make it fall faster, but throwing it anti-spinward would make it float for longer. Pouring water out of a kettle will cause the water to fall slightly anti-spinward, etc.
+**Centrifugal Force** is achieved by rotating the vessel or habitat around a central axis. This way, everything inside it would experience a force pushing it towards the outside boundaries (away from the center). This is the most commonly used method of artificial gravity in most space stations and even some vessels. The main drawback is the *Coriolis Effect* (a sideways motion created by the spin). The smaller the vessel (or the closer to the central axis), the more pronounced this effect is, and it can be powerful enough to cause dizziness or nausea (represented as a Condition like ``Coriolis vertigo (Mild)``). This force can also cause unwanted physical side-effects, for example, throwing a ball spinward would make it fall faster, but throwing it anti-spinward would make it float for longer. Pouring water out of a kettle will cause the water to fall slightly anti-spinward, etc.
 
 Zero gravity
 ~~~~~~~~~~~~
@@ -54,16 +54,16 @@ The human anatomy (specially if grown on Earth, Mars, or other gravity wells) is
 
    "instant","Fluids pool in the chest and face, making you puffy and uncomfortable. 
    
-   Gain ``Zero-G discomfort (Mild, -1)``"
+   Gain ``Zero-G discomfort (Mild)``"
    "1 week","Lower blood pressure and loss of potassium and liquids. 
    
-   Gain ``Zero-G dehydration (Mild, -1)``"
+   Gain ``Zero-G dehydration (Mild)``"
    "1 month","Muscle atrophy and reduced body mass. 
    
-   Gain ``Zero-G atrophy (Moderate, -3)``"
+   Gain ``Zero-G atrophy (Moderate)``"
    "3 months","Bones begin to lose calcium, becoming weak and brittle. 
    
-   Gain ``Spaceflight osteopenia (Severe, -5)``"
+   Gain ``Spaceflight osteopenia (Severe)``"
    "1 year","Bodily functions begin to collapse; You are probably blind, and are quasi-paralysed or prostrate without some sort of assistance."
    "5 years","Your body completely collapses. You will imminently die of cardiac arrest, circulatory system collapse, ischemic stroke or similar causes."
 
@@ -105,7 +105,7 @@ These effects can be countered or postponed by doing one or more of the followin
 
 .. tip::
 
- The Condition ``Zero-G discomfort (Mild, -1)`` (which is automatically gained by anyone exposed to Zero-G for the first time) also represents the awkwardness of operating in free-fall: The need to accustom oneself to use anchor points, hand-holds, tethers or thrusters; the miscalculations of your body movements and misjudgements in applied strength; the inexperience in constantly being upside down or bumping into everything; etc. Thus, having **Zero-G Experience** cancels this Condition altogether.
+ The Condition ``Zero-G discomfort (Mild)`` (which is automatically gained by anyone exposed to Zero-G for the first time) also represents the awkwardness of operating in free-fall: The need to accustom oneself to use anchor points, hand-holds, tethers or thrusters; the miscalculations of your body movements and misjudgements in applied strength; the inexperience in constantly being upside down or bumping into everything; etc. Thus, having **Zero-G Experience** cancels this Condition altogether.
 
 High gravity
 ~~~~~~~~~~~~
@@ -123,9 +123,9 @@ Each character has a :hoverxref:`native gravity <nativegravity>` they are accust
    "2x your native gravity", "everything feels like it weighs double as normal (even your body, clothes, tools, etc).
    
    - **Short burst**: although discomforting, negligible for most people.
-   - **Long period**: Gain the ``Hindered by High-G (Moderate, -3)`` Condition, and lose 1 HP immediately and 1 HP for every hour of continuous exposure."
+   - **Long period**: Gain the ``Hindered by High-G (Moderate)`` Condition, and lose 1 HP immediately and 1 HP for every hour of continuous exposure."
    "3x your native gravity", "- **Short burst**: make a :hoverxref:`high-G burst check <highgburstcheck>`.
-   - **Long period**: Gain the ``Restrained by High-G (Severe, -5)`` Condition. Lose 2 HP immediately and 2 HP for every hour of continuous exposure."
+   - **Long period**: Gain the ``Restrained by High-G (Severe)`` Condition. Lose 2 HP immediately and 2 HP for every hour of continuous exposure."
    "4x your native gravity", "- **Short burst**: Lose 1 HP. Make a :hoverxref:`high-G burst check <highgburstcheck>`.
    - **Long period**: You cannot move (maybe a little bit if you make extreme effort, otherwise you are prostrate in place). Lose 3 HP immediately and 3 HP for every hour of continuous exposure."
    "5x your native gravity", "- **Short burst**: Lose 3 HP. Make a :hoverxref:`high-G burst check <highgburstcheck>`.
@@ -143,9 +143,9 @@ Make a dice roll modified by any skill that might help you resist a burst of Hig
 - On a **stalemate** or a **success**, you resist the effects of the High-G burst.
 - On a **failure**...:
 
-   - If the :hoverxref:`Negative Effect <effect>` is 5 or less, you lose 1 HP and gain the ``Tunnel Vision (Mild, -1)`` Condition for [Effect] minutes. 
+   - If the :hoverxref:`Negative Effect <effect>` is 5 or less, you lose 1 HP and gain the ``Tunnel Vision (Mild)`` Condition for [Effect] minutes. 
    - If the :hoverxref:`Negative Effect <effect>` is 6 to 10, you lose 5 HP and pass out **(G-LOC)** [#]_ for [Effect/2] minutes.
-   - If the :hoverxref:`Negative Effect <effect>` is 11 or more, you lose 10 HP and gain the ``Cerebral Hypoxia (Severe, -5)`` Condition for [Effect] minutes. 
+   - If the :hoverxref:`Negative Effect <effect>` is 11 or more, you lose 10 HP and gain the ``Cerebral Hypoxia (Severe)`` Condition for [Effect] minutes. 
 
 .. [#] For example, if exposed to *4x your native gravity*, the Level would be 4, thus the difficulty would be 10+4 = 14. 
 
@@ -189,8 +189,8 @@ One of the dangers humans face when in space is oxygen deprivation. This might b
    :widths: 20, 80
 
    "1 Hour of Oxygen left", "Air is hard to breathe. Someone with an appropriate Skill might be allowed a roll to notice."
-   "30 minutes of Oxygen left", "It’s getting hard not to hyperventilate. Everyone affected gains the ``Hard to breathe (Mild, -1)`` Condition, and loses 1 HP per minute."
-   "5 minutes of Oxygen left", "Everyone can notice the first telltales of asphyxiation. Everyone affected gains the ``Asphyxiating (Moderate, -3)`` Condition, and loses 3 HP per minute."
+   "30 minutes of Oxygen left", "It’s getting hard not to hyperventilate. Everyone affected gains the ``Hard to breathe (Mild)`` Condition, and loses 1 HP per minute."
+   "5 minutes of Oxygen left", "Everyone can notice the first telltales of asphyxiation. Everyone affected gains the ``Asphyxiating (Moderate)`` Condition, and loses 3 HP per minute."
    "All Oxygen gone", "Everyone automatically passes out. They lose 5 HP per minute until dead."
 
 Losing pressure
@@ -225,9 +225,9 @@ Most spacers have at hand a bunch of life-saving **Slap Patches**, which are fol
       :widths: 20, 80
 
       "¾ of Normal Pressure", "No apparent effects other than eardrums popping. Anyone not accustomed to living/working in space will automatically lose 1 HP and do an :hoverxref:`Instinct Check <instinct-checks>`. Habitats or vessels that have pressure sensors will detect pressure loss and attempt to close hatches, if available."
-      "½ of Normal Pressure", "The air in the area is becoming hard to breathe. Anyone without a respirator or vac-suit gains the ``Hard to breathe (Mild, -1)`` Condition."
-      "¼ of Normal Pressure", "The oxygen in the volume is less than required to remain conscious. If the depressurization was abrupt, everyone exposed gains the ``Asphyxiating (Moderate, -3)`` Condition. If it took a while, everyone affected automatically falls unconscious. Additionally, characters affected will lose 5 HP per minute, and gain the ``The Bends (Moderate, -3)`` Condition, as nitrogen boils out of the blood, until *Zero Pressure* is reached."
-      "Zero Pressure", "The compartment is airless and in a vacuum. Anyone exposed begins to suffer extreme pain; huge bruises begin to form all over their bodies, their blood boils, surface capillaries begin to burst, their eardrums rupture, and their noses and ears bleed. They gain ``The Bends (Moderate, -3)`` Condition if they didn’t already have it. Additionally, each character loses 1 HP per second until dead."
+      "½ of Normal Pressure", "The air in the area is becoming hard to breathe. Anyone without a respirator or vac-suit gains the ``Hard to breathe (Mild)`` Condition."
+      "¼ of Normal Pressure", "The oxygen in the volume is less than required to remain conscious. If the depressurization was abrupt, everyone exposed gains the ``Asphyxiating (Moderate)`` Condition. If it took a while, everyone affected automatically falls unconscious. Additionally, characters affected will lose 5 HP per minute, and gain the ``The Bends (Moderate)`` Condition, as nitrogen boils out of the blood, until *Zero Pressure* is reached."
+      "Zero Pressure", "The compartment is airless and in a vacuum. Anyone exposed begins to suffer extreme pain; huge bruises begin to form all over their bodies, their blood boils, surface capillaries begin to burst, their eardrums rupture, and their noses and ears bleed. They gain ``The Bends (Moderate)`` Condition if they didn’t already have it. Additionally, each character loses 1 HP per second until dead."
     
    When someone is *“spaced”* (thrown out of an airlock without a vac-suit), they immediately begin to suffer the effects of **Zero Pressure**.
 
@@ -258,27 +258,27 @@ Players must tally each specific amount of Sv their characters gain. They will a
    :widths: 20, 80
 
    "0 ~ 500 mSv", "None ― somewhat safe radiation levels"
-   "500 mSv ~ 1 Sv", "Gain the ``Cell Mutations (permanent, -0)`` Condition. It only affects your offspring, increasing their chance of genetic disorders. 
+   "500 mSv ~ 1 Sv", "Gain the ``Cell Mutations (permanent)`` Condition. It only affects your offspring, increasing their chance of genetic disorders. 
    
-   If received in a **short time span**, also gain the ``Mild Nausea (-1)`` Condition."
-   "1 Sv", "Gain the ``Minor Cancer (permanent, -0)`` Condition. It’s early stage and can be treated by simple treatments (usually taking anti-cancer pills keeps it at bay). 
+   If received in a **short time span**, also gain the ``Mild Nausea`` Condition."
+   "1 Sv", "Gain the ``Minor Cancer (permanent)`` Condition. It’s early stage and can be treated by simple treatments (usually taking anti-cancer pills keeps it at bay). 
    
-   If received in a **short time span**, also gain the ``Vomiting (Moderate, -3)`` Condition."
-   "2 Sv", "Gain the ``Cataracts (Moderate, -3)`` Condition. You will gradually become blind, unless corrected via simple surgery. 
+   If received in a **short time span**, also gain the ``Vomiting (Moderate)`` Condition."
+   "2 Sv", "Gain the ``Cataracts (Moderate)`` Condition. You will gradually become blind, unless corrected via simple surgery. 
    
-   If received in a **short time span**, also gain ``Fever and Headaches (Moderate, -3)``."
-   "3 Sv", "Gain the ``Infertility Disorder (permanent, -0)`` Condition. Your chances of conception are reduced to 30%. If female, chances of spontaneous abortion are severely increased. 
+   If received in a **short time span**, also gain ``Fever and Headaches (Moderate)``."
+   "3 Sv", "Gain the ``Infertility Disorder (permanent)`` Condition. Your chances of conception are reduced to 30%. If female, chances of spontaneous abortion are severely increased. 
    
-   If received in a **short time span**, also gain the ``Hair loss (permanent, -0)`` Condition."
-   "4 Sv", "Gain the ``Moderate Cancer (permanent, -0)`` Condition. Fortunately, medical science has advanced a lot, and these types of cancers are easily kept at bay with a monthly treatment session. You can mostly continue living a normal life if you maintain your medical schedule. 
+   If received in a **short time span**, also gain the ``Hair loss (permanent)`` Condition."
+   "4 Sv", "Gain the ``Moderate Cancer (permanent)`` Condition. Fortunately, medical science has advanced a lot, and these types of cancers are easily kept at bay with a monthly treatment session. You can mostly continue living a normal life if you maintain your medical schedule. 
    
-   If received in a **short time span**, also gain ``Bloody Vomits (Severe, -5)``."
-   "5 Sv", "Gain the ``Sterile (permanent, -0)`` Condition. Your chances of conception are nil, and there is no known treatment at this level of radiation poisoning. 
+   If received in a **short time span**, also gain ``Bloody Vomits (Severe)``."
+   "5 Sv", "Gain the ``Sterile (permanent)`` Condition. Your chances of conception are nil, and there is no known treatment at this level of radiation poisoning. 
 
-   If received in a **short time span**, also gain ``Internal Bleeding (Severe, -5)``."
-   "6+ Sv", "Gain the ``Severe Cancer (permanent, -0)`` Condition. Even if caught at an early stage, this type of cancer requires regular weekly treatment sessions to avoid death. It might go into remission for a period of 6 months before inevitably coming back. If untreated, the character dies in 6 months. 
+   If received in a **short time span**, also gain ``Internal Bleeding (Severe)``."
+   "6+ Sv", "Gain the ``Severe Cancer (permanent)`` Condition. Even if caught at an early stage, this type of cancer requires regular weekly treatment sessions to avoid death. It might go into remission for a period of 6 months before inevitably coming back. If untreated, the character dies in 6 months. 
    
-   If received in a **short time span**, also gain ``Skin Blistering (Severe, -5)``."
+   If received in a **short time span**, also gain ``Skin Blistering (Severe)``."
 
 Sources of Radiation
 ~~~~~~~~~~~~~~~~~~~~
@@ -417,32 +417,32 @@ This table represents the effects of different temperatures on the human body an
    :widths: 20, 80
 
    "**Environmental Temperature**", "**Effects in the body** for *short exposure* (a few seconds up to a minute) or *long exposure* (a few minutes or more)."
-   "Less than 15° C", "*Short exposure*: Gain ``Hypothermia (Moderate, -3)``; extreme shivering.
+   "Less than 15° C", "*Short exposure*: Gain ``Hypothermia (Moderate)``; extreme shivering.
 
-   *Long exposure*: Gain ``Frostbite (Severe, -5)`` and Immediately and for every hour of continuous exposure, lose 3 HP."
+   *Long exposure*: Gain ``Frostbite (Severe)`` and Immediately and for every hour of continuous exposure, lose 3 HP."
    "Less than 0° C", "*Short exposure*: very uncomfortable shivering and muscle cramps.
 
-   *Long exposure*: Gain the ``Severe Hypothermia (-5)`` Condition."
+   *Long exposure*: Gain the ``Severe Hypothermia`` Condition."
    "0° ~ 10° C", "*Short exposure*: uncomfortable shivering or chills.
 
-   *Long exposure*: Gain the ``Moderate Hypothermia (-3)`` Condition."
+   *Long exposure*: Gain the ``Moderate Hypothermia`` Condition."
    "15° ~ 25° C", "Comfortable range for most individuals."
    "30° ~ 35° C", "The body begins sweating more to cool itself down.
 
    *Short exposure*: sweating, fatigue.
 
-   *Long exposure*: Gain the ``Mild Dehydration (-1)`` Condition."
+   *Long exposure*: Gain the ``Mild Dehydration`` Condition."
    "40° C", "Heat stress becomes significant.
 
    *Short exposure*: sweating, dizziness, confusion, fainting.
 
-   *Long exposure*: Gain ``Moderate Dehydration (-3)``, and Immediately and for every hour of continuous exposure, lose 3 HP."
+   *Long exposure*: Gain ``Moderate Dehydration``, and Immediately and for every hour of continuous exposure, lose 3 HP."
    "45° C", "Risk of heat exhaustion or heat stroke increases significantly. Proteins in the body begin denaturing, nerve impulses slow down, and organ function may be compromised.
 
    *Short exposure*: sweating, nausea, dizziness, confusion, fainting.
 
-   *Long exposure*: Gain ``Heat Stroke (Severe, -5)`` and Immediately and for every hour of continuous exposure, lose 5 HP."
+   *Long exposure*: Gain ``Heat Stroke (Severe)`` and Immediately and for every hour of continuous exposure, lose 5 HP."
    "50° C or more", "The body loses its ability to cool itself effectively. Sweating becomes insufficient, leading to a dangerous rise in core temperature. Heat stroke may cause severe damage to organs such as the brain, heart, kidneys, and liver.
 
    *Short exposure*: sweating, nausea, dizziness, confusion, fainting.
-   *Long exposure*: Gain ``Heat Stroke (Severe, -5)`` and Immediately and for every hour of continuous exposure, lose 10 HP."
+   *Long exposure*: Gain ``Heat Stroke (Severe)`` and Immediately and for every hour of continuous exposure, lose 10 HP."
