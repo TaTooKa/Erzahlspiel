@@ -298,6 +298,10 @@ Your Tragic Love Affair
 What You Value Most
 ~~~~~~~~~~~~~~~~~~~
 
+.. figure:: /_static/images/rpg-image-37.jpg
+
+   art © `TJ Foo <https://www.artstation.com/artwork/aRl2A9>`_
+
 +---+-------------+----+---------------------+
 | 1 | Money       | 7  | Vengeance           |
 +---+-------------+----+---------------------+
@@ -343,6 +347,10 @@ Your Archetype defines your starting skills and what role you fulfill in a group
 
 Etiquette
 ~~~~~~~~~
+
+.. figure:: /_static/images/rpg-image-38.jpg
+
+   art © `CD PROJEKT RED <https://www.cdprojektred.com>`_
 
 Get an etiquette-related skill (at ``Adept`` level) depending on your Lifepath’s **Family Background** and **Childhood Environment**:
 
