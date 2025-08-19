@@ -8,6 +8,8 @@
 
 **TOUCHSTONES and INSPIRATIONS**: *Neuromancer* and the *Sprawl Trilogy* by William Gibson. *Blade Runner* by Ridley Scott. *Cyberpunk 2020* by R. Talsorian Games. *Ghost In The Shell* by Masamune Shirow. *Cyberpunk 2077* by CD Projekt Red. *Snatcher* and *Policenauts* by Hideo Kojima.
 
+**OPTIONAL RULES**: This setting assumes the use of the following `Optional Rules <../../pages/optionalrules>`_: :hoverxref:`Descriptor Tiers <descriptor-tiers>`; :hoverxref:`Instinct Checks <instinct-checks>`.
+
 Character Creation
 ==================
 
@@ -281,32 +283,32 @@ Your Archetype defines your starting skills and what role you fulfill in a group
 
 ▸ The **Tech Wiz** is a master hacker, pro netrunner and specialist in all sorts of electronics and technology.
 
-``Hacking Expert (+3)``, ``Electronics Adept (+1)``, ``Security Adept (+1)``.
+``Hacking Expert``, ``Electronics Adept``, ``Security Adept``.
 
 ▸ The **Drone Jock** is an ace pilot, gearhead and puppeteer of flying drones and other vehicles.
 
-``Piloting Expert (+3)``, ``Electronics Adept (+1)``, ``Mechanics Adept (+1)``.
+``Piloting Expert``, ``Electronics Adept``, ``Mechanics Adept``.
 
 ▸ The **Street Samurai** is a professional combatant, hardened mercenary or hired muscle.
 
-``Shooting Expert (+3)``, ``Melee Adept (+1)``, ``Intimidation Adept (+1)``.
+``Shooting Expert``, ``Melee Adept``, ``Intimidation Adept``.
 
 ▸ The **Cyber Ninja** is the ultimate spy, a master of infiltration and covert ops, or an invisible assassin.
 
-``Stealth Expert (+3)``, ``Melee Adept (+1)``, ``Climbing Adept (+1)``.
+``Stealth Expert``, ``Melee Adept``, ``Climbing Adept``.
 
 ▸ The **Rebel Face** is the voice of revolution, an influencer that calls to action or a rockstar turned into freedom fighter.
 
-``Persuasion Expert (+3)``, ``Connections Adept (+1)``, ``Deception Adept (+1)``.
+``Persuasion Expert``, ``Connections Adept``, ``Deception Adept``.
 
 ▸ The **Hardboiled Sleuth** is an ex-cop turned gumshoe, an investigative journalist or an avenging vigilante.
 
-``Reading People Expert (+3)``, ``Tracking Adept (+1)``, ``Intimidation Adept (+1)``.
+``Reading People Expert``, ``Tracking Adept``, ``Intimidation Adept``.
 
 Etiquette
 ~~~~~~~~~
 
-Get an etiquette-related skill (at ``Adept (+1)`` level) depending on your Lifepath’s **Family Background** and **Childhood Environment**:
+Get an etiquette-related skill (at ``Adept`` level) depending on your Lifepath’s **Family Background** and **Childhood Environment**:
 
 +----------------------+------------------+
 | **Background**       | **Skill gained** |
@@ -322,7 +324,7 @@ Get an etiquette-related skill (at ``Adept (+1)`` level) depending on your Lifep
 Other Skills
 ~~~~~~~~~~~~
 
-Also pick another 3 skills at ``Adept (+1)`` level.
+Also pick another 3 skills at ``Adept`` level.
 
 +--------------+-----------------+
 | Academics    | Melee           |
@@ -357,7 +359,7 @@ buy your gear with *CryptoBits* (฿). Everyone starts with some cheap way of ac
 
 .. note::
 
-   All items are considered to be ``Mundane (+1)`` unless otherwise noted. Each might have bonuses or mechanics for specific situations, which are added on top of the regular bonus.
+   All items are considered to be ``Mundane`` unless otherwise noted. Each might have bonuses or mechanics for specific situations, which are added on top of the regular bonus.
 
 .. csv-table:: Armor / Wearables
  :widths: 90, 10
