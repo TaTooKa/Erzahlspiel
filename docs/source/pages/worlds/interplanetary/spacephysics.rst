@@ -149,10 +149,12 @@ Make a dice roll modified by any skill that might help you resist a burst of Hig
    "**YES!**", "You resist the effects of the High-G burst."
    "**YES! BUT...**", "You barely resist the effects of the High-G burst. Gain the ``Tunnel Vision (Mild)`` Condition for ~10 minutes."
    "**NO! BUT...**", "You cannot resist the effects of the High-G burst, but it's less severe than expected. Gain the ``Tunnel Vision (Mild)`` Condition for ~5 minutes."
-   "**NO!**", "You cannot resist the effects of the High-G burst. You begin to pass out **(G-LOC)** [#]_. Gain the ``G-LOC (Mild)`` Condition for ~5 minutes."
+   "**NO!**", "You cannot resist the effects of the High-G burst. You begin to pass out **(G-LOC)**. Gain the ``G-LOC (Mild)`` Condition for ~5 minutes."
    "**NO! AND...**", "You cannot resist the effects of the High-G burst. You begin to pass out **(G-LOC)** [#]_. Gain the ``G-LOC (Mild)`` Condition for ~5 minutes, and the ``Cerebral Hypoxia (Severe)`` Condition for ~10 minutes. "
 
-.. [#] **G-LOC** stands for *G-Force Induced Loss-of-Conciousness*, a concept originally used in aerospace engineering and piloting.
+.. admonition:: G-LOC 
+
+   **G-LOC** stands for *G-Force Induced Loss-of-Conciousness*, a concept originally used in aerospace engineering and piloting.
 
 **High-G exposure** can leave lasting effects in the form of more permanent Conditions (like bruising, muscle pain, or even bone fractures) at GM discretion, using the amount of Conditions gained as a guidance. These effects can only be partially countered with these two methods:
 
@@ -231,7 +233,7 @@ Most spacers have at hand a bunch of life-saving **Slap Patches**, which are fol
       "¾ of Normal Pressure", "No apparent effects other than eardrums popping. Anyone not accustomed to living/working in space will automatically do an :hoverxref:`Instinct Check <instinct-checks>` to keep calm. Habitats or vessels that have pressure sensors will detect pressure loss and attempt to close hatches, if available."
       "½ of Normal Pressure", "The air in the area is becoming hard to breathe. Anyone without a respirator or vac-suit gains the ``Hard to breathe (Mild)`` Condition."
       "¼ of Normal Pressure", "The oxygen in the volume is less than required to remain conscious. If the depressurization was abrupt, everyone exposed gains the ``Asphyxiating (Moderate)`` Condition. If it took a while, everyone affected automatically falls unconscious. Additionally, characters affected will gain the ``The Bends (Moderate)`` Condition, as nitrogen boils out of the blood, until *Zero Pressure* is reached."
-      "Zero Pressure", "The compartment is airless and in a vacuum. Anyone exposed begins to suffer extreme pain; huge bruises begin to form all over their bodies, their blood boils, surface capillaries begin to burst, their eardrums rupture, and their noses and ears bleed. They gain ``The Bends (Moderate)`` Condition if they didn’t already have it. Additionally, each character increases the severity of each Condition they have each second until dead."
+      "Zero Pressure", "The compartment is airless and in a vacuum. Anyone exposed begins to suffer extreme pain; huge bruises begin to form all over their bodies, their blood boils, surface capillaries begin to burst, their eardrums rupture, and their noses and ears bleed. They gain ``The Bends (Moderate)`` Condition if they didn’t already have it. Additionally, each character increases the severity of each Condition they have each 5 seconds, until dead."
     
    When someone is *“spaced”* (thrown out of an airlock without a vac-suit), they immediately begin to suffer the effects of **Zero Pressure**.
 
