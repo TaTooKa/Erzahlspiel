@@ -359,14 +359,14 @@ buy your gear with *CryptoBits* (฿). Everyone starts with some cheap way of ac
 
 .. note::
 
-   All items are considered to be ``Mundane`` unless otherwise noted. Each might have bonuses or mechanics for specific situations, which are added on top of the regular bonus.
+   All items are considered to be ``Mundane`` unless otherwise noted. They might give *narrative permission* and/or **Advantage** to certain actions.
 
 .. csv-table:: Armor / Wearables
  :widths: 90, 10
 
- "**Skin-tight suit (light):** Flexible bodysuit laced with armorgel threads. Sleek, silent, and built for mobility.","1 K฿"
+ "**Skin-tight suit (light):** Flexible bodysuit laced with armorgel threads. Sleek, silent, and built for mobility. *concealable*.","1 K฿"
  "**Reinforced Vest (medium):** rugged, impact-resistant vest lined with smart-fibers that stiffen on impact.","2 K฿"
- "**Tactical Armor (heavy):** Full-body plating with bulletproof carbon-fiber layers, designed for frontline chaos. *bulky*.","3 K฿"
+ "**Tactical Armor (heavy):** Full-body plating with bulletproof carbon-fiber layers, designed for frontline chaos. *cumbersome*. *very obvious*.","3 K฿"
  "**Optical Camo Clothing:** Turns invisible on command. Best when combined with *Optical Camo Skin*.","1 K฿"
 
 .. csv-table:: Weapons and Mods
@@ -377,7 +377,7 @@ buy your gear with *CryptoBits* (฿). Everyone starts with some cheap way of ac
  "**Taser:** Delivers a crippling electric jolt up close. *one-handed*. *concealable*.","1 K฿"
  "**Handgun:** Compact and reliable. *one-handed*. *concealable*.","1 K฿"
  "**Assault Rifle:** Modular rifle built for sustained urban fire. *two-handed*.","2 K฿"
- "**Sniper Rifle:** Precise; deadly at long range. *two-handed*. *bulky*. very obvious.","2 K฿"
+ "**Sniper Rifle:** Precise; deadly at long range. *two-handed*. *bulky*. *very obvious*.","2 K฿"
  "**Shotgun:** Close-range blast weapon; devastating in tight spaces. *two-handed*.","2 K฿"
  "**Launcher:** (grenade/rocket). Fires explosive payloads to clear rooms or vehicles. Very limited ammo. *two-handed*. very *bulky*/*heavy*.","3 K฿"
  "**Silencer:** for handguns only. Almost silent.","1 K฿"
@@ -404,46 +404,46 @@ Install **Cyberware** on a *Ripperdoc* shop during :hoverxref:`Downtime <downtim
 .. csv-table:: Cyberware
  :widths: 90, 10
 
- "**Synth Skin:** +1 for defending against superficial harm like cuts or scratches.","1 K฿"
+ "**Synth Skin:** Protects against superficial harm like cuts or scratches.","1 K฿"
  " ↳ **Optical Camo Weave:** Turns invisible on command. Best when combined with *Optical Camo Clothing*.","1 K฿"
- " ↳ **Pheromonal Secretor:** +1 on social tests (+2 if lots of touching is involved).","1 K฿"
+ " ↳ **Pheromonal Secretor:** helps on social interactions (specially if lots of touching is involved).","1 K฿"
  " ↳ **Self-healing Polymer:** superficial harm takes half as long to heal.","1 K฿"
- " ↳ **Kevlar Lattice:** bullet-proof plates. very obvious. +1 for defensive actions.","1 K฿"
+ " ↳ **Kevlar Lattice:** bullet-proof plates. Improves defense. *very obvious*.","1 K฿"
  "**Neuralink:** Digital Interface for the brain. Access AR/VR without gadgets, directly through your senses. Includes 1 universal chip slot/port (installed behind ear).","1 K฿"
  " ↳ **SenSim™ recorder:** save 1 hour of sensory input.","1 K฿"
  " ↳ **Smart Link:** connect to a weapon’s *Smart Link Mod*.","1 K฿"
  " ↳ **SkillSoft Slot:** plug in *SkillSoft chips*, 1 K฿ each (max 4). Installed on nape or behind ears. ","1 K฿"
- "**Skeletal Lacing:** Titanium-alloy bone structure replacement. +2 for defense and resistance actions.","2 K฿"
- "**Wired Reflexes:** Enhanced nervous system replacement. +2 for agility or quickness related actions.","2 K฿"
- "**Cyber-Arms/Legs:** Hard plastic or metallic limbs. Break to avoid receiving up to 10 HP (or a *Mild/Moderate* Condition).","1 K฿"
- " ↳ **Pneumatic joints:** +1 for strength related actions.","1 K฿"
- " ↳ **Spring servos:** +1 for agility/quickness actions.","1 K฿"
+ "**Skeletal Lacing:** Titanium-alloy bone structure replacement. Improves defense; makes you heavier.","2 K฿"
+ "**Wired Reflexes:** Enhanced nervous system replacement. Makes you faster and more agile.","2 K฿"
+ "**Cyber-Arms/Legs:** Hard plastic or metallic limbs. Can attach other cyberware. Can be used for cover/protection.","1 K฿"
+ " ↳ **Pneumatic joints:** Increases your lifting capacity and core strength.","1 K฿"
+ " ↳ **Spring servos:** Makes your limbs act and react much faster than normal.","1 K฿"
  " ↳ **Concealable compartment:** pocket/holster-sized.","1 K฿"
- " ↳ **Hydraulic articulations:** silent joints, +1 for stealth related actions.","1 K฿"
- "**Cyber-Eyes:** Improved vision, +1 for visual perception related actions. Replaces *AR glasses*.","1 K฿"
- " ↳ **Protective covers:** embedded shades/goggles. *Extremely cool*, +1 for certain social actions.","1 K฿"
+ " ↳ **Hydraulic articulations:** silent joints and higher fine-control of noise during movement and object manipulation.","1 K฿"
+ "**Cyber-Eyes:** Improved vision and overall perception. Replaces *AR glasses*.","1 K฿"
+ " ↳ **Protective covers:** embedded shades/goggles. *Extremely cool* and protect your eyeballs from sharpnel.","1 K฿"
  " ↳ **Enhanced scopes:** 6X zoom, thermal, IR.","1 K฿"
- "**Cyber-Ears:** Improved hearing, +1 for auditory perception related actions.","1 K฿"
+ "**Cyber-Ears:** Improved hearing and overall auditory perception.","1 K฿"
  " ↳ **Echolocation:** “see” through hearing.","1 K฿"
  " ↳ **Bio-stress meter:** voice/biometrics lie detector.","1 K฿"
- "**Retractable Blades:** nails/claws. +2 for melee attacks. :hoverxref:`Base DMG 2 <base-damage>`.","1 K฿"
+ "**Retractable Blades:** nails or claws. very sharp. *concealable*.","1 K฿"
 
 
 Programs
 --------
 
-**Programs** are commands or quick hacks that anyone can run (with a *Hacking* roll) and are much faster than coding a solution in the moment. Once purchased, they are saved in your user cloud storage and are always available. 
+**Programs** are commands or quick hacks that anyone that has a NET-capable device can run, and are much faster than coding a solution in the moment. Once purchased, they are saved in your user cloud storage and are always available. 
 
 .. csv-table:: Programs
  :widths: 90, 10
 
  "**ALARM**: Trigger all alarm systems in the vicinity.","1 K฿"
  "**BEFRIEND**: Target bot/turret/drone/camera/etc treats you as a friendly.","1 K฿"
- "**BLIND**: Overwhelm target device/Neuralink’s optics with a ``blind (Moderate, -3)`` Condition.","1 K฿"
+ "**BLIND**: Overwhelm target device/Neuralink’s optics with a ``Blind (Moderate)`` Condition.","1 K฿"
  "**BYPASS**: Open target electronic lock or unlock E.C.M. software.","1 K฿"
  "**CLEAN**: Locate and remove any malware present in target device or Neuralink.","1 K฿"
  "**DELAY**: Make target device/Neuralink’s directives and movements twice as slow.","1 K฿"
- "**ISOLATE**: Target device/Neuralink’s input and output are blocked and disconnected from the Net, with an “offline” Condition.","2 K฿"
+ "**ISOLATE**: Target device/Neuralink’s input and output are blocked and disconnected from the Net, with an ``Offline`` Condition.","2 K฿"
  "**MUTE**: Block target’s comms, voice, speakers, wireless commands or other sensory output. ","2 K฿"
  "**OVERHEAT**: Target’s tech/cyberware cooling systems stop working and they receive heat damage.","1 K฿"
  "**PACIFY**: All target device/Neuralink’s actions are restricted to non-violent/non-offensive.","2 K฿"
@@ -455,7 +455,7 @@ Programs
  "**SPIKE**: Trigger a stress response (:hoverxref:`Instinct Check <instinct-checks>`) in someone with a Neuralink.","2 K฿"
  "**SPOOF**: Generate false ID/credentials/background records stolen from a nearby or pre-selected target.","1 K฿"
  "**TRACK**: Install malware on target to always know their location regardless of distance (or network hops).","1 K฿"
- "**VIRUS**: Install on device; provokes a ``Malfunctioning (Mild, -1)`` Condition and propagates to nearby targets.","2 K฿"
+ "**VIRUS**: Install on device; provokes a ``Malfunctioning (Mild)`` Condition and propagates to nearby targets.","2 K฿"
  "**WIPE**: Delete target device/Neuralink’s last 10 seconds of sensory input and memory retention.","2 K฿"
 
 
