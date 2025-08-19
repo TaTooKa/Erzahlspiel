@@ -372,29 +372,29 @@ buy your gear with *CryptoBits* (฿). Everyone starts with some cheap way of ac
 .. csv-table:: Weapons and Mods
  :widths: 90, 10
 
- "**Katana:** very sharp. :hoverxref:`Base DMG 2 <base-damage>`.","1 K฿"
- "**Heavy Melee Weapon:** (chainsaw/sledgehammer/etc). :hoverxref:`Base DMG 3 <base-damage>`; can break armor. *two-handed*. *slow*. *bulky*. ","1 K฿"
- "**Taser:** *one-handed*. *concealable*. :hoverxref:`Base DMG 1 <base-damage>`. Stuns w/o permanent damage.","1 K฿"
- "**Handgun:** *one-handed*. *concealable*. :hoverxref:`Base DMG 1 <base-damage>`. -1 at *long range*.","1 K฿"
- "**Assault Rifle:** *two-handed*. :hoverxref:`Base DMG 3 <base-damage>`.","2 K฿"
- "**Sniper Rifle:** *two-handed*. *bulky*. very obvious. :hoverxref:`Base DMG 3 <base-damage>`. +1 against far away targets. -1 in close combat.","2 K฿"
- "**Shotgun:** *two-handed*. :hoverxref:`Base DMG 3 <base-damage>`. +1 against close targets.","2 K฿"
- "**Launcher:** (grenade/rocket). *two-handed*. very *bulky*/*heavy*; :hoverxref:`Base DMG 4 <base-damage>`. Very limited ammo.","3 K฿"
+ "**Katana:** Mono-edge blade with a vibrating core; cuts fast and clean.","1 K฿"
+ "**Heavy Melee Weapon:** (chainsaw/sledgehammer/etc). built for brutal close combat. *two-handed*. *slow*. *crushing*. *bulky*.","1 K฿"
+ "**Taser:** Delivers a crippling electric jolt up close. *one-handed*. *concealable*.","1 K฿"
+ "**Handgun:** Compact and reliable. *one-handed*. *concealable*.","1 K฿"
+ "**Assault Rifle:** Modular rifle built for sustained urban fire. *two-handed*.","2 K฿"
+ "**Sniper Rifle:** Precise; deadly at long range. *two-handed*. *bulky*. very obvious.","2 K฿"
+ "**Shotgun:** Close-range blast weapon; devastating in tight spaces. *two-handed*.","2 K฿"
+ "**Launcher:** (grenade/rocket). Fires explosive payloads to clear rooms or vehicles. Very limited ammo. *two-handed*. very *bulky*/*heavy*.","3 K฿"
  "**Silencer:** for handguns only. Almost silent.","1 K฿"
  "**Suppressor:** for assault or sniper rifles. Less noisy.","1 K฿"
  "**Special Ammo:** choose: armor piercing/self-guided/tranq dart/incendiary/toxic/smoke. 1 clip or mag.","1 K฿"
- "**Smart Link Mod:** Install on a firearm to adapt it for autoaim, IFF mode and fine control through a *Smart Link*, either through *AR glasses* (+1) or *Cyber-Eyes* / *Neuralink* (+2).","1 K฿"
+ "**Smart Link Mod:** Install on a firearm to adapt it for autoaim, IFF mode and fine control through a *Smart Link*, either through *AR glasses* or *Cyber-Eyes* / *Neuralink*.","1 K฿"
 
 .. csv-table:: Misc and Tools
  :widths: 90, 10
 
- "**SkillSoft Chip:** Plug it in a slot and know a skill instantly. Price depends on skill level: *Skilled*: 2 K฿ | *Expert*: 3 K฿ | *Master*: 4 K฿.","--"
+ "**SkillSoft Chip:** Plug it in a slot and know a skill instantly. Price depends on skill level: *Adept*: 2 K฿ | *Expert*: 3 K฿ | *Master*: 4 K฿.","--"
  "**VR Goggles:** Access Virtual Reality without a *Neuralink*.","1 K฿"
- "**Electronic toolbox:** +1 for Electronics actions.","1 K฿"
- "**Mechanic toolbox:** +1 for Mechanics actions.","1 K฿"
- "**Medkit:** heal 5 HP or *Mild/Moderate* wounds. 3 uses.","1 K฿"
- "**Combat Drone:** +2 for combat checks when it assists you or an ally.","2 K฿"
- "**Spy Drone:** +2 for stealth/recon when you send it to scout or infiltrate.","2 K฿"
+ "**Electronic toolbox:** Hacking gear, signal probes, and micro-tools for cracking systems.","1 K฿"
+ "**Mechanic toolbox:** Wrenches, sealant, and servo-spanners for fixing machines on the fly.","1 K฿"
+ "**Medkit:** Auto-injectors, synth-skin, and trauma foam for field treatment. 3 uses.","1 K฿"
+ "**Combat Drone:** Autonomous hovering gun-platform; small, fast, and armed.","2 K฿"
+ "**Spy Drone:** Silent flier with cams, mics, and signal sniffers.","2 K฿"
 
 Cyberware
 ---------
