@@ -78,7 +78,7 @@ These effects can be countered or postponed by doing one or more of the followin
 
 .. csv-table:: 
    :header: "Preventive Action","Outcome"
-   :widths: 20, 80
+   :widths: 30, 70
 
    "**Taking drugs**
    
@@ -138,18 +138,19 @@ Each character has a :hoverxref:`native gravity <nativegravity>` they are accust
 High-G Burst Check
 ^^^^^^^^^^^^^^^^^^
 
-Make a dice roll modified by any skill that might help you resist a burst of High-G, with a difficulty set by the amount of Gs resisted in relation to your native gravity [#]_. 
+Make a dice roll modified by any skill that might help you resist a burst of High-G, with **Disadvantages** set by the amount of Gs resisted in relation to your native gravity [#]_. 
+
+.. [#] For example, if exposed to *2x your native gravity*, the GM might rule that you have **Disadvantage**; 4x your native gravity (or more) might impose **Overwhelming Disadvantage**.
 
 .. csv-table:: High-G burst outcomes
+   :widths: 20, 80
 
- "**YES! AND...**. You resist the effects of the High-G burst and gain **Advantage** for future High-G burst checks during the scene."
- "**YES!**. You resist the effects of the High-G burst."
- "**YES! BUT...**. You barely resist the effects of the High-G burst. Gain the ``Tunnel Vision (Mild)`` Condition for ~10 minutes."
- "**NO! BUT...**. You cannot resist the effects of the High-G burst, but it's less severe than expected. Gain the ``Tunnel Vision (Mild)`` Condition for ~5 minutes."
- "**NO!**. You cannot resist the effects of the High-G burst. You begin to pass out **(G-LOC)** [#]_. Gain the ``G-LOC (Mild)`` Condition for ~5 minutes."
- "**NO! AND...**. You cannot resist the effects of the High-G burst. You begin to pass out **(G-LOC)** [#]_. Gain the ``G-LOC (Mild)`` Condition for ~5 minutes, and the ``Cerebral Hypoxia (Severe)`` Condition for ~10 minutes. "
-
-.. [#] For example, if exposed to *4x your native gravity*, the Level would be 4, thus the difficulty would be 10+4 = 14. 
+   "**YES! AND...**.", "You resist the effects of the High-G burst and gain **Advantage** for future High-G burst checks during the scene."
+   "**YES!**.", " You resist the effects of the High-G burst."
+   "**YES! BUT...**.", "You barely resist the effects of the High-G burst. Gain the ``Tunnel Vision (Mild)`` Condition for ~10 minutes."
+   "**NO! BUT...**.", "You cannot resist the effects of the High-G burst, but it's less severe than expected. Gain the ``Tunnel Vision (Mild)`` Condition for ~5 minutes."
+   "**NO!**.", "You cannot resist the effects of the High-G burst. You begin to pass out **(G-LOC)** [#]_. Gain the ``G-LOC (Mild)`` Condition for ~5 minutes."
+   "**NO! AND...**.", "You cannot resist the effects of the High-G burst. You begin to pass out **(G-LOC)** [#]_. Gain the ``G-LOC (Mild)`` Condition for ~5 minutes, and the ``Cerebral Hypoxia (Severe)`` Condition for ~10 minutes. "
 
 .. [#] **G-LOC** stands for *G-Force Induced Loss-of-Conciousness*, a concept originally used in aerospace engineering and piloting.
 
@@ -161,9 +162,10 @@ Make a dice roll modified by any skill that might help you resist a burst of Hig
 
 - **G-Juice**: Pilots or passengers that expect High-G exposure can inject hypodermic needle implements in their arm or neck veins. These are connected with tubes to a G-Juice dispenser [#]_, that pours this substance into the body to mitigate the discomforts of exposure to High-G. The apparatus can be connected to an expanded health monitoring system that can check the user’s vitals and administer the G-Juice as needed.
 
+.. [#] G-Juice can also be injected with a regular needle from a standard vial, but the dose tends to be minimal, and its effect can last 10~30 minutes tops.
+
   - While connected to a G-Juice dispenser during High-G exposure, ignore the effects of the Conditions gained from High-G (you still gain them, but they don't give **Disadvantage** to other checks). Sudden death from cardiac arrest could still be a risk, at GM's discretion.
 
-.. [#] G-Juice can also be injected with a regular needle from a standard vial, but the dose tends to be minimal, and its effect can last 10~30 minutes tops.
 
 .. admonition:: Water-Tank Treatment
 
