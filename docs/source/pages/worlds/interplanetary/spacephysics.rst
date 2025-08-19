@@ -147,10 +147,10 @@ Make a dice roll modified by any skill that might help you resist a burst of Hig
 
    "**YES! AND...**", "You resist the effects of the High-G burst and gain **Advantage** for future High-G burst checks during the scene."
    "**YES!**", "You resist the effects of the High-G burst."
-   "**YES! BUT...**", "You barely resist the effects of the High-G burst. Gain the ``Tunnel Vision (Mild)`` Condition for ~10 minutes."
+   "**YES! BUT...**", "You barely resist the effects of the High-G burst. Gain the ``Mild High-G discomfort`` Condition for ~10 minutes."
    "**NO! BUT...**", "You cannot resist the effects of the High-G burst, but it's less severe than expected. Gain the ``Tunnel Vision (Mild)`` Condition for ~5 minutes."
-   "**NO!**", "You cannot resist the effects of the High-G burst. You begin to pass out **(G-LOC)**. Gain the ``G-LOC (Mild)`` Condition for ~5 minutes."
-   "**NO! AND...**", "You cannot resist the effects of the High-G burst. You begin to pass out **(G-LOC)**. Gain the ``G-LOC (Mild)`` Condition for ~5 minutes, and the ``Cerebral Hypoxia (Severe)`` Condition for ~10 minutes. "
+   "**NO!**", "You cannot resist the effects of the High-G burst. You begin to pass out **(G-LOC)**. Gain the ``G-LOC (Moderate)`` Condition for ~5 minutes."
+   "**NO! AND...**", "You cannot resist the effects of the High-G burst. You begin to pass out **(G-LOC)**. Gain the ``G-LOC (Moderate)`` Condition for ~5 minutes, and the ``Cerebral Hypoxia (Severe)`` Condition for ~10 minutes. "
 
 .. admonition:: G-LOC 
 
@@ -164,10 +164,9 @@ Make a dice roll modified by any skill that might help you resist a burst of Hig
 
 - **G-Juice**: Pilots or passengers that expect High-G exposure can inject hypodermic needle implements in their arm or neck veins. These are connected with tubes to a G-Juice dispenser [#]_, that pours this substance into the body to mitigate the discomforts of exposure to High-G. The apparatus can be connected to an expanded health monitoring system that can check the user’s vitals and administer the G-Juice as needed.
 
-.. [#] G-Juice can also be injected with a regular needle from a standard vial, but the dose tends to be minimal, and its effect can last 10~30 minutes tops.
-
   - While connected to a G-Juice dispenser during High-G exposure, ignore the effects of the Conditions gained from High-G (you still gain them, but they don't give **Disadvantage** to other checks). Sudden death from cardiac arrest could still be a risk, at GM's discretion.
 
+.. [#] G-Juice can also be injected with a regular needle from a standard vial, but the dose tends to be minimal, and its effect can last 10~30 minutes tops.
 
 .. admonition:: Water-Tank Treatment
 
