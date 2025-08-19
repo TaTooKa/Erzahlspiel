@@ -123,15 +123,15 @@ Each character has a :hoverxref:`native gravity <nativegravity>` they are accust
    "2x your native gravity", "everything feels like it weighs double as normal (even your body, clothes, tools, etc).
    
    - **Short burst**: although discomforting, negligible for most people.
-   - **Long period**: Gain the ``Hindered by High-G (Moderate)`` Condition, and lose 1 HP immediately and 1 HP for every hour of continuous exposure."
+   - **Long period**: Gain the ``Hindered by High-G (Mild)`` Condition, and regain it or increase its severity for every hour of continuous exposure."
    "3x your native gravity", "- **Short burst**: make a :hoverxref:`high-G burst check <highgburstcheck>`.
-   - **Long period**: Gain the ``Restrained by High-G (Severe)`` Condition. Lose 2 HP immediately and 2 HP for every hour of continuous exposure."
-   "4x your native gravity", "- **Short burst**: Lose 1 HP. Make a :hoverxref:`high-G burst check <highgburstcheck>`.
-   - **Long period**: You cannot move (maybe a little bit if you make extreme effort, otherwise you are prostrate in place). Lose 3 HP immediately and 3 HP for every hour of continuous exposure."
-   "5x your native gravity", "- **Short burst**: Lose 3 HP. Make a :hoverxref:`high-G burst check <highgburstcheck>`.
-   - **Long period**: You cannot move ― you are prostrate in place and in severe pain. Lose 4 HP Immediately and 4 HP for every hour of continuous exposure."
-   "10x your native gravity, or more", "- **Short burst**: Lose 5 HP. Make a :hoverxref:`high-G burst check <highgburstcheck>`.
-   - **Long period**: You cannot move ― you are prostrate in place and in severe pain. Lose 5 HP Immediately and 5 HP for every hour of continuous exposure."
+   - **Long period**: Gain the ``Restrained by High-G (Moderate)`` Condition, and regain it or increase its severity for every hour of continuous exposure."
+   "4x your native gravity", "- **Short burst**: Make a :hoverxref:`high-G burst check <highgburstcheck>`.
+   - **Long period**: You cannot move (maybe a little bit if you make extreme effort, otherwise you are prostrate in place). Gain the ``Restrained by High-G (Severe)`` Condition, and regain it or increase its severity for every hour of continuous exposure."
+   "5x your native gravity", "- **Short burst**: Make a :hoverxref:`high-G burst check <highgburstcheck>`.
+   - **Long period**: You cannot move ― you are prostrate in place and in severe pain. Gain the ``Restrained by High-G (Severe)`` Condition, and regain it or increase its severity for every hour of continuous exposure."
+   "10x your native gravity, or more", "- **Short burst**: Make a :hoverxref:`high-G burst check <highgburstcheck>`.
+   - **Long period**: You cannot move ― you are prostrate in place and in severe pain. Gain the ``Restrained by High-G (Severe)`` Condition, and regain it or increase its severity for every hour of continuous exposure."
 
 .. _highgburstcheck:
 
@@ -140,18 +140,20 @@ High-G Burst Check
 
 Make a dice roll modified by any skill that might help you resist a burst of High-G, with a difficulty set by the amount of Gs resisted in relation to your native gravity [#]_. 
 
-- On a **stalemate** or a **success**, you resist the effects of the High-G burst.
-- On a **failure**...:
+.. csv-table:: High-G burst outcomes
 
-   - If the :hoverxref:`Negative Effect <effect>` is 5 or less, you lose 1 HP and gain the ``Tunnel Vision (Mild)`` Condition for [Effect] minutes. 
-   - If the :hoverxref:`Negative Effect <effect>` is 6 to 10, you lose 5 HP and pass out **(G-LOC)** [#]_ for [Effect/2] minutes.
-   - If the :hoverxref:`Negative Effect <effect>` is 11 or more, you lose 10 HP and gain the ``Cerebral Hypoxia (Severe)`` Condition for [Effect] minutes. 
+ "**YES! AND...**. You resist the effects of the High-G burst and gain **Advantage** for future High-G burst checks during the scene."
+ "**YES!**. You resist the effects of the High-G burst."
+ "**YES! BUT...**. You barely resist the effects of the High-G burst. Gain the ``Tunnel Vision (Mild)`` Condition for ~10 minutes."
+ "**NO! BUT...**. You cannot resist the effects of the High-G burst, but it's less severe than expected. Gain the ``Tunnel Vision (Mild)`` Condition for ~5 minutes."
+ "**NO!**. You cannot resist the effects of the High-G burst. You begin to pass out **(G-LOC)** [#]_. Gain the ``G-LOC (Mild)`` Condition for ~5 minutes."
+ "**NO! AND...**. You cannot resist the effects of the High-G burst. You begin to pass out **(G-LOC)** [#]_. Gain the ``G-LOC (Mild)`` Condition for ~5 minutes, and the ``Cerebral Hypoxia (Severe)`` Condition for ~10 minutes. "
 
 .. [#] For example, if exposed to *4x your native gravity*, the Level would be 4, thus the difficulty would be 10+4 = 14. 
 
-.. [#] **G-LOC** stands for *G-Force Induced Loss-of-Conciousness*, originally used in aerospace engineering and piloting.
+.. [#] **G-LOC** stands for *G-Force Induced Loss-of-Conciousness*, a concept originally used in aerospace engineering and piloting.
 
-**High-G exposure** can leave lasting effects in the form of more permanent Conditions (like bruising, muscle pain, or even bone fractures) at GM discretion, using the amount of HP lost or Conditions gained as a guidance. These effects can only be partially countered with these two methods:
+**High-G exposure** can leave lasting effects in the form of more permanent Conditions (like bruising, muscle pain, or even bone fractures) at GM discretion, using the amount of Conditions gained as a guidance. These effects can only be partially countered with these two methods:
 
 - **Crash Couch**: These are specialized implements that resemble a mixture of a bean bag and a pilot seat. They are usually equipped in military vessels or spacecraft that are expected to do High-G maneuvers. They have a cushiony viscoelastic surface and an ergonomic build that softens your body from the high forces in an active fashion, with special gyroscope sensors.
 
@@ -159,7 +161,7 @@ Make a dice roll modified by any skill that might help you resist a burst of Hig
 
 - **G-Juice**: Pilots or passengers that expect High-G exposure can inject hypodermic needle implements in their arm or neck veins. These are connected with tubes to a G-Juice dispenser [#]_, that pours this substance into the body to mitigate the discomforts of exposure to High-G. The apparatus can be connected to an expanded health monitoring system that can check the user’s vitals and administer the G-Juice as needed.
 
-  - While connected to a G-Juice dispenser during High-G exposure, ignore the effects of the Conditions gained from High-G. You still lose HP as normal.
+  - While connected to a G-Juice dispenser during High-G exposure, ignore the effects of the Conditions gained from High-G (you still gain them, but they don't give **Disadvantage** to other checks). Sudden death from cardiac arrest could still be a risk, at GM's discretion.
 
 .. [#] G-Juice can also be injected with a regular needle from a standard vial, but the dose tends to be minimal, and its effect can last 10~30 minutes tops.
 
