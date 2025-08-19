@@ -150,7 +150,7 @@ Make a dice roll modified by any skill that might help you resist a burst of Hig
    "**YES! BUT...**", "You barely resist the effects of the High-G burst. Gain the ``Tunnel Vision (Mild)`` Condition for ~10 minutes."
    "**NO! BUT...**", "You cannot resist the effects of the High-G burst, but it's less severe than expected. Gain the ``Tunnel Vision (Mild)`` Condition for ~5 minutes."
    "**NO!**", "You cannot resist the effects of the High-G burst. You begin to pass out **(G-LOC)**. Gain the ``G-LOC (Mild)`` Condition for ~5 minutes."
-   "**NO! AND...**", "You cannot resist the effects of the High-G burst. You begin to pass out **(G-LOC)** [#]_. Gain the ``G-LOC (Mild)`` Condition for ~5 minutes, and the ``Cerebral Hypoxia (Severe)`` Condition for ~10 minutes. "
+   "**NO! AND...**", "You cannot resist the effects of the High-G burst. You begin to pass out **(G-LOC)**. Gain the ``G-LOC (Mild)`` Condition for ~5 minutes, and the ``Cerebral Hypoxia (Severe)`` Condition for ~10 minutes. "
 
 .. admonition:: G-LOC 
 
