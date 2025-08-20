@@ -3,14 +3,14 @@ Characters
 
 Choose if you want a **Warrior-Type** or a **Spellcaster-Type**.
 
-**Warrior-Type**: Begin with ``Battle Expert (+3)`` and pick 2 of: an extra weapon, a shield, a helmet.
+**Warrior-Type**: Begin with ``Battle Expert`` and pick 2 of: an extra weapon, a shield, a helmet.
 
-**Spellcaster-Type**: Begin with ``Sorcery Expert (+3)`` and get 3 :hoverxref:`spell tattoos <spells-section>`.
+**Spellcaster-Type**: Begin with ``Sorcery Expert`` and get 3 :hoverxref:`spell tattoos <spells-section>`.
 
 Skills
 ------
 
-Pick 3 other skills. Two of them will be at ``Adept (+1)`` Level, and one will be at ``Expert (+3)`` Level.
+Pick 3 other skills. Two of them will be at ``Adept`` Level, and one will be at ``Expert`` Level.
 
 .. rst-class:: three-columns
 
@@ -43,7 +43,7 @@ Pick 3 other skills. Two of them will be at ``Adept (+1)`` Level, and one will b
 Items
 -----
 
-Roll or choose items from the following tables. All of them will be at ``Mundane (+1)`` Level, except for one of your choice that will be at ``Masterwork (+3)`` Level.
+Roll or choose items from the following tables. All of them will be at ``Mundane`` Level, except for one of your choice that will be at ``Masterwork`` Level.
 
 Weapons
 ~~~~~~~
