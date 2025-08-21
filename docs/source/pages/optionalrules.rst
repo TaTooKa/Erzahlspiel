@@ -151,8 +151,8 @@ When the player rolls, consult the result depending on the type of magic below:
    "YES! AND...", "the spell works with increased benefit or power", "the spell works with increased benefit or power", "the spell works without Magical Mishaps"
    "YES!", "the spell works as intended", "the spell works as intended", "the spell works as intended, but with a **Minor Mishap**"
    "YES! BUT...", "the spell works, but with a backlash or unintended consequence", "the spell works, but with a **Minor Mishap**", "the spell works, but with a **Medium Mishap**"
-   "NO! BUT...", "the spell fails, but with an unexpected advantage", "the spell fails, but with an unexpected advantage", "the spell fails, but without Magical Mishaps"
-   "NO!", "the spell fails", "the spell fails", "the spell fails"
+   "NO! BUT...", "the spell fails, but with an unexpected advantage", "the spell fails, but without Magical Mishaps", "the spell fails, but without Magical Mishaps"
+   "NO!", "the spell fails", "the spell fails, and with a **Minor Mishap**", "the spell fails, and with a **Medium Mishap**"
    "NO! AND...", "the spell fails, and with a **Minor Mishap**", "the spell fails, and with a **Medium Mishap**", "the spell fails, and with a **Major Mishap**"
 
 Magical Mishaps
