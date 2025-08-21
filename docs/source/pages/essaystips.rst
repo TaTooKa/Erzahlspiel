@@ -7,7 +7,7 @@ Simultaneous Initiative
 ----------------------
 The usual in most TTRPGs (either on the rules-heavy/simulationist or in the more narrative side of the spectrum) is to have a single initiative order, where each player and the GM take turns in a round-robin fashion. Some GMs like to use an in-world initiative system, where the "reaction" or speed of the characters and the narrative context determines the order of actions. Others like to use cinematic or "popcorn" initiative; basically moving the spotlight as they see fit to make the scene as compelling and thrilling as they can.
 
-But there's another option, taken from certain TTRPGs like Mothership: Simultaneous Initiative. GMs can use this method for all or for certain scenes in their games.
+But there's another option, taken from certain TTRPGs like `Mothership <https://www.tuesdayknightgames.com/pages/mothership-rpg>`_: **Simultaneous Initiative**. GMs can use this method for all or for certain scenes in their games.
 
 - The GM describes the scene and the situation, and what is likely to happen if there is no response or action from the players.
 - The GM then goes around the table and asks each player to describe what their character would do in that situation, without rolling any dice (yet). Players can metagame as much as it is acceptable for the table, changing their desired course of action based on what other players say.
