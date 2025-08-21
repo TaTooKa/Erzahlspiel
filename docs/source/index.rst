@@ -27,6 +27,7 @@ The GM will most likely peruse one of the Worlds and Scenarios provided in this 
    pages/opposition
    pages/principles
    pages/optionalrules
+   pages/essaystips
    pages/about
 
 .. toctree::
