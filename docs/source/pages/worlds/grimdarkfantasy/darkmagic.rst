@@ -66,79 +66,21 @@ Spells
 Spellcasting
 ~~~~~~~~~~~~
 
-| The effect of "safe" magic is usually subtle. This means the effect is often temporary and low-impact, avoiding significant changes to the environment or the caster. Sorcerers avoid detection by casting subtle spells that go unnoticed. 
-| Roll *+Sorcery* or a similar skill, vs a :hoverxref:`Low Difficulty <difficulty>` set by the GM. 
-| On a *CRITICAL FAILURE*, a *Magical Mishap* occurs (see below).
+In a Dark Fantasy setting, magic is often weird, corrupting, unpredictable, or a combination of all of those.
 
-| **DEFILING MAGIC** is the process to tap more than what's safe for greater power. Plants wither and die, soil goes infertile and dry, and creatures weaken and writhe. 
-| When you choose to do so, add +3 to your roll if you defile a few meters around you, or +5 if you desecrate a bigger area. 
-| The :hoverxref:`difficulty <difficulty>` is set by the GM, but usually it is *Medium* or *Hard*.
-| The spell effect is stronger, but if you roll a *FAILURE* or you obtain a total result *equal to or higher than 20*, you trigger a *Magical Mishap*.
+Use the :hoverxref:`Creative Magic <creative-magic>` system, but with the following changes:
 
-Magical Mishaps
-^^^^^^^^^^^^^^^
+- **Subtle magic** is the only "safe" way to cast spells, but the effects are always limited or of low impact.
+- **Overt Magic** always "defiles" a small area around the caster, regardless of any *Condition* or *Magical Mishap* caused by the result of the dice roll.
+- **Massive Magic** always "defiles" a very large area around the caster, regardless of any *Condition* or *Magical Mishap* caused by the result of the dice roll.
 
-Roll d20 + the :hoverxref:`Negative Effect <effect>` (in case of Failure) or + the :hoverxref:`Positive Effect <effect>` (in case of a total result of 20+ while *Defiling*):
 
-.. list-table:: 
-   :widths: 10, 90
+.. admonition:: Defiling Magic
 
-   * - 2-3
-     - You speak and write gibberish until rest.
-   * - 4-5
-     - You start glowing, attracting attention.
-   * - 6-7
-     - The weather worsens locally, following you around, until rest.
-   * - 8-9
-     - Something nearby spontaneously catches on fire.
-   * - 10
-     - Every magically-attuned being in the area gains a ``Disoriented (Mild, -1)`` Condition.
-   * - 11
-     - An anomalous light beam triggers at your location; a magical beacon that attracts any arcane-attuned being.
-   * - 12
-     - One of your body parts or facial features changes into that of an animal (detrimental/awkward), until rest.
-   * - 13
-     - The spell targets a random, unwanted target.
-   * - 14
-     - The spell effect is much smaller/bigger than expected, to your detriment.
-   * - 15
-     - Your mind switches bodies with that of a nearby ally, until rest.
-   * - 16
-     - You lose the ability to understand any spoken word until rest.
-   * - 17
-     - One of your limbs is petrified (a ``Moderate (-3)`` Condition) until rest.
-   * - 18
-     - An explosion of arcane energy deals 8 damage to you and anyone close, and 4 damage to anyone nearby.
-   * - 19
-     - You become deaf or blind (a ``Severe (-5)`` Condition) until rest.
-   * - 20
-     - The spell does the opposite of the intended effect, to your detriment.
-   * - 21
-     - An Item you carry (or that of a nearby ally) is broken or spent and must be repaired or refilled.
-   * - 22
-     - A localized earthquake occurs: the ground cracks, structures collapse, people is hurt, etc. It lasts for 1 minute, complicating everyone with a ``Moderate (-3)`` Condition.
-   * - 24
-     - The area turns into an arcane nega-zone where no spells can be cast, for a year.
-   * - 25
-     - An entity of horror is summoned. It is angry and has no master.
-   * - 26+
-     - You tear a gash in reality. The pitch-black tear grows larger by the hour, until it devours everything that exists.
+  Defiling Magic is a consequence of using Overt or Massive Magic. When a spell defiles an area, it leaves a mark on the environment, corrupting it and making it inhospitable to life. This can manifest in various ways, such as:
 
-------------
+  - Blighted landscapes, where nothing grows
+  - Mutated creatures, twisted by the residual magic
+  - Haunting echoes of the spell's power, lingering in the air
 
-.. _rituals-section:
-
-Rituals
-~~~~~~~
-
-Some special or powerful effects cannot be cast instantly (or be encoded as spells), and require a more involved process, known as a **Ritual**. Magic Rituals can potentially achieve any desired effect the caster can imagine. 
-
-The GM sets **1 to 4 conditions** before you roll:
-
-- It's going to take hours/days/weeks/months
-- You must perform it at a special place/time
-- First you must do [X] or get help from [X]
-- The effect will be unreliable or limited
-- You and your allies will risk danger from [X]
-- You'll have to sacrifice or consume [X] to do it
-
+  Characters should be aware of the potential consequences of their magic use and consider the long-term effects on the world around them. Those that Defile without care are considered evil by most communities.
