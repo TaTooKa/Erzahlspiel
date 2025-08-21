@@ -122,7 +122,7 @@ Magic Systems
 Creative Magic
 ~~~~~~~~~~~~~~
 
-In this magic system, players and GM imagine magical effects and cast spells in a narrative way. There might be "Arcane Schools", "Elements", or "Spell lists", but this would be fictional constraints that simply limit what a particular spellcaster can do.
+In this magic system, players and GM imagine magical effects and cast spells in a narrative way. There might be "Arcane Schools", "Elements", or "Spell lists", but those would be fictional constraints that simply limit what a particular spellcaster can do as an arcane effect; the following rules apply to all.
 
 There are three ways to cast magic: **Subtle**, **Overt**, or **Massive**.
 
