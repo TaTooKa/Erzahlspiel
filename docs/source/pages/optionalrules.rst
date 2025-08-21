@@ -122,6 +122,8 @@ Magic Systems
 Creative Magic
 ~~~~~~~~~~~~~~
 
+In this magic system, players and GM imagine magical effects and cast spells in a narrative way. There might be "Arcane Schools", "Elements", or "Spell lists", but this would be fictional constraints that simply limit what a particular spellcaster can do.
+
 There are three ways to cast magic: **Subtle**, **Overt**, or **Massive**.
 
 **Subtle magic** creates effects that are discreet and often go unnoticed by others. It allows the caster to manipulate the environment or influence others without drawing attention. The effects are often small-scale, temporary, and weak.
@@ -130,7 +132,7 @@ There are three ways to cast magic: **Subtle**, **Overt**, or **Massive**.
 
 **Massive magic** is the most powerful and destructive form of magic. It can alter the environment on a grand scale, create catastrophic effects, or summon immense forces. This type of magic is often risky and can have unintended consequences.
 
-Before Casting Magic, the player must decide if they are going to be *Subtle*, *Overt* or *Massive*. Sometimes the player just knows what effect they want to produce, and depending on their description, the GM can tell them if it is Subtle, Overt or Massive. Subtle magic sometimes doesn't even require a roll (if the effect is minor enough or there is no great risk or consequence for failing). Massive magic, on the other hand, not only requires a roll but also requires a more involved process that the GM will determine at the moment (the GM sets 1 to 4 Conditions that the spellcaster must fulfill before they roll):
+Before Casting Magic, the player must decide if they are going to be *Subtle*, *Overt* or *Massive*. Sometimes the player just knows what effect they want to produce, and depending on their description, the GM can tell them if it is Subtle, Overt or Massive. Subtle magic sometimes doesn't even require a roll (if the effect is minor enough or there is no great risk or consequence for failing). Massive magic, on the other hand, not only requires a roll but also requires a more involved process that the GM will determine at the moment (**the GM sets 1 to 4 Conditions** that the spellcaster must fulfill before they roll):
 
 .. csv-table:: Massive Magic conditions
 
@@ -147,11 +149,11 @@ When the player rolls, consult the result depending on the type of magic below:
    :header: "Dice Result", "Subtle Magic", "Overt Magic", "Massive Magic"
 
    "YES! AND...", "the spell works with increased benefit or power", "the spell works with increased benefit or power", "the spell works without Magical Mishaps"
-   "YES!", "the spell works as intended", "the spell works as intended", "the spell works as intended, but with a :hoverxref:`Minor Mishap <minor-mishap>`"
-   "YES! BUT...", "the spell works, but with a backlash or unintended consequence", "the spell works, but with a :hoverxref:`Minor Mishap <minor-mishap>`", "the spell works, but with a :hoverxref:`Medium Mishap <medium-mishap>`"
+   "YES!", "the spell works as intended", "the spell works as intended", "the spell works as intended, but with a **Minor Mishap**"
+   "YES! BUT...", "the spell works, but with a backlash or unintended consequence", "the spell works, but with a **Minor Mishap**", "the spell works, but with a **Medium Mishap**"
    "NO! BUT...", "the spell fails, but with an unexpected advantage", "the spell fails, but with an unexpected advantage", "the spell fails, but without Magical Mishaps"
    "NO!", "the spell fails", "the spell fails", "the spell fails"
-   "NO! AND...", "the spell fails, and with a :hoverxref:`Minor Mishap <minor-mishap>`", "the spell fails, and with a :hoverxref:`Medium Mishap <medium-mishap>`", "the spell fails, and with a :hoverxref:`Major Mishap <major-mishaps>`"
+   "NO! AND...", "the spell fails, and with a **Minor Mishap**", "the spell fails, and with a **Medium Mishap**", "the spell fails, and with a **Major Mishap**"
 
 Magical Mishaps
 ^^^^^^^^^^^^^^^
