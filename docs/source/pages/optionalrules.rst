@@ -146,14 +146,15 @@ Before Casting Magic, the player must decide if they are going to be *Subtle*, *
 When the player rolls, consult the result depending on the type of magic below:
 
 .. csv-table:: Casting Magic Results
+   :widths: 10, 30, 30, 30
    :header: "Dice Result", "Subtle Magic", "Overt Magic", "Massive Magic"
 
    "YES! AND...", "the spell works with increased benefit or power", "the spell works with increased benefit or power", "the spell works without Magical Mishaps"
-   "YES!", "the spell works as intended", "the spell works as intended", "the spell works as intended, but with a **Minor Mishap**"
-   "YES! BUT...", "the spell works, but with a backlash or unintended consequence", "the spell works, but with a **Minor Mishap**", "the spell works, but with a **Medium Mishap**"
-   "NO! BUT...", "the spell fails, but with an unexpected advantage", "the spell fails, but without Magical Mishaps", "the spell fails, but without Magical Mishaps"
-   "NO!", "the spell fails", "the spell fails, and with a **Minor Mishap**", "the spell fails, and with a **Medium Mishap**"
-   "NO! AND...", "the spell fails, and with a **Minor Mishap**", "the spell fails, and with a **Medium Mishap**", "the spell fails, and with a **Major Mishap**"
+   "YES!", "the spell works as intended", "the spell works as intended", "the spell works as intended, but choose: you are ``Winded (Mild)`` or a **Minor Mishap** occurs"
+   "YES! BUT...", "the spell works, but you are ``Winded (Mild)``", "the spell works, but choose: you are ``Winded (Mild)`` or a **Minor Mishap** occurs", "the spell works, but choose: you are ``Tired (Moderate)`` or a **Medium Mishap** occurs"
+   "NO! BUT...", "the spell fails, but with no undesired effects or exhaustion", "the spell fails, but with no undesired effects or exhaustion", "the spell fails, and choose: you are ``Winded (Mild)`` or a **Minor Mishap** occurs"
+   "NO!", "the spell fails", "the spell fails, but choose: you are ``Winded (Mild)`` or a **Minor Mishap** occurs", "the spell fails, but choose: you are ``Tired (Moderate)`` or a **Medium Mishap** occurs"
+   "NO! AND...", "the spell fails, and choose: you are ``Winded (Mild)`` or a **Minor Mishap** occurs", "the spell fails, and choose: you are ``Tired (Moderate)`` or a **Medium Mishap** occurs", "the spell fails, and choose: you are ``Exhausted (Severe)`` or a **Major Mishap** occurs"
 
 Magical Mishaps
 ^^^^^^^^^^^^^^^
