@@ -143,7 +143,7 @@ Before Casting Magic, the player must decide if they are going to be *Subtle*, *
    "You and your allies will risk danger from [X]"
    "You'll have to sacrifice or consume [X] to do it"
 
-When the player rolls, consult the result depending on the type of magic below:
+Once the conditions and desired magical effects have been established, :hoverxref:`the GM will tell the player which die to roll <interpret-the-odds>`. Then consult the result depending on the type of magic below:
 
 .. csv-table:: Casting Magic Results
    :widths: 10, 30, 30, 30
