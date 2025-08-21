@@ -119,6 +119,8 @@ Instinct Checks
 Magic Systems
 -------------
 
+.. _creative-magic:
+
 Creative Magic
 ~~~~~~~~~~~~~~
 
@@ -155,6 +157,10 @@ Once the conditions and desired magical effects have been established, :hoverxre
    "NO! BUT...", "the spell fails, but with no undesired effects or exhaustion", "the spell fails, but with no undesired effects or exhaustion", "the spell fails, and choose: you are ``Winded (Mild)`` or a **Minor Mishap** occurs"
    "NO!", "the spell fails", "the spell fails, but choose: you are ``Winded (Mild)`` or a **Minor Mishap** occurs", "the spell fails, but choose: you are ``Tired (Moderate)`` or a **Medium Mishap** occurs"
    "NO! AND...", "the spell fails, and choose: you are ``Winded (Mild)`` or a **Minor Mishap** occurs", "the spell fails, and choose: you are ``Tired (Moderate)`` or a **Medium Mishap** occurs", "the spell fails, and choose: you are ``Exhausted (Severe)`` or a **Major Mishap** occurs"
+
+.. warning:: 
+
+   Magic can be tiresome, the more powerful the arcane effect is. Some spellcasters absorb the magical discharge themselves (gaining a Condition that represents that exhaustion). Others release that energy into the environment, causing unpredictable **Magical Mishaps**. This is considered bad form and very negligent by the wizard community.
 
 Magical Mishaps
 ^^^^^^^^^^^^^^^
