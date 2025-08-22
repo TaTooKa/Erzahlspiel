@@ -66,7 +66,7 @@ Spells
 Spellcasting
 ~~~~~~~~~~~~
 
-.. figure:: ../_static/images/rpg-image-40.jpg
+.. figure:: /_static/images/rpg-image-40.jpg
 
    art © `Fesbra <https://fesbra.artstation.com/>`_
 
