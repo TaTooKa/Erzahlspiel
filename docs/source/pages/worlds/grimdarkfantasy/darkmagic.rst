@@ -65,30 +65,31 @@ Spells
    
 ------------
 
-.. _dark-magic-spellcasting:
-
 Spellcasting
 ~~~~~~~~~~~~
 
-.. figure:: /_static/images/rpg-image-40.jpg
+.. _dark-magic-spellcasting:
 
-   art © `Fesbra <https://fesbra.artstation.com/>`_
+.. container:: dark-magic-spellcasting
 
-In a Dark Fantasy setting, magic is often weird, corrupting, unpredictable, or a combination of all of those.
+   .. figure:: /_static/images/rpg-image-40.jpg
 
-Use the :hoverxref:`Creative Magic <creative-magic>` system, but with the following changes:
+      art © `Fesbra <https://fesbra.artstation.com/>`_
 
-- **Subtle magic** is the only "safe" way to cast spells, but the effects are always limited or of low impact.
-- **Overt Magic** always "defiles" a small area around the caster, regardless of any *Condition* or *Magical Mishap* caused by the result of the dice roll.
-- **Massive Magic** always "defiles" a very large area around the caster, regardless of any *Condition* or *Magical Mishap* caused by the result of the dice roll.
+   In a Dark Fantasy setting, magic is often weird, corrupting, unpredictable, or a combination of all of those.
 
+   Use the :hoverxref:`Creative Magic <creative-magic>` system, but with the following changes:
 
-.. admonition:: Defiling Magic
+   - **Subtle magic** is the only "safe" way to cast spells, but the effects are always limited or of low impact.
+   - **Overt Magic** always "defiles" a small area around the caster, regardless of any *Condition* or *Magical Mishap* caused by the result of the dice roll.
+   - **Massive Magic** always "defiles" a very large area around the caster, regardless of any *Condition* or *Magical Mishap* caused by the result of the dice roll.
 
-  Defiling Magic is a consequence of using Overt or Massive Magic. When a spell defiles an area, it leaves a mark on the environment, corrupting it and making it inhospitable to life. This can manifest in various ways, such as:
+   .. admonition:: Defiling Magic
 
-  - Blighted landscapes, where nothing grows
-  - Mutated creatures, twisted by the residual magic
-  - Haunting echoes of the spell's power, lingering in the air
+      Defiling Magic is a consequence of using Overt or Massive Magic. When a spell defiles an area, it leaves a mark on the environment, corrupting it and making it inhospitable to life. This can manifest in various ways, such as:
 
-  Characters should be aware of the potential consequences of their magic use and consider the long-term effects on the world around them. Those that Defile without care are considered evil by most communities.
+      - Blighted landscapes, where nothing grows
+      - Mutated creatures, twisted by the residual magic
+      - Haunting echoes of the spell's power, lingering in the air
+
+      Characters should be aware of the potential consequences of their magic use and consider the long-term effects on the world around them. Those that Defile without care are considered evil by most communities.
