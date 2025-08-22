@@ -12,13 +12,15 @@ New Rules
 
 These are rules pertaining specifically to games of Dying Sun.
 
-**Load**: Characters can carry as much as makes sense, but more than two *bulky* items (or more than 3 *pieces of armor*) will make you ``Over-encumbered`` (a negative Condition, usually *Mild*, at GM's discretion).
+**Load**: Characters can carry as much as makes sense, but more than two *bulky* items (or more than 3 *pieces of armor*) will make you ``Over-encumbered`` (a negative :hoverxref:`Condition <conditions>`, usually *Mild*, at GM's discretion).
 
 **Skill Tiers**: Use the :hoverxref:`Descriptor Tiers <descriptor-tiers>` optional rule for skills. You can have a skill at ``Adept``, ``Expert`` or ``Master`` level.
 
 **Item Durability**: Items in Dying Sun have different :hoverxref:`material qualities <materials-table>`, and as an added **risk** to any roll, they could break on bad outcomes.
 
-**Defense**: Each piece of armor can be broken separately as *Defense* to avoid receiving a *Condition* from a physical source of damage. Some weapons can be broken too, depending on the type of incoming damage (at GM's discretion). Sometimes this is a choice the characters take, to avoid taking damage themselves. Sometimes they break as a consequence of a bad roll result.
+**Defense**: Each piece of armor can be broken [#]_ separately as *Defense* to avoid receiving a *Condition* from a physical source of damage. Some weapons can be broken too, depending on the type of incoming damage (at GM's discretion). Sometimes this is a choice the characters take, to avoid taking damage themselves. Sometimes they break as a consequence of a bad roll result.
+
+.. [#] An item only breaks if it was of Low Quality (or had been degraded to Low Quality). Medium Quality items *degrade* to Low when instructed to break, and High Quality items degrade to Medium.
 
 Character creation
 ------------------
