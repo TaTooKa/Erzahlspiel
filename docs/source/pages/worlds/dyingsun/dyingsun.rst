@@ -183,7 +183,7 @@ Materials Table
      - 1: Bone; 2: Chitin; 3: Stone; 4: Leather; 5: Fur/Hide; 6: Wood
    * - 7-10
      - Med Quality
-     - 1-2: Strong bone/hide; 3-4: Hardwood/Hardrock; 5-6: Iron/Bronze
+     - 1-2: Strong bone/hide; 3-4: Hardwood/Hard Rock; 5-6: Iron/Bronze
    * - 11-12
      - High Quality
      - True Steel
@@ -237,7 +237,7 @@ Weapons Table
 Armor
 ~~~~~
 
-Characters can only use one piece of armor in each body part (reroll if repeated during character creation). You are *over-encumbered* if using more than 3.
+Characters can only use one piece of armor in each body part (reroll if repeated during character creation). You are ``Over-encumbered`` if using more than 3.
 
 .. _armor-table:
 
