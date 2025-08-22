@@ -188,6 +188,10 @@ Materials Table
      - High Quality
      - True Steel
 
+.. admonition:: Broken Gear
+
+   If a piece of gear breaks, it can be repaired by a skilled craftsman NPC, paying for the service with gems, or by a player character, if they have the ``Craft`` skill and raw materials of the same type. If the item is broken beyond repair, it can be salvaged for parts (usually yields 1 chunk of the same material; 2 chunks at most in certain situations, at GM's discretion).
+
 ------------
 
 Weapons
