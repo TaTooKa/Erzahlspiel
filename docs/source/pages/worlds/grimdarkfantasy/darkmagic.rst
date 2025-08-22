@@ -66,6 +66,10 @@ Spells
 Spellcasting
 ~~~~~~~~~~~~
 
+.. figure:: ../_static/images/rpg-image-40.jpg
+
+   art © `Fesbra <https://fesbra.artstation.com/>`_
+
 In a Dark Fantasy setting, magic is often weird, corrupting, unpredictable, or a combination of all of those.
 
 Use the :hoverxref:`Creative Magic <creative-magic>` system, but with the following changes:
