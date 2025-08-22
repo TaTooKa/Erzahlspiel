@@ -1,9 +1,11 @@
 Dark Magic
 ==========
 
+.. _dark-magic:
+
 Magic is an esoteric art that is very dangerous even in the best case scenarios. It takes its energy from the life essence of everything around the caster. A magic-user knows how to tap just enough, to power their spells in a somewhat safe way.
 
-.. _spells-section:
+.. _dark-magic-spells-section:
 
 Spells
 ~~~~~~
@@ -65,6 +67,8 @@ Spells
 
 Spellcasting
 ~~~~~~~~~~~~
+
+.. _dark-magic-spellcasting:
 
 .. figure:: /_static/images/rpg-image-40.jpg
 

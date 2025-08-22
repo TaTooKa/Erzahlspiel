@@ -12,13 +12,13 @@ New Rules
 
 These are rules pertaining specifically to games of Dying Sun.
 
-**Load**: Characters can carry as much as makes sense, but more than two *bulky* items (or more than 3 *pieces of armor*) will make you *over-encumbered*: this is a **negative condition** (-1) for any roll that would be affected by it.
+**Load**: Characters can carry as much as makes sense, but more than two *bulky* items (or more than 3 *pieces of armor*) will make you ``Over-encumbered (Mild)``.
 
-**Skill Mastery**: in Dying Sun, characters can be either *adept* (+1) at a *skill*, or a *master* (+2). Write down a +1 or +2 next to your skills to differentiate them.
+**Skill Tiers**: Use the :hoverxref:`Descriptor Tiers <descriptor-tiers>` optional rule for skills. You can have a skill at ``Adept``, ``Expert`` or ``Master`` level.
 
-**Item Durability**: Items in Dying Sun have different material qualities, and as an added **risk** to any roll, they could break on Failures or Partial Successes.
+**Item Durability**: Items in Dying Sun have different material qualities, and as an added **risk** to any roll, they could break on bad outcomes.
 
-**Defense**: Each piece of armor can be broken separately as *Defense* to avoid harm. Some weapons can be broken too, depending on the type of incoming damage (at GM's discretion).
+**Defense**: Each piece of armor can be broken separately as *Defense* to avoid harm (receiving a Condition from a physical source of damage). Some weapons can be broken too, depending on the type of incoming damage (at GM's discretion).
 
 Character creation
 ------------------
@@ -35,9 +35,9 @@ WARRIOR
 
 *An adept fighter, a barbarian of the Jagged Wastes, a gladiator of the arena of Zihm or a brigand in search of bloody battle.*
 
-Warriors are the only ones who can wear up to 5 pieces of armor without being *over-encumbered*.
+Warriors are the only ones who can wear up to 5 pieces of armor without being ``Over-encumbered (Mild)``.
 
-Skills: *Melee*, *Athletics*.
+Skills: ``Battle Expert``, ``Athletics Adept``.
 
 Gear: Roll d6+2 on the :hoverxref:`Random Weapons <weapons-table>` table **twice**, and get 3 random pieces of :hoverxref:`armor <armor-table>`. Remember to roll :hoverxref:`material quality <materials-table>` for each item.
 
@@ -46,9 +46,9 @@ WANDERER
 
 *A natural-born explorer, a scoundrel from the streets of Tarnath, an expert guide or an errant adventurer of the Red Wastelands.*
 
-Wanderers always have good odds (a circumstantial bonus of +1) when rolling to avoid getting lost in the wilds or being surprised by an ambush or trap.
+Wanderers always have good odds (an **Advantage**) when rolling to avoid getting lost in the wilds, tracking prey, or being surprised by an ambush or trap.
 
-Skills: *Marksman*, *Survival*, *Tracking*. 
+Skills: ``Hunting Expert``, ``Tracking Adept``, ``Travel Adept``. 
 
 Gear: Roll d6 on the :hoverxref:`Random Weapons <weapons-table>` table, and get 2 random pieces of :hoverxref:`armor <armor-table>`. Begin with an extra *ranged weapon* of your choice. Remember to roll :hoverxref:`material quality <materials-table>` for each item.
 
@@ -57,11 +57,11 @@ WARLOCK
 
 *A clandestine wielder of magick, a fugitive defiler or a rebel spellcaster fighting against the will of the Sorcerer-Kings.*
 
-Warlocks are the only ones who can cast *Spells* from their tattoos or execute :hoverxref:`Magic Rituals <rituals-section>`.
+Warlocks are the only ones who can :hoverxref:`cast Spells <dark-magic-spellcasting>` from their tattoos.
 
-Skills: *Spellcasting*, *Rituals*.
+Skills: ``Sorcery Expert``, ``Lore Adept``.
 
-Gear: Roll d6-1 on the :hoverxref:`Random Weapons <weapons-table>` table, and get 1 random piece of :hoverxref:`armor <armor-table>`. Remember to roll :hoverxref:`material quality <materials-table>` for each item. Also begin knowing 3 :hoverxref:`random spells <spells-section>`.
+Gear: Roll d6-1 on the :hoverxref:`Random Weapons <weapons-table>` table, and get 1 random piece of :hoverxref:`armor <armor-table>`. Remember to roll :hoverxref:`material quality <materials-table>` for each item. Also begin knowing 3 :hoverxref:`random spells <dark-magic-spells-section>`.
 
 Species
 ~~~~~~~
@@ -73,22 +73,22 @@ HUMAN
 
 *The most common amongst the wastelanders.*
 
-- Gain 3 extra Skills, or increase some of those you have to *master* (+2), at your choice, in any combination you like.
+- Gain 3 extra Skills, or increase some of those you have to a higher tier (*Adept* -> *Expert* -> *Master*), at your choice, in any combination you like.
 
 KREEN'SEKT
 ^^^^^^^^^^
 
 *Mantis-like humanoids of the Arid Hills.* 
 
-- You have 4 arms (can wield more weapons/ tools, or *help* yourself (+1) on actions that would benefit from that). 
-- You gain the *Jumping* skill; You can plunge twice as far/high as humans.
+- You have 4 arms (can wield more weapons / tools, or *help* yourself (**Advantage**) on actions that would benefit from that). 
+- You gain the ``Jumping`` skill; You can plunge twice as far or high as humans.
 
 LIZAR'DRAC
 ^^^^^^^^^^
 
 *Reptile-men from the Dune Sea.* 
 
-- You have the skill *Resistance to heat/fire/thirst/hunger*. 
+- You have the skill ``Resistance to heat, fire, thirst and hunger``. 
 - You can slowly regenerate wounds or missing body parts.
 
 
@@ -97,7 +97,33 @@ Extra Skills
 
 Gain 2 extra skills of your choice:
 
-*Athletics, Climbing, Crafting, Deception, Disguise, Forage, Geography, History, Intimidation, Investigation, Marksman, Medicine, Melee, Performance, Persuasion, Religion, Riding, Stealth, Survival, Thievery, Tracking, Traps, Warfare*.
+.. rst-class:: three-columns
+
+- Acrobatics
+- Athletics
+- Battle
+- Craft
+- Deception
+- Foraging
+- Healing
+- Herbalism
+- Hiding
+- Hunting
+- Intimidation
+- Lockpicking
+- Lore
+- Nature
+- Perception
+- Performance
+- Persuasion
+- Pickpocket
+- Riding
+- Sailing
+- Sorcery
+- Taming
+- Tracking
+- Traditions
+- Travel
 
 Names
 ~~~~~
@@ -130,9 +156,11 @@ Materials
 
 An Item's material can be *Low*, *Medium* or *High* quality.
 
-- Weapons and armor are usually made of **Low quality** readily-available materials like *Bone, Chitin, Stone, Leather, Furs,* etc. These tend to break easily on roll results of **FAILURES** or **PARTIAL SUCCESSES**.
-- Items of **Medium quality** (*Strong Bone* or *Hide*, or even *Bronze*) only break on **FAILURES**, but cost twice ◈ to buy/repair.
-- **High quality** material like *True Steel* only breaks if the player chooses so, but costs 5x◈ to buy/repair.
+- Weapons and armor are usually made of **Low quality** readily-available materials like *Bone, Chitin, Stone, Leather, Furs,* etc. These tend to break easily on roll results of **YES! BUT...** or **NO! AND...**.
+- Items of **Medium quality** (*Strong Bone* or *Hide*, or even *Bronze*) degrade (Medium to Low Quality) on roll results of **YES! BUT...** or **NO! AND...**, but cost twice ◈ to buy/repair.
+- **High quality** material like *True Steel* only degrades (High -> Med Quality) if the player chooses so [#]_, but costs 5x◈ to buy/repair.
+
+.. [#] Players can decide for an item to break (like a piece of armor, or a weapon they are using to block) to avoid gaining a Condition from taking physical damage.
 
 When generating random weapons/armor, first roll for **material quality** (2d6), and optionally roll d6 for the exact material:
 
@@ -280,121 +308,9 @@ Costs may vary depending on supply/demand of each outpost or civilized hub (at G
 Magic
 -----
 
-Magic takes its energy from the life essence of everything around the caster. A magic-user knows how to tap just enough, to power their spells in a safe way.
+Magic in Dying Sun uses the :hoverxref:`Dark Magic rules <dark-magic>` from the *Grimdark Fantasy setting*, which is an extension of the :hoverxref:`Creative Magic system <creative-magic>` in the `Optional Rules <../../optionalrules.html>`_ section.
 
-.. _spells-section:
-
-Spells
-~~~~~~
-
-.. compound::
-   
-   Spells must be tattooed on the caster's body and recited at the time of execution. To create a Spell, generate a formula with a d6: 1-2: **Effect + Element**, 3-4: **Element + Form**, 5-6: **Effect + Form**. Then define it with the following tables, extrapolating function from its name.
-   
-   Roll d6 twice to generate the **Effect**.
-   
-   
-   +------------------+--------------------+
-   |        1-3       |         4-6        |
-   +---+--------------+---+----------------+
-   | 1 | Transforming | 1 | Mending        |
-   +---+--------------+---+----------------+
-   | 2 | Attracting   | 2 | Disintegrating |
-   +---+--------------+---+----------------+
-   | 3 | Paralyzing   | 3 | Repelling      |
-   +---+--------------+---+----------------+
-   | 4 | Revealing    | 4 | Spawning       |
-   +---+--------------+---+----------------+
-   | 5 | Shielding    | 5 | Disrupting     |
-   +---+--------------+---+----------------+
-   | 6 | Deceiving    | 6 | Corrupting     |
-   +---+--------------+---+----------------+
-   
-   Roll d6 twice to generate the **Element**.
-   
-   +-------------------+-----------------------+
-   |        1-3        |          4-6          |
-   +---+---------------+---+-------------------+
-   | 1 | Acid / Poison | 1 | Air / Wind        |
-   +---+---------------+---+-------------------+
-   | 2 | Mind / Soul   | 2 | Thunder / Ray     |
-   +---+---------------+---+-------------------+
-   | 3 | Fire / Heat   | 3 | Stone / Earth     |
-   +---+---------------+---+-------------------+
-   | 4 | Flesh / Body  | 4 | Time / Age        |
-   +---+---------------+---+-------------------+
-   | 5 | Water / Ice   | 5 | Nature / Plant    |
-   +---+---------------+---+-------------------+
-   | 6 | Shadow / Void | 6 | Illusion / Mirage |
-   +---+---------------+---+-------------------+
-   
-   Roll d6 twice to generate the **Form**.
-   
-   +--------------------+--------------------+
-   |         1-3        |         4-6        |
-   +---+----------------+---+----------------+
-   | 1 | Armor / Shield | 1 | Cloak / Zone   |
-   +---+----------------+---+----------------+
-   | 2 | Arrow / Bolt   | 2 | Touch / Grasp  |
-   +---+----------------+---+----------------+
-   | 3 | Aura / Sphere  | 3 | Trap / Prison  |
-   +---+----------------+---+----------------+
-   | 4 | Blast / Beam   | 4 | Wall / Barrier |
-   +---+----------------+---+----------------+
-   | 5 | Blade / Slash  | 5 | Vortex / Pit   |
-   +---+----------------+---+----------------+
-   | 6 | Cloud / Fog    | 6 | Clone / Image  |
-   +---+----------------+---+----------------+
-   
-------------
-
-Spellcasting
-~~~~~~~~~~~~
-
-The effect of "safe" magic is usually subtle.
-
-**DEFILING MAGIC** is the process to tap more than what's safe for greater power. Plants wither and die, soil goes infertile and dry, and creatures weaken and writhe. When you choose to do so, add +1 to your roll if you defile a few meters around you, or +2 if you desecrate a bigger area. The spell effect is stronger, but if you roll a **FAILURE** (6-) or you obtain a result **equal to or higher than 13**, you trigger a *Magical Mishap*.
-
-Magical Mishaps
-^^^^^^^^^^^^^^^
-
-A Magical Mishap occurs when you are *Defiling* and get a result of **6-** or **13+**. When that happens, roll d6 twice in the following table:
-
-+----------------------------------------------------------------+-----------------------------------------------------------+
-|  1-3                                                           | 4-6                                                       |
-+---+------------------------------------------------------------+---+-------------------------------------------------------+
-| 1 | The spell affects much more/less than intended.            | 1 | Your eyes (or ears) bleed; you are blind (or deaf).   |
-+---+------------------------------------------------------------+---+-------------------------------------------------------+
-| 2 | You are physically *sapped* (a *negative condition* (-1)). | 2 | You lose the ability to understand any spoken word.   |
-+---+------------------------------------------------------------+---+-------------------------------------------------------+
-| 3 | A nearby ally/item is adversely affected by the spell.     | 3 | Everyone you see looks and sounds like yourself.      |
-+---+------------------------------------------------------------+---+-------------------------------------------------------+
-| 4 | An entity of horror is summoned. It has no master.         | 4 | You suffer memory loss and blackouts.                 |
-+---+------------------------------------------------------------+---+-------------------------------------------------------+
-| 5 | The weather worsens locally, following you around.         | 5 | Your mind switches bodies with that of a nearby ally. |
-+---+------------------------------------------------------------+---+-------------------------------------------------------+
-| 6 | An arcane nexus beacon triggers at your location.          | 6 | You can hear people's thoughts. Very loud.            |
-+---+------------------------------------------------------------+---+-------------------------------------------------------+
-
-Most of these effects act as *injuries* (a *negative condition* (-1)); they heal over time (or with proper rest), but **always leave a scar**.
-
-------------
-
-.. _rituals-section:
-
-Rituals
-~~~~~~~
-
-Some special or powerful effects cannot be cast instantly (or be encoded as spells), and require a more involved process, known as a **Ritual**. Magic Rituals can potentially achieve any desired effect the caster can imagine. 
-
-The GM sets **1 to 4 conditions** before you roll:
-
-- It's going to take hours/days/weeks/months
-- You must perform it at a special place/time
-- First you must do [X] or get help from [X]
-- The effect will be unreliable or limited
-- You and your allies will risk danger from [X]
-- You'll have to sacrifice or consume [X] to do it
+There is a big emphasis on the **Defiling Magic** aspect of sorcery, since that is the background theme of the setting: Greedy spellcasters corrupted by dark magic destroyed the world as it was, leaving a barren earth behind. Player characters who are Warlocks must dabble carefully; There is a social price for Defiling (most communities view it as an evil act).
 
 The World of Dying Sun
 ----------------------
