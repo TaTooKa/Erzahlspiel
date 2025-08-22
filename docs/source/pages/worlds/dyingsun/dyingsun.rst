@@ -12,7 +12,7 @@ New Rules
 
 These are rules pertaining specifically to games of Dying Sun.
 
-**Load**: Characters can carry as much as makes sense, but more than two *bulky* items (or more than 3 *pieces of armor*) will make you ``Over-encumbered (Mild)``.
+**Load**: Characters can carry as much as makes sense, but more than two *bulky* items (or more than 3 *pieces of armor*) will make you ``Over-encumbered`` (a negative Condition, usually *Mild*, at GM's discretion).
 
 **Skill Tiers**: Use the :hoverxref:`Descriptor Tiers <descriptor-tiers>` optional rule for skills. You can have a skill at ``Adept``, ``Expert`` or ``Master`` level.
 
@@ -88,7 +88,7 @@ LIZAR'DRAC
 
 *Reptile-men from the Dune Sea.* 
 
-- You have the skill ``Resistance to heat, fire, thirst and hunger``. 
+- You have ``Resistance to heat, fire, thirst and hunger``. 
 - You can slowly regenerate wounds or missing body parts.
 
 
