@@ -65,10 +65,10 @@ Spells
    
 ------------
 
+.. _dark-magic-spellcasting:
+
 Spellcasting
 ~~~~~~~~~~~~
-
-.. _dark-magic-spellcasting:
 
 .. figure:: /_static/images/rpg-image-40.jpg
 
