@@ -73,7 +73,7 @@ HUMAN
 
 *The most common amongst the wastelanders.*
 
-- Gain 3 extra Skills, or increase some of those you have to a higher tier (*Adept* -> *Expert* -> *Master*), at your choice, in any combination you like.
+- Gain 3 extra :hoverxref:`Skills <dying-sun-skills>`, or increase some of those you have to a higher tier (*Adept* -> *Expert* -> *Master*), at your choice, in any combination you like.
 
 KREEN'SEKT
 ^^^^^^^^^^
@@ -96,6 +96,8 @@ Extra Skills
 ~~~~~~~~~~~~
 
 Gain 2 extra skills of your choice:
+
+.. _dying-sun-skills:
 
 .. rst-class:: three-columns
 
