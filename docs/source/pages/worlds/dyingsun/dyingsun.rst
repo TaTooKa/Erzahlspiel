@@ -16,9 +16,9 @@ These are rules pertaining specifically to games of Dying Sun.
 
 **Skill Tiers**: Use the :hoverxref:`Descriptor Tiers <descriptor-tiers>` optional rule for skills. You can have a skill at ``Adept``, ``Expert`` or ``Master`` level.
 
-**Item Durability**: Items in Dying Sun have different material qualities, and as an added **risk** to any roll, they could break on bad outcomes.
+**Item Durability**: Items in Dying Sun have different :hoverxref:`material qualities <materials-table>`, and as an added **risk** to any roll, they could break on bad outcomes.
 
-**Defense**: Each piece of armor can be broken separately as *Defense* to avoid harm (receiving a Condition from a physical source of damage). Some weapons can be broken too, depending on the type of incoming damage (at GM's discretion).
+**Defense**: Each piece of armor can be broken separately as *Defense* to avoid receiving a *Condition* from a physical source of damage. Some weapons can be broken too, depending on the type of incoming damage (at GM's discretion). Sometimes this is a choice the characters take, to avoid taking damage themselves. Sometimes they break as a consequence of a bad roll result.
 
 Character creation
 ------------------
