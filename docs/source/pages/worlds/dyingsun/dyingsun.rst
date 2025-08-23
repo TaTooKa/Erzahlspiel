@@ -96,6 +96,10 @@ Choose one of **HUMAN**, **KREEN'SEKT** or **LIZAR'DRAC**.
 HUMAN
 ^^^^^
 
+.. figure:: /_static/images/rpg-image-46.jpg
+
+  art © `Brom <https://www.bromart.com/>`_
+
 *The most common amongst the wastelanders.*
 
 - Gain 3 extra :hoverxref:`Skills <dying-sun-skills>` at ``Adept`` level, or increase some of those you have to a higher tier (*Adept* -> *Expert* -> *Master*), at your choice, in any combination you like.
