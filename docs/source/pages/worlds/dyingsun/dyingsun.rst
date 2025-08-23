@@ -1,9 +1,10 @@
 Dying Sun
 =========
 
-.. figure:: /_static/images/rpg-image-41.jpg
+.. figure:: /_static/images/rpg-image-42.jpg
 
-  art © `Brom <https://www.bromart.com/>`_
+  art © `Noah Bradley <https://noahbradley.com/>`_
+
 
 *CENTURIES AGO, the world was a lush paradise of fantasy tales. But then came the ARCANE WARS, when the Archmages toppled kingdoms and their Defiling Sorcery desecrated the land into a broken wasteland. Now, even the Sun is dying.*
 
@@ -28,6 +29,10 @@ These are rules pertaining specifically to games of Dying Sun.
 
 Character creation
 ------------------
+
+.. figure:: /_static/images/rpg-image-41.jpg
+
+  art © `Brom <https://www.bromart.com/>`_
 
 Follow these guidelines to create a Character in the world of Dying Sun.
 
