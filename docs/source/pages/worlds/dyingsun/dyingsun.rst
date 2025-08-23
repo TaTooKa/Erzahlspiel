@@ -421,6 +421,10 @@ Todo
 Encounters
 ~~~~~~~~~~
 
+.. figure:: /_static/images/rpg-image-53.jpg
+
+  art © `Brom <https://www.bromart.com/>`_
+
 Todo
 
 Carving Creatures
@@ -446,6 +450,10 @@ Inside the carcass of the felled creature you find...
 
 Relics
 ~~~~~~
+
+.. figure:: /_static/images/rpg-image-54.jpg
+
+  art © `Brom <https://www.bromart.com/>`_
 
 Todo
 
