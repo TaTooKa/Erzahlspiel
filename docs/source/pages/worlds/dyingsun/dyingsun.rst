@@ -292,7 +292,7 @@ Armor
 
 Characters can only use one piece of armor in each body part (reroll if repeated during character creation). You are ``Over-encumbered`` if using more than 3.
 
-.. admonition::
+.. admonition:: Nakedness
 
   If a character does not have armor in a specific body location, that part is considered to be naked (or dressed with a very light covering, like a loincloth or ragged piece of fabric). The heat in the world of Dying Sun is harsh but the heroic characters that adventure on it are used to being almost naked and exposed to the scorching sun with little protection.
 
