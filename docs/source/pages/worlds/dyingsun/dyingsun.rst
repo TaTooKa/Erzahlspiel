@@ -50,7 +50,7 @@ WARRIOR
 
 *An adept fighter, a barbarian of the Jagged Wastes, a gladiator of the arena of Zihm or a brigand in search of bloody battle.*
 
-Warriors are the only ones who can wear up to 5 pieces of armor without being ``Over-encumbered (Mild)``.
+Warriors are the only ones who can wear up to 5 pieces of armor without being ``Over-encumbered``.
 
 Skills: ``Battle Expert``, ``Athletics Adept``.
 
@@ -65,7 +65,9 @@ WANDERER
 
 *A natural-born explorer, a scoundrel from the streets of Tarnath, an expert guide or an errant adventurer of the Red Wastelands.*
 
-Wanderers always have good odds (an **Advantage**) when rolling to avoid getting lost in the wilds, tracking prey, or being surprised by an ambush or trap.
+Wanderers always have good odds [#]_ when rolling to avoid getting lost in the wilds or being surprised by an ambush or trap, or when tracking prey or gathering resources.
+
+.. [#] GMs should consider granting them **Advantage** when :hoverxref:`asserting their odds <interpret-the-odds>`.
 
 Skills: ``Hunting Expert``, ``Tracking Adept``, ``Travel Adept``. 
 
