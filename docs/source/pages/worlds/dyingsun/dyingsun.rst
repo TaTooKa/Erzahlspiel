@@ -188,6 +188,10 @@ Roll d6 twice to generate a random name.
 Gear
 ----
 
+.. figure:: /_static/images/rpg-image-49.jpg
+
+  art © `Ilya Shkipin <https://www.ilyashkipin.com/>`_
+
 Metal is too scarce in the deserts of the Dying Sun to be used as coin. Wastelanders use gems (◈) for currency. You begin with d6 ◈.
 
 Materials
