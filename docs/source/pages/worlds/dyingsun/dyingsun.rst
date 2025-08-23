@@ -61,7 +61,7 @@ WANDERER
 
 .. figure:: /_static/images/rpg-image-44.jpg
 
-  art © `Brom  <https://www.bromart.com/>`_
+  art 2 © `Brom <https://www.bromart.com/>`_
 
 *A natural-born explorer, a scoundrel from the streets of Tarnath, an expert guide or an errant adventurer of the Red Wastelands.*
 
@@ -98,7 +98,7 @@ HUMAN
 
 .. figure:: /_static/images/rpg-image-46.jpg
 
-  art © `Brom   <https://www.bromart.com/>`_
+  art 3 © `Brom <https://www.bromart.com/>`_
 
 *The most common amongst the wastelanders.*
 
@@ -190,7 +190,7 @@ Gear
 
 .. figure:: /_static/images/rpg-image-49.jpg
 
-  art © `Ilya Shkipin  <https://www.ilyashkipin.com/>`_
+  art 2 © `Ilya Shkipin <https://www.ilyashkipin.com/>`_
 
 Metal is too scarce in the deserts of the Dying Sun to be used as coin. Wastelanders use gems (◈) for currency. You begin with d6 ◈.
 
@@ -240,7 +240,7 @@ Weapons
 
 .. figure:: /_static/images/rpg-image-50.jpg
 
-  art © `Brom    <https://www.bromart.com/>`_
+  art 4 © `Brom <https://www.bromart.com/>`_
 
 Use this table as a guideline or roll on it as instructed by your Class.
 
@@ -369,7 +369,7 @@ Magic
 
 .. figure:: /_static/images/rpg-image-52.jpg
 
-  art © `Brom <https://www.bromart.com/>`_
+  art 5 © `Brom <https://www.bromart.com/>`_
 
 Magic in Dying Sun uses the :hoverxref:`Dark Magic rules <dark-magic>` from the *Grimdark Fantasy setting*, which is an extension of the :hoverxref:`Creative Magic system <creative-magic>` in the `Optional Rules <../../optionalrules.html>`_ section.
 
@@ -423,7 +423,7 @@ Encounters
 
 .. figure:: /_static/images/rpg-image-53.jpg
 
-  art © `Brom <https://www.bromart.com/>`_
+  art 6 © `Brom <https://www.bromart.com/>`_
 
 Todo
 
@@ -453,7 +453,7 @@ Relics
 
 .. figure:: /_static/images/rpg-image-54.jpg
 
-  art © `Brom <https://www.bromart.com/>`_
+  art 7 © `Brom <https://www.bromart.com/>`_
 
 Todo
 
