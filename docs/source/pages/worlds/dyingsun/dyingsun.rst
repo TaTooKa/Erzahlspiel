@@ -61,7 +61,7 @@ WANDERER
 
 .. figure:: /_static/images/rpg-image-44.jpg
 
-  art © `Brom <https://www.bromart.com/>`_
+  art © `Brom  <https://www.bromart.com/>`_
 
 *A natural-born explorer, a scoundrel from the streets of Tarnath, an expert guide or an errant adventurer of the Red Wastelands.*
 
@@ -98,7 +98,7 @@ HUMAN
 
 .. figure:: /_static/images/rpg-image-46.jpg
 
-  art © `Brom <https://www.bromart.com/>`_
+  art © `Brom   <https://www.bromart.com/>`_
 
 *The most common amongst the wastelanders.*
 
@@ -190,7 +190,7 @@ Gear
 
 .. figure:: /_static/images/rpg-image-49.jpg
 
-  art © `Ilya Shkipin <https://www.ilyashkipin.com/>`_
+  art © `Ilya Shkipin  <https://www.ilyashkipin.com/>`_
 
 Metal is too scarce in the deserts of the Dying Sun to be used as coin. Wastelanders use gems (◈) for currency. You begin with d6 ◈.
 
@@ -240,7 +240,7 @@ Weapons
 
 .. figure:: /_static/images/rpg-image-50.jpg
 
-  art © `Brom <https://www.bromart.com/>`_
+  art © `Brom    <https://www.bromart.com/>`_
 
 Use this table as a guideline or roll on it as instructed by your Class.
 
