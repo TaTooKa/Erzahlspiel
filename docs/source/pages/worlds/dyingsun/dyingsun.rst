@@ -238,6 +238,10 @@ Materials Table
 Weapons
 ~~~~~~~
 
+.. figure:: /_static/images/rpg-image-50.jpg
+
+  art © `Brom <https://www.bromart.com/>`_
+
 Use this table as a guideline or roll on it as instructed by your Class.
 
 .. _weapons-table:
