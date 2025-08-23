@@ -107,6 +107,10 @@ HUMAN
 KREEN'SEKT
 ^^^^^^^^^^
 
+.. figure:: /_static/images/rpg-image-47.jpg
+
+  art © `Ilya Shkipin <https://www.ilyashkipin.com/>`_
+
 *Mantis-like humanoids of the Arid Hills.* 
 
 - You have 4 arms (can wield more weapons / tools, or *help* yourself (**Advantage**) on actions that would benefit from that). 
@@ -114,6 +118,10 @@ KREEN'SEKT
 
 LIZAR'DRAC
 ^^^^^^^^^^
+
+.. figure:: /_static/images/rpg-image-48.jpg
+
+  art © `Alec Adams <https://www.alecadamsart.com/>`_
 
 *Reptile-men from the Dune Sea.* 
 
