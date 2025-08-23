@@ -286,6 +286,10 @@ Weapons Table
 Armor
 ~~~~~
 
+.. figure:: /_static/images/rpg-image-51.jpg
+
+  art © `Justin Sweet <https://jsweet.artstation.com/>`_
+
 Characters can only use one piece of armor in each body part (reroll if repeated during character creation). You are ``Over-encumbered`` if using more than 3.
 
 .. admonition::
