@@ -367,6 +367,10 @@ Costs may vary depending on supply/demand of each outpost or civilized hub (at G
 Magic
 -----
 
+.. figure:: /_static/images/rpg-image-52.jpg
+
+  art © `Brom <https://www.bromart.com/>`_
+
 Magic in Dying Sun uses the :hoverxref:`Dark Magic rules <dark-magic>` from the *Grimdark Fantasy setting*, which is an extension of the :hoverxref:`Creative Magic system <creative-magic>` in the `Optional Rules <../../optionalrules.html>`_ section.
 
 There is a big emphasis on the **Defiling Magic** aspect of sorcery, since that is the background theme of the setting: Greedy spellcasters corrupted by dark magic destroyed the world as it was, leaving a barren earth behind. Player characters who are Warlocks must dabble carefully; There is a social price for Defiling (most communities view it as an evil act).
