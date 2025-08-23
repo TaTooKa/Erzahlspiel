@@ -59,6 +59,10 @@ Gear: Roll d6+2 on the :hoverxref:`Random Weapons <weapons-table>` table **twice
 WANDERER
 ^^^^^^^^
 
+.. figure:: /_static/images/rpg-image-44.jpg
+
+  art © `Brom <https://www.bromart.com/>`_
+
 *A natural-born explorer, a scoundrel from the streets of Tarnath, an expert guide or an errant adventurer of the Red Wastelands.*
 
 Wanderers always have good odds (an **Advantage**) when rolling to avoid getting lost in the wilds, tracking prey, or being surprised by an ambush or trap.
@@ -69,6 +73,10 @@ Gear: Roll d6 on the :hoverxref:`Random Weapons <weapons-table>` table, and get 
 
 WARLOCK
 ^^^^^^^
+
+.. figure:: /_static/images/rpg-image-45.jpg
+
+  art © `Ron Spears <https://ronspearsart.com/>`_
 
 *A clandestine wielder of magick, a fugitive defiler or a rebel spellcaster fighting against the will of the Sorcerer-Kings.*
 
