@@ -44,6 +44,10 @@ Choose one of **WARRIOR**, **WANDERER** or **WARLOCK**.
 WARRIOR
 ^^^^^^^
 
+.. figure:: /_static/images/rpg-image-43.jpg
+
+  art © `Frank Frazetta <https://www.frazettamuseum.com/>`_
+
 *An adept fighter, a barbarian of the Jagged Wastes, a gladiator of the arena of Zihm or a brigand in search of bloody battle.*
 
 Warriors are the only ones who can wear up to 5 pieces of armor without being ``Over-encumbered (Mild)``.
