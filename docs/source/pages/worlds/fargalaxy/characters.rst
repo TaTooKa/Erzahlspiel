@@ -439,9 +439,41 @@ SKILLS: Academics, Streetwise, Negotiation, Deception
 
 ---------------
 
+EXTRA SKILLS
+------------
 
-OTHER SKILLS: TODO
+You have 2 points to pick 2 other Skills at *Adept* level, or upgrade a Skill (*Adept* > *Expert* > *Master*) for 1 point each.
 
+.. rst-class:: three-columns
 
-
+- Academics
+- Archeology
+- Astrogation
+- Athletics
+- Brawl
+- Charm
+- Computers
+- Deception
+- Demolitions
+- Exotic Weapons
+- Force Use
+- Intimidation
+- Investigation
+- Leadership
+- Linguistics
+- Martial Arts
+- Mechanics
+- Medicine
+- Melee Weapons
+- Mounted Weapons
+- Negotiation
+- Piloting
+- Politics
+- Ranged Weapons
+- Stealth
+- Streetwise
+- Survival
+- Thievery
+- Warfare
+- Xenology
 
