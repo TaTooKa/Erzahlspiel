@@ -73,10 +73,10 @@ The GM will most likely peruse one of the Worlds and Scenarios provided in this 
    pages/worlds/grittyspacescifi/characters
 
 .. toctree::
-   :caption: Galaxy Far Away
+   :caption: Far Galaxy
    :hidden:
 
-   pages/worlds/galaxyfaraway/characters
+   pages/worlds/fargalaxy/characters
 
 .. toctree::
    :caption: Zombie Apocalypse
