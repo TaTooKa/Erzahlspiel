@@ -295,6 +295,8 @@ SKILLS: Negotiation, Survival, Warfare, Ranged Weapons
 SKILLS: Computers, Streetwise, Deception, Stealth
 
 51. FORCE-USER EXILE
+~~~~~~~~~~~~~~~~~~~~
+
 - Custom exotic / magitech weapon
 - Long robe / cloak
 - Electrobinoculars
