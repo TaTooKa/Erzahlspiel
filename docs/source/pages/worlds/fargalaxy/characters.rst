@@ -8,38 +8,40 @@ Roll **d66** (or choose) for Background and Loadout. You get 4 Skills: Choose wh
 
 .. rst-class:: three-columns
 
-    .. csv-table:: 11. ARCHEOLOGIST
+    11. ARCHAEOLOGIST
 
-        - Utility vest
-        - Animal hide whip
-        - Climbing gear
-        - Excavation kit
-        - Hand scanner
-        - Long-range comlink
+    - Utility vest
+    - Animal hide whip
+    - Climbing gear
+    - Excavation kit
+    - Hand scanner
+    - Long-range comlink
 
-        SKILLS: Academics, Archeology, Survival, Linguistics
+    SKILLS: Academics, Archeology, Survival, Linguistics
 
-    .. csv-table:: 12. ASSASSIN
+    12. ASSASSIN
 
-        - Thermal cloak
-        - Stealth dart pistol
-        - Neurotoxin darts 4x
-        - Lock-picking tools
-        - Filament garrote
-        - Antidote set
+    - Thermal cloak
+    - Stealth dart pistol
+    - Neurotoxin darts 4x
+    - Lock-picking tools
+    - Filament garrote
+    - Antidote set
 
-        SKILLS: Stealth, Athletics, Melee Weapons, Deception
+    SKILLS: Stealth, Athletics, Melee Weapons, Deception
 
-    .. csv-table:: 13. BIG-GAME HUNTER
+    13. BIG-GAME HUNTER
 
-        - Environmental camouflage
-        - Farshot power rifle
-        - Field dressing kit
-        - Chem lure
-        - Sonic mines 2x
-        - XV-20 veterinary kit
+    - Environmental camouflage
+    - Farshot power rifle
+    - Field dressing kit
+    - Chem lure
+    - Sonic mines 2x
+    - XV-20 veterinary kit
 
-        SKILLS: Survival, Stealth, Athletics, Ranged Weapons
+    SKILLS: Survival, Stealth, Athletics, Ranged Weapons
+
+OTHER SKILLS: TODO
 
 
 
