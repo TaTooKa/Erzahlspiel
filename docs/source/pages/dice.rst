@@ -97,3 +97,7 @@ Roll 1d6 by default, when the odds are 50/50.
 If a character has **Advantage** for an action, the player rolls two d6 and takes the higher result. If they have **Overwhelming Advantage**, they roll three d6 and take the highest. 
 
 If they have **Disadvantage**, they roll two d6 and take the lower result, and for **Overwhelming Disadvantage**, they roll three d6 and take the lowest.
+
+.. figure:: ../_static/images/Erzahlspiel-d6-odds-chart.png
+
+  probabilities for d6 rolls
