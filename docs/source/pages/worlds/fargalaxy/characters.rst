@@ -485,7 +485,10 @@ SPECIES
 Choosing your Species just gives flavor and aesthetic descriptors. If the Species has an extra benefit or ability, the PC might gain that knack in certain situations, at GM’s discretion.
 
 .. list-table:: Species
+   :align: center
    :header-rows: 1
+   :stub-columns: 1
+   :widths: 10 30 30 30
 
    * - d6, d6
      - 1-2
@@ -527,43 +530,108 @@ PHYSICAL DETAILS
 
 Disregard or reroll any result that wouldn’t make sense because of your Species / gender.
 
-.. list-table:: Physical Details
+.. list-table:: Details
+   :align: center
    :header-rows: 1
+   :stub-columns: 1
+   :widths: 10 30 30 30
 
-  * -  d6, d6
-    -  1-2
-    -  3-4
-    -  5-6
+   * -  d6, d6
+     -  1-2
+     -  3-4
+     -  5-6
+ 
+   * -  1
+     -  Blaster burns
+     -  Bronze skin
+     -  Long hair / appendages
+ 
+   * -  2
+     -  Knife scars
+     -  Dark skin
+     -  Bushy beard / eyebrows
+ 
+   * -  3
+     -  Birthmark
+     -  Pale skin
+     -  Dreadlocks / beads
+ 
+   * -  4
+     -  Brand mark
+     -  Cyber arm
+     -  Shaved / bald head
+ 
+   * -  5
+     -  Burn scars
+     -  Cyber eye
+     -  Moustache / freckles
+ 
+   * -  6
+     -  Tattoos
+     -  Cyber leg
+     -  Piercings / ornaments
 
-  * -  1
-    -  Blaster burns
-    -  Bronze skin
-    -  Long hair / appendages
+NAMES
+-----
 
-  * -  2
-    -  Knife scars
-    -  Dark skin
-    -  Bushy beard / eyebrows
+FIRST NAMES
+~~~~~~~~~~~
 
-  * -  3
-    -  Birthmark
-    -  Pale skin
-    -  Dreadlocks / beads
++--------+------------------+-----------------+
+|        |       Male       |      Female     |
++--------+--------+---------+---------+-------+
+| d6, d6 |   1-3  |   4-6   |   1-3   |  4-6  |
++========+========+=========+=========+=======+
+|    1   | Tannor |  Rafan  |   Mara  | Cerri |
++--------+--------+---------+---------+-------+
+|    2   |  Hoan  |   Sion  |   Myri  | Aital |
++--------+--------+---------+---------+-------+
+|    3   |  Daro  | Bartann |  Ailyn  |  Kara |
++--------+--------+---------+---------+-------+
+|    4   |   Gar  |   Deng  |  Padma  | Sella |
++--------+--------+---------+---------+-------+
+|    5   |  Vinis |   Nej   |  Jysyal | Zalia |
++--------+--------+---------+---------+-------+
+|    6   |  Tycho |  Valdor | Kandria | Jeele |
++--------+--------+---------+---------+-------+
 
-  * -  4
-    -  Brand mark
-    -  Cyber arm
-    -  Shaved / bald head
+LAST NAMES
+~~~~~~~~~~
 
-  * -  5
-    -  Burn scars
-    -  Cyber eye
-    -  Moustache / freckles
++--------+---------+--------+---------+
+| d6, d6 |   1-2   |   3-4  |   5-6   |
++========+=========+========+=========+
+|    1   |  Denau  | Donnam |  Alorr  |
++--------+---------+--------+---------+
+|    2   |  Dystra | Cardin | Pellian |
++--------+---------+--------+---------+
+|    3   |  Keysit |  Daren |  Lowsyk |
++--------+---------+--------+---------+
+|    4   |  Haruss | Darand |  Loraay |
++--------+---------+--------+---------+
+|    5   |   Dine  |  Shif  |  Baize  |
++--------+---------+--------+---------+
+|    6   | Terrend |  Horne |  Dallo  |
++--------+---------+--------+---------+
 
-  * -  6
-    -  Tattoos
-    -  Cyber leg
-    -  Piercings / ornaments
+OTHER NAMES
+~~~~~~~~~~~
+
++----+---------------+------------+-----------+-----------+
+| d6 |     RODIAN    | TRANDOSHAN |  TWI’LEK  |   WOOKIE  |
++====+===============+============+===========+===========+
+|  1 |  Greelo Kena  |    Kron    | Aayn'tuna |   Rorwaa  |
++----+---------------+------------+-----------+-----------+
+|  2 |  Neeshar Nenu |    Sissk   | Euyn'rena |  Yuboorr  |
++----+---------------+------------+-----------+-----------+
+|  3 |   Daro Tanwa  |    Pekt    | Ooc'fenna |   Bookoo  |
++----+---------------+------------+-----------+-----------+
+|  4 |   Chulo Tona  |    Liss    |  Oon'men  |   Yaccar  |
++----+---------------+------------+-----------+-----------+
+|  5 | Koobis Roolek |    Krad    |  Ec'vena  |  Yawwaark |
++----+---------------+------------+-----------+-----------+
+|  6 |   Ween Aden   |   Nachkt   | Ma'fortaa | Grakchewb |
++----+---------------+------------+-----------+-----------+
 
  
 
