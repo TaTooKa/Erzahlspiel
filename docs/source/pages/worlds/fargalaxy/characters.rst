@@ -497,33 +497,36 @@ Choosing your Species just gives flavor and aesthetic descriptors. If the Specie
 
    * - 1
      - `Bothan <https://starwars.fandom.com/wiki/Bothan/Legends>`_
-     - Kel Dor
-     - Togruta
+     - `Kel Dor <https://starwars.fandom.com/wiki/Kel_Dor/Legends>`_
+     - `Togruta <https://starwars.fandom.com/wiki/Togruta/Legends>`_
 
    * - 2
-     - Cerean
-     - Mirialan
-     - Trandoshan
+     - `Cerean <https://starwars.fandom.com/wiki/Cerean/Legends>`_
+     - `Mirialan <https://starwars.fandom.com/wiki/Mirialan/Legends>`_
+     - `Trandoshan <https://starwars.fandom.com/wiki/Trandoshan/Legends>`_
 
    * - 3
-     - Duros
-     - Mon Calamari
-     - Twi’Lek
+     - `Duros <https://starwars.fandom.com/wiki/Duros/Legends>`_
+     - `Mon Calamari <https://starwars.fandom.com/wiki/Mon Calamari/Legends>`_
+     - `Twi’Lek <https://starwars.fandom.com/wiki/Twi'Lek/Legends>`_
 
    * - 4
-     - Gand
-     - Nautolan
-     - Utapaun
+     - `Gand <https://starwars.fandom.com/wiki/Gand/Legends>`_
+     - `Nautolan <https://starwars.fandom.com/wiki/Nautolan/Legends>`_
+     - `Utapaun <https://starwars.fandom.com/wiki/Utapaun/Legends>`_
+
 
    * - 5
-     - Human
-     - Rodian
-     - Wookie
+     - `Human <https://starwars.fandom.com/wiki/Human/Legends>`_
+     - `Rodian <https://starwars.fandom.com/wiki/Rodian/Legends>`_
+     - `Wookie <https://starwars.fandom.com/wiki/Wookie/Legends>`_
+
 
    * - 6
-     - Ithorian
-     - Sullustan
-     - Zabrak
+     - `Ithorian <https://starwars.fandom.com/wiki/Ithorian/Legends>`_
+     - `Sullustan <https://starwars.fandom.com/wiki/Sullustan/Legends>`_
+     - `Zabrak <https://starwars.fandom.com/wiki/Zabrak/Legends>`_
+
 
 PHYSICAL DETAILS
 ----------------
