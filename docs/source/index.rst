@@ -78,6 +78,7 @@ The GM will most likely peruse one of the Worlds and Scenarios provided in this 
 
    pages/worlds/fargalaxy/characters
    pages/worlds/fargalaxy/theforce
+   pages/worlds/fargalaxy/adventureslocations
 
 .. toctree::
    :caption: Zombie Apocalypse
