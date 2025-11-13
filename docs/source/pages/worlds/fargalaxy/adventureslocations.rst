@@ -161,7 +161,7 @@ Roll d6, d6 to generate a location and a sub-location, then refer to its corresp
    :header-rows: 1
 
     "1","NATURAL PLACES","2","FORGOTTEN PLACES"
-    "","1. DESERT","","1. HALLOW"
+    "","1. :hoverxref:`DESERT <DESERT>`","","1. :hoverxref:`HALLOW <HALLOW>`"
     "","2. SWAMP","","2. MOUNTAIN"
     "","3. FOREST","","3. RUIN"
     "","4. TUNDRA","","4. SHIPWRECK"
@@ -333,4 +333,145 @@ NATURAL PLACES
      - 5. An altar to ancient Sith-Lords
    * - 6. Distant singing
      - 6. A pocket-paradise with clean weather
+
+FORGOTTEN PLACES
+~~~~~~~~~~~~~~~~
+
+1. HALLOW
+^^^^^^^^^
+
+.. list-table:: 
+   :header-rows: 1
+   :stub-columns: 0
+   :widths: 50 50
+
+   * - AESTHETIC ELEMENTS
+     - RUMORED TO BE HERE
+   * - 1. A low murmur
+     - 1. The remains of the first star
+   * - 2. Towers of books and scrolls
+     - 2. An intricate undecipherable old machine
+   * - 3. The weight of history
+     - 3. A scroll decoding an ancient holocron
+   * - 4. A crystal which shows the future
+     - 4. A lightsaber from the Old Republic
+   * - 5. A thick layer of dust
+     - 5. A strong Force Vergence
+   * - 6. A mirror of polished dark stone
+     - 6. A captured, invincible plague-like being
+
+2. MOUNTAIN
+^^^^^^^^^^^
+
+.. list-table:: 
+   :header-rows: 1
+   :stub-columns: 0
+   :widths: 50 50
+
+   * - AESTHETIC ELEMENTS
+     - RUMORED TO BE HERE
+   * - 1. The setting sun
+     - 1. An impossible climb
+   * - 2. The whipping wind
+     - 2. A tear in the Force
+   * - 3. Jagged rocks
+     - 3. A sleeping giant
+   * - 4. A forgotten campsite
+     - 4. An isolated culture
+   * - 5. A view of everything
+     - 5. A hidden base on a mountain wall
+   * - 6. Narrow and winding paths
+     - 6. An altar of power, touching the stars
+
+3. RUIN
+^^^^^^^
+
+.. list-table:: 
+   :header-rows: 1
+   :stub-columns: 0
+   :widths: 50 50
+
+   * - AESTHETIC ELEMENTS
+     - RUMORED TO BE HERE
+   * - 1. Crumbling pillars
+     - 1. An ancient curse
+   * - 2. A monument to an unknown god
+     - 2. A secret Imperial excavation
+   * - 3. The lingering shadow of war
+     - 3. A conspiracy that caused its destruction
+   * - 4. Secured remains or active dig site
+     - 4. Ghosts
+   * - 5. Tourist traps
+     - 5. A trapped hidden chamber
+   * - 6. A lonely and profound silence
+     - 6. Denizens of the deep, about to awake
+
+4. SHIPWRECK
+^^^^^^^^^^^^
+
+.. list-table:: 
+   :header-rows: 1
+   :stub-columns: 0
+   :widths: 50 50
+
+   * - AESTHETIC ELEMENTS
+     - RUMORED TO BE HERE
+   * - 1. Rusting metal
+     - 1. Something else living there now
+   * - 2. Plants reclaiming its surface
+     - 2. A long-lost treasure
+   * - 3. An old and strange-looking model
+     - 3. The stored memory of its captain
+   * - 4. A giant crater
+     - 4. Nothing left of any value at this point
+   * - 5. Subtle hints of a greater mystery
+     - 5. Ghosts of its crew
+   * - 6. A sense of majesty despite the disrepair
+     - 6. A plague or hazard polluting its hallways
+
+5. CAVE
+^^^^^^^
+
+.. list-table:: 
+   :header-rows: 1
+   :stub-columns: 0
+   :widths: 50 50
+
+   * - AESTHETIC ELEMENTS
+     - RUMORED TO BE HERE
+   * - 1. Barely enough light to see
+     - 1. A creature unknowable and alien
+   * - 2. Damp walls and slippery ground
+     - 2. The lingering spirits of those who died
+   * - 3. Bioluminescent flora growing in cracks
+     - 3. The remnants of an old crystal mine
+   * - 4. Rock formations jutting out
+     - 4. Nothing at all but a cold damp darkness
+   * - 5. Creatures slithering around
+     - 5. A hidden camp of refugees
+   * - 6. A pronounced echo
+     - 6. An introspective vision of the force
+
+6. JUNKYARD
+^^^^^^^^^^^
+
+.. list-table:: 
+   :header-rows: 1
+   :stub-columns: 0
+   :widths: 50 50
+
+   * - AESTHETIC ELEMENTS
+     - RUMORED TO BE HERE
+   * - 1. Mountains of rusting metal
+     - 1. An old spaceship with a fast engine
+   * - 2. Smoke hanging in the air
+     - 2. Droid parts for cheap
+   * - 3. Overpowering sounds of machinery
+     - 3. More than a few illegal dealings
+   * - 4. A barbed wire fence
+     - 4. Not what we’re looking for (but close)
+   * - 5. Not another soul in sight
+     - 5. The hideout of a gang of youngsters
+   * - 6. Signs warning to keep out
+     - 6. A strange creature swims in its pools
 
