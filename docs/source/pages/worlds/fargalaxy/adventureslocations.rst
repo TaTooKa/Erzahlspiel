@@ -156,51 +156,38 @@ PLACES
 
 Roll d6, d6 to generate a location and a sub-location, then refer to its corresponding tables.
 
-+---+----------------+--+---+------------------+
-| 1 | NATURAL PLACES |  | 2 | FORGOTTEN PLACES |
-+===+================+==+===+==================+
-|   | 1. DESERT      |  |   | 1. HALLOW        |
-+---+----------------+--+---+------------------+
-|   | 2. SWAMP       |  |   | 2. MOUNTAIN      |
-+---+----------------+--+---+------------------+
-|   | 3. FOREST      |  |   | 3. RUIN          |
-+---+----------------+--+---+------------------+
-|   | 4. TUNDRA      |  |   | 4. SHIPWRECK     |
-+---+----------------+--+---+------------------+
-|   | 5. OCEAN       |  |   | 5. CAVE          |
-+---+----------------+--+---+------------------+
-|   | 6. STORM       |  |   | 6. JUNKYARD      |
-+---+----------------+--+---+------------------+
+.. csv-table:: 
+   :widths: 5 45 5 45
+   :header-rows: 1
 
-+---+-----------------+--+---+----------------+
-| 3 | WAR PLACES      |  | 4 | LIMINAL PLACES |
-+===+=================+==+===+================+
-|   | 1. BASE         |  |   | 1. ASTEROID    |
-+---+-----------------+--+---+----------------+
-|   | 2. BUREAUCRACY  |  |   | 2. VOID        |
-+---+-----------------+--+---+----------------+
-|   | 3. WMD-BASE     |  |   | 3. SPACEPORT   |
-+---+-----------------+--+---+----------------+
-|   | 4. BATTLEGROUND |  |   | 4. CARAVAN     |
-+---+-----------------+--+---+----------------+
-|   | 5. LABORATORY   |  |   | 5. GATEWAY     |
-+---+-----------------+--+---+----------------+
-|   | 6. INFIRMARY    |  |   | 6. MIRAGE      |
-+---+-----------------+--+---+----------------+
+    "1","NATURAL PLACES","2","FORGOTTEN PLACES"
+    "","1. DESERT","","1. HALLOW"
+    "","2. SWAMP","","2. MOUNTAIN"
+    "","3. FOREST","","3. RUIN"
+    "","4. TUNDRA","","4. SHIPWRECK"
+    "","5. OCEAN","","5. CAVE"
+    "","6. STORM","","6. JUNKYARD"
 
-+---+----------------+--+---+-----------------+
-| 5 | CROWDED PLACES |  | 6 | INTIMATE PLACES |
-+===+================+==+===+=================+
-|   | 1. METROPOLIS  |  |   | 1. CLIFF        |
-+---+----------------+--+---+-----------------+
-|   | 2. ALLEY       |  |   | 2. LIBRARY      |
-+---+----------------+--+---+-----------------+
-|   | 3. MARKET      |  |   | 3. WORKSHOP     |
-+---+----------------+--+---+-----------------+
-|   | 4. FARM        |  |   | 4. SHIP         |
-+---+----------------+--+---+-----------------+
-|   | 5. BAR         |  |   | 5. QUARTERS     |
-+---+----------------+--+---+-----------------+
-|   | 6. GALA        |  |   | 6. ACADEMY      |
-+---+----------------+--+---+-----------------+
+.. csv-table:: 
+   :widths: 5 45 5 45
+   :header-rows: 1
 
+    "3","WAR PLACES","4","LIMINAL PLACES"
+    "","1. BASE","","1. ASTEROID"
+    "","2. BUREAUCRACY","","2. VOID"
+    "","3. WMD-BASE","","3. SPACEPORT"
+    "","4. BATTLEGROUND","","4. CARAVAN"
+    "","5. LABORATORY","","5. GATEWAY"
+    "","6. INFIRMARY","","6. MIRAGE"
+
+.. csv-table:: 
+   :widths: 5 45 5 45
+   :header-rows: 1
+
+    "5","CROWDED PLACES","6","INTIMATE PLACES"
+    "","1. METROPOLIS","","1. CLIFF"
+    "","2. ALLEY","","2. LIBRARY"
+    "","3. MARKET","","3. WORKSHOP"
+    "","4. FARM","","4. SHIP"
+    "","5. BAR","","5. QUARTERS"
+    "","6. GALA","","6. ACADEMY"
