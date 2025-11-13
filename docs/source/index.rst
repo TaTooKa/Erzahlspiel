@@ -77,6 +77,7 @@ The GM will most likely peruse one of the Worlds and Scenarios provided in this 
    :hidden:
 
    pages/worlds/fargalaxy/characters
+   pages/worlds/fargalaxy/theforce
 
 .. toctree::
    :caption: Zombie Apocalypse
