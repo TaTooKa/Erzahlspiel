@@ -457,7 +457,7 @@ You have 2 points to pick 2 other Skills at *Adept* level, or upgrade a Skill (*
 - Computers
 - Deception
 - Demolitions
-- Exotic Weapons
+- Exotic Weapons [#]_
 - Force Use
 - Intimidation
 - Investigation
@@ -478,6 +478,8 @@ You have 2 points to pick 2 other Skills at *Adept* level, or upgrade a Skill (*
 - Thievery
 - Warfare
 - Xenology
+
+.. [#] Exotic Weapons include the use of Boomas, Bowcasters, Electrostaffs, Electro-Whips, Flamethrowers, Gaderffii Sticks, Lightsabers, The Darksaber, The Darkstaff, etc (specialized in one type or broad use, at GM's discretion).
 
 SPECIES
 -------

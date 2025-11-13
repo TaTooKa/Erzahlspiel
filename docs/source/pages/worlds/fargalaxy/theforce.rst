@@ -68,7 +68,9 @@ Characters have a “Dark Side” level or state, as follows:
 
 Whenever **The Dark Side Tempts You**, roll 1d6 (the lower the better) and compare with your current Dark Side level. If you get a result lower than what you currently have, you maintain it. If you get a result equal or higher, you increase it by one.
 
-At GM’s discretion, If the “evil deed” is a mild one, roll 2d6 and keep the lowest result. If, on the contrary, the deed is a terrible one, roll 2d6 and keep the highest.
+At GM’s discretion, If the “evil deed” is a mild one, roll 2d6 and keep the lowest result. If, on the contrary, the deed is a terrible one, roll 2d6 and keep the highest [#]_.
+
+.. [#] Examples of mild “evil deeds” could be: lying to someone for personal gain; stealing a small item; hurting someone verbally or emotionally; abandoning an ally in need; using Force powers for selfish reasons; etc. Examples of terrible “evil deeds” could be: killing someone intentionally; torturing or maiming someone; betraying a close ally; committing atrocities against innocents; using Force powers to harm or kill others; etc. If the GM considers the deed to be pure evil, they can even decide to increase that character's Dark Side level automatically, without rolling.
 
 Using the Force and tapping the Dark Side is one of the ways in which *The Dark Side Tempts You*.
 But doing any action that would be considered “evil” (at GM’s discretion) will also trigger a Dark Side temptation roll.
