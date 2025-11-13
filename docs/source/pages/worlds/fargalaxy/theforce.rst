@@ -1,6 +1,9 @@
 The Force
 =========
 
+FORCE USE
+---------
+
 Any character that has the Force Use skill is considered a Force User, and has access to creating different improvised or practiced effects with the Force.
 
 - **E.S.P.** (gain new senses, like feeling invisible energies, emotions, danger, etc), 
@@ -17,7 +20,7 @@ The GM determines if the desired effect (as described by the player) is **Subtle
 - **Massive uses** (pulling an x-wing out of the water; lifting an entire squad of stormtroopers; stopping a laser beam in mid air; reading people's minds) will probably give Disadvantage to the Force User’s roll
 - **Incredible uses** (stopping a huge spaceship at long range; projecting your mind to distant planets; finding someone anywhere in the galaxy) are usually impossible without external factors like channeling a Force Nexus or getting help from greater artifacts or beings.
 
-The GM must consider the above and the Force User’s level of expertise in the Force Use skill to determine their Odds of Success. Then the player must roll: 
+The GM must consider the above and the Force User’s level of expertise in the *Force Use* skill to determine their :hoverxref:`odds of success <narrative-dice-probabilities>`. Then the player must roll the dice: 
 
 .. list-table:: Force Use results
    :align: center
