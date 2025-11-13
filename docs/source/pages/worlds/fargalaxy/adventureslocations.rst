@@ -161,36 +161,36 @@ Roll d6, d6 to generate a location and a sub-location, then refer to its corresp
    :header-rows: 1
 
     "1","NATURAL PLACES","2","FORGOTTEN PLACES"
-    "","1. :hoverxref:`DESERT <places-desert>`","","1. :hoverxref:`HALLOW <HALLOW>`"
-    "","2. :ref:`SWAMP <places-swamp>`","","2. :ref:`MOUNTAIN <mountain>`"
-    "","3. FOREST","","3. RUIN"
-    "","4. TUNDRA","","4. SHIPWRECK"
-    "","5. OCEAN","","5. CAVE"
-    "","6. STORM","","6. JUNKYARD"
+    "","1. :hoverxref:`DESERT <places-desert>`","","1. :hoverxref:`HALLOW <places-hallow>`"
+    "","2. :hoverxref:`SWAMP <places-swamp>`","","2. :hoverxref:`MOUNTAIN <places-mountain>`"
+    "","3. :hoverxref:`FOREST <places-forest>`","","3. :hoverxref:`RUIN <places-ruin>`"
+    "","4. :hoverxref:`TUNDRA <places-tundra>`","","4. :hoverxref:`SHIPWRECK <places-shipwreck>`"
+    "","5. :hoverxref:`OCEAN <places-ocean>`","","5. :hoverxref:`CAVE <places-cave>`"
+    "","6. :hoverxref:`STORM <places-storm>`","","6. :hoverxref:`JUNKYARD <places-junkyard>`"
 
 .. csv-table:: 
    :widths: 5 45 5 45
    :header-rows: 1
 
     "3","WAR PLACES","4","LIMINAL PLACES"
-    "","1. BASE","","1. ASTEROID"
-    "","2. BUREAUCRACY","","2. VOID"
-    "","3. WMD-BASE","","3. SPACEPORT"
-    "","4. BATTLEGROUND","","4. CARAVAN"
-    "","5. LABORATORY","","5. GATEWAY"
-    "","6. INFIRMARY","","6. MIRAGE"
+    "","1. :hoverxref:`BASE <places-base>`","","1. :hoverxref:`ASTEROID <places-asteroid>`"
+    "","2. :hoverxref:`BUREAUCRACY <places-bureaucracy>`","","2. :hoverxref:`VOID <places-void>`"
+    "","3. :hoverxref:`WMD-BASE <places-wmd-base>`","","3. :hoverxref:`SPACEPORT <places-spaceport>`"
+    "","4. :hoverxref:`BATTLEGROUND <places-battleground>`","","4. :hoverxref:`CARAVAN <places-caravan>`"
+    "","5. :hoverxref:`LABORATORY <places-laboratory>`","","5. :hoverxref:`GATEWAY <places-gateway>`"
+    "","6. :hoverxref:`INFIRMARY <places-infirmary>`","","6. :hoverxref:`MIRAGE <places-mirage>`"
 
 .. csv-table:: 
    :widths: 5 45 5 45
    :header-rows: 1
 
     "5","CROWDED PLACES","6","INTIMATE PLACES"
-    "","1. METROPOLIS","","1. CLIFF"
-    "","2. ALLEY","","2. LIBRARY"
-    "","3. MARKET","","3. WORKSHOP"
-    "","4. FARM","","4. SHIP"
-    "","5. BAR","","5. QUARTERS"
-    "","6. GALA","","6. ACADEMY"
+    "","1. :hoverxref:`METROPOLIS <places-metropolis>`","","1. :hoverxref:`CLIFF <places-cliff>`"
+    "","2. :hoverxref:`ALLEY <places-alley>`","","2. :hoverxref:`LIBRARY <places-library>`"
+    "","3. :hoverxref:`MARKET <places-market>`","","3. :hoverxref:`WORKSHOP <places-workshop>`"
+    "","4. :hoverxref:`FARM <places-farm>`","","4. :hoverxref:`SHIP <places-ship>`"
+    "","5. :hoverxref:`BAR <places-bar>`","","5. :hoverxref:`QUARTERS <places-quarters>`"
+    "","6. :hoverxref:`GALA <places-gala>`","","6. :hoverxref:`ACADEMY <places-academy>`"
 
 
 NATURAL PLACES
@@ -246,6 +246,8 @@ NATURAL PLACES
    * - 6. Slow and lumbering creatures
      - 6. The wreckage of an abandoned ship
 
+.. _places-forest:
+
 3. FOREST
 ^^^^^^^^^
 
@@ -268,6 +270,8 @@ NATURAL PLACES
      - 5. A military installation hidden by foliage
    * - 6. Camouflaged creatures
      - 6. Giant predators’ hunting grounds
+
+.. _places-tundra:
 
 4. TUNDRA
 ^^^^^^^^^
@@ -292,6 +296,8 @@ NATURAL PLACES
    * - 6. Habitable domes
      - 6. A frozen lake with half-sunk old ships
 
+.. _places-ocean:
+
 5. OCEAN
 ^^^^^^^^
 
@@ -314,6 +320,8 @@ NATURAL PLACES
      - 5. Floating labs of a secretive civilization
    * - 6. Violent storms
      - 6. An underwater dome-city
+
+.. _places-storm:
 
 6. STORM
 ^^^^^^^^
@@ -761,3 +769,143 @@ LIMINAL PLACES
    * - 6. The urge to cry
      - 6. Enlightenment in the form of a vision
 
+CROWDED PLACES
+~~~~~~~~~~~~~~
+
+1. METROPOLIS
+^^^^^^^^^^^^^
+
+.. list-table:: 
+   :header-rows: 1
+   :stub-columns: 0
+   :widths: 50 50
+
+   * - AESTHETIC ELEMENTS
+     - RUMORED TO BE HERE
+   * - 1. Towering skyscrapers
+     - 1. A shady politician, helps for a price
+   * - 2. Shining chrome
+     - 2. A jedi conclave
+   * - 3. Holographic billboards with Ads
+     - 3. An exiled force user
+   * - 4. Absurd and extravagant fashion
+     - 4. Manufacturers of illegal goods
+   * - 5. A monorail
+     - 5. A conman posing as a Jedi
+   * - 6. A projected blue sky
+     - 6. A ship repair-shop with rebel ties
+
+2. ALLEY
+^^^^^^^^
+
+.. list-table:: 
+   :header-rows: 1
+   :stub-columns: 0
+   :widths: 50 50
+
+   * - AESTHETIC ELEMENTS
+     - RUMORED TO BE HERE
+   * - 1. Cramped walkways
+     - 1. An infamous, retired smuggler
+   * - 2. Eclectic apartments
+     - 2. A young girl with prophetic abilities
+   * - 3. Clotheslines crisscrossing the streets
+     - 3. Constant Imperial surveillance
+   * - 4. Smog in the air
+     - 4. Preparations for a festival
+   * - 5. A feeling of community
+     - 5. An informant that also sells deathsticks
+   * - 6. Children playing
+     - 6. A Fake-ID forger’s shop
+
+3. MARKET
+^^^^^^^^^
+
+.. list-table:: 
+   :header-rows: 1
+   :stub-columns: 0
+   :widths: 50 50
+
+   * - AESTHETIC ELEMENTS
+     - RUMORED TO BE HERE
+   * - 1. An air of business
+     - 1. Fuel crystals on the cheap
+   * - 2. “Wanted” posters with familiar faces
+     - 2. A former lover
+   * - 3. Rare and beautiful fabrics
+     - 3. Detachments on patrol
+   * - 4. Overpriced trinkets
+     - 4. The best street food in the sector
+   * - 5. Loud and stubborn haggling
+     - 5. A cunning cutpurse on the loose
+   * - 6. Free samples
+     - 6. A crime syndicate racketeering ops
+
+4. FARM
+^^^^^^^
+
+.. list-table:: 
+   :header-rows: 1
+   :stub-columns: 0
+   :widths: 50 50
+
+   * - AESTHETIC ELEMENTS
+     - RUMORED TO BE HERE
+   * - 1. Crops as far as the eye can see
+     - 1. An old retired Jedi with war stories
+   * - 2. Automated machinery hovering above
+     - 2. A childhood best friend
+   * - 3. A small cluster of homes on the fringes
+     - 3. A force user hidden in safety
+   * - 4. Tired workers
+     - 4. A rebel cell of disgruntled workers
+   * - 5. The consequences of an Imperial attack
+     - 5. Smuggled cargo hidden in a farm
+   * - 6. Alien creatures kept as livestock
+     - 6. Grumpy farmer rats out to the empire
+
+5. BAR
+^^^^^^
+
+.. list-table:: 
+   :header-rows: 1
+   :stub-columns: 0
+   :widths: 50 50
+
+   * - AESTHETIC ELEMENTS
+     - RUMORED TO BE HERE
+   * - 1. A live band in the corner
+     - 1. An illicit gambling operation
+   * - 2. Shady figures looking for work
+     - 2. Someone you still owe
+   * - 3. An ongoing arm wrestling match
+     - 3. The 2nd fastest smuggler in the system
+   * - 4. Gossip thrown left and right
+     - 4. A bartender with rebellious sympathies
+   * - 5. Imperial soldiers on leave
+     - 5. Crime lord on his reserved booth
+   * - 6. Colorful aliens of many species
+     - 6. Fugitive with a bounty, in hiding
+
+6. GALA
+^^^^^^^
+
+.. list-table:: 
+   :header-rows: 1
+   :stub-columns: 0
+   :widths: 50 50
+
+   * - AESTHETIC ELEMENTS
+     - RUMORED TO BE HERE
+   * - 1. Fake smiles
+     - 1. Someone who committed a war crime
+   * - 2. Genuine sneers
+     - 2. Gambling with planetary budget bets
+   * - 3. Offensively expensive suits and dresses
+     - 3. A Rebel spy in deep cover
+   * - 4. Vaguely upbeat music
+     - 4. Your old celebrity crush
+   * - 5. Idle gossip
+     - 5. A politician making deals in subterfuge
+   * - 6. Beautiful and extravagant decorations
+     - 6. A Crime Lord flaunting their power
