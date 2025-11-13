@@ -574,26 +574,72 @@ Disregard or reroll any result that wouldn’t make sense because of your Specie
 NAMES
 -----
 
+A good rule of thumb to generate *Star Wars sounding names* is to have a monosyllabic first name with a polysyllabic last name, or viceversa.
+
 FIRST NAMES
 ~~~~~~~~~~~
 
-+--------+------------------+-----------------+
-|        |       Male       |      Female     |
-+--------+--------+---------+---------+-------+
-| d6, d6 |   1-3  |   4-6   |   1-3   |  4-6  |
-+========+========+=========+=========+=======+
-|    1   | Tannor |  Rafan  |   Mara  | Cerri |
-+--------+--------+---------+---------+-------+
-|    2   |  Hoan  |   Sion  |   Myri  | Aital |
-+--------+--------+---------+---------+-------+
-|    3   |  Daro  | Bartann |  Ailyn  |  Kara |
-+--------+--------+---------+---------+-------+
-|    4   |   Gar  |   Deng  |  Padma  | Sella |
-+--------+--------+---------+---------+-------+
-|    5   |  Vinis |   Nej   |  Jysyal | Zalia |
-+--------+--------+---------+---------+-------+
-|    6   |  Tycho |  Valdor | Kandria | Jeele |
-+--------+--------+---------+---------+-------+
+.. list-table:: 
+   :align: center
+   :header-rows: 1
+   :stub-columns: 1
+   :widths: 10 15 15 15 15 15 15
+
+   * - d6, d6
+     - 1
+     - 2
+     - 3
+     - 4
+     - 5
+     - 6
+
+   * - 1
+     - Tannor
+     - Rafan
+     - Mara
+     - Cerri
+     - Hoan     
+     - Sion
+
+   * - 2
+     - Myri
+     - Aital
+     - Daro
+     - Bartann 
+     - Ailyn
+     - Kara
+
+   * - 3
+     - Gar
+     - Deng
+     - Padma
+     - Sella 
+     - Vinis
+     - Nej
+
+   * - 4
+     - Jysyal
+     - Zalia
+     - Tycho
+     - Valdor 
+     - Kandria
+     - Jeele
+
+   * - 5
+     - Jan
+     - Omar
+     - Kenth
+     - Dronhys
+     - Iafar
+     - Shoan
+
+   * - 6
+     - Tylo 
+     - Varlo
+     - Venka
+     - Deron
+     - Apaila
+     - Tiona
 
 LAST NAMES
 ~~~~~~~~~~
