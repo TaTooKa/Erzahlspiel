@@ -496,7 +496,7 @@ Choosing your Species just gives flavor and aesthetic descriptors. If the Specie
      - 5-6
 
    * - 1
-     - Bothan
+     - :hoverxref:`Bothan <https://starwars.fandom.com/wiki/Bothan/Legends>`
      - Kel Dor
      - Togruta
 
