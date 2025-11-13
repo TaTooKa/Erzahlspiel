@@ -242,3 +242,95 @@ NATURAL PLACES
    * - 6. Slow and lumbering creatures
      - 6. The wreckage of an abandoned ship
 
+3. FOREST
+^^^^^^^^^
+
+.. list-table:: 
+   :header-rows: 1
+   :stub-columns: 0
+   :widths: 50 50
+
+   * - AESTHETIC ELEMENTS
+     - RUMORED TO BE HERE
+   * - 1. Towering trees
+     - 1. A community of small furry creatures
+   * - 2. Exposed roots
+     - 2. An ancient library of jedi texts
+   * - 3. A constant downpour of rain
+     - 3. An ongoing guerrilla war
+   * - 4. Sunlight barely peeking through
+     - 4. Sentient wind with a human voice
+   * - 5. A hidden waterfall
+     - 5. A military installation hidden by foliage
+   * - 6. Camouflaged creatures
+     - 6. Giant predators’ hunting grounds
+
+4. TUNDRA
+^^^^^^^^^
+
+.. list-table:: 
+   :header-rows: 1
+   :stub-columns: 0
+   :widths: 50 50
+
+   * - AESTHETIC ELEMENTS
+     - RUMORED TO BE HERE
+   * - 1. Freezing rain
+     - 1. Hail the size of spaceships
+   * - 2. Sprawling plains of White
+     - 2. A Rebel base (short-staffed)
+   * - 3. Barren trees
+     - 3. A behemoth of legend buried in the ice
+   * - 4. Puffy coats
+     - 4. The beginnings of a great melting
+   * - 5. Tracks in the snow
+     - 5. A maze-like ice cave with eerie sounds
+   * - 6. Habitable domes
+     - 6. A frozen lake with half-sunk old ships
+
+5. OCEAN
+^^^^^^^^
+
+.. list-table:: 
+   :header-rows: 1
+   :stub-columns: 0
+   :widths: 50 50
+
+   * - AESTHETIC ELEMENTS
+     - RUMORED TO BE HERE
+   * - 1. Water so deep it might be bottomless
+     - 1. The wreckage of a legendary ship
+   * - 2. Small islands with sandy beaches
+     - 2. Rare minerals worth a fortune
+   * - 3. Wrecked spaceships rusting in the deep
+     - 3. Unpredictable and unforgiving tides
+   * - 4. Strange creatures that defy research
+     - 4. Mermaids offering gifts
+   * - 5. Underwater volcanoes
+     - 5. Floating labs of a secretive civilization
+   * - 6. Violent storms
+     - 6. An underwater dome-city
+
+6. STORM
+^^^^^^^^
+
+.. list-table:: 
+   :header-rows: 1
+   :stub-columns: 0
+   :widths: 50 50
+
+   * - AESTHETIC ELEMENTS
+     - RUMORED TO BE HERE
+   * - 1. Howling winds
+     - 1. An eye
+   * - 2. Flashes of light
+     - 2. The voice of an old god
+   * - 3. Flying debris
+     - 3. A synthetic source
+   * - 4. Clouds of dust
+     - 4. The answer to a terrifying question
+   * - 5. A strange rhythm
+     - 5. An altar to ancient Sith-Lords
+   * - 6. Distant singing
+     - 6. A pocket-paradise with clean weather
+
