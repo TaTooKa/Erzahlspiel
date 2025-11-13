@@ -602,42 +602,63 @@ LAST NAMES
    :align: center
    :header-rows: 1
    :stub-columns: 1
-   :widths: 10 30 30 30
+   :widths: 10 15 15 15 15 15 15
 
    * - d6, d6
-     - 1-2
-     - 3-4
-     - 5-6
+     - 1
+     - 2
+     - 3
+     - 4
+     - 5
+     - 6
 
    * - 1
      - Denau
      - Donnam
      - Alorr
+     - Daren
+     - Harrek     
+     - Thorne
 
    * - 2
      - Dystra
      - Cardin
      - Pellian
+     - Daraay 
+     - Tillis
+     - Dano
 
    * - 3
      - Keysit
      - Daren
      - Lowsyk
+     - Tarkal 
+     - Vane
+     - Shule
 
    * - 4
      - Haruss
      - Darand
      - Loraay
+     - Carduel 
+     - Kilian
+     - Madak
 
    * - 5
      - Dine
      - Shif
      - Baize
+     - Vamma
+     - Mothma
+     - Rendar
 
    * - 6
      - Terrend
      - Horne
      - Dallo
+     - Dengar
+     - Krevius
+     - Lorkin
 
 
 
