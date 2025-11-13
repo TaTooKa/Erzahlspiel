@@ -17,7 +17,7 @@ The GM determines if the desired effect (as described by the player) is **Subtle
 
 - **Subtle uses** (making a faraway sound; touching a button remotely; doing a mind trick) just work (no roll required) or have Advantage for the Force User’s roll
 - **Overt uses** (pushing someone; moving something with finesse; Throwing an ignited lightsaber and returning it to one’s hand) usually require a regular roll
-- **Massive uses** (pulling an x-wing out of the water; lifting an entire squad of stormtroopers; stopping a laser beam in mid air; reading people's minds) will probably give Disadvantage to the Force User’s roll
+- **Massive uses** (pulling an x-wing out of the water; lifting an entire squad of stormtroopers; stopping a laser beam in mid air; reading people's minds) will probably give *Disadvantage* to the Force User’s roll
 - **Incredible uses** (stopping a huge spaceship at long range; projecting your mind to distant planets; finding someone anywhere in the galaxy) are usually impossible without external factors like channeling a Force Nexus or getting help from greater artifacts or beings.
 
 The GM must consider the above and the Force User’s level of expertise in the *Force Use* skill to determine their :hoverxref:`odds of success <narrative-dice-probabilities>`. Then the player must roll the dice: 
@@ -26,7 +26,7 @@ The GM must consider the above and the Force User’s level of expertise in the 
    :align: center
    :header-rows: 0
    :stub-columns: 2
-   :widths: 10 15 75
+   :widths: 5 15 80
 
    * - 6
      - YES! AND…
@@ -38,11 +38,11 @@ The GM must consider the above and the Force User’s level of expertise in the 
 
    * - 4
      - YES! BUT…
-     - You achieve whatever special effect you were trying to cause, but as a much lesser version of it, OR you can only do it by tapping the Dark Side (*The Dark Side Tempts You*).
+     - You achieve whatever special effect you were trying to cause, but as a much lesser version of it, OR if you so choose, you can do it by willingly tapping the Dark Side (*The Dark Side Tempts You*).
 
    * - 3
      - NO! BUT…
-     - You don’t achieve what you were trying to do YET, but you almost got it: You could try again with a slightly better Advantage.
+     - You don’t achieve what you were trying to do YET, but you almost got it: You could try again (or continue with the effort) with a slightly better Advantage, OR if you so choose, you can do it by willingly tapping the Dark Side (*The Dark Side Tempts You*).
 
    * - 2
      - NO!
