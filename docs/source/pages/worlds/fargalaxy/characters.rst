@@ -507,19 +507,19 @@ Choosing your Species just gives flavor and aesthetic descriptors. If the Specie
 
    * - 3
      - `Duros <https://starwars.fandom.com/wiki/Duros/Legends>`_
-     - `Mon Calamari <https://starwars.fandom.com/wiki/Mon Calamari/Legends>`_
-     - `Twi’Lek <https://starwars.fandom.com/wiki/Twi'Lek/Legends>`_
+     - `Mon Calamari <https://starwars.fandom.com/wiki/Mon_Calamari/Legends>`_
+     - `Twi’Lek <https://starwars.fandom.com/wiki/Twi'lek/Legends>`_
 
    * - 4
      - `Gand <https://starwars.fandom.com/wiki/Gand/Legends>`_
      - `Nautolan <https://starwars.fandom.com/wiki/Nautolan/Legends>`_
-     - `Utapaun <https://starwars.fandom.com/wiki/Utapaun/Legends>`_
+     - `Pau'an <https://starwars.fandom.com/wiki/Pau'an/Legends>`_
 
 
    * - 5
      - `Human <https://starwars.fandom.com/wiki/Human/Legends>`_
      - `Rodian <https://starwars.fandom.com/wiki/Rodian/Legends>`_
-     - `Wookie <https://starwars.fandom.com/wiki/Wookie/Legends>`_
+     - `Wookiee <https://starwars.fandom.com/wiki/Wookiee/Legends>`_
 
 
    * - 6
