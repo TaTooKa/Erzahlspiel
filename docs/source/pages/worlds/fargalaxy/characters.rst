@@ -665,3 +665,61 @@ OTHER NAMES
 |  6 | Lorgua Thungoink |   Durga Vosadii Gula  |  Sukes Nyzat  | NF-8X |
 +----+------------------+-----------------------+---------------+-------+
 
+OBLIGATION
+----------
+
+Choosing an Obligation helps ground your character and adds instant conflict, usable by the GM to spice up the story. Your Obligation might come up in some adventures and not in others, since the rest of the PCs have Obligations of their own that could receive the spotlight as well.
+
+.. list-table:: Obligation (d6, d6)
+   :align: center
+   :header-rows: 0
+   :stub-columns: 2
+   :widths: 8 6 86
+
+   * - 1-3
+     - 1
+     - **Addiction**: stims, dust, alcohol, gambling, law-breaking, priceless antiques, etc.
+
+   * - 1-3
+     - 2
+     - **Betrayal**: betrayed or betrayer. Target seeks answers, compensation or revenge.
+
+   * - 1-3
+     - 3
+     - **Blackmail**: knowledge/proof of PC’s dirty secrets. They demand money / favors.
+
+   * - 1-3
+     - 4
+     - **Bounty**: PC has a price to someone. Legal warrant or criminal contract.
+
+   * - 1-3
+     - 5
+     - **Criminal**: accused of a crime. On the run, burying evidence or proving innocence.
+
+   * - 1-3
+     - 6
+     - **Debt**: PC owes a lot to someone powerful. Criminal or legal Corp.
+
+   * - 4-6
+     - 1
+     - **Dutybound**: military service, contract, thieves’ code. Maybe ritually bound.
+
+   * - 4-6
+     - 2
+     - **Family**: tied to care/assist siblings, parents, children or family business.
+
+   * - 4-6
+     - 3
+     - **Favor**: PC owes a big favor to a powerful agent or friend. Time to repay it.
+
+   * - 4-6
+     - 4
+     - **Oath**: religion or a moral code. Dictates the PC’s thoughts and actions.
+
+   * - 4-6
+     - 5
+     - **Obsession**: fixated with X to their detriment (icon, movement, practice, etc).
+
+   * - 4-6
+     - 6
+     - **Responsibility**: sense of accountability for X (individual, culture, minority, etc).
