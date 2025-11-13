@@ -161,8 +161,8 @@ Roll d6, d6 to generate a location and a sub-location, then refer to its corresp
    :header-rows: 1
 
     "1","NATURAL PLACES","2","FORGOTTEN PLACES"
-    "","1. :hoverxref:`DESERT <#DESERT>`","","1. :hoverxref:`HALLOW <HALLOW>`"
-    "","2. :ref:`SWAMP <#SWAMP>`","","2. :ref:`MOUNTAIN <mountain>`"
+    "","1. :hoverxref:`DESERT <places-desert>`","","1. :hoverxref:`HALLOW <HALLOW>`"
+    "","2. :ref:`SWAMP <places-swamp>`","","2. :ref:`MOUNTAIN <mountain>`"
     "","3. FOREST","","3. RUIN"
     "","4. TUNDRA","","4. SHIPWRECK"
     "","5. OCEAN","","5. CAVE"
@@ -196,6 +196,8 @@ Roll d6, d6 to generate a location and a sub-location, then refer to its corresp
 NATURAL PLACES
 ~~~~~~~~~~~~~~
 
+.. _places-desert:
+
 1. DESERT
 ^^^^^^^^^
 
@@ -218,6 +220,8 @@ NATURAL PLACES
      - 5. Buried ancient Jedi temple
    * - 6. A vicious and solitary creature
      - 6. Hidden ruins strong with the dark side
+
+.. _places-swamp:
 
 2. SWAMP
 ^^^^^^^^
@@ -615,3 +619,145 @@ WAR PLACES
      - 5. A barely functional Bacta Tank
    * - 6. Automated but glitched doctor droids
      - 6. A healer attuned to the Force
+
+LIMINAL PLACES
+~~~~~~~~~~~~~~
+
+1. ASTEROID
+^^^^^^^^^^^
+
+.. list-table:: 
+   :header-rows: 1
+   :stub-columns: 0
+   :widths: 50 50
+
+   * - AESTHETIC ELEMENTS
+     - RUMORED TO BE HERE
+   * - 1. Cracks and crevices
+     - 1. just enough time to refuel
+   * - 2. View of the vast ocean of stars
+     - 2. An obstacle to passing ships
+   * - 3. Veins of shining metal
+     - 3. An abandoned helper droid
+   * - 4. A feeling of precarity
+     - 4. Life forms adapted to the void
+   * - 5. A feeling of weightlessness
+     - 5. Old but functional mining equipment
+   * - 6. The unimpeded cold of space
+     - 6. A gargantuan space worm
+
+2. VOID
+^^^^^^^
+
+.. list-table:: 
+   :header-rows: 1
+   :stub-columns: 0
+   :widths: 50 50
+
+   * - AESTHETIC ELEMENTS
+     - RUMORED TO BE HERE
+   * - 1. Stars twinkling in the distance
+     - 1. A path we’re supposed to follow
+   * - 2. Not a soul in sight
+     - 2. Foreign objects, projectiles or debris
+   * - 3. Fuel running out
+     - 3. A habitable planet nearby
+   * - 4. Tensions running high
+     - 4. A long journey ahead
+   * - 5. Ringing in your ears
+     - 5. The song of the Force
+   * - 6. Nothing to do but wait around
+     - 6. A natural passage into Hyperspace
+
+3. SPACEPORT
+^^^^^^^^^^^^
+
+.. list-table:: 
+   :header-rows: 1
+   :stub-columns: 0
+   :widths: 50 50
+
+   * - AESTHETIC ELEMENTS
+     - RUMORED TO BE HERE
+   * - 1. Painfully long lines
+     - 1. A huge shipment of smuggled goods
+   * - 2. Diverse cultures and fashions
+     - 2. An important politician and entourage
+   * - 3. Blaring announcements
+     - 3. The only direct flight out of the planet
+   * - 4. Secret passageways
+     - 4. News from home
+   * - 5. Overpriced snacks
+     - 5. A hangar with lax custom controls
+   * - 6. Some time to breathe
+     - 6. Undercover Imps in search of a fugitive
+
+4. CARAVAN
+^^^^^^^^^^
+
+.. list-table:: 
+   :header-rows: 1
+   :stub-columns: 0
+   :widths: 50 50
+
+   * - AESTHETIC ELEMENTS
+     - RUMORED TO BE HERE
+   * - 1. A slow pace
+     - 1. An expert of navigation
+   * - 2. Whispered secrets
+     - 2. The finest crafts credits can buy
+   * - 3. Marks of otherness
+     - 3. A cult of the Force
+   * - 4. A lingua franca
+     - 4. Mutual aid
+   * - 5. Curious children
+     - 5. A refuge for those that need hiding
+   * - 6. Weary travelers 
+     - 6. An exiled soldier from an old war
+
+5. GATEWAY
+^^^^^^^^^^
+
+.. list-table:: 
+   :header-rows: 1
+   :stub-columns: 0
+   :widths: 50 50
+
+   * - AESTHETIC ELEMENTS
+     - RUMORED TO BE HERE
+   * - 1. Warping light
+     - 1. The only way out
+   * - 2. Unknown constellations
+     - 2. An ambush on the other side
+   * - 3. Glimpses into another plane
+     - 3. Consequences of a failed experiment
+   * - 4.  A station to dock and buy entrance
+     - 4. Something calling out into the darkness
+   * - 5. A scientific expedition
+     - 5. The aftermath of a great space battle
+   * - 6. A pulsating energy
+     - 6. The only pathway to a lost planet
+
+6. MIRAGE
+^^^^^^^^^
+
+.. list-table:: 
+   :header-rows: 1
+   :stub-columns: 0
+   :widths: 50 50
+
+   * - AESTHETIC ELEMENTS
+     - RUMORED TO BE HERE
+   * - 1. Everything out of focus
+     - 1. A celebration
+   * - 2. Swirling lights
+     - 2. Someone who went missing years ago
+   * - 3. Someone you remember
+     - 3. Something more sinister than normal
+   * - 4. An answer just out of reach
+     - 4. Nothing at all—it doesn’t make sense
+   * - 5. Beautiful flora
+     - 5. An echo of your past and future
+   * - 6. The urge to cry
+     - 6. Enlightenment in the form of a vision
+
