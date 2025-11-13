@@ -598,21 +598,48 @@ FIRST NAMES
 LAST NAMES
 ~~~~~~~~~~
 
-+--------+---------+--------+---------+
-| d6, d6 |   1-2   |   3-4  |   5-6   |
-+========+=========+========+=========+
-|    1   |  Denau  | Donnam |  Alorr  |
-+--------+---------+--------+---------+
-|    2   |  Dystra | Cardin | Pellian |
-+--------+---------+--------+---------+
-|    3   |  Keysit |  Daren |  Lowsyk |
-+--------+---------+--------+---------+
-|    4   |  Haruss | Darand |  Loraay |
-+--------+---------+--------+---------+
-|    5   |   Dine  |  Shif  |  Baize  |
-+--------+---------+--------+---------+
-|    6   | Terrend |  Horne |  Dallo  |
-+--------+---------+--------+---------+
+.. list-table:: 
+   :align: center
+   :header-rows: 1
+   :stub-columns: 1
+   :widths: 10 30 30 30
+
+   * - d6, d6
+     - 1-2
+     - 3-4
+     - 5-6
+
+   * - 1
+     - Denau
+     - Donnam
+     - Alorr
+
+   * - 2
+     - Dystra
+     - Cardin
+     - Pellian
+
+   * - 3
+     - Keysit
+     - Daren
+     - Lowsyk
+
+   * - 4
+     - Haruss
+     - Darand
+     - Loraay
+
+   * - 5
+     - Dine
+     - Shif
+     - Baize
+
+   * - 6
+     - Terrend
+     - Horne
+     - Dallo
+
+
 
 OTHER NAMES
 ~~~~~~~~~~~
