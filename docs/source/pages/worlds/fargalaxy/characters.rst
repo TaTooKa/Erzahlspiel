@@ -617,53 +617,149 @@ LAST NAMES
 OTHER NAMES
 ~~~~~~~~~~~
 
-+----+---------------+------------+-----------+-----------+
-| d6 |     RODIAN    | TRANDOSHAN |  TWI’LEK  |   WOOKIE  |
-+====+===============+============+===========+===========+
-|  1 |  Greelo Kena  |    Kron    | Aayn'tuna |   Rorwaa  |
-+----+---------------+------------+-----------+-----------+
-|  2 |  Neeshar Nenu |    Sissk   | Euyn'rena |  Yuboorr  |
-+----+---------------+------------+-----------+-----------+
-|  3 |   Daro Tanwa  |    Pekt    | Ooc'fenna |   Bookoo  |
-+----+---------------+------------+-----------+-----------+
-|  4 |   Chulo Tona  |    Liss    |  Oon'men  |   Yaccar  |
-+----+---------------+------------+-----------+-----------+
-|  5 | Koobis Roolek |    Krad    |  Ec'vena  |  Yawwaark |
-+----+---------------+------------+-----------+-----------+
-|  6 |   Ween Aden   |   Nachkt   | Ma'fortaa | Grakchewb |
-+----+---------------+------------+-----------+-----------+
+.. list-table:: 
+   :align: center
+   :header-rows: 1
+   :stub-columns: 1
+   :widths: 5 20 20 20 20
 
-+----+--------------+-----------------+-----------------+-----------+
-| d6 |    BOTHAN    |      DUROS      |   MON CALAMARI  | SULLUSTAN |
-+====+==============+=================+=================+===========+
-|  1 |  Hosk Dov'Ar | Eslorrs Baaksob | Nahdool Eerills |  Jae Ath  |
-+----+--------------+-----------------+-----------------+-----------+
-|  2 |  Kai Is'Lya  |  Lorrsi Sobill  |  Terpfen Vebbar | Mayj Tevv |
-+----+--------------+-----------------+-----------------+-----------+
-|  3 |  Utri Tey'Ab |   Leemy Keggle  |    Noma Akmin   | Garr Yovv |
-+----+--------------+-----------------+-----------------+-----------+
-|  4 | Tryn Sei'Sei |   Garan Madak   |  Clabar Pashna  |  Dua Dhuj |
-+----+--------------+-----------------+-----------------+-----------+
-|  5 | Ary Fey'Trey |    Hoola Bane   |   Mina Barotr   |  En Niuv  |
-+----+--------------+-----------------+-----------------+-----------+
-|  6 |  Orsk Lya'Ov |    Bana Stazi   |   Ackdoon Abar  |   Ar Go   |
-+----+--------------+-----------------+-----------------+-----------+
+   * - d6
+     - RODIAN
+     - TRANDOSHAN
+     - TWI’LEK
+     - WOOKIE
 
-+----+------------------+-----------------------+---------------+-------+
-| d6 |     GAMORREAN    |          HUTT         |    QUARREN    | DROID |
-+====+==================+=======================+===============+=======+
-|  1 |   Burgua Roguul  |   Numosk Moska Beeda  | Loppak Slusko | 8H3-R |
-+----+------------------+-----------------------+---------------+-------+
-|  2 |      Tholgua     |    Moska Tira Aggal   | Vossal Churok | 6B-Y6 |
-+----+------------------+-----------------------+---------------+-------+
-|  3 |      Ufbruk      |  Grugha Vosadii Aball | Sirluk Nevals | 9S-06 |
-+----+------------------+-----------------------+---------------+-------+
-|  4 |  Thubuz Muusonh  | Prixo Anjiliac Guttai | Sillin Tessal | 7X9-B |
-+----+------------------+-----------------------+---------------+-------+
-|  5 |   Gurke Klonnka  |   Maco Gutta Theeta   |  Sarne Waarok | 9L-4N |
-+----+------------------+-----------------------+---------------+-------+
-|  6 | Lorgua Thungoink |   Durga Vosadii Gula  |  Sukes Nyzat  | NF-8X |
-+----+------------------+-----------------------+---------------+-------+
+   * - 1
+     - Greelo Kena
+     - Kron
+     - Aayn'tuna
+     - Rorwaa
+
+   * - 2
+     - Neeshar Nenu
+     - Sissk
+     - Euyn'rena
+     - Yuboorr
+
+   * - 3
+     - Daro Tanwa
+     - Pekt
+     - Ooc'fenna
+     - Bookoo
+
+   * - 4
+     - Chulo Tona
+     - Liss
+     - Oon'men
+     - Yaccar
+
+   * - 5
+     - Koobis Roolek
+     - Krad
+     - Ec'vena
+     - Yawwaark
+
+   * - 6
+     - Ween Aden
+     - Nachkt
+     - Ma'fortaa
+     - Grakchewb
+
+.. list-table:: 
+   :align: center
+   :header-rows: 1
+   :stub-columns: 1
+   :widths: 5 20 20 20 20
+
+   * - d6
+     - BOTHAN
+     - DUROS
+     - MON CALAMARI
+     - SULLUSTAN
+
+   * - 1
+     - Hosk Dov'Ar
+     - Eslorrs Baaksob
+     - Nahdool Eerills
+     - Jae Ath
+
+   * - 2
+     - Kai Is'Lya
+     - Lorrsi Sobill
+     - Terpfen Vebbar
+     - Mayj Tevv
+
+   * - 3
+     - Utri Tey'Ab
+     - Leemy Keggle
+     - Noma Akmin
+     - Garr Yovv
+
+   * - 4
+     - Tryn Sei'Sei
+     - Garan Madak
+     - Clabar Pashna
+     - Dua Dhuj
+
+   * - 5
+     - Ary Fey'Trey
+     - Hoola Bane
+     - Mina Barotr
+     - En Niuv
+
+   * - 6
+     - Orsk Lya'Ov
+     - Bana Stazi
+     - Ackdoon Abar
+     - Ar Go
+
+.. list-table:: 
+   :align: center
+   :header-rows: 1
+   :stub-columns: 1
+   :widths: 5 20 20 20 20
+
+   * - d6
+     - GAMORREAN
+     - HUTT
+     - QUARREN
+     - DROID
+
+   * - 1
+     - Burgua Roguul
+     - Numosk Moska Beeda
+     - Loppak Slusko
+     - 8H3-R
+
+   * - 2
+     - Tholgua
+     - Moska Tira Aggal
+     - Vossal Churok
+     - 6B-Y6
+
+   * - 3
+     - Ufbruk
+     - Grugha Vosadii Aball
+     - Sirluk Nevals
+     - 9S-06
+
+   * - 4
+     - Thubuz Muusonh
+     - Prixo Anjiliac Guttai
+     - Sillin Tessal
+     - 7X9-B
+
+   * - 5
+     - Gurke Klonnka
+     - Maco Gutta Theeta
+     - Sarne Waarok
+     - 9L-4N
+
+   * - 6
+     - Lorgua Thungoink
+     - Durga Vosadii Gula
+     - Sukes Nyzat
+     - NF-8X
 
 OBLIGATION
 ----------
