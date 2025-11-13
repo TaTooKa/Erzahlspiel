@@ -444,7 +444,7 @@ SKILLS: Academics, Streetwise, Negotiation, Deception
 EXTRA SKILLS
 ------------
 
-You have 2 points to pick 2 other Skills at *Adept* level, or upgrade a Skill (*Adept* > *Expert* > *Master*) for 1 point each.
+You have 2 points to pick 2 other Skills at *Adept* level, or upgrade a Skill (*Adept* > *Expert* > *Master*) for 1 point each [#]_.
 
 .. rst-class:: three-columns
 
@@ -457,7 +457,7 @@ You have 2 points to pick 2 other Skills at *Adept* level, or upgrade a Skill (*
 - Computers
 - Deception
 - Demolitions
-- Exotic Weapons [#]_
+- Exotic Weapons
 - Force Use
 - Intimidation
 - Investigation
