@@ -479,3 +479,91 @@ You have 2 points to pick 2 other Skills at *Adept* level, or upgrade a Skill (*
 - Warfare
 - Xenology
 
+SPECIES
+-------
+
+Choosing your Species just gives flavor and aesthetic descriptors. If the Species has an extra benefit or ability, the PC might gain that knack in certain situations, at GM’s discretion.
+
+.. list-table:: Species
+   :header-rows: 1
+
+   * - d6, d6
+     - 1-2
+     - 3-4
+     - 5-6
+
+   * - 1
+     - Bothan
+     - Kel Dor
+     - Togruta
+
+   * - 2
+     - Cerean
+     - Mirialan
+     - Trandoshan
+
+   * - 3
+     - Duros
+     - Mon Calamari
+     - Twi’Lek
+
+   * - 4
+     - Gand
+     - Nautolan
+     - Utapaun
+
+   * - 5
+     - Human
+     - Rodian
+     - Wookie
+
+   * - 6
+     - Ithorian
+     - Sullustan
+     - Zabrak
+
+PHYSICAL DETAILS
+----------------
+
+Disregard or reroll any result that wouldn’t make sense because of your Species / gender.
+
+.. list-table:: Physical Details
+   :header-rows: 1
+
+  * -  d6, d6
+    -  1-2
+    -  3-4
+    -  5-6
+
+  * -  1
+    -  Blaster burns
+    -  Bronze skin
+    -  Long hair / appendages
+
+  * -  2
+    -  Knife scars
+    -  Dark skin
+    -  Bushy beard / eyebrows
+
+  * -  3
+    -  Birthmark
+    -  Pale skin
+    -  Dreadlocks / beads
+
+  * -  4
+    -  Brand mark
+    -  Cyber arm
+    -  Shaved / bald head
+
+  * -  5
+    -  Burn scars
+    -  Cyber eye
+    -  Moustache / freckles
+
+  * -  6
+    -  Tattoos
+    -  Cyber leg
+    -  Piercings / ornaments
+
+ 
+
