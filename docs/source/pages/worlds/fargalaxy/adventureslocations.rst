@@ -191,3 +191,54 @@ Roll d6, d6 to generate a location and a sub-location, then refer to its corresp
     "","4. FARM","","4. SHIP"
     "","5. BAR","","5. QUARTERS"
     "","6. GALA","","6. ACADEMY"
+
+
+NATURAL PLACES
+~~~~~~~~~~~~~~
+
+1. DESERT
+^^^^^^^^^
+
+.. list-table:: 
+   :header-rows: 1
+   :stub-columns: 0
+   :widths: 50 50
+
+   * - AESTHETIC ELEMENTS
+     - RUMORED TO BE HERE
+   * - 1. Towering dunes
+     - 1. An oasis of healing waters
+   * - 2. Many suns in the sky
+     - 2. An underground alien creature
+   * - 3. Strange pillars of metal
+     - 3. A coven of prophets
+   * - 4. Half-buried abandoned spaceships
+     - 4. A field of glass
+   * - 5. Mirages in the mist
+     - 5. Buried ancient Jedi temple
+   * - 6. A vicious and solitary creature
+     - 6. Hidden ruins strong with the dark side
+
+2. SWAMP
+^^^^^^^^
+
+.. list-table:: 
+   :header-rows: 1
+   :stub-columns: 0
+   :widths: 50 50
+
+   * - AESTHETIC ELEMENTS
+     - RUMORED TO BE HERE
+   * - 1. Water that seeps into your clothes
+     - 1. A strange but kind swamp creature
+   * - 2. Heaviness in the air
+     - 2. A force adept training in solitude
+   * - 3. Hostile flora
+     - 3. A lost artifact
+   * - 4. Bubbling mud
+     - 4. A portal to the planet lost to time
+   * - 5. Swarms of bugs
+     - 5. A cave into a mythic underground reveal
+   * - 6. Slow and lumbering creatures
+     - 6. The wreckage of an abandoned ship
+
