@@ -161,8 +161,8 @@ Roll d6, d6 to generate a location and a sub-location, then refer to its corresp
    :header-rows: 1
 
     "1","NATURAL PLACES","2","FORGOTTEN PLACES"
-    "","1. :hoverxref:`DESERT <DESERT>`","","1. :hoverxref:`HALLOW <HALLOW>`"
-    "","2. SWAMP","","2. MOUNTAIN"
+    "","1. :hoverxref:`DESERT <#DESERT>`","","1. :hoverxref:`HALLOW <HALLOW>`"
+    "","2. :ref:`SWAMP <#SWAMP>`","","2. :ref:`MOUNTAIN <mountain>`"
     "","3. FOREST","","3. RUIN"
     "","4. TUNDRA","","4. SHIPWRECK"
     "","5. OCEAN","","5. CAVE"
@@ -475,3 +475,143 @@ FORGOTTEN PLACES
    * - 6. Signs warning to keep out
      - 6. A strange creature swims in its pools
 
+WAR PLACES
+~~~~~~~~~~
+
+1. BASE
+^^^^^^^
+
+.. list-table:: 
+   :header-rows: 1
+   :stub-columns: 0
+   :widths: 50 50
+
+   * - AESTHETIC ELEMENTS
+     - RUMORED TO BE HERE
+   * - 1. Ships in hangars
+     - 1. An emissary returned
+   * - 2. Projected maps
+     - 2. A stolen Empire secret
+   * - 3. Hushed discussions of battle and loss
+     - 3. The next hot-shot pilot
+   * - 4. Casual card games played with drinks
+     - 4. A vigil for the dead
+   * - 5. Eager new recruits
+     - 5. An important leader of the people
+   * - 6. soldiers recovering from wounds
+     - 6. A heavily modded prototype spaceship
+
+2. BUREAUCRACY
+^^^^^^^^^^^^^^
+
+.. list-table:: 
+   :header-rows: 1
+   :stub-columns: 0
+   :widths: 50 50
+
+   * - AESTHETIC ELEMENTS
+     - RUMORED TO BE HERE
+   * - 1. Long bare hallways
+     - 1. A meeting with many imperial officers
+   * - 2. Idle chit-chat
+     - 2. The holding cell for a few rebels
+   * - 3. Self-important uniforms
+     - 3. Plans for a new and powerful technology
+   * - 4. Over-complicated language
+     - 4. Paperwork needed to get a new license
+   * - 5. Evil turned banal
+     - 5. Evidence of a politician’s dirty deeds
+   * - 6. Hovering water coolers
+     - 6. The meeting place of conspirators
+
+3. WMD-BASE
+^^^^^^^^^^^
+
+.. list-table:: 
+   :header-rows: 1
+   :stub-columns: 0
+   :widths: 50 50
+
+   * - AESTHETIC ELEMENTS
+     - RUMORED TO BE HERE
+   * - 1. A silent air of domination
+     - 1. A secret vulnerability
+   * - 2. Absurd formality
+     - 2. the largest imperial prison in the system
+   * - 3. Glee in horrific destruction
+     - 3. A rebel spy in deep cover
+   * - 4. Unfettered jingoism and pride
+     - 4. A sinister and ruinous plan
+   * - 5. Cold and calculated violence
+     - 5. The lair of a powerful nemesis
+   * - 6. A looming and threatening presence
+     - 6. A hidden hangar of defensive fighters
+
+4. BATTLEGROUND
+^^^^^^^^^^^^^^^
+
+.. list-table:: 
+   :header-rows: 1
+   :stub-columns: 0
+   :widths: 50 50
+
+   * - AESTHETIC ELEMENTS
+     - RUMORED TO BE HERE
+   * - 1. Dilapidated tents
+     - 1. A new kind of weapon
+   * - 2. Destroyed landscapes
+     - 2. Reinforcements on the way
+   * - 3. The cacophony of battle
+     - 3. Hazardous or inconvenient flora / fauna
+   * - 4. Long days
+     - 4. The last chance we have
+   * - 5. Close calls
+     - 5. A natural, strategic chokepoint
+   * - 6. Solidarity among survivors
+     - 6. Natives that could help if convinced
+
+5. LABORATORY
+^^^^^^^^^^^^^
+
+.. list-table:: 
+   :header-rows: 1
+   :stub-columns: 0
+   :widths: 50 50
+
+   * - AESTHETIC ELEMENTS
+     - RUMORED TO BE HERE
+   * - 1. Bubbling vials
+     - 1. A serious security system
+   * - 2. Note-covered whiteboards
+     - 2. A kidnapped engineer
+   * - 3. Murmurs of new innovations
+     - 3. A terrifying and deadly discovery
+   * - 4. Exhausted and overworked scientists
+     - 4. The full version of a redacted report
+   * - 5. Creatures in cages
+     - 5. A bioengineered creature / ubermensch
+   * - 6. An air of importance
+     - 6. A bioweapon or virus in development
+
+6. INFIRMARY
+^^^^^^^^^^^^
+
+.. list-table:: 
+   :header-rows: 1
+   :stub-columns: 0
+   :widths: 50 50
+
+   * - AESTHETIC ELEMENTS
+     - RUMORED TO BE HERE
+   * - 1. Bloodied shirts
+     - 1. Scarce supplies
+   * - 2. Crowded beds
+     - 2. The sole survivor of an ambush
+   * - 3. Screams of pain
+     - 3. An old friend
+   * - 4. Kind nurses trying their best
+     - 4. The antidote
+   * - 5. The smell of antiseptic
+     - 5. A barely functional Bacta Tank
+   * - 6. Automated but glitched doctor droids
+     - 6. A healer attuned to the Force
