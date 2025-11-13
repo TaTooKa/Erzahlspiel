@@ -349,6 +349,8 @@ NATURAL PLACES
 FORGOTTEN PLACES
 ~~~~~~~~~~~~~~~~
 
+.. _places-hallow:
+
 1. HALLOW
 ^^^^^^^^^
 
@@ -371,6 +373,8 @@ FORGOTTEN PLACES
      - 5. A strong Force Vergence
    * - 6. A mirror of polished dark stone
      - 6. A captured, invincible plague-like being
+
+.. _places-mountain:
 
 2. MOUNTAIN
 ^^^^^^^^^^^
@@ -395,6 +399,8 @@ FORGOTTEN PLACES
    * - 6. Narrow and winding paths
      - 6. An altar of power, touching the stars
 
+.. _places-ruin:
+
 3. RUIN
 ^^^^^^^
 
@@ -417,6 +423,8 @@ FORGOTTEN PLACES
      - 5. A trapped hidden chamber
    * - 6. A lonely and profound silence
      - 6. Denizens of the deep, about to awake
+
+.. _places-shipwreck:
 
 4. SHIPWRECK
 ^^^^^^^^^^^^
@@ -441,6 +449,8 @@ FORGOTTEN PLACES
    * - 6. A sense of majesty despite the disrepair
      - 6. A plague or hazard polluting its hallways
 
+.. _places-cave:
+
 5. CAVE
 ^^^^^^^
 
@@ -463,6 +473,8 @@ FORGOTTEN PLACES
      - 5. A hidden camp of refugees
    * - 6. A pronounced echo
      - 6. An introspective vision of the force
+
+.. _places-junkyard:
 
 6. JUNKYARD
 ^^^^^^^^^^^
@@ -490,6 +502,8 @@ FORGOTTEN PLACES
 WAR PLACES
 ~~~~~~~~~~
 
+.. _places-base:
+
 1. BASE
 ^^^^^^^
 
@@ -512,6 +526,8 @@ WAR PLACES
      - 5. An important leader of the people
    * - 6. soldiers recovering from wounds
      - 6. A heavily modded prototype spaceship
+
+.. _places-bureaucracy:
 
 2. BUREAUCRACY
 ^^^^^^^^^^^^^^
@@ -536,6 +552,8 @@ WAR PLACES
    * - 6. Hovering water coolers
      - 6. The meeting place of conspirators
 
+.. _places-wmd-base:
+
 3. WMD-BASE
 ^^^^^^^^^^^
 
@@ -558,6 +576,8 @@ WAR PLACES
      - 5. The lair of a powerful nemesis
    * - 6. A looming and threatening presence
      - 6. A hidden hangar of defensive fighters
+
+.. _places-battleground:
 
 4. BATTLEGROUND
 ^^^^^^^^^^^^^^^
@@ -582,6 +602,8 @@ WAR PLACES
    * - 6. Solidarity among survivors
      - 6. Natives that could help if convinced
 
+.. _places-laboratory:
+
 5. LABORATORY
 ^^^^^^^^^^^^^
 
@@ -604,6 +626,8 @@ WAR PLACES
      - 5. A bioengineered creature / ubermensch
    * - 6. An air of importance
      - 6. A bioweapon or virus in development
+
+.. _places-infirmary:
 
 6. INFIRMARY
 ^^^^^^^^^^^^
@@ -631,6 +655,8 @@ WAR PLACES
 LIMINAL PLACES
 ~~~~~~~~~~~~~~
 
+.. _places-asteroid:
+
 1. ASTEROID
 ^^^^^^^^^^^
 
@@ -653,6 +679,8 @@ LIMINAL PLACES
      - 5. Old but functional mining equipment
    * - 6. The unimpeded cold of space
      - 6. A gargantuan space worm
+
+.. _places-void:
 
 2. VOID
 ^^^^^^^
@@ -677,6 +705,8 @@ LIMINAL PLACES
    * - 6. Nothing to do but wait around
      - 6. A natural passage into Hyperspace
 
+.. _places-spaceport:
+
 3. SPACEPORT
 ^^^^^^^^^^^^
 
@@ -699,6 +729,8 @@ LIMINAL PLACES
      - 5. A hangar with lax custom controls
    * - 6. Some time to breathe
      - 6. Undercover Imps in search of a fugitive
+
+.. _places-caravan:
 
 4. CARAVAN
 ^^^^^^^^^^
@@ -723,6 +755,8 @@ LIMINAL PLACES
    * - 6. Weary travelers 
      - 6. An exiled soldier from an old war
 
+.. _places-gateway:
+
 5. GATEWAY
 ^^^^^^^^^^
 
@@ -745,6 +779,8 @@ LIMINAL PLACES
      - 5. The aftermath of a great space battle
    * - 6. A pulsating energy
      - 6. The only pathway to a lost planet
+
+.. _places-mirage:
 
 6. MIRAGE
 ^^^^^^^^^
@@ -772,6 +808,8 @@ LIMINAL PLACES
 CROWDED PLACES
 ~~~~~~~~~~~~~~
 
+.. _places-metropolis:
+
 1. METROPOLIS
 ^^^^^^^^^^^^^
 
@@ -794,6 +832,8 @@ CROWDED PLACES
      - 5. A conman posing as a Jedi
    * - 6. A projected blue sky
      - 6. A ship repair-shop with rebel ties
+
+.. _places-alley:
 
 2. ALLEY
 ^^^^^^^^
@@ -818,6 +858,8 @@ CROWDED PLACES
    * - 6. Children playing
      - 6. A Fake-ID forger’s shop
 
+.. _places-market:
+
 3. MARKET
 ^^^^^^^^^
 
@@ -840,6 +882,8 @@ CROWDED PLACES
      - 5. A cunning cutpurse on the loose
    * - 6. Free samples
      - 6. A crime syndicate racketeering ops
+
+.. _places-farm:
 
 4. FARM
 ^^^^^^^
@@ -864,6 +908,8 @@ CROWDED PLACES
    * - 6. Alien creatures kept as livestock
      - 6. Grumpy farmer rats out to the empire
 
+.. _places-bar:
+
 5. BAR
 ^^^^^^
 
@@ -887,6 +933,8 @@ CROWDED PLACES
    * - 6. Colorful aliens of many species
      - 6. Fugitive with a bounty, in hiding
 
+.. _places-gala:
+
 6. GALA
 ^^^^^^^
 
@@ -909,3 +957,156 @@ CROWDED PLACES
      - 5. A politician making deals in subterfuge
    * - 6. Beautiful and extravagant decorations
      - 6. A Crime Lord flaunting their power
+
+INTIMATE PLACES
+~~~~~~~~~~~~~~~
+
+.. _places-cliff:
+
+1. CLIFF
+^^^^^^^^
+
+.. list-table:: 
+   :header-rows: 1
+   :stub-columns: 0
+   :widths: 50 50
+
+   * - AESTHETIC ELEMENTS
+     - RUMORED TO BE HERE
+   * - 1. A beautiful meadow
+     - 1. A lost Jedi living as a hermit
+   * - 2. Sight of the water below
+     - 2. Rare flora which only bloom at night
+   * - 3. Strong winds
+     - 3. The perfect spot for a ship to hide
+   * - 4. The nests of flying creatures
+     - 4. An old abandoned Imperial telescope
+   * - 5. A feeling of calm
+     - 5. An elusive creature, highly sought after
+   * - 6. Big boulders
+     - 6. A Force Vergence over a historical site
+
+.. _places-library:
+
+2. LIBRARY
+^^^^^^^^^^
+
+.. list-table:: 
+   :header-rows: 1
+   :stub-columns: 0
+   :widths: 50 50
+
+   * - AESTHETIC ELEMENTS
+     - RUMORED TO BE HERE
+   * - 1. Towering shelves of books
+     - 1. The original draft of the Jedi code
+   * - 2. A thick layer of dust
+     - 2. Copies of books banned by the Empire
+   * - 3. Unfamiliar names from long ago
+     - 3. A friendly librarian who helps find things
+   * - 4. Strict rules against taking books out
+     - 4. A scandalous romance section
+   * - 5. A clock ticking
+     - 5. Genealogy of force-sensitive prospects
+   * - 6. Windows letting light pour in
+     - 6. Old maps of secret hyperspace lanes
+
+.. _places-workshop:
+
+3. WORKSHOP
+^^^^^^^^^^^
+
+.. list-table:: 
+   :header-rows: 1
+   :stub-columns: 0
+   :widths: 50 50
+
+   * - AESTHETIC ELEMENTS
+     - RUMORED TO BE HERE
+   * - 1. The whirring sounds of machines
+     - 1. A special lightsaber-repairing tool
+   * - 2. An assortment of niche tools
+     - 2. The best engineer in the system
+   * - 3. Unfinished projects piled up
+     - 3. A retired Rebel pilot repairs old ships
+   * - 4. Helper droids running to and fro
+     - 4. Unbeatable deals if you know a guy
+   * - 5. An air of focus and concentration
+     - 5. A prototype hyperdrive on the works
+   * - 6. Something huge being repaired
+     - 6. Custom armor tools from Mandalore
+
+.. _places-ship:
+
+4. SHIP
+^^^^^^^
+
+.. list-table:: 
+   :header-rows: 1
+   :stub-columns: 0
+   :widths: 50 50
+
+   * - AESTHETIC ELEMENTS
+     - RUMORED TO BE HERE
+   * - 1. Exposed wires
+     - 1. Forged ownership papers
+   * - 2. Flashing lights
+     - 2. Dangerously out-of-date parts
+   * - 3. Cramped spaces
+     - 3. An Imperial ship following close behind
+   * - 4. Shouted commands
+     - 4. Secret hidden compartment
+   * - 5. Random patches of duct tape
+     - 5. Retrofitted laser turret mount
+   * - 6. A bumpy ride
+     - 6. Custom hyperdrive, unsafe but unique
+
+.. _places-quarters:
+
+5. QUARTERS
+^^^^^^^^^^^
+
+.. list-table:: 
+   :header-rows: 1
+   :stub-columns: 0
+   :widths: 50 50
+
+   * - AESTHETIC ELEMENTS
+     - RUMORED TO BE HERE
+   * - 1. Pictures on the walls
+     - 1. An old friend
+   * - 2. Memories from a different life
+     - 2. A concealed weapon
+   * - 3. A steady routine
+     - 3. Incriminating evidence
+   * - 4. Hidden snacks
+     - 4. A place to rest
+   * - 5. A cluttered desk
+     - 5. Box safekeeping an ancient artifact
+   * - 6. Something… off about this whole thing
+     - 6. Mementos of a charged past
+
+.. _places-academy:
+
+6. ACADEMY
+^^^^^^^^^^
+
+.. list-table:: 
+   :header-rows: 1
+   :stub-columns: 0
+   :widths: 50 50
+
+   * - AESTHETIC ELEMENTS
+     - RUMORED TO BE HERE
+   * - 1. Bored students
+     - 1. Force-sensitive children kidnapped
+   * - 2. Hallway chatter
+     - 2. Suppressed student protests
+   * - 3. Rows of lockers
+     - 3. New halls under construction
+   * - 4. Lectures on soft and hard sciences
+     - 4. A hangout from your childhood
+   * - 5. Writing on the walls
+     - 5. A teacher with rebellious sympathies
+   * - 6. An upcoming student election
+     - 6. Unguarded droid-training grounds
