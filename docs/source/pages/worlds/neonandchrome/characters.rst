@@ -321,32 +321,50 @@ Archetype
 
 Your Archetype defines your starting skills and what role you fulfill in a group of runners. Choose one:
 
+TECH WIZ
+~~~~~~~~
+
 ▸ The **Tech Wiz** is a master hacker, pro netrunner and specialist in all sorts of electronics and technology.
 
 ``Hacking Expert``, ``Electronics Adept``, ``Security Adept``.
+
+DRONE JOCK
+~~~~~~~~~~
 
 ▸ The **Drone Jock** is an ace pilot, gearhead and puppeteer of flying drones and other vehicles.
 
 ``Piloting Expert``, ``Electronics Adept``, ``Mechanics Adept``.
 
+STREET SAMURAI
+~~~~~~~~~~~~~~
+
 ▸ The **Street Samurai** is a professional combatant, hardened mercenary or hired muscle.
 
 ``Shooting Expert``, ``Melee Adept``, ``Intimidation Adept``.
+
+CYBER NINJA
+~~~~~~~~~~~
 
 ▸ The **Cyber Ninja** is the ultimate spy, a master of infiltration and covert ops, or an invisible assassin.
 
 ``Stealth Expert``, ``Melee Adept``, ``Climbing Adept``.
 
+REBEL FACE
+~~~~~~~~~~
+
 ▸ The **Rebel Face** is the voice of revolution, an influencer that calls to action or a rockstar turned into freedom fighter.
 
 ``Persuasion Expert``, ``Connections Adept``, ``Deception Adept``.
+
+HARBOILED SLEUTH
+~~~~~~~~~~~~~~~~
 
 ▸ The **Hardboiled Sleuth** is an ex-cop turned gumshoe, an investigative journalist or an avenging vigilante.
 
 ``Reading People Expert``, ``Tracking Adept``, ``Intimidation Adept``.
 
 Etiquette
-~~~~~~~~~
+---------
 
 .. figure:: /_static/images/rpg-image-38.jpg
 
@@ -366,7 +384,7 @@ Get an etiquette-related skill (at ``Adept`` level) depending on your Lifepath�
 
 
 Other Skills
-~~~~~~~~~~~~
+------------
 
 Also pick another 3 skills at ``Adept`` level.
 
