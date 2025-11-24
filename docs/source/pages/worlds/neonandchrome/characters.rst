@@ -413,6 +413,10 @@ buy your gear with *CryptoBits* (฿). Everyone starts with some cheap way of ac
  "**Tactical Armor (heavy):** Full-body plating with bulletproof carbon-fiber layers, designed for frontline chaos. *cumbersome*. *very obvious*.","3 K฿"
  "**Optical Camo Clothing:** Turns invisible on command. Best when combined with *Optical Camo Skin*.","1 K฿"
 
+.. note::
+
+   Armor can provide *narrative permission* to ignore or reduce damage from certain attacks, or give **Advantage** to checks made to resist them. Armor can also be "broken" (unusable until repaired) to avoid one source of damage, at GM's discretion.
+
 .. csv-table:: Weapons and Mods
  :widths: 90, 10
 
@@ -432,13 +436,15 @@ buy your gear with *CryptoBits* (฿). Everyone starts with some cheap way of ac
 .. csv-table:: Misc and Tools
  :widths: 90, 10
 
- "**SkillSoft Chip:** Plug it in a slot and know a skill instantly. Price depends on skill level: *Adept*: 2 K฿ | *Expert*: 3 K฿ | *Master*: 4 K฿.","--"
+ "**SkillSoft Chip:** Plug it in a slot and know a skill instantly. Price depends on skill level: *Adept*: 2 K฿ | *Expert*: 3 K฿ | *Master*: 4 K฿. Requires a *Neuralink* with a *Skillsoft Slot*.","--"
  "**VR Goggles:** Access Virtual Reality without a *Neuralink*.","1 K฿"
  "**Electronic toolbox:** Hacking gear, signal probes, and micro-tools for cracking systems.","1 K฿"
  "**Mechanic toolbox:** Wrenches, sealant, and servo-spanners for fixing machines on the fly.","1 K฿"
  "**Medkit:** Auto-injectors, synth-skin, and trauma foam for field treatment. 3 uses.","1 K฿"
  "**Combat Drone:** Autonomous hovering gun-platform; small, fast, and armed.","2 K฿"
  "**Spy Drone:** Silent flier with cams, mics, and signal sniffers.","2 K฿"
+ "**Digital Storage:** Portable media to store data. Minidiscs, thumbchips, optical shards, rugged flashdrives, etc.","1 K฿"
+
 
 Cyberware
 ---------
@@ -476,7 +482,7 @@ Install **Cyberware** on a *Ripperdoc* shop during :hoverxref:`Downtime <downtim
 Programs
 --------
 
-**Programs** are commands or quick hacks that anyone that has a NET-capable device can run, and are much faster than coding a solution in the moment. Once purchased, they are saved in your user cloud storage and are always available. 
+**Programs** are commands or quickhacks that anyone that has a NET-capable device can run, and are much faster than coding a solution in the moment. Software can easily be copied or traded; what you pay for is the storage (minidisc, thumbchip, optical shard, cloud storage, etc) and/or the compute time to compile or finetune it to your device.
 
 .. csv-table:: Programs
  :widths: 90, 10
