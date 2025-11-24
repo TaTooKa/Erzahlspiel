@@ -495,6 +495,8 @@ Install **Cyberware** on a *Ripperdoc* shop during :hoverxref:`Downtime <downtim
  " ↳ **Echolocation:** “see” through hearing.","1 K฿"
  " ↳ **Bio-stress meter:** voice/biometrics lie detector.","1 K฿"
  "**Retractable Blades:** nails or claws. very sharp. *concealable*.","1 K฿"
+ "**Vocal Modulator:** Can change voice pitch or volume.","1 K฿"
+ " ↳ **Expanded Soundbank:** Up to 10 pre-recorded voice banks and thousands of sound samples.","1 K฿"
 
 
 Programs
