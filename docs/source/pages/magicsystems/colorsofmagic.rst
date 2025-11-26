@@ -13,12 +13,16 @@ The GM can ascertain which colors of Mana are more or less abundant in a place o
 Colors of Magic
 ~~~~~~~~~~~~~~~
 
-Both players and GM should be familiarized with the core concepts and domains of each Color, to identify to which a spell or magical effect falls into. Mana colors can be combined as well, to achieve greater or more complex concepts and domains. Usually, colors combine with their “allies” or “adjacent” colors, to form consonant and agreeable composites. Although rare, colors can be combined between “enemies” or “opposites”, to generate effects that gather contrasting or otherwise paradoxical and conflicting concepts.
-
 .. figure:: /_static/images/colorsofmagic-wheel-3.png
+
+Both players and GM should be familiarized with the core concepts and domains of each Color, to identify to which a spell or magical effect falls into. Mana colors can be combined as well, to achieve greater or more complex concepts and domains. Usually, colors combine with their “allies” or “adjacent” colors, to form consonant and agreeable composites. Although rare, colors can be combined between “enemies” or “opposites”, to generate effects that gather contrasting or otherwise paradoxical and conflicting concepts.
 
 White Magic
 ^^^^^^^^^^^ 
+
+.. figure:: /_static/images/colorsofmagic-icon-W.png
+   :width: 25%
+   :align: center
 
 Embodies: Morality, order, peace and protection.
 
@@ -29,6 +33,10 @@ Allied Colors: Green, Blue. Opposite Colors: Red, Black.
 Blue Magic
 ^^^^^^^^^^ 
 
+.. figure:: /_static/images/colorsofmagic-icon-U.png
+   :width: 25%
+   :align: center
+
 Embodies: Control, logic, omniscience, experimentation.
 
 Strengths: Illusions and mind control. Countering or dispelling other’s magic. Mind alteration. Mimicry effects. Time manipulation. Disruption or debuff effects. Mental Trickery (mind swap, memory alterations). Evasion (flying, phasing, invisibility). Metamagic (affect the channeling and flow of Mana itself).
@@ -37,6 +45,10 @@ Allied Colors: White, Black. Opposite Colors: Green, Red.
 
 Black Magic
 ^^^^^^^^^^^ 
+
+.. figure:: /_static/images/colorsofmagic-icon-B.png
+   :width: 25%
+   :align: center
 
 Embodies: Death, decay, amorality and selfishness.
 
@@ -47,6 +59,10 @@ Allied Colors: Blue, Red. Opposite Colors: Green, White.
 Red Magic
 ^^^^^^^^^ 
 
+.. figure:: /_static/images/colorsofmagic-icon-R.png
+   :width: 25%
+   :align: center
+
 Embodies: Impulse, passion, freedom and chaos.
 
 Strengths: Solving problems with violence, brute force and raw damage. Ephemeral empowerment. Kamikaze strategy. Raw emotions and strong passions. Chaos over order. Spontaneity and impulsiveness. Blowing stuff up, then blowing even more stuff up. 
@@ -55,6 +71,10 @@ Allied Colors: Green, Black. Opposite Colors: White, Blue.
 
 Green Magic
 ^^^^^^^^^^^ 
+
+.. figure:: /_static/images/colorsofmagic-icon-G.png
+   :width: 25%
+   :align: center
 
 Embodies: Nature, instinct, harmony and growth.
 
