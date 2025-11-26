@@ -86,7 +86,7 @@ Green Magic
 Spellcasting
 ------------
 
-In general terms, a player describes what their character is attempting to do and what is the desired effect of their Spell (both with flavor and intent), and the GM determines which color(s) and power level correspond to the Spellcasting action. This determines the Odds of Success for the player to roll; then consult the Casting Magic: Results table for the outcome.
+In general terms, a player describes what their character is attempting to do and what is the desired effect of their Spell (both with flavor and intent), and the GM determines which **color(s)** and **power level** correspond to the Spellcasting action. This determines the *Odds of Success* for the player to roll; then consult the :hoverxref:`Casting Magic: Results <colorsofmagic-casting-results>` table for the outcome.
 
 Spell Color
 ~~~~~~~~~~~
@@ -105,28 +105,28 @@ A Spell might require 2 or more Colors of Mana, depending on its concepts (speci
 Spellcasters and their Skills
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Characters who can cast magic are often called Spellcasters, Wizards, Mages, Sorcerers, Warlocks, etc. In terms of game mechanics, what defines a Spellcaster are the skills in each Color of Magic they have. The “skill levels” are Dabbler, Adept, Expert, Veteran, and Master.
+Characters who can cast magic are often called Spellcasters, Wizards, Mages, Sorcerers, Warlocks, etc. In terms of game mechanics, what defines a Spellcaster are the skills in each Color of Magic they have. The “skill levels” are **Dabbler**, **Adept**, **Expert**, **Veteran**, and **Master**.
 
-The character must have at least a Dabbler skill level on a Color of Magic to even attempt to cast a Spell that has that color as one or more of its domains (in other words, a character who is not a dabbler in a specific color cannot cast spells that have that color as one of their requirements).
+The character must have at least a **Dabbler** skill level on a Color of Magic to even attempt to cast a Spell that has that color as one or more of its domains (in other words, a character who is not a dabbler in a specific color cannot cast spells that have that color as one of their requirements).
 
-A character can have different skill levels on each Mana Color (in fact, most spellcasters prioritize learning one color; maybe two; at most three―4-color and 5-color wizards are extremely rare). Thus, a spellcaster character could have, for example, Blue Magic Expert, White Magic Adept, and Red Magic Dabbler.
+A character can have different skill levels on each Mana Color (in fact, most spellcasters prioritize learning one color; maybe two; at most three―4-color and 5-color wizards are extremely rare). Thus, a spellcaster character could have, for example, `Blue Magic Expert`, `White Magic Adept`, and `Red Magic Dabbler`.
 
-The Skill Levels are for the GM to use as a guideline (or to compare between opposing spellcasters) when determining the Odds of Success for dice rolls.
+The Skill Levels are for the GM to use as a guideline (or to compare between opposing spellcasters) when determining the *Odds of Success* for dice rolls.
 
-During character creation, characters have 5 points to choose Magic skills. Dabbler costs 1, Adept costs 2, and Expert costs 3. Players can combine those points however they like to specialize or generalize as they wish.
+During character creation, characters have 5 points to choose Magic skills. **Dabbler** costs 1, **Adept** costs 2, and **Expert** costs 3. Players can combine those points however they like to specialize or generalize as they wish.
 
 Spell Power
 ~~~~~~~~~~~
 
-There are three “power levels” to cast magic at: Subtle, Overt, or Massive.
+There are three “power levels” to cast magic at: **Subtle**, **Overt**, or **Massive**.
 
-Subtle magic creates effects that are discreet and often go unnoticed by others. It allows the caster to manipulate the environment or influence others without drawing attention. The effects are often small-scale, temporary, and weak.
+**Subtle magic** creates effects that are discreet and often go unnoticed by others. It allows the caster to manipulate the environment or influence others without drawing attention. The effects are often small-scale, temporary, and weak.
 
-Overt magic is more obvious and can be easily perceived by others. It often involves dramatic gestures, incantations, or visible effects that make the magic’s presence known. The effects are more powerful than subtle magic.
+**Overt magic** is more obvious and can be easily perceived by others. It often involves dramatic gestures, incantations, or visible effects that make the magic’s presence known. The effects are more powerful than subtle magic.
 
-Massive magic is the most powerful and destructive form of magic. It can alter the environment on a grand scale, create catastrophic effects, or summon immense forces. This type of magic is often risky and can have unintended consequences.
+**Massive magic** is the most powerful and destructive form of magic. It can alter the environment on a grand scale, create catastrophic effects, or summon immense forces. This type of magic is often risky and can have unintended consequences.
 
-Before Casting Magic, the player must decide if the spell is going to be Subtle, Overt or Massive. Sometimes the player just knows what effect they want to produce, and depending on their description, the GM can tell them if it is Subtle, Overt or Massive. Subtle magic sometimes doesn’t even require a roll (if the effect is minor enough or there is no great risk or consequence for failing). Massive magic, on the other hand, not only requires a roll but also requires a more involved process that the GM will determine at the moment (the GM sets 1 to 4 Conditions that the spellcaster must fulfill before they roll):
+Before Casting Magic, the player must decide if the spell is going to be Subtle, Overt or Massive. Sometimes the player just knows what effect they want to produce, and depending on their description, the GM can tell them if it is Subtle, Overt or Massive. Subtle magic sometimes doesn’t even require a roll (if the effect is minor enough or there is no great risk or consequence for failing). Massive magic, on the other hand, not only requires a roll but also requires a more involved process that the GM will determine at the moment (**the GM sets 1 to 4 Conditions** that the spellcaster must fulfill before they roll):
 
 Massive Magic conditions
 ^^^^^^^^^^^^^^^^^^^^^^^^
@@ -158,24 +158,26 @@ The GM can use this table as a guideline to know the Odds of Success of a spellc
 |        Master       | Overwhelming Advantage |   Advantage  |         Advantage         |
 +---------------------+------------------------+--------------+---------------------------+
 
+.. _colorsofmagic-casting-results:
+
 Casting Magic: Results
 ~~~~~~~~~~~~~~~~~~~~~~
 
-+-------------+-----------------------------------------------------------------------------+---------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------+
-| Dice Result |                                 Subtle Magic                                |                                   Overt Magic                                   |                                      Massive Magic                                      |
-+=============+=============================================================================+=================================================================================+=========================================================================================+
-| YES! AND…   | the spell works with increased benefit or power                             | the spell works with increased benefit or power                                 | the spell works without Magical Mishaps                                                 |
-+-------------+-----------------------------------------------------------------------------+---------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------+
-| YES!        | the spell works as intended                                                 | the spell works as intended                                                     | the spell works as intended, but choose: you are Winded (Mild) or a Minor Mishap occurs |
-+-------------+-----------------------------------------------------------------------------+---------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------+
-| YES! BUT…   | the spell works, but you are Winded (Mild) or a Minor Mishap occurs         | the spell works, but choose: you are Winded (Mild) or a Minor Mishap occurs     | the spell works, but choose: you are Tired (Moderate) or a Medium Mishap occurs         |
-+-------------+-----------------------------------------------------------------------------+---------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------+
-| NO! BUT…    | the spell fails, but partially, or another beneficial thing happens         | the spell fails, but with no undesired effects or exhaustion                    | the spell fails, and choose: you are Winded (Mild) or a Minor Mishap occurs             |
-+-------------+-----------------------------------------------------------------------------+---------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------+
-| NO!         | the spell fails, but with no undesired effects or exhaustion                | the spell fails, and choose: you are Winded (Mild) or a Minor Mishap occurs     | the spell fails, and choose: you are Exhausted (Severe) or a Major Mishap occurs        |
-+-------------+-----------------------------------------------------------------------------+---------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------+
-| NO! AND…    | the spell fails, and choose: you are Winded (Mild) or a Minor Mishap occurs | the spell fails, and choose: you are Tired (Moderate) or a Medium Mishap occurs | the spell fails, you are Exhausted (Severe) and a Major Mishap occurs                   |
-+-------------+-----------------------------------------------------------------------------+---------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------+
++-------------+-----------------------------------------------------------------------------+---------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------+
+| Dice Result |                                 Subtle Magic                                |                                   Overt Magic                                   |                                      Massive Magic                                        |
++=============+=============================================================================+=================================================================================+===========================================================================================+
+| YES! AND…   | the spell works with increased benefit or power                             | the spell works with increased benefit or power                                 | the spell works without Magical Mishaps                                                   |
++-------------+-----------------------------------------------------------------------------+---------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------+
+| YES!        | the spell works as intended                                                 | the spell works as intended                                                     | the spell works as intended, but choose: you are `Winded (Mild)` or a Minor Mishap occurs |
++-------------+-----------------------------------------------------------------------------+---------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------+
+| YES! BUT…   | the spell works, but you are Winded (Mild) or a Minor Mishap occurs         | the spell works, but choose: you are Winded (Mild) or a Minor Mishap occurs     | the spell works, but choose: you are Tired (Moderate) or a Medium Mishap occurs           |
++-------------+-----------------------------------------------------------------------------+---------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------+
+| NO! BUT…    | the spell fails, but partially, or another beneficial thing happens         | the spell fails, but with no undesired effects or exhaustion                    | the spell fails, and choose: you are Winded (Mild) or a Minor Mishap occurs               |
++-------------+-----------------------------------------------------------------------------+---------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------+
+| NO!         | the spell fails, but with no undesired effects or exhaustion                | the spell fails, and choose: you are Winded (Mild) or a Minor Mishap occurs     | the spell fails, and choose: you are Exhausted (Severe) or a Major Mishap occurs          |
++-------------+-----------------------------------------------------------------------------+---------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------+
+| NO! AND…    | the spell fails, and choose: you are Winded (Mild) or a Minor Mishap occurs | the spell fails, and choose: you are Tired (Moderate) or a Medium Mishap occurs | the spell fails, you are Exhausted (Severe) and a Major Mishap occurs                     |
++-------------+-----------------------------------------------------------------------------+---------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------+
 
 Magic Mishaps
 ~~~~~~~~~~~~~
