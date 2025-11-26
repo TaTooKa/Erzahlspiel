@@ -86,7 +86,7 @@ Green Magic
 Spellcasting
 ------------
 
-In general terms, a player describes what their character is attempting to do and what is the desired effect of their Spell (both with flavor and intent), and the GM determines which **color(s)** and **power level** correspond to the Spellcasting action. This determines the *Odds of Success* for the player to roll; then consult the :hoverxref:`Casting Magic: Results <colorsofmagic-casting-results>` table for the outcome.
+In general terms, a player describes what their character is attempting to do and what is the desired effect of their Spell (both with flavor and intent), and the GM determines which **color(s)** and **power level** correspond to the Spellcasting action. This determines the :hoverxref:`Odds of Success <interpret-the-odds>` for the player to roll; then consult the :hoverxref:`Casting Magic: Results <colorsofmagic-casting-results>` table for the outcome.
 
 Spell Color
 ~~~~~~~~~~~
@@ -111,7 +111,7 @@ The character must have at least a **Dabbler** skill level on a Color of Magic t
 
 A character can have different skill levels on each Mana Color (in fact, most spellcasters prioritize learning one color; maybe two; at most three―4-color and 5-color wizards are extremely rare). Thus, a spellcaster character could have, for example, ``Blue Magic Expert``, ``White Magic Adept``, and ``Red Magic Dabbler``.
 
-The Skill Levels are for the GM to use as a guideline (or to compare between opposing spellcasters) when determining the *Odds of Success* for dice rolls.
+The Skill Levels are for the GM to use as a guideline (or to compare between opposing spellcasters) when determining the :hoverxref:`Odds of Success <interpret-the-odds>` for dice rolls.
 
 During character creation, characters have 5 points to choose Magic skills. **Dabbler** costs 1, **Adept** costs 2, and **Expert** costs 3. Players can combine those points however they like to specialize or generalize as they wish.
 
@@ -142,7 +142,7 @@ Massive Magic conditions
 Casting Magic: Odds of Success
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-The GM can use this table as a guideline to know the Odds of Success of a spellcasting character, based on their Skill Level in that color of Mana and the power level of the desired magical effect:
+The GM can use this table as a guideline to know the :hoverxref:`Odds of Success <interpret-the-odds>` of a spellcasting character, based on their Skill Level in that color of Mana and the power level of the desired magical effect:
 
 +---------------------+------------------------+--------------+---------------------------+
 | Casting Skill Level |      Subtle Magic      |  Overt Magic |       Massive Magic       |
