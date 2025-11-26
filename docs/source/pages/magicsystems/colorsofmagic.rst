@@ -92,7 +92,7 @@ Spell Color
 ~~~~~~~~~~~
 
 .. figure:: /_static/images/colorsofmagic-wheel-1.png
-  :width: 75%
+  :width: 60%
   :align: center
 
 The GM must determine the Color(s) of the Spell based on the player’s description of the desired magical effect. Players can debate and discuss at the table, but the GM has the final word.
