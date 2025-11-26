@@ -35,6 +35,7 @@ The GM will most likely peruse one of the Worlds and Scenarios provided in this 
    :hidden:
 
    pages/magicsystems/sigilmagic
+   pages/magicsystems/creativemagic
    pages/magicsystems/materialcomponentmagic
    pages/magicsystems/colorsofmagic
 
