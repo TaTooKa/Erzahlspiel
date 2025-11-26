@@ -100,6 +100,8 @@ Others count the net amount of advantages/disadvantages in a more granular scale
 
 .. figure:: ../_static/images/amount-adv-dis-odds.png
 
+   as infered from this chart and its colors, the odds are usually more like a "spectrum" than a clearly defined scale.
+
 Whichever the case, the GM only defines *The Odds*, that is: which die the player must :hoverxref:`roll <rolling-the-dice>`. The player can decide to move forward with the action with those odds, or back down and try something else. 
 
 .. _risk:
