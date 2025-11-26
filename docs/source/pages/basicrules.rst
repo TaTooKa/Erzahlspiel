@@ -94,6 +94,10 @@ Some game mechanics might say they give "Advantage" or "Disadvantage" in specifi
 
 Some GMs like to tally each and every one of the Descriptors, Conditions or other situations in play that could alter the odds, subtracting positives from negatives. Others like to eyeball it and infer whether there is match (50/50) of if the scales are tipped one way or the other (Advantageous or Disadvantageous for the character initiating the action).
 
+Others use a progressive amount of advantages/disadvantages to increase/decrease the Odds, as follows:
+
+.. figure:: ../_static/images/amount-adv-dis-odds.png
+
 Whichever the case, the GM only defines which die the player must :hoverxref:`roll <rolling-the-dice>`. The player can decide to move forward with the action with those odds, or back down and try something else. 
 
 .. _risk:
