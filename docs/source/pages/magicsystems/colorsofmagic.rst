@@ -225,3 +225,72 @@ Blue Magic Mishaps
 +----+------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------+
 |  6 | Every reflective surface nearby becomes a window to strange places, only visible in the corner of the eye. | You become intangible for a few seconds and fall through the floor or object.                      | You fracture into multiple independent versions of yourself, each believing they’re the original. |
 +----+------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------+
+
+Black Magic Mishaps
+^^^^^^^^^^^^^^^^^^^
+
+.. figure:: /_static/images/colorsofmagic-icon-B.png
+  :width: 25%
+  :align: center
+
++----+-----------------------------------------------------------------------------+----------------------------------------------------------------------------+-------------------------------------------------------------------------------+
+| d6 | Minor Mishap                                                                | Medium Mishap                                                              | Major Mishap                                                                  |
++====+=============================================================================+============================================================================+===============================================================================+
+|  1 | Food and drink you carry spoil instantly.                                   | A deathly chill spreads; nearby plants wilt and small animals die.         | The spell consumes your life force, aging you decades in seconds.             |
++----+-----------------------------------------------------------------------------+----------------------------------------------------------------------------+-------------------------------------------------------------------------------+
+|  2 | A foul odor of rot surrounds you until rest.                                | Healing magic or medicine has no effect on you until rest.                 | A curse of decay spreads outward — food rots, metal rusts, and flesh withers. |
++----+-----------------------------------------------------------------------------+----------------------------------------------------------------------------+-------------------------------------------------------------------------------+
+|  3 | Nearby small animals growl at you or flee in panic.                         | You bleed black ichor that stains the ground, forming unnatural sigils.    | The area becomes a necrotic wasteland; nothing grows here for years.          |
++----+-----------------------------------------------------------------------------+----------------------------------------------------------------------------+-------------------------------------------------------------------------------+
+|  4 | You (or someone nearby) get a nosebleed, or an earbleed, an eyebleed, etc.  | A miasma of necrotic energy bursts outward, inflicting pain on the living. | Every corpse within a mile rises as undead under no one’s control.            |
++----+-----------------------------------------------------------------------------+----------------------------------------------------------------------------+-------------------------------------------------------------------------------+
+|  5 | Your skin temperature drops unnaturally; your breath steams even in warmth. | Your eyes turn completely black; you see faint outlines of nearby souls.   | Shadows in the area coalesce into a sentient darkness that hungers for souls. |
++----+-----------------------------------------------------------------------------+----------------------------------------------------------------------------+-------------------------------------------------------------------------------+
+|  6 | Any nearby flame or light source burns lower, as if reluctant to stay lit.  | You lose your reflection permanently — until you commit a selfish act.     | A powerful entity of horror is summoned. It is angry and has no master.       |
++----+-----------------------------------------------------------------------------+----------------------------------------------------------------------------+-------------------------------------------------------------------------------+
+
+Red Magic Mishaps
+^^^^^^^^^^^^^^^^^
+
+.. figure:: /_static/images/colorsofmagic-icon-R.png
+  :width: 25%
+  :align: center
+
++----+---------------------------------------------------------------------------------+---------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------+
+| d6 | Minor Mishap                                                                    | Medium Mishap                                                                         | Major Mishap                                                                                                                      |
++====+=================================================================================+=======================================================================================+===================================================================================================================================+
+|  1 | Something nearby spontaneously catches on fire.                                 | You fly into a sudden rage, attacking the nearest threat (or ally).                   | The ground splits open, revealing molten veins and rivers of magma that burst forth.                                              |
++----+---------------------------------------------------------------------------------+---------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------+
+|  2 | You are compelled to shout whatever you’re thinking.                            | Rocks crack and the ground splits slightly beneath your feet.                         | You lose all control over your body as your emotions manifest physically — rage, sorrow, joy as destructive waves of pure energy. |
++----+---------------------------------------------------------------------------------+---------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------+
+|  3 | You feel overwhelming emotion (joy, anger, sorrow) that radiates to others.     | A shockwave of raw mana bursts outward, knocking everything and everyone off balance. | The spell detonates in an explosion of pure mana, reshaping the landscape permanently.                                            |
++----+---------------------------------------------------------------------------------+---------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------+
+|  4 | Sparks leap from your fingertips with every gesture.                            | Bolts of lightning start arcing from you to any near metal object or creature.        | The boundary between the physical and elemental planes collapses — chaos reigns until someone seals it.                           |
++----+---------------------------------------------------------------------------------+---------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------+
+|  5 | Each person you talk to feels your emotions as their own.                       | A deafening thunderclap rings out, alerting everyone for miles.                       | You become the epicenter of a chaos storm — lightning, wild fire, and screaming wind for miles.                                   |
++----+---------------------------------------------------------------------------------+---------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------+
+|  6 | The spell detonates in your hands or face, causing a Scorched (Mild) Condition. | You radiate uncontrolled heat, making metal glow and wood smolder.                    | The ground glows red and melts; the air itself burns; the area remains a scorched wasteland for centuries.                        |
++----+---------------------------------------------------------------------------------+---------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------+
+
+Green Magic Mishaps
+^^^^^^^^^^^^^^^^^^^
+
+.. figure:: /_static/images/colorsofmagic-icon-G.png
+  :width: 25%
+  :align: center
+
++----+------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------+
+| d6 | Minor Mishap                                                           | Medium Mishap                                                                                               | Major Mishap                                                                                        |
++====+========================================================================+=============================================================================================================+=====================================================================================================+
+|  1 | The weather worsens locally, following you around, until rest.         | One of your body parts or facial features changes into that of an animal (detrimental/awkward), until rest. | All nearby creatures are flooded with life force — mutating them uncontrollably.                    |
++----+------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------+
+|  2 | Insects swarm around you harmlessly but incessantly.                   | One of your limbs is petrified (a Moderate Condition) until rest.                                           | The weather spirals into an apocalyptic storm, tearing at the land for miles.                       |
++----+------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------+
+|  3 | Your hair or nails grow visibly longer in seconds.                     | The ground around you erupts in roots and vines that entangle everyone.                                     | A rift to the primal plane opens — beasts, fae, and spirits spill into the mortal world unchecked.  |
++----+------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------+
+|  4 | You exude a scent that attracts wild animals (curious, not hostile).   | The weather shifts violently — sudden storm, quake, or heavy fog.                                           | The ground ruptures as colossal roots and vines engulf the area, creating an instant primal forest. |
++----+------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------+
+|  5 | You leave faint glowing footprints that bloom tiny flowers behind you. | You release a cloud of spores that cause mild hallucinations or sleep.                                      | All humanoid life nearby regresses into primal, bestial forms.                                      |
++----+------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------+
+|  6 | Your skin briefly shifts in hue, matching local foliage.               | You lose speech and can only growl or howl until rest.                                                      | The balance of life tilts — predators vanish, prey multiplies, or ecosystems collapse overnight.    |
++----+------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------+
