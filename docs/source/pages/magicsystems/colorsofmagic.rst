@@ -24,11 +24,12 @@ White Magic
    :width: 25%
    :align: center
 
-Embodies: Morality, order, peace and protection.
+.. centered:: **Embodies**: Morality, order, peace and protection.
 
 Strengths: Healing and inspiring others. Detaining enemies without damage. Protecting against harm. Strength in numbers. Purging what is false (dispel enchantments or magical artifacts). Equality and uniformity (effects affect everyone alike). Retaliating with violence only if harmed. Arranging or organizing that which is disordered or chaotic.
 
 Allied Colors: Green, Blue. Opposite Colors: Red, Black.
+
 
 Blue Magic
 ^^^^^^^^^^ 
