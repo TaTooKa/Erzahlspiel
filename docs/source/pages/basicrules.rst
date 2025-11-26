@@ -90,15 +90,17 @@ Interpreting the Odds
 
 The GM interprets the context of the narrative and any :hoverxref:`Descriptor <descriptors>` that is in play (and could alter the odds of the action), concluding whether the character has Advantage or Disadvantage.
 
-Some game mechanics might say they give "Advantage" or "Disadvantage" in specific situations. Other things like :hoverxref:`Descriptors <descriptors>` or :hoverxref:`Conditions <conditions>` usually impose Advantage or Disadvantage to certain actions.
+Some game mechanics might say they give "Advantage" or "Disadvantage" in specific situations. Other things like :hoverxref:`Descriptors <descriptors>` or :hoverxref:`Conditions <conditions>` usually impose Advantage or Disadvantage to certain actions. [#]_
+
+.. [#] Usually, if both Advantages and Disadvantages are present, they cancel each other out 1:1, until a net amount is obtained (some of these could have more "weight" or importance than others and could be counted as 2:1 or even 3:1, at GM's discretion).
 
 Some GMs like to tally each and every one of the Descriptors, Conditions or other situations in play that could alter the odds, subtracting positives from negatives. Others like to eyeball it and infer whether there is match (50/50) of if the scales are tipped one way or the other (Advantageous or Disadvantageous for the character initiating the action).
 
-Others use a progressive amount of advantages/disadvantages to increase/decrease the Odds, as follows:
+Others count the net amount of advantages/disadvantages in a more granular scale, as follows:
 
 .. figure:: ../_static/images/amount-adv-dis-odds.png
 
-Whichever the case, the GM only defines which die the player must :hoverxref:`roll <rolling-the-dice>`. The player can decide to move forward with the action with those odds, or back down and try something else. 
+Whichever the case, the GM only defines *The Odds*, that is: which die the player must :hoverxref:`roll <rolling-the-dice>`. The player can decide to move forward with the action with those odds, or back down and try something else. 
 
 .. _risk:
 
