@@ -36,6 +36,7 @@ The GM will most likely peruse one of the Worlds and Scenarios provided in this 
 
    pages/magicsystems/sigilmagic
    pages/magicsystems/materialcomponentmagic
+   pages/magicsystems/colorsofmagic
 
 .. toctree::
    :caption: Worlds
