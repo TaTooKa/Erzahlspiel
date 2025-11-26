@@ -91,7 +91,11 @@ In general terms, a player describes what their character is attempting to do an
 Spell Color
 ~~~~~~~~~~~
 
- The GM must determine the Color(s) of the Spell based on the player’s description of the desired magical effect. Players can debate and discuss at the table, but the GM has the final word.
+.. figure:: /_static/images/colorsofmagic-wheel-1.png
+  :width: 75%
+  :align: center
+
+The GM must determine the Color(s) of the Spell based on the player’s description of the desired magical effect. Players can debate and discuss at the table, but the GM has the final word.
 
 Combined Colors
 ^^^^^^^^^^^^^^^
@@ -173,6 +177,9 @@ Casting Magic: Results
 | NO! AND…    | the spell fails, and choose: you are Winded (Mild) or a Minor Mishap occurs | the spell fails, and choose: you are Tired (Moderate) or a Medium Mishap occurs | the spell fails, you are Exhausted (Severe) and a Major Mishap occurs                   |
 +-------------+-----------------------------------------------------------------------------+---------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------+
 
+Magic Mishaps
+~~~~~~~~~~~~~
+
 White Magic Mishaps
 ^^^^^^^^^^^^^^^^^^^
 
@@ -196,3 +203,25 @@ White Magic Mishaps
 |  6 | You feel sick when you hear profanity or insults, until rest.                                               | All nearby wounds are sealed with blinding light — healing mixed with agony.              | The sun’s light intensifies in the area for hours, bleaching the land and blinding all who remain.               |
 +----+-------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------+
   
+Blue Magic Mishaps
+^^^^^^^^^^^^^^^^^^
+
+.. figure:: /_static/images/colorsofmagic-icon-U.png
+  :width: 25%
+  :align: center
+
++----+------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------+
+| d6 | Minor Mishap                                                                                               | Medium Mishap                                                                                      | Major Mishap                                                                                      |
++====+============================================================================================================+====================================================================================================+===================================================================================================+
+|  1 | You speak and write gibberish until rest.                                                                  | The spell targets a random, unwanted target.                                                       | Time loops for everyone in the area, replaying events until the effect is somehow dispelled.      |
++----+------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------+
+|  2 | Every sentient being in the vicinity gains a Disoriented (Mild) Condition.                                 | The spell effect is much smaller/bigger than expected, to your detriment.                          | Your mind is pulled into a dream realm, leaving your body comatose until rescued.                 |
++----+------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------+
+|  3 | Your reflections and shadows act independently, mocking or questioning you.                                | Your mind switches bodies with that of a nearby ally, until rest.                                  | Reality in a wide radius becomes fluid — gravity, sound, and perception warp unpredictably.       |
++----+------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------+
+|  4 | You and people around you lose track of time — minutes feel like hours, or vice versa.                     | A wave of telepathic noise floods nearby creatures’ minds, causing Headaches or Nausea (Moderate). | Every nearby creature’s memories are swapped, rewritten, or erased at random.                     |
++----+------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------+
+|  5 | You involuntarily mimic the speech patterns of whoever you talk to.                                        | A memory or secret from your mind manifests as an independent whispering echo.                     | Your mind expands beyond its limits — you comprehend infinity and go irreversibly mad.            |
++----+------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------+
+|  6 | Every reflective surface nearby becomes a window to strange places, only visible in the corner of the eye. | You become intangible for a few seconds and fall through the floor or object.                      | You fracture into multiple independent versions of yourself, each believing they’re the original. |
++----+------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------+
