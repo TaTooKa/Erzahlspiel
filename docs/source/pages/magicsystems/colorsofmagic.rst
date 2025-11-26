@@ -20,15 +20,15 @@ Both players and GM should be familiarized with the core concepts and domains of
 White Magic
 ^^^^^^^^^^^ 
 
-.. figure:: /_static/images/colorsofmagic-icon-W.png
-   :width: 25%
-   :align: center
+  .. figure:: /_static/images/colorsofmagic-icon-W.png
+    :width: 25%
+    :align: center
 
-.. centered:: **Embodies**: Morality, order, peace and protection.
+  **Embodies**: Morality, order, peace and protection.
 
-Strengths: Healing and inspiring others. Detaining enemies without damage. Protecting against harm. Strength in numbers. Purging what is false (dispel enchantments or magical artifacts). Equality and uniformity (effects affect everyone alike). Retaliating with violence only if harmed. Arranging or organizing that which is disordered or chaotic.
+  **Strengths**: Healing and inspiring others. Detaining enemies without damage. Protecting against harm. Strength in numbers. Purging what is false (dispel enchantments or magical artifacts). Equality and uniformity (effects affect everyone alike). Retaliating with violence only if harmed. Arranging or organizing that which is disordered or chaotic.
 
-Allied Colors: Green, Blue. Opposite Colors: Red, Black.
+  **Allied Colors**: Green, Blue. Opposite Colors: Red, Black.
 
 
 Blue Magic
