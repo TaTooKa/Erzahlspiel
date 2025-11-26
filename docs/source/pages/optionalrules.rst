@@ -115,3 +115,8 @@ Instinct Checks
 - **Flight**: Escape ASAP; distance from / block the danger
 - **Freeze**: Become immobilized; in shock; unable to act
 - **Fawn**: Surrender; yield; submit to (or ally with) the enemy
+
+NPC Motivations/Rejections
+--------------------------
+
+TODO

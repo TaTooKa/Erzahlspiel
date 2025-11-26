@@ -103,6 +103,12 @@ The GM will most likely peruse one of the Worlds and Scenarios provided in this 
    pages/worlds/neonandchrome/runningontheedge
 
 .. toctree::
+   :caption: Middle Earth
+   :hidden:
+
+   pages/worlds/middleearth/characters
+
+.. toctree::
    :caption: Atomic Wasteland
    :hidden:
 

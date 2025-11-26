@@ -3,7 +3,7 @@ Creative Magic
 
 .. _creative-magic:
 
-.. figure:: ../_static/images/rpg-image-39.jpg
+.. figure:: /_static/images/rpg-image-39.jpg
 
    art © `Andre Bdois <https://www.artstation.com/andrebdois>`_
 
