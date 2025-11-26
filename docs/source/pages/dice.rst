@@ -55,6 +55,10 @@ It is recommended to use the **Narrative Dice** for a more immersive and faster 
       "1", "NO! AND...",  "NO! AND...",  "NO! AND...",  "NO!",  "NO! BUT..."
       "Success Chance", "16%", "33%", "50%", "66%", "84%"
 
+.. figure:: ../_static/images/Erzahlspiel-narrative-dice-odds-chart.png
+
+  probabilities for narrative dice rolls
+
 Virtual Narrative Dice
 ~~~~~~~~~~~~~~~~~~~~~~
 
