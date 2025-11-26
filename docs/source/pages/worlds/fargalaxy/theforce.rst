@@ -77,6 +77,6 @@ But doing any action that would be considered “evil” (at GM’s discretion) 
 
 REDEMPTION AND ATONEMENT
 ^^^^^^^^^^^^^^^^^^^^^^^^
-When a player declares that is putting their character on a path of redemption, the GM should take note of every good deed or selfless sacrifice they do. After a while (or after a considerable good deed) they can decrease one level in their Dark Side state. If they continue doing good deeds, they can decrease even more, but one at a time (it is slower to redeem yourself than to fall back again!). Also, a character that falls back too deep into the Dark Side again should not be allowed to be redeemed as easily as before. It is increasingly harder to come back from the Dark Side. 
+When a player declares that they're putting their character on a path of redemption, the GM should take note of every good deed or selfless sacrifice they do. After a while (or after a considerable good deed) they can decrease one level in their Dark Side state. If they continue doing good deeds, they can decrease even more, but one at a time (it is slower to redeem yourself than to fall back again!). Also, a character that falls back too deep into the Dark Side again should not be allowed to be redeemed as easily as before. It is increasingly harder to come back from the Dark Side. 
 
 It is possible for Force Users to dabble and flirt with the dark side but not be completely **Consumed** by it. It is not easy, but it can be done. They are called *Gray Jedi* or *Gray Force Users*.
