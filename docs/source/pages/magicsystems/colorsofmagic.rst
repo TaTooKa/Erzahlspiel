@@ -28,60 +28,60 @@ White Magic
 
   **Strengths**: Healing and inspiring others. Detaining enemies without damage. Protecting against harm. Strength in numbers. Purging what is false (dispel enchantments or magical artifacts). Equality and uniformity (effects affect everyone alike). Retaliating with violence only if harmed. Arranging or organizing that which is disordered or chaotic.
 
-  **Allied Colors**: Green, Blue. Opposite Colors: Red, Black.
+  **Allied Colors**: Green, Blue. **Opposite Colors**: Red, Black.
 
 
 Blue Magic
 ^^^^^^^^^^ 
 
-.. figure:: /_static/images/colorsofmagic-icon-U.png
-   :width: 25%
-   :align: center
+  .. figure:: /_static/images/colorsofmagic-icon-U.png
+    :width: 25%
+    :align: center
 
-Embodies: Control, logic, omniscience, experimentation.
+  **Embodies**: Control, logic, omniscience, experimentation.
 
-Strengths: Illusions and mind control. Countering or dispelling other’s magic. Mind alteration. Mimicry effects. Time manipulation. Disruption or debuff effects. Mental Trickery (mind swap, memory alterations). Evasion (flying, phasing, invisibility). Metamagic (affect the channeling and flow of Mana itself).
+  **Strengths**: Illusions and mind control. Countering or dispelling other’s magic. Mind alteration. Mimicry effects. Time manipulation. Disruption or debuff effects. Mental Trickery (mind swap, memory alterations). Evasion (flying, phasing, invisibility). Metamagic (affect the channeling and flow of Mana itself).
 
-Allied Colors: White, Black. Opposite Colors: Green, Red.
+  **Allied Colors**: White, Black. **Opposite Colors**: Green, Red.
 
 Black Magic
 ^^^^^^^^^^^ 
 
-.. figure:: /_static/images/colorsofmagic-icon-B.png
-   :width: 25%
-   :align: center
+  .. figure:: /_static/images/colorsofmagic-icon-B.png
+    :width: 25%
+    :align: center
 
-Embodies: Death, decay, amorality and selfishness.
+  **Embodies**: Death, decay, amorality and selfishness.
 
-Strengths: Harming living beings and being sneaky. Empowerment through sacrifice. Malaise (use of disease or infection in their advantage). Parasitism (life leech, absorption of benefits from their enemies). Necromancy (control over undead, revivification). Individualism and opportunism. Lying or hiding truths.
+  **Strengths**: Harming living beings and being sneaky. Empowerment through sacrifice. Malaise (use of disease or infection in their advantage). Parasitism (life leech, absorption of benefits from their enemies). Necromancy (control over undead, revivification). Individualism and opportunism. Lying or hiding truths.
 
-Allied Colors: Blue, Red. Opposite Colors: Green, White.
+  **Allied Colors**: Blue, Red. **Opposite Colors**: Green, White.
 
 Red Magic
 ^^^^^^^^^ 
 
-.. figure:: /_static/images/colorsofmagic-icon-R.png
-   :width: 25%
-   :align: center
+  .. figure:: /_static/images/colorsofmagic-icon-R.png
+    :width: 25%
+    :align: center
 
-Embodies: Impulse, passion, freedom and chaos.
+  **Embodies**: Impulse, passion, freedom and chaos.
 
-Strengths: Solving problems with violence, brute force and raw damage. Ephemeral empowerment. Kamikaze strategy. Raw emotions and strong passions. Chaos over order. Spontaneity and impulsiveness. Blowing stuff up, then blowing even more stuff up. 
+  **Strengths**: Solving problems with violence, brute force and raw damage. Ephemeral empowerment. Kamikaze strategy. Raw emotions and strong passions. Chaos over order. Spontaneity and impulsiveness. Blowing stuff up, then blowing even more stuff up. 
 
-Allied Colors: Green, Black. Opposite Colors: White, Blue.
+  **Allied Colors**: Green, Black. **Opposite Colors**: White, Blue.
 
 Green Magic
 ^^^^^^^^^^^ 
 
-.. figure:: /_static/images/colorsofmagic-icon-G.png
-   :width: 25%
-   :align: center
+  .. figure:: /_static/images/colorsofmagic-icon-G.png
+    :width: 25%
+    :align: center
 
-Embodies: Nature, instinct, harmony and growth.
+  **Embodies**: Nature, instinct, harmony and growth.
 
-Strengths: Accelerated growth and buffing others. removing “unnatural” things like Enchantments. Controlling or summoning beasts of nature. Evolution and natural selection. Acceptance of organic or unrefined processes. Youth and naivety. Instincts and wild impulses over reason and knowledge. Predatory and aggressive just out of necessity. Respecting and embracing the natural cycle of life.
+  **Strengths**: Accelerated growth and buffing others. removing “unnatural” things like Enchantments. Controlling or summoning beasts of nature. Evolution and natural selection. Acceptance of organic or unrefined processes. Youth and naivety. Instincts and wild impulses over reason and knowledge. Predatory and aggressive just out of necessity. Respecting and embracing the natural cycle of life.
 
-Allied Colors: White, Red. Opposite Colors: Blue, Black.
+  **Allied Colors**: White, Red. **Opposite Colors**: Blue, Black.
 
 Spellcasting
 ------------
@@ -135,3 +135,64 @@ Massive Magic conditions
 * You and your allies will risk danger from [X]
 * You’ll have to sacrifice or consume [X] to do it
 
+Casting Magic: Odds of Success
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+The GM can use this table as a guideline to know the Odds of Success of a spellcasting character, based on their Skill Level in that color of Mana and the power level of the desired magical effect:
+
++---------------------+------------------------+--------------+---------------------------+
+| Casting Skill Level |      Subtle Magic      |  Overt Magic |       Massive Magic       |
++=====================+========================+==============+===========================+
+|       Dabbler       |        Even Odds       | Disadvantage | Overwhelming Disadvantage |
++---------------------+------------------------+--------------+---------------------------+
+|        Adept        |        Even Odds       |   Even Odds  |        Disadvantage       |
++---------------------+------------------------+--------------+---------------------------+
+|        Expert       |        Advantage       |   Even Odds  |        Disadvantage       |
++---------------------+------------------------+--------------+---------------------------+
+|       Veteran       |        Advantage       |   Advantage  |         Even Odds         |
++---------------------+------------------------+--------------+---------------------------+
+|        Master       | Overwhelming Advantage |   Advantage  |         Advantage         |
++---------------------+------------------------+--------------+---------------------------+
+
+Casting Magic: Results
+~~~~~~~~~~~~~~~~~~~~~~
+
++-------------+-----------------------------------------------------------------------------+---------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------+
+| Dice Result |                                 Subtle Magic                                |                                   Overt Magic                                   |                                      Massive Magic                                      |
++=============+=============================================================================+=================================================================================+=========================================================================================+
+| YES! AND…   | the spell works with increased benefit or power                             | the spell works with increased benefit or power                                 | the spell works without Magical Mishaps                                                 |
++-------------+-----------------------------------------------------------------------------+---------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------+
+| YES!        | the spell works as intended                                                 | the spell works as intended                                                     | the spell works as intended, but choose: you are Winded (Mild) or a Minor Mishap occurs |
++-------------+-----------------------------------------------------------------------------+---------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------+
+| YES! BUT…   | the spell works, but you are Winded (Mild) or a Minor Mishap occurs         | the spell works, but choose: you are Winded (Mild) or a Minor Mishap occurs     | the spell works, but choose: you are Tired (Moderate) or a Medium Mishap occurs         |
++-------------+-----------------------------------------------------------------------------+---------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------+
+| NO! BUT…    | the spell fails, but partially, or another beneficial thing happens         | the spell fails, but with no undesired effects or exhaustion                    | the spell fails, and choose: you are Winded (Mild) or a Minor Mishap occurs             |
++-------------+-----------------------------------------------------------------------------+---------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------+
+| NO!         | the spell fails, but with no undesired effects or exhaustion                | the spell fails, and choose: you are Winded (Mild) or a Minor Mishap occurs     | the spell fails, and choose: you are Exhausted (Severe) or a Major Mishap occurs        |
++-------------+-----------------------------------------------------------------------------+---------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------+
+| NO! AND…    | the spell fails, and choose: you are Winded (Mild) or a Minor Mishap occurs | the spell fails, and choose: you are Tired (Moderate) or a Medium Mishap occurs | the spell fails, you are Exhausted (Severe) and a Major Mishap occurs                   |
++-------------+-----------------------------------------------------------------------------+---------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------+
+
+White Magic Mishaps
+^^^^^^^^^^^^^^^^^^^
+
+.. figure:: /_static/images/colorsofmagic-icon-W.png
+  :width: 25%
+  :align: center
+
++----+-------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------+
+| d6 | Minor Mishap                                                                                                | Medium Mishap                                                                             | Major Mishap                                                                                                     |
++====+=============================================================================================================+===========================================================================================+==================================================================================================================+
+|  1 | You start glowing, attracting attention.                                                                    | A blinding flash erupts, stunning or dazzling everyone nearby (including you).            | You are marked with a burning sigil of judgment; holy orders and divine beings will sense and pursue you.        |
++----+-------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------+
+|  2 | An anomalous light beam triggers at your location; a magical beacon that attracts any arcane-attuned being. | Any lies or deceptions spoken nearby are audibly echoed as whispers of truth.             | The area becomes “hallowed” — magic of any chaotic or dark nature ceases to function for months or even years.   |
++----+-------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------+
+|  3 | A ghostly choir hums faintly around you for several minutes.                                                | Your vision becomes pure white — you’re blind until you rest or are cleansed.             | Every creature nearby is judged — those “unworthy” fall unconscious or vanish in radiant smoke.                  |
++----+-------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------+
+|  4 | You cannot lie, hide truths or speak falsehoods until rest.                                                 | A dome of radiant energy forms around you, trapping everyone inside for several minutes.  | All sins, lies, and moral stains in a mile radius are made visible as burning marks on the flesh.                |
++----+-------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------+
+|  5 | A floating, radiant sigil appears above your head for an hour.                                              | Holy fire descends harmlessly on you but a sigil scorches the ground in a perfect circle. | The land crystallizes into perfect symmetry — rivers, trees, and even people freeze in orderly geometric shapes. |
++----+-------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------+
+|  6 | You feel sick when you hear profanity or insults, until rest.                                               | All nearby wounds are sealed with blinding light — healing mixed with agony.              | The sun’s light intensifies in the area for hours, bleaching the land and blinding all who remain.               |
++----+-------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------+
+  
