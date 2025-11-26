@@ -33,3 +33,8 @@ Adapting Characters or Enemies from other RPGs
 ----------------------------------------------
 
 TODO
+
+Better Insight Checks
+---------------------
+
+TODO
