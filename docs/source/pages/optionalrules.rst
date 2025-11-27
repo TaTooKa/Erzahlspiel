@@ -119,4 +119,43 @@ Instinct Checks
 NPC Motivations/Rejections
 --------------------------
 
-TODO
+Social encounters can be represented as you would a regular physical challenge, but the :hoverxref:`Conditions <conditions>` gained are of social or mental nature (``Embarrassed``, ``Angered``, ``Speechless``, etc). Further mechanical flavor can be added by using **Social Motivations/Rejections** to NPCs. 
+
+* **Motivations** are things the NPC values, desires or expects from the PCs’ behavior. 
+* **Rejections** are things that the NPC despises, avoids or wouldn’t expect from the PCs’ behavior. 
+
+During a social encounter, If the PCs’ approach relates to one of the NPC’s **Motivations**, or antagonizes one of their **Rejections**, they gain an Advantage for each of those. 
+
+If, on the other hand, their approach aligns with one of their **Rejections**, or antagonizes one of their **Motivations**, they suffer a Disadvantage for each of those. 
+
+PCs would have to discover the NPC’s **Motivations** and **Rejections** through roleplay, prior investigations and preparations, etc.
+
+When designing an NPC, pick or roll 2~3 **Motivations** and **Rejections** for them:
+
++-----+-------------+----------------+
+| d12 | Motivations |   Rejections   |
++=====+=============+================+
+|  1  |    Greed    |    Weakness    |
++-----+-------------+----------------+
+|  2  |   Freedom   |    Bullying    |
++-----+-------------+----------------+
+|  3  |     Love    | Sentimentalism |
++-----+-------------+----------------+
+|  4  |    Honor    |    Dishonor    |
++-----+-------------+----------------+
+|  5  |  Curiosity  |    Stalling    |
++-----+-------------+----------------+
+|  6  |    Faith    |    Dogmatism   |
++-----+-------------+----------------+
+|  7  |  Vengeance  |   Impatience   |
++-----+-------------+----------------+
+|  8  |  Tradition  |     Change     |
++-----+-------------+----------------+
+|  9  |    Power    |    Arrogance   |
++-----+-------------+----------------+
+|  10 |   Justice   |    Authority   |
++-----+-------------+----------------+
+|  11 |    Pride    |    Flattery    |
++-----+-------------+----------------+
+|  12 |     Envy    |   Dishonesty   |
++-----+-------------+----------------+
