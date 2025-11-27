@@ -37,4 +37,12 @@ TODO
 Better Insight Checks
 ---------------------
 
-TODO
+It is common to find, in other more traditional RPGs of the current era, an "**Insight**" skill, or a "**Read People**" one. It is also common to fall into the trapping of misusing them—Some players take it as a lie detector spell: *"I want to know if he's lying! I am rolling Insight... 18! well? Is he telling the truth or not?"*. Others often think of these as a mind reading ability: *"Can I do an Read People Check to know what type of women he likes?"*.
+Many GMs find this infuriating, and end up defaulting to the classic *"let's roleplay the conversation and find out"* (a good one, but that makes the skill obsolete), or *"explain how you would know that exactly"*, which often turns into an OOC discussion of the matter that devolves into a debate related to social skills, profiling, tells and cues, and psych analysis that is often unnecessary and/or offtopic.
+
+But there is a better way, and that is to turn that *Insight* or *Read People* checks into a clue for an effective social approach. Basically, on a success, the GM can disclose what's the better path to getting what you want, from Persuasion/Intimidation/Charm/Deception/etc. Even better if you combine this with the :hoverxref:`NPC Motivations/Rejections <npc-motivations-rejections>` Optional Rule.
+
+A successful Insight Check won't tell you if the NPC is lying, but will make the GM tell you which of your (or your other allies') social skills will have a better chance of getting the truth out of them.
+A successful Insight Check could tell you that a certain approach won't work, or will have worst odds. It's up to you and the other players to come up with the why of that (or how did the PC discover that insightful info just from "reading" the NPC).
+
+The advantage of this method is that it usually turns out to be more akin to other media, in which one of the protagonists finds out "what makes'em tick" and then acts upon that—or even better, whispers that newfound information to an ally who is better at a certain social skill, to give the "final blow" and win the NPC over.
