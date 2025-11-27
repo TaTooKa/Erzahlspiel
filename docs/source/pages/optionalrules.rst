@@ -116,6 +116,8 @@ Instinct Checks
 - **Freeze**: Become immobilized; in shock; unable to act
 - **Fawn**: Surrender; yield; submit to (or ally with) the enemy
 
+.. _npc-motivations-rejections:
+
 NPC Motivations/Rejections
 --------------------------
 
