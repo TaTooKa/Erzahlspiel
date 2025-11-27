@@ -43,6 +43,6 @@ Many GMs find this infuriating, and end up defaulting to the classic *"let's rol
 But there is a better way, and that is to turn that *Insight* or *Read People* checks into a clue for an effective social approach. Basically, on a success, the GM can disclose what's the better path to getting what you want, from Persuasion/Intimidation/Charm/Deception/etc. Even better if you combine this with the :hoverxref:`NPC Motivations/Rejections <npc-motivations-rejections>` Optional Rule.
 
 A successful Insight Check won't tell you if the NPC is lying, but will make the GM tell you which of your (or your other allies') social skills will have a better chance of getting the truth out of them.
-A successful Insight Check could tell you that a certain approach won't work, or will have worst odds. It's up to you and the other players to come up with the why of that (or how did the PC discover that insightful info just from "reading" the NPC).
+A successful Insight Check could tell you that a certain approach won't work, or will have worse odds. It's up to you and the other players to come up with the why of that (or how did the PC discover that insightful info just from "reading" the NPC).
 
 The advantage of this method is that it usually turns out to be more akin to other media, in which one of the protagonists finds out "what makes'em tick" and then acts upon that—or even better, whispers that newfound information to an ally who is better at a certain social skill, to give the "final blow" and win the NPC over.
