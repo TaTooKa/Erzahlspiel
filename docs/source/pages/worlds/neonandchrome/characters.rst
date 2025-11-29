@@ -512,7 +512,7 @@ Programs
  "**BLIND**: Overwhelm target device/Neuralink’s optics with a ``Blind (Moderate)`` Condition.","1 K฿"
  "**BYPASS**: Open target electronic lock or unlock authentication/SecGuard software.","1 K฿"
  "**CLEAN**: Scan, locate and remove any malware present in target device or Neuralink. Takes a few minutes.","1 K฿"
- "**DEFRAG**: Locate and repair target device/Neuralink’s code and data, removing Conditions caused by *Frag* or *Dumpshock*. Takes a few minutes per Condition.","1 K฿"
+ "**DEFRAG**: Locate and repair target device/Neuralink’s corrupted code and data, removing Conditions caused by *Frag* or *Dumpshock*. Takes a few minutes per Condition.","1 K฿"
  "**DELAY**: Make target device/Neuralink’s directives and movements twice as slow.","1 K฿"
  "**FRAG**: 'fragment' or corrupt the code and data of target device/Neuralink/VR construct, causing virtual harm in the form of Conditions until it is out of order or incapacitated. ","1 K฿"
  "**ISOLATE**: Target device/Neuralink’s input and output are blocked and disconnected from the Net, with an ``Offline`` Condition.","2 K฿"
