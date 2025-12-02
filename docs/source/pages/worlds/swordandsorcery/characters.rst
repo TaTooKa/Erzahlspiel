@@ -30,6 +30,25 @@ Amazonia
 
 Jungle · Wildlands · Matriarchy · Primal Beasts · Bloodsports
 
+Use the :hoverxref:`Amazonian names <amazonian-darfari-names>` for naming characters and places from Amazonia.
+
+
+
+.. _homeland-aquitaigne:
+
+Aquitaigne
+~~~~~~~~~~
+
+Plains · Cities · Nobility · Great Army · Woodlands · Rivers · Academic Knowledge · Manor Palaces
+
+Names by Culture
+----------------
+
+.. _amazonian-darfari-names:
+
+Amazonian and Darfari names
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 Female Names
 ^^^^^^^^^^^^
 
@@ -107,10 +126,3 @@ Place Names
 #. Omolotok
 #. Sambaza
 #. Wanananda
-
-.. _homeland-aquitaigne:
-
-Aquitaigne
-~~~~~~~~~~
-
-Plains · Cities · Nobility · Great Army · Woodlands · Rivers · Academic Knowledge · Manor Palaces
