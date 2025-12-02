@@ -35,73 +35,82 @@ Female Names
 
 .. rst-class:: three-columns
 
-- Bekezela
-- Lelu
-- Ntusi
-- Siphiwe
-- Bet
-- Miya
-- Sakhile
-- Sithandazile
-- Damali
-- Nahida
-- Shamyran
-- Sumayah
-- Farah
-- Naida
-- Shandu
-- Zaza
-- Ishtar
-- Nokuthula
-- Shezi
-- Zimela
+#. Bekezela
+#. Lelu
+#. Ntusi
+#. Siphiwe
+#. Bet
+#. Miya
+#. Sakhile
+#. Sithandazile
+#. Damali
+#. Nahida
+#. Shamyran
+#. Sumayah
+#. Farah
+#. Naida
+#. Shandu
+#. Zaza
+#. Ishtar
+#. Nokuthula
+#. Shezi
+#. Zimela
 
 Male Names
 ^^^^^^^^^^
 
 .. rst-class:: three-columns
 
-- Azia
-- Lunga
-- Nasir-Sin
-- Thabo
-- Butho
-- Makhaye
-- Ndawo
-- Tiglath
-- Gazu
-- Mayibo
-- Nkosi
-- Yanis
-- Khulu
-- Mlungisi
-- Seena
-- Zama
-- Lifalakhe
-- Mvuna
-- Sulili
-- Ziboniso
+#. Azia
+#. Lunga
+#. Nasir-Sin
+#. Thabo
+#. Butho
+#. Makhaye
+#. Ndawo
+#. Tiglath
+#. Gazu
+#. Mayibo
+#. Nkosi
+#. Yanis
+#. Khulu
+#. Mlungisi
+#. Seena
+#. Zama
+#. Lifalakhe
+#. Mvuna
+#. Sulili
+#. Ziboniso
 
 Place Names
 ^^^^^^^^^^^
 
-- Bokuve
-- Dabala
-- Dagbanga
-- Dwuaman
-- Gwangwari
-- Kamchuntu
-- Kanyamburara
-- Matambo
-- Mazibulala
-- Muganhiri
-- Mukasa
-- Munjaku
-- Mwemwa
-- Nanoko
-- Nukwasa
-- Nyanyadzi
-- Odende
-- Omolotok
-- Sambaza
-- Wanananda
+.. rst-class:: three-columns
+
+#. Bokuve
+#. Dabala
+#. Dagbanga
+#. Dwuaman
+#. Gwangwari
+#. Kamchuntu
+#. Kanyamburara
+#. Matambo
+#. Mazibulala
+#. Muganhiri
+#. Mukasa
+#. Munjaku
+#. Mwemwa
+#. Nanoko
+#. Nukwasa
+#. Nyanyadzi
+#. Odende
+#. Omolotok
+#. Sambaza
+#. Wanananda
+
+.. _homeland-aquitaigne:
+
+Aquitaigne
+~~~~~~~~~~
+
+Plains · Cities · Nobility · Great Army · Woodlands · Rivers · Academic Knowledge · Manor Palaces
