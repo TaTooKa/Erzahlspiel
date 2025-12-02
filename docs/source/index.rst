@@ -59,6 +59,12 @@ The GM will most likely peruse one of the Worlds and Scenarios provided in this 
    pages/worlds/grimdarkfantasy/darkmagic
 
 .. toctree::
+   :caption: Sword & Sorcery
+   :hidden:
+
+   pages/worlds/swordandsorcery/characters
+
+.. toctree::
    :caption: Interplanetary
    :hidden:
 
