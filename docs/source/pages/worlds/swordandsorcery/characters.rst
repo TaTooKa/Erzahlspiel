@@ -64,6 +64,69 @@ Plains · Rivers · Castles · Towering Ruins · Royal Intrigue · Woodlands
 
 Use the :hoverxref:`Avalonian names <avalon-names>` for naming characters and places from Avalon.
 
+Barovia
+~~~~~~~
+
+Taiga · Gothic · Monsters · Woodlands · Rivers · Vampires · Werewolves · Church
+
+Use the :hoverxref:`Barovian names <barovia-names>` for naming characters and places from Barovia.
+
+Darfar
+~~~~~~
+
+Savannah · Jungles · Cannibals · Slavers · Mercenaries · Dire Beasts
+
+Use the :hoverxref:`Darfari names <amazonia-darfar-names>` for naming characters and places from Darfar.
+
+Kithai
+~~~~~~
+
+Humid · Forests · Fields · Cities · Emperor · Martial Arts · Ancient Culture
+
+Use the :hoverxref:`Kithai names <kithai-names>` for naming characters and places from Kithai.
+
+Nemedia
+~~~~~~~
+
+Empire · Fertile Plains · Mountains · Baronies · Historians · Architecture · Conquerors
+
+Use the :hoverxref:`Nemedian names <nemedia-names>` for naming characters and places from Nemedia.
+
+Northlands
+~~~~~~~~~~
+
+Tribal · harsh · hunter-gatherers · fierce warriors · Darkwoods · Jarls · Villages
+
+Use the :hoverxref:`Northlander names <northland-names>` for naming characters and places from the Northlands.
+
+Pictish Wildlands
+~~~~~~~~~~~~~~~~~
+
+Wild rainforests · Tropical · Primal Beasts · Ivory and Fur exports · Savagery · Cannibalism
+
+Use the :hoverxref:`Pict names <pitcish-names>` for naming characters and places from the Pictish Wildlands.
+
+Vendhya
+~~~~~~~
+
+Tropical · Uncharted · Temples · Jungle · Valuables · Hordes  · Maharaja
+
+Use the :hoverxref:`Vendhyan names <vendhya-names>` for naming characters and places from Vendhya.
+
+Stygia
+~~~~~~
+
+Vast Desert · Tombs and Ruins · Serpent Race · Nomads · Slavers · Caravans · Arid Mountains and Hills
+
+Use the :hoverxref:`Stygian names <stygia-names>` for naming characters and places from Stygia.
+
+Zamora
+~~~~~~
+
+Mountains · Merchant Princes · Cults · Rogues · Rich Culture · Corruption
+
+Use the :hoverxref:`Zamoran names <zamora-names>` for naming characters and places from Zamora.
+
 
 Names by Culture
 ----------------
