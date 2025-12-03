@@ -63,6 +63,7 @@ The GM will most likely peruse one of the Worlds and Scenarios provided in this 
    :hidden:
 
    pages/worlds/swordandsorcery/characters
+   pages/worlds/swordandsorcery/world
 
 .. toctree::
    :caption: Interplanetary
