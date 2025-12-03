@@ -122,7 +122,7 @@ Pictish Wildlands
 
 Wild rainforests · Tropical · Primal Beasts · Ivory and Fur exports · Savagery · Cannibalism
 
-Use the :hoverxref:`Pict names <pitcish-names>` for naming characters and places from the Pictish Wildlands.
+Use the :hoverxref:`Pict names <pict-names>` for naming characters and places from the Pictish Wildlands.
 
 .. _homeland-vendhya:
 
@@ -967,7 +967,7 @@ Place Names
 #. Oleifsborg
 #. Saxahvall
 
-.. _pictish-names:
+.. _pict-names:
 
 Pict names
 ~~~~~~~~~~
