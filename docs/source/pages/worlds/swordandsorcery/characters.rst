@@ -1304,21 +1304,23 @@ Caste
 
 Roll d10 for your character's original caste:
 
-#. Crafter
-#. Escaped Serf/Slave
-#. Farmer
-#. Herder
-#. Merchant
-#. Outcast
-#. Petty Nobility
-#. Priesthood
-#. Warrior
+#. :hoverxref:`Crafter <crafter-stories>`
+#. :hoverxref:`Escaped Serf/Slave <serfslave-stories>`
+#. :hoverxref:`Farmer <farmer-stories>`
+#. :hoverxref:`Herder <herder-stories>`
+#. :hoverxref:`Merchant <merchant-stories>`
+#. :hoverxref:`Outcast <outcast-stories>`
+#. :hoverxref:`Petty Nobility <nobility-stories>`
+#. :hoverxref:`Priesthood <priesthood-stories>`
+#. :hoverxref:`Warrior <warrior-stories>`
 #. Roll again!
 
 Story
 ~~~~~
 
 Then roll d6 for your Story related to that caste:
+
+.. _crafter-stories:
 
 Crafter Stories
 ^^^^^^^^^^^^^^^
@@ -1395,6 +1397,8 @@ performing your craft, it is only because of what few friends
 will still stand by you. How did you earn the ire of the guild,
 and who can you still count on?
 
+.. _serfslave-stories:
+
 Escaped Serf/Slave Stories
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
 
@@ -1452,6 +1456,8 @@ in the alleys. Perhaps you committed the crime and it was
 worth it. Perhaps you are unjustly tormented. Either way, a
 trail of suffering follows in your wake. Whose suffering do
 you regret the most and what will you do to put them at ease?
+
+.. _farmer-stories:
 
 Farmer Stories
 ^^^^^^^^^^^^^^
@@ -1524,6 +1530,8 @@ of prey. As the knife sunk deep into the landowner’s agent,
 rain began to fall. You looked on in horror, as desperation
 revealed its ugliest side. You were forced to ask yourself the
 hardest question. How hungry were you?
+
+.. _herder-stories:
 
 Herder Stories
 ^^^^^^^^^^^^^^
@@ -1600,6 +1608,8 @@ the third night the raiders struck. Half the herd was stolen
 and fifteen were placed upon the pyre. Finally, it was time
 for the young to speak and your voice joined many. What
 did you do, and what was the cost?
+
+.. _merchant-stories:
 
 Merchant Stories
 ^^^^^^^^^^^^^^^^
@@ -1683,6 +1693,8 @@ that you’ve started to rise, you must consider your options.
 What vengeance, if any, will you take upon the courtier?
 How will you escape his wrath?
 
+.. _outcast-stories:
+
 Outcast Stories
 ^^^^^^^^^^^^^^^
 
@@ -1738,6 +1750,8 @@ the crime and it was worth it. Perhaps you are unjustly
 persecuted. Either way, a trail of suffering follows in your
 wake. Whose suffering do you regret the most and what
 will you do to put them at ease?
+
+.. _nobility-stories:
 
 Petty Noble Stories
 ^^^^^^^^^^^^^^^^^^^
@@ -1804,6 +1818,8 @@ and accusations heaped upon you and yours. There is only
 one solution: a blood feud. It matters not whether it was
 called by your enemies or your allies. The only things that
 matter are who your enemies are, and who will survive?
+
+.. _priesthood-stories:
 
 Priesthood Stories
 ^^^^^^^^^^^^^^^^^^
@@ -1882,6 +1898,8 @@ accused, but the high priest did not care. Your penance
 was brief, but unduly harsh. What were you accused of?
 What was the penance? Do you know who incriminated
 you? Do you plot revenge?
+
+.. _warrior-stories:
 
 Warrior Stories
 ^^^^^^^^^^^^^^^
