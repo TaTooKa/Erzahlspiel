@@ -52,6 +52,8 @@ Use the :hoverxref:`Aquitaignean names <aquitaigne-names>` for naming characters
 Argos
 ~~~~~
 
+.. figure:: /_static/images/argos.jpg
+
 Coast · Archipelago · Seafarers · Pirates · Trade · Pleasures · Valleys · Haunted Forests
 
 Use the :hoverxref:`Argossean names <argos-names>` for naming characters and places from Argos.
@@ -78,6 +80,8 @@ Use the :hoverxref:`Avalonian names <avalon-names>` for naming characters and pl
 
 Barovia
 ~~~~~~~
+
+.. figure:: /_static/images/barovia.jpg
 
 Taiga · Gothic · Monsters · Woodlands · Rivers · Vampires · Werewolves · Church
 
