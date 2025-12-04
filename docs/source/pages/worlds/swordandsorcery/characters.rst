@@ -93,6 +93,8 @@ Use the :hoverxref:`Darfari names <amazonia-darfar-names>` for naming characters
 Kithai
 ~~~~~~
 
+.. figure:: /_static/images/kithai.jpg
+
 Humid · Forests · Fields · Cities · Emperor · Martial Arts · Ancient Culture
 
 Use the :hoverxref:`Kithai names <kithai-names>` for naming characters and places from Kithai.
