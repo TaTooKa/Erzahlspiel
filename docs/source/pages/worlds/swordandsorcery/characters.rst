@@ -121,6 +121,8 @@ Use the :hoverxref:`Nemedian names <nemedia-names>` for naming characters and pl
 Northlands
 ~~~~~~~~~~
 
+.. figure:: /_static/images/northlands.jpg
+
 Tribal · harsh · hunter-gatherers · fierce warriors · Darkwoods · Jarls · Villages
 
 Use the :hoverxref:`Northlander names <northland-names>` for naming characters and places from the Northlands.
@@ -138,6 +140,8 @@ Use the :hoverxref:`Pict names <pict-names>` for naming characters and places fr
 
 Vendhya
 ~~~~~~~
+
+.. figure:: /_static/images/vendhya.jpg
 
 Tropical · Uncharted · Temples · Jungle · Valuables · Hordes  · Maharaja
 
