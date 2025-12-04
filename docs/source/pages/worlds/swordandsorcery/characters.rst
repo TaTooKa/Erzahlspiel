@@ -28,6 +28,8 @@ Choose or roll your homeland:
 Amazonia
 ~~~~~~~~
 
+.. figure:: /_static/images/amazonia.jpg
+
 Jungle · Wildlands · Matriarchy · Primal Beasts · Bloodsports
 
 Use the :hoverxref:`Amazonian names <amazonia-darfar-names>` for naming characters and places from Amazonia.
@@ -38,6 +40,8 @@ Use the :hoverxref:`Amazonian names <amazonia-darfar-names>` for naming characte
 
 Aquitaigne
 ~~~~~~~~~~
+
+.. figure:: /_static/images/aquitaigne.jpg
 
 Plains · Cities · Nobility · Great Army · Woodlands · Rivers · Academic Knowledge · Manor Palaces
 
