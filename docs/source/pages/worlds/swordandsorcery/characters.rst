@@ -92,6 +92,8 @@ Use the :hoverxref:`Barovian names <barovia-names>` for naming characters and pl
 Darfar
 ~~~~~~
 
+.. figure:: /_static/images/darfar.jpg
+
 Savannah · Jungles · Cannibals · Slavers · Mercenaries · Dire Beasts
 
 Use the :hoverxref:`Darfari names <amazonia-darfar-names>` for naming characters and places from Darfar.
