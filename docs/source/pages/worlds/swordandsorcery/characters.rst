@@ -560,6 +560,8 @@ none. While much of the training was typical, some of it
 was bizarre, to say the least. What strange knowledge did
 this notable personage seek to impart to you?
 
+*Gain or Increase the* ``???`` *skill*.
+
 2. Guest of a Rival
 *******************
 
@@ -570,6 +572,8 @@ night, you wandered the halls and witnessed three warriors
 speaking in hushed tones about your host, your family’s
 rival. What did you hear, and what did you do about it?
 
+*Gain or Increase the* ``???`` *skill*.
+
 3. Left to Your Own Devices
 ***************************
 
@@ -579,6 +583,8 @@ in your family suffered the responsibilities of your caste,
 you were free to pursue talents that a proper tutor might
 have deemed unsuitable. What did you get up to when no
 one was watching?
+
+*Gain or Increase the* ``???`` *skill*.
 
 4. Exile to the Estates
 ***********************
@@ -591,6 +597,8 @@ impoverished, abandoned by your family. What, if anything,
 did you do to provoke this banishment? Was it just? Did
 you ever make amends?
 
+*Gain or Increase the* ``???`` *skill*.
+
 5. Scandal
 **********
 
@@ -602,6 +610,8 @@ Bribes were paid, and the offense was put behind you, but
 other nobles know what happened, and often speak ill of
 you behind your back. What was the scandal?
 
+*Gain or Increase the* ``???`` *skill*.
+
 6. Blood Feud
 *************
 
@@ -612,6 +622,8 @@ and accusations heaped upon you and yours. There is only
 one solution: a blood feud. It matters not whether it was
 called by your enemies or your allies. The only things that
 matter are who your enemies are, and who will survive?
+
+*Gain or Increase the* ``???`` *skill*.
 
 .. _priesthood-stories:
 
@@ -630,6 +642,8 @@ You have even come to the aid of one of your land’s more
 gifted artists. What aid did they require, and how did you
 help? Have they repaid the favor?
 
+*Gain or Increase the* ``???`` *skill*.
+
 2. Beneficial Omens
 *******************
 
@@ -639,6 +653,8 @@ tones, worried about the meaning of so many omens surrounding your entry into th
 tasks, seeking answers to questions they will not share with
 you. What was your strangest task? Did you complete it,
 and were there any notable omens during its completion?
+
+*Gain or Increase the* ``???`` *skill*.
 
 3. A Place in Need of Guidance
 ******************************
@@ -653,6 +669,8 @@ paid off. Your master refused to pay, and the consequences
 were dire. What happened to your shrine? What happened
 to the noble who set into motion its downfall?
 
+*Gain or Increase the* ``???`` *skill*.
+
 4. Intolerant Potentates
 ************************
 
@@ -665,6 +683,8 @@ your faith’s enemies, you found someone who could be
 brought to your faith. Did you help this person escape,
 or were you prevented somehow? What became of this
 potential follower?
+
+*Gain or Increase the* ``???`` *skill*.
 
 5. Ill Omens
 ************
@@ -679,6 +699,8 @@ seemingly needless, sometimes dangerous errands. What
 was your most perilous task? Did you complete it, and how
 many died during its completion?
 
+*Gain or Increase the* ``???`` *skill*.
+
 6. Forced Penance
 *****************
 
@@ -689,6 +711,8 @@ accused, but the high priest did not care. Your penance
 was brief, but unduly harsh. What were you accused of?
 What was the penance? Do you know who incriminated
 you? Do you plot revenge?
+
+*Gain or Increase the* ``???`` *skill*.
 
 .. _warrior-stories:
 
@@ -710,6 +734,8 @@ your lord’s own servants and presented to him at the feast
 afterward. What valor had you accomplished? What words
 did he have for you?
 
+*Gain or Increase the* ``???`` *skill*.
+
 2. Glorious Battle
 ******************
 
@@ -727,6 +753,8 @@ veterans. Your company was promoted to guard the sunrise
 flank and those who survived became strong friends. How
 do you mark your membership in this august company?
 
+*Gain or Increase the* ``???`` *skill*.
+
 3. Idle Hours Guarding Open Gates
 *********************************
 
@@ -738,6 +766,8 @@ halted, spat at the ground, and rode back the way they
 came. Do you remember anything about these strangers?
 Did you find out why they did not enter?
 
+*Gain or Increase the* ``???`` *skill*.
+
 4. Idle Hours Guarding Cold Walls
 *********************************
 
@@ -748,6 +778,8 @@ many hours drinking swill and rolling dice for petty coin.
 Eventually even these pursuits grew stale and you were
 forced to find your own entertainments. How did you
 survive the boredom? What pursuits did you engage in?
+
+*Gain or Increase the* ``???`` *skill*.
 
 5. Blood-soaked Endeavor
 ************************
@@ -762,6 +794,8 @@ to profit from the battle, you searched the nearby tents and
 left, knowing the enemy would never truly recover. What
 loot did you gather and whose hand did you prize it from?
 
+*Gain or Increase the* ``???`` *skill*.
+
 6. Disastrous Battle
 ********************
 
@@ -772,6 +806,137 @@ rain’s course, could fire unmolested. The wind carried their
 arrows into your ranks and soon there wasn’t a soldier left
 unmarked. Only a very few limped away from the battle,
 and none made it home. How did you escape?
+
+*Gain or Increase the* ``???`` *skill*.
+
+Education
+---------
+
+Roll or choose your Education:
+
+1. Against Your Parents’ Will
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+You sought out your own education, defying your parent’s
+wishes. Though they tried to guide you in a particular
+direction, you practiced secretly. Perhaps it was the path
+followed by one of your parents, a close relative, or some
+figure significant to you.
+
+- Gain or Increase any one :hoverxref:`skill <sword-and-sorcery-skills>` of your choice.
+- Gain Equipment: A small keepsake from a lifelong friend or lover.
+
+2. Apprenticed Abroad
+~~~~~~~~~~~~~~~~~~~~~
+
+As a child, you were sent (or taken) from your home and
+educated in another land, amidst strangers. You adapted
+to your home as you learned ways that were strange to you,
+picking up the rudiments of skills that you scarcely cared
+about, until you began to grasp their usefulness.
+
+- Gain or Increase the ``Lore`` or ``Travel`` skills (your choice).
+- Gain Equipment: A selection of useful maps of the known world.
+
+3. Educated on the Battlefield
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Your education was a harsh one, your schoolyard strewn
+with the dead and dying, the clash and clamor of combat
+were your lessons. For whatever reason, as a child you were
+thrust into battle, forced to fight for your survival with your
+enemies as the strictest of taskmasters.
+
+- Gain or Increase the ``Battle`` skill.
+- Gain Equipment: A melee weapon of choice and a helmet.
+
+4. Elder Mentor
+~~~~~~~~~~~~~~~
+
+Your mentor was venerable, well-known and respected
+by peers and associates, but was one whose heyday had
+passed. It was time for you to pick up your belongings and
+continue on your mentor’s path, continuing that great and
+respected tradition.
+
+- Gain or Increase any one :hoverxref:`skill <sword-and-sorcery-skills>` of your choice.
+- Gain Equipment: Something from your mentor passed to you (your choice).
+
+5. Family Footsteps
+~~~~~~~~~~~~~~~~~~~
+
+You learned your career directly from one of your family
+members: whether a parent, grandparent, uncle or aunt,
+brother or sister. This meant that you received additional
+attention, but also meant that the lessons were longer and
+the standards were much higher.
+
+- Gain or Increase one of the ``Craft``, ``Foraging``, ``Taming``, or ``Hunting`` skills (your choice).
+- Gain Equipment: A family heirloom of little more than sentimental value.
+
+6. From Masterful Tutors
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+Fortunate was your apprenticeship, and you found yourself
+able to learn under the tutelage of a true master. Whether
+sitting on the rough ground beside your teacher, educated in
+the high halls of nobility, or in a well-appointed workshop,
+you learned from the very best.
+
+- Gain or Increase any one :hoverxref:`skill <sword-and-sorcery-skills>` of your choice.
+- Gain Equipment: Letter of praise and introduction from your tutor.
+
+7. Largely Absent
+~~~~~~~~~~~~~~~~~
+
+Left to fend for yourself, you had to learn on your own.
+Perhaps it was through negligence or necessity, or it was
+tragedy that kept you alone. The end result was the same:
+hours and even days spent with little to do but study or
+train, to repeat tasks until you had mastered them.
+
+- Gain or Increase one of the ``Craft``, ``Lore``, or ``Hiding`` skills (your choice).
+- Gain Equipment: None.
+
+8. On Your Own Terms
+~~~~~~~~~~~~~~~~~~~~
+
+You always knew what you wanted, and sought out your
+own education when it was clear it would not be offered
+you. Driven, you chose your teachers carefully, and
+found other means of learning when there were none
+to instruct you. Even now, you follow your own path to
+enlightenment.
+
+- Gain or Increase one of the ``Deception``, ``Performance``, or ``Persuasion`` skills (your choice).
+- Gain Equipment: None.
+
+9. Traditional
+~~~~~~~~~~~~~~
+
+Yours was an unremarkable education, perhaps thankfully.
+You were either trained in the family trade, apprenticed to
+a (mostly) benevolent master, or tutored without overmuch
+drama. As such, your education was well-rounded, if not
+the most inspired. Looking back, you feel blessed.
+
+- Gain or Increase any one :hoverxref:`skill <sword-and-sorcery-skills>` of your choice.
+- Gain Equipment: Choose one of the following: heavy cape, crafting tools, or a melee weapon.
+
+10. Under Duress
+~~~~~~~~~~~~~~~~
+
+Whether you were enslaved, apprenticed cruelly, or were
+simply a reluctant student, your education was a hard-fought
+battle that you stubbornly resisted, only learning when it
+became absolutely necessary (and sometimes even barely
+so). Others look to these years with fondness: you do not.
+
+- Gain or Increase one of the ``Acrobatics``, ``Hiding``, ``Lockpicking``, or ``Pickpocket`` skills (your choice).
+- Gain Equipment: A memento of someone that is long gone.
+
+
+TODO
 
 Backgrounds
 -----------
@@ -1057,6 +1222,8 @@ Starting Equipment:
 - Climbing hooks
 - Pack of markers or trail stakes
 - Heavy boots with hobnails
+
+.. _sword-and-sorcery-skills:
 
 Skills
 ------
