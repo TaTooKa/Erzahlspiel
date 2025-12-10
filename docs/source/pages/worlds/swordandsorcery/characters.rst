@@ -1223,12 +1223,12 @@ Starting Equipment:
 - Pack of markers or trail stakes
 - Heavy boots with hobnails
 
-.. _sword-and-sorcery-skills:
-
 Skills
 ------
 
 Roll or choose two additional skills that you gain or increase:
+
+.. _sword-and-sorcery-skills:
 
 .. rst-class:: three-columns
 
