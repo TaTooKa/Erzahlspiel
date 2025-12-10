@@ -21,6 +21,7 @@ Choose or roll your homeland:
 #. :hoverxref:`Vendhya <homeland-vendhya>` - Vendhi begin with the ``Traditions`` and ``Herbalism`` skills.
 #. :hoverxref:`Stygia <homeland-stygia>` - Stygians begin with the ``Taming`` and ``Deception`` skills.
 #. :hoverxref:`Zamora <homeland-zamora>` - Zamorians begin with the ``Performance`` and ``Deception`` skills.
+#. (or more): **Mixed Heritage** - Choose or roll two other homelands/cultures and gain one starting skill from each.
 
 Caste
 -----
