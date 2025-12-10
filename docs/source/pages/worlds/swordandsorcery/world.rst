@@ -3,91 +3,239 @@ World
 
 The GM can peruse these resources and random tables when running a game of Sword & Sorcery:
 
+Homelands, Regions and Cultures
+-------------------------------
+
+.. _homeland-amazonia:
+
+Amazonia
+~~~~~~~~
+
+.. figure:: /_static/images/amazonia.jpg
+
+*Jungle · Wildlands · Matriarchy · Primal Beasts · Bloodsports*
+
+Use the :hoverxref:`Amazonian names <amazonia-names>` for naming characters and places from Amazonia.
+
+
+
+.. _homeland-aquitaigne:
+
+Aquitaigne
+~~~~~~~~~~
+
+.. figure:: /_static/images/aquitaigne.jpg
+
+*Plains · Cities · Nobility · Great Army · Woodlands · Rivers · Academic Knowledge · Manor Palaces*
+
+Use the :hoverxref:`Aquitaignean names <aquitaigne-names>` for naming characters and places from Aquitaigne.
+
+.. _homeland-argos:
+
+Argos
+~~~~~
+
+.. figure:: /_static/images/argos.jpg
+
+*Coast · Archipelago · Seafarers · Pirates · Trade · Pleasures · Valleys · Haunted Forests*
+
+Use the :hoverxref:`Argossean names <argos-names>` for naming characters and places from Argos.
+
+.. _homeland-atlantis:
+
+Atlantis
+~~~~~~~~
+
+.. figure:: /_static/images/atlantis.jpg
+
+*Lost City · Sunken Island · Advanced Civilization · Hubris · Sufficiently Advanced Technology*
+
+Use the :hoverxref:`Atlantean names <atlantis-names>` for naming characters and places from Atlantis.
+
+.. _homeland-avalon:
+
+Avalon
+~~~~~~
+
+.. figure:: /_static/images/avalon.jpg
+
+*Plains · Rivers · Castles · Towering Ruins · Royal Intrigue · Woodlands*
+
+Use the :hoverxref:`Avalonian names <avalon-names>` for naming characters and places from Avalon.
+
+.. _homeland-barovia:
+
+Barovia
+~~~~~~~
+
+.. figure:: /_static/images/barovia.jpg
+
+*Taiga · Gothic · Monsters · Woodlands · Rivers · Vampires · Werewolves · Church*
+
+Use the :hoverxref:`Barovian names <barovia-names>` for naming characters and places from Barovia.
+
+.. _homeland-darfar:
+
+Darfar
+~~~~~~
+
+.. figure:: /_static/images/darfar.jpg
+
+*Savannah · Jungles · Cannibals · Slavers · Mercenaries · Dire Beasts*
+
+Use the :hoverxref:`Darfari names <darfar-names>` for naming characters and places from Darfar.
+
+.. _homeland-kithai:
+
+Kithai
+~~~~~~
+
+.. figure:: /_static/images/kithai.jpg
+
+*Humid · Forests · Fields · Cities · Emperor · Martial Arts · Ancient Culture*
+
+Use the :hoverxref:`Kithai names <kithai-names>` for naming characters and places from Kithai.
+
+.. _homeland-nemedia:
+
+Nemedia
+~~~~~~~
+
+.. figure:: /_static/images/nemedia.jpg
+
+*Empire · Fertile Plains · Mountains · Baronies · Historians · Architecture · Conquerors*
+
+Use the :hoverxref:`Nemedian names <nemedia-names>` for naming characters and places from Nemedia.
+
+.. _homeland-northlands:
+
+Northlands
+~~~~~~~~~~
+
+.. figure:: /_static/images/northlands.jpg
+
+*Tribal · harsh · hunter-gatherers · fierce warriors · Darkwoods · Jarls · Villages*
+
+Use the :hoverxref:`Northlander names <northland-names>` for naming characters and places from the Northlands.
+
+.. _homeland-vendhya:
+
+Vendhya
+~~~~~~~
+
+.. figure:: /_static/images/vendhya.jpg
+
+*Tropical · Uncharted · Temples · Jungle · Valuables · Hordes  · Maharaja*
+
+Use the :hoverxref:`Vendhyan names <vendhya-names>` for naming characters and places from Vendhya.
+
+.. _homeland-stygia:
+
+Stygia
+~~~~~~
+
+.. figure:: /_static/images/stygia.jpg
+
+*Vast Desert · Tombs and Ruins · Serpent Race · Nomads · Slavers · Caravans · Arid Mountains and Hills*
+
+Use the :hoverxref:`Stygian names <stygia-names>` for naming characters and places from Stygia.
+
+.. _homeland-zamora:
+
+Zamora
+~~~~~~
+
+.. figure:: /_static/images/zamora.jpg
+
+*Mountains · Merchant Princes · Cults · Rogues · Rich Culture · Corruption*
+
+Use the :hoverxref:`Zamorian names <zamora-names>` for naming characters and places from Zamora.
+
 Names by Culture
 ----------------
 
-.. _amazonia-darfar-names:
+.. _amazonia-names:
 
-Amazonian and Darfari names
-~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Amazonian names
+~~~~~~~~~~~~~~~
 
 Female Names
 ^^^^^^^^^^^^
 
 .. rst-class:: three-columns
 
-#. Bekezela
-#. Lelu
-#. Ntusi
-#. Siphiwe
-#. Bet
-#. Miya
-#. Sakhile
-#. Sithandazile
-#. Damali
-#. Nahida
-#. Shamyran
-#. Sumayah
-#. Farah
-#. Naida
-#. Shandu
-#. Zaza
-#. Ishtar
-#. Nokuthula
-#. Shezi
-#. Zimela
+#. Aracyra
+#. Maíra
+#. Nayeli
+#. Tainara
+#. Xilena
+#. Yatziri
+#. Iaruna
+#. Cateleya
+#. Nahuani
+#. Tupinara
+#. Yaneli
+#. Aruma
+#. Ixchelka
+#. Maraiá
+#. Ozomira
+#. Cuicani
+#. Ybirá
+#. Zuneli
+#. Kamira
+#. Naraí
 
 Male Names
 ^^^^^^^^^^
 
 .. rst-class:: three-columns
 
-#. Azia
-#. Lunga
-#. Nasir-Sin
-#. Thabo
-#. Butho
-#. Makhaye
-#. Ndawo
-#. Tiglath
-#. Gazu
-#. Mayibo
-#. Nkosi
-#. Yanis
-#. Khulu
-#. Mlungisi
-#. Seena
-#. Zama
-#. Lifalakhe
-#. Mvuna
-#. Sulili
-#. Ziboniso
+#. Aruã
+#. Iram
+#. Tupinambá
+#. Yagoan
+#. Korixtli
+#. Tamoa
+#. Mazatl
+#. Tupiara
+#. Xelom
+#. Ixtan
+#. Oréum
+#. Cahuan
+#. Jatyr
+#. Mocten
+#. Ybyrá
+#. Tenoch
+#. Arami
+#. Kuay
+#. Quimari
+#. Zoyan
 
 Place Names
 ^^^^^^^^^^^
 
 .. rst-class:: three-columns
 
-#. Bokuve
-#. Dabala
-#. Dagbanga
-#. Dwuaman
-#. Gwangwari
-#. Kamchuntu
-#. Kanyamburara
-#. Matambo
-#. Mazibulala
-#. Muganhiri
-#. Mukasa
-#. Munjaku
-#. Mwemwa
-#. Nanoko
-#. Nukwasa
-#. Nyanyadzi
-#. Odende
-#. Omolotok
-#. Sambaza
-#. Wanananda
+#. Aruquímba
+#. Yaraquendi
+#. Tupinora
+#. Zama’rua
+#. Orixaluna
+#. Maracuyara
+#. Quexarimba
+#. Ibaporé
+#. Tzamanhura
+#. Virakutu
+#. Xalapindra
+#. Corumbaxa
+#. Uru’thala
+#. Nayapiré
+#. Jandoruma
+#. Oxévaru
+#. Tarumixal
+#. Piraquendo
+#. Zuyamari
+#. Anhangora
 
 .. _aquitaigne-names:
 
@@ -564,6 +712,89 @@ Place Names
 #. Palestar
 #. Shadowfen
 #. Mourningfield
+
+.. _darfar-names:
+
+Darfari names
+~~~~~~~~~~~~~
+
+Female Names
+^^^^^^^^^^^^
+
+.. rst-class:: three-columns
+
+#. Bekezela
+#. Lelu
+#. Ntusi
+#. Siphiwe
+#. Bet
+#. Miya
+#. Sakhile
+#. Sithandazile
+#. Damali
+#. Nahida
+#. Shamyran
+#. Sumayah
+#. Farah
+#. Naida
+#. Shandu
+#. Zaza
+#. Ishtar
+#. Nokuthula
+#. Shezi
+#. Zimela
+
+Male Names
+^^^^^^^^^^
+
+.. rst-class:: three-columns
+
+#. Azia
+#. Lunga
+#. Nasir-Sin
+#. Thabo
+#. Butho
+#. Makhaye
+#. Ndawo
+#. Tiglath
+#. Gazu
+#. Mayibo
+#. Nkosi
+#. Yanis
+#. Khulu
+#. Mlungisi
+#. Seena
+#. Zama
+#. Lifalakhe
+#. Mvuna
+#. Sulili
+#. Ziboniso
+
+Place Names
+^^^^^^^^^^^
+
+.. rst-class:: three-columns
+
+#. Bokuve
+#. Dabala
+#. Dagbanga
+#. Dwuaman
+#. Gwangwari
+#. Kamchuntu
+#. Kanyamburara
+#. Matambo
+#. Mazibulala
+#. Muganhiri
+#. Mukasa
+#. Munjaku
+#. Mwemwa
+#. Nanoko
+#. Nukwasa
+#. Nyanyadzi
+#. Odende
+#. Omolotok
+#. Sambaza
+#. Wanananda
 
 .. _kithai-names:
 
