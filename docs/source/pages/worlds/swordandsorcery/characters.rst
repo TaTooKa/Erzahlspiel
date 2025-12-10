@@ -946,8 +946,117 @@ Starting Equipment:
 - Sun scarf or face wrap
 - Flint & tinder
 
+13. PIRATE
+~~~~~~~~~~
 
+*Gain or Increase the* ``Sailing`` *skill*.
 
+Starting Equipment:
+
+- Cutlass
+- Boarding hook
+- Rum flask
+- Deck boots
+- Compass (slightly inaccurate)
+- Coil of rope
+
+14. RANGER
+~~~~~~~~~~
+
+*Gain or Increase the* ``Tracking`` *skill*.
+
+Starting Equipment:
+
+- Bow with fletched arrows
+- Cloak of mottled colors
+- Snare wire
+- Trail rations
+- Hunting knife
+- Map with personal markings
+
+15. REAVER
+~~~~~~~~~~
+
+*Gain or Increase the* ``Intimidation`` *skill*.
+
+Starting Equipment:
+
+- Brutal cleaver or axe
+- Spiked gauntlet
+- Stolen jewelry
+- Blood-stained scarf or sash
+- Heavy boots
+- Flask of something strong
+
+16. SELLSWORD
+~~~~~~~~~~~~~
+
+*Gain or Increase the* ``Battle`` *skill*.
+
+Starting Equipment:
+
+- Short or bastard sword
+- Contract parchment (unsigned)
+- Leather cuirass
+- Whetstone
+- Travel pack
+- Spare boot knife
+
+17. SMUGGLER
+~~~~~~~~~~~~
+
+*Gain or Increase the* ``Deception`` *skill*.
+
+Starting Equipment:
+
+- Hidden-compartment satchel
+- Small concealable dagger
+- False-bottomed flask
+- Roll of cloth for wrapping contraband
+- Quiet shoes
+- Stash of silver coins
+
+18. SWASHBUCKLER
+~~~~~~~~~~~~~~~~
+
+*Gain or Increase the* ``Acrobatics`` *skill*.
+
+Starting Equipment: 
+
+- Rapier or slim saber
+- Buckler or maingauche (parrying dagger)
+- Stylish coat
+- Grooming kit
+- Flask of cheap wine
+- Playing cards
+
+19. THIEF
+~~~~~~~~~
+
+*Gain or Increase the* ``Lockpicking`` *skill*.
+
+Starting Equipment:
+
+- Lockpicks
+- Blackjack or sap
+- Dark hood
+- Coin purse (half empty)
+- Chalk for marking routes
+- Climbing cord
+
+20. TRAILBLAZER
+~~~~~~~~~~~~~~~
+
+*Gain or Increase the* ``Travel`` *skill*.
+
+Starting Equipment:
+
+- Long walking spear
+- Surveying compass
+- Rough map notebook
+- Climbing hooks
+- Pack of markers or trail stakes
+- Heavy boots with hobnails
 
 Skills
 ------
