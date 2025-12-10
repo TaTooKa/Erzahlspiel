@@ -367,8 +367,7 @@ biggest score, and did the customer ever find out?
 ************************
 
 It seemed like you were always on the move. Taking goods
-from one town, trading them for goods in the next, pocket-
-ing some coin along the way. Spending the coin on some
+from one town, trading them for goods in the next, pocketing some coin along the way. Spending the coin on some
 cheap wine, and then moving on. It was easy to become
 embittered about your cousins, living it up in the city while
 you plied your way through the expanses on dangerous
@@ -389,8 +388,7 @@ suffering at the hands of the lord’s soldiers?
 5. Hard-won Profits
 *******************
 
-When you were young, a bandit lord took to plunder-
-ing your family’s caravans. At first, mercenaries were
+When you were young, a bandit lord took to plundering your family’s caravans. At first, mercenaries were
 hired, but they deserted and joined the bandits in their
 plunder. Then, soldiers were borrowed from the king
 but the taxes on that service were exorbitant. You spoke
@@ -562,12 +560,9 @@ help? Have they repaid the favor?
 2. Beneficial Omens
 *******************
 
-Your birth was marked by strange omens, and your induc-
-tion was conducted at a time when the stars were at their
+Your birth was marked by strange omens, and your induction was conducted at a time when the stars were at their
 peak. Members of your order speak about you in hushed
-tones, worried about the meaning of so many omens sur-
-rounding your entry into their ranks. Occasionally, mem-
-bers of your order will come to you with strange tests and
+tones, worried about the meaning of so many omens surrounding your entry into their ranks. Occasionally, members of your order will come to you with strange tests and
 tasks, seeking answers to questions they will not share with
 you. What was your strangest task? Did you complete it,
 and were there any notable omens during its completion?
@@ -685,8 +680,7 @@ survive the boredom? What pursuits did you engage in?
 ************************
 
 While the vanguard gained the glories, you were treading
-the ground they swept, preventing the enemy from encir-
-clement, stomping the injured into the mud. As the day
+the ground they swept, preventing the enemy from encirclement, stomping the injured into the mud. As the day
 turned to evening and the light began to shift, the scope of
 the massacre became clear. Your army had swept through
 the enemy and carved deep into their encampment. The
@@ -698,8 +692,7 @@ loot did you gather and whose hand did you prize it from?
 6. Disastrous Battle
 ********************
 
-Your armies were evenly matched and the battle a stale-
-mate ‘til the third hour, when the heavens opened with
+Your armies were evenly matched and the battle a stalemate ‘til the third hour, when the heavens opened with
 torrential rainfall, centered upon your forces. The ground
 turned to a thick black swamp and their archers, outside the
 rain’s course, could fire unmolested. The wind carried their
