@@ -18,7 +18,6 @@ Choose or roll your homeland:
 #. :hoverxref:`Kithai <homeland-kithai>`
 #. :hoverxref:`Nemedia <homeland-nemedia>`
 #. :hoverxref:`Northlands <homeland-northlands>`
-#. :hoverxref:`Pictish Wildlands <homeland-pictish-wildlands>`
 #. :hoverxref:`Vendhya <homeland-vendhya>`
 #. :hoverxref:`Stygia <homeland-stygia>`
 #. :hoverxref:`Zamora <homeland-zamora>`
@@ -63,6 +62,8 @@ Use the :hoverxref:`Argossean names <argos-names>` for naming characters and pla
 Atlantis
 ~~~~~~~~
 
+.. figure:: /_static/images/atlantis.jpg
+
 Lost City · Sunken Island · Advanced Civilization · Hubris · Sufficiently Advanced Technology
 
 Use the :hoverxref:`Atlantean names <atlantis-names>` for naming characters and places from Atlantis.
@@ -71,6 +72,8 @@ Use the :hoverxref:`Atlantean names <atlantis-names>` for naming characters and 
 
 Avalon
 ~~~~~~
+
+.. figure:: /_static/images/avalon.jpg
 
 Plains · Rivers · Castles · Towering Ruins · Royal Intrigue · Woodlands
 
@@ -114,6 +117,8 @@ Use the :hoverxref:`Kithai names <kithai-names>` for naming characters and place
 Nemedia
 ~~~~~~~
 
+.. figure:: /_static/images/nemedia.jpg
+
 Empire · Fertile Plains · Mountains · Baronies · Historians · Architecture · Conquerors
 
 Use the :hoverxref:`Nemedian names <nemedia-names>` for naming characters and places from Nemedia.
@@ -128,15 +133,6 @@ Northlands
 Tribal · harsh · hunter-gatherers · fierce warriors · Darkwoods · Jarls · Villages
 
 Use the :hoverxref:`Northlander names <northland-names>` for naming characters and places from the Northlands.
-
-.. _homeland-pictish-wildlands:
-
-Pictish Wildlands
-~~~~~~~~~~~~~~~~~
-
-Wild rainforests · Tropical · Primal Beasts · Ivory and Fur exports · Savagery · Cannibalism
-
-Use the :hoverxref:`Pict names <pict-names>` for naming characters and places from the Pictish Wildlands.
 
 .. _homeland-vendhya:
 
@@ -154,6 +150,8 @@ Use the :hoverxref:`Vendhyan names <vendhya-names>` for naming characters and pl
 Stygia
 ~~~~~~
 
+.. figure:: /_static/images/styigia.jpg
+
 Vast Desert · Tombs and Ruins · Serpent Race · Nomads · Slavers · Caravans · Arid Mountains and Hills
 
 Use the :hoverxref:`Stygian names <stygia-names>` for naming characters and places from Stygia.
@@ -162,6 +160,8 @@ Use the :hoverxref:`Stygian names <stygia-names>` for naming characters and plac
 
 Zamora
 ~~~~~~
+
+.. figure:: /_static/images/zamora.jpg
 
 Mountains · Merchant Princes · Cults · Rogues · Rich Culture · Corruption
 
