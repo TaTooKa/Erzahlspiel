@@ -12,13 +12,13 @@ Choose or roll your homeland:
 #. :hoverxref:`Aquitaigne <homeland-aquitaigne>` - Aquitaignesse begin with the ``Lore`` and ``Craft`` skills.
 #. :hoverxref:`Argos <homeland-argos>` - Argossians begin with the ``Sailing`` and ``Persuasion`` skills.
 #. :hoverxref:`Atlantis <homeland-atlantis>` - Atlanteans begin with the ``Athletics`` and ``Lore`` skills.
-#. :hoverxref:`Avalon <homeland-avalon>` - Avalonians begin with the ``Traditions`` and ``Riding`` skills.
+#. :hoverxref:`Avalon <homeland-avalon>` - Avalonians begin with the ``Lore`` and ``Riding`` skills.
 #. :hoverxref:`Barovia <homeland-barovia>` - Barovians begin with the ``Nature`` and ``Hiding`` skills.
 #. :hoverxref:`Darfar <homeland-darfar>` - Darfari begin with the ``Tracking`` and ``Taming`` skills.
 #. :hoverxref:`Kithai <homeland-kithai>` - Kithians begin with the ``Acrobatics`` and ``Craft`` skills.
-#. :hoverxref:`Nemedia <homeland-nemedia>` - Nemedians begin with the ``Traditions`` and ``Persuasion`` skills.
+#. :hoverxref:`Nemedia <homeland-nemedia>` - Nemedians begin with the ``Lore`` and ``Persuasion`` skills.
 #. :hoverxref:`Northlands <homeland-northlands>` - Northlanders begin with the ``Battle`` and ``Intimidation`` skills.
-#. :hoverxref:`Vendhya <homeland-vendhya>` - Vendhi begin with the ``Traditions`` and ``Herbalism`` skills.
+#. :hoverxref:`Vendhya <homeland-vendhya>` - Vendhi begin with the ``Lore`` and ``Herbalism`` skills.
 #. :hoverxref:`Stygia <homeland-stygia>` - Stygians begin with the ``Taming`` and ``Deception`` skills.
 #. :hoverxref:`Zamora <homeland-zamora>` - Zamorians begin with the ``Performance`` and ``Deception`` skills.
 #. (or more): **Mixed Heritage** - Choose or roll two other homelands/cultures and gain one starting skill from each.
@@ -773,110 +773,206 @@ arrows into your ranks and soon there wasn’t a soldier left
 unmarked. Only a very few limped away from the battle,
 and none made it home. How did you escape?
 
+Backgrounds
+-----------
+
+Roll or choose a Background (current trade or profession):
+
+1. ALCHEMIST
+~~~~~~~~~~~~
+
+*Gain or Increase the* ``Craft`` *skill*.
+
+Starting Equipment:
+
+- Leather satchel of glass vials
+- Mortar & pestle
+- Acid flask (unstable)
+- Smoke pellets
+- Protective goggles
+- Knife for scraping reagents
+
+2. ASSASSIN
+~~~~~~~~~~~
+
+*Gain or Increase the* ``Hiding`` *skill*.
+
+Starting Equipment:
+
+- Twin daggers
+- Hooded cloak
+- Poison vial (single dose)
+- Garrote wire
+- Soft-soled boots
+- Lockpick pin
+
+3. BARBARIAN
+~~~~~~~~~~~~
+
+*Gain or Increase the* ``Athletics`` *skill*.
+
+Starting Equipment:
+
+- Heavy axe or cleaver
+- Fur mantle
+- Bone totem or charm
+- Hunting knife
+- Waterskin
+- Rawhide wrist guards
+
+4. BARD
+~~~~~~~
+
+*Gain or Increase the* ``Performance`` *skill*.
+
+Starting Equipment:
+
+- Lute, lyre, or hand harp
+- Light dagger
+- Traveler’s cloak
+- Ink & quill set
+- Small flask of liquor
+- Dice or carved bone tokens
+
+5. BEAST-HUNTER
+~~~~~~~~~~~~~~~
+
+*Gain or Increase the* ``Hunting`` *skill*.
+
+Starting Equipment:
+
+- Hunting spear or bow
+- Nets or snares
+- Animal lure or bait
+- Bone-handled skinning knife
+- Leather hood or mask
+- Beast talon/fang trophy
+
+6. BODYGUARD
+~~~~~~~~~~~~
+
+*Gain or Increase the* ``Intimidation`` *skill*.
+
+Starting Equipment:
+
+- Short sword or club
+- Buckler
+- Reinforced leather vest
+- Binding rope
+- Whistle or signal horn
+- Brass knuckles
+
+7. GLADIATOR
+~~~~~~~~~~~~
+
+*Gain or Increase the* ``Battle`` *skill*.
+
+Starting Equipment:
+
+- Arena weapon (trident, gladius, chained mace)
+- Arm bracers
+- Sand-treated boots
+- Trophy from a past fight
+- Wrap bandages
+- Training weight or grip stone
+
+8. GRAVE-ROBBER
+~~~~~~~~~~~~~~~
+
+*Gain or Increase the* ``Lockpicking`` *skill*.
+
+Starting Equipment:
+
+- Pry bar
+- Lantern with oil
+- Rugged gloves
+- Canvas sack
+- Trowel or spade
+- Lucky charm taken off a corpse
+
+9. HERBALIST
+~~~~~~~~~~~~
+
+*Gain or Increase the* ``Herbalism`` *skill*.
+
+Starting Equipment:
+
+- Herb pouch with bundles
+- Wooden staff
+- Dried medicinal paste
+- Shears for cutting plants
+- Waterskin with infused tea
+- Small field guide notebook
+
+10. HORSE-RIDER
+~~~~~~~~~~~~~~~
+
+*Gain or Increase the* ``Riding`` *skill*.
+
+Starting Equipment:
+
+- Trusty travel horse
+- Saddlebag with dried feed
+- Light spear or cavalry sabre
+- Horse brush and grooming kit
+- Bedroll
+- Leather riding boots
+
+11. KNIGHT-ERRANT
+~~~~~~~~~~~~~~~~~
+
+*Gain or Increase the* ``Battle`` *skill*.
+
+Starting Equipment:
+
+- Longsword
+- Shield with faded heraldry
+- Chain hauberk
+- Whetstone
+- Oath token or insignia
+- Rations packed by a squire
+
+12. NOMAD
+~~~~~~~~~
+
+*Gain or Increase the* ``Travel`` *skill*.
+
+Starting Equipment:
+
+- Curved blade
+- Bedroll blanket
+- Waterskin (large)
+- Bone or horn cooking bowl
+- Sun scarf or face wrap
+- Flint & tinder
+
+
+
+
 Skills
 ------
 
-.. rst-class:: three-columns
-
-- Acrobatics
-- Athletics
-- Battle
-- Craft
-- Deception
-- Foraging
-- Herbalism
-- Hiding
-- Hunting
-- Intimidation
-- Lockpicking
-- Lore
-- Performance
-- Persuasion
-- Pickpocket
-- Riding
-- Sailing
-- Sorcery
-- Taming
-- Tracking
-- Traditions
-- Travel
-
-Items
------
-
-Roll or choose items from the following tables. 
-
-Weapons
-~~~~~~~
-
-Roll or pick your weapon of choice:
+Roll or choose two additional skills that you gain or increase:
 
 .. rst-class:: three-columns
 
-#. Battle Axe
-#. Billhook
-#. Claymore
-#. Daiklave
-#. Dagger
-#. Flail
-#. Halberd
-#. Hand Axe
-#. Long Bow
-#. Mace
-#. Mattock
-#. Morningstar
-#. Short Bow
-#. Sling
-#. Spear
-#. Staff
-#. Sword
-#. Warhammer
-#. Whip
-#. Zweihander
-
-Armor
-~~~~~
-
-Roll or pick your armor:
-
-.. rst-class:: three-columns
-
-#. Gambeson
-#. Plated Mail
-#. Leather
-#. Laminar
-#. Fur
-#. Brigandine
-#. Chainmail
-#. Half Plate
-#. Scale mail
-#. Full Plate
-
-Misc. Items
-~~~~~~~~~~~
-
-Roll or pick 3 random items:
-
-.. rst-class:: three-columns
-
-#. Antitoxin
-#. Horse
-#. Rope
-#. Bear trap
-#. Lantern
-#. Shield
-#. Crowbar
-#. Lockpicks
-#. Shovel
-#. Holy symbol
-#. Magnesium strip
-#. Silver mirror
-#. Fine powder
-#. Medicinal herbs
-#. Spyglass
-#. Grappling hook
-#. Net
-#. Tinderbox
-#. Grease
-#. Oil flask
-
+#. Acrobatics
+#. Athletics
+#. Battle
+#. Craft
+#. Deception
+#. Foraging
+#. Herbalism
+#. Hiding
+#. Hunting
+#. Intimidation
+#. Lockpicking
+#. Lore
+#. Performance
+#. Persuasion
+#. Pickpocket
+#. Riding
+#. Sailing
+#. Taming
+#. Tracking
+#. Travel
