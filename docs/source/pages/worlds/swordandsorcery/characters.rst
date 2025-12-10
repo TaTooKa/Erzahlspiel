@@ -8,19 +8,19 @@ Homeland
 
 Choose or roll your homeland:
 
-#. :hoverxref:`Amazonia <homeland-amazonia>`
-#. :hoverxref:`Aquitaigne <homeland-aquitaigne>`
-#. :hoverxref:`Argos <homeland-argos>`
-#. :hoverxref:`Atlantis <homeland-atlantis>`
-#. :hoverxref:`Avalon <homeland-avalon>`
-#. :hoverxref:`Barovia <homeland-barovia>`
-#. :hoverxref:`Darfar <homeland-darfar>`
-#. :hoverxref:`Kithai <homeland-kithai>`
-#. :hoverxref:`Nemedia <homeland-nemedia>`
-#. :hoverxref:`Northlands <homeland-northlands>`
-#. :hoverxref:`Vendhya <homeland-vendhya>`
-#. :hoverxref:`Stygia <homeland-stygia>`
-#. :hoverxref:`Zamora <homeland-zamora>`
+#. :hoverxref:`Amazonia <homeland-amazonia>` - Amazonians begin with the ``Foraging`` and ``Hunting`` skills.
+#. :hoverxref:`Aquitaigne <homeland-aquitaigne>` - Aquitaigneans begin with the ``Lore`` and ``Craft`` skills.
+#. :hoverxref:`Argos <homeland-argos>` - Argossians begin with the ``Sailing`` and ``Persuasion`` skills.
+#. :hoverxref:`Atlantis <homeland-atlantis>` - Atlanteans begin with the ``Athletics`` and ``Lore`` skills.
+#. :hoverxref:`Avalon <homeland-avalon>` - Avalonians begin with the ``Traditions`` and ``Riding`` skills.
+#. :hoverxref:`Barovia <homeland-barovia>` - Barovians begin with the ``Nature`` and ``Hiding`` skills.
+#. :hoverxref:`Darfar <homeland-darfar>` - Darfari begin with the ``Tracking`` and ``Taming`` skills.
+#. :hoverxref:`Kithai <homeland-kithai>` - Kithians begin with the ``Acrobatics`` and ``Craft`` skills.
+#. :hoverxref:`Nemedia <homeland-nemedia>` - Nemedians begin with the ``Traditions`` and ``Persuasion`` skills.
+#. :hoverxref:`Northlands <homeland-northlands>` - Northlanders begin with the ``Battle`` and ``Survival`` skills.
+#. :hoverxref:`Vendhya <homeland-vendhya>` - Vendhyans begin with the ``Traditions`` and ``Herbalism`` skills.
+#. :hoverxref:`Stygia <homeland-stygia>` - Stygians begin with the ``Taming`` and ``Deception`` skills.
+#. :hoverxref:`Zamora <homeland-zamora>` - Zamorans begin with the ``Performance`` and ``Deception`` skills.
 
 Caste
 -----
@@ -59,6 +59,8 @@ time to ponder the matter, you think you know who was
 behind it. Who are they, what motives did they have, and
 do you deserve to be among the invested?
 
+Gain or Increase the ``Deception`` skill.
+
 2. Gifted Mark
 **************
 
@@ -72,6 +74,8 @@ your work, and his stern words became a shadow in the
 back of your mind. What was his criticism, and do you
 still use the mark?
 
+Gain or Increase the ``Craft`` skill.
+
 3. The Quiet Hours of Peace
 ***************************
 
@@ -83,6 +87,8 @@ out for yourself. Your first self-made blade was balanced
 poorly and its edge was fragile, but you needed it and you
 were unwilling to steal a blade. Why did you need the blade,
 and did it serve its purpose?
+
+Gain or Increase the ``Battle`` skill.
 
 4. Pressed for War
 ******************
@@ -96,6 +102,8 @@ more work than most journeymen and produced some
 quality work, despite the pressures outside. What was
 your greatest creation from that time? What came of it?
 
+Gain or Increase the ``Craft`` skill.
+
 5. Too Many Closed Mines
 ************************
 
@@ -106,6 +114,8 @@ ore to work with. When you finally found some, a gang or
 prospectors tried to steal it from you. What happened? Did
 you get enough metal to achieve the journeyman rank, or
 did you have to look elsewhere?
+
+Gain or Increase the ``Foraging`` skill.
 
 6. Sundered Mark
 ****************
@@ -119,6 +129,8 @@ a significant discount. While you can still earn your way
 performing your craft, it is only because of what few friends
 will still stand by you. How did you earn the ire of the guild,
 and who can you still count on?
+
+Gain or Increase the ``Persuasion`` skill.
 
 .. _serfslave-stories:
 
@@ -699,4 +711,112 @@ rain’s course, could fire unmolested. The wind carried their
 arrows into your ranks and soon there wasn’t a soldier left
 unmarked. Only a very few limped away from the battle,
 and none made it home. How did you escape?
+
+Skills
+------
+
+.. rst-class:: three-columns
+
+- Acrobatics
+- Athletics
+- Battle
+- Craft
+- Deception
+- Foraging
+- Herbalism
+- Hiding
+- Hunting
+- Intimidation
+- Lockpicking
+- Lore
+- Perception
+- Performance
+- Persuasion
+- Pickpocket
+- Riding
+- Sailing
+- Sorcery
+- Taming
+- Tracking
+- Traditions
+- Travel
+
+Items
+-----
+
+Roll or choose items from the following tables. 
+
+Weapons
+~~~~~~~
+
+Roll or pick your weapon of choice:
+
+.. rst-class:: three-columns
+
+#. Battle Axe
+#. Billhook
+#. Claymore
+#. Daiklave
+#. Dagger
+#. Flail
+#. Halberd
+#. Hand Axe
+#. Long Bow
+#. Mace
+#. Mattock
+#. Morningstar
+#. Short Bow
+#. Sling
+#. Spear
+#. Staff
+#. Sword
+#. Warhammer
+#. Whip
+#. Zweihander
+
+Armor
+~~~~~
+
+Roll or pick your armor:
+
+.. rst-class:: three-columns
+
+#. Gambeson
+#. Plated Mail
+#. Leather
+#. Laminar
+#. Fur
+#. Brigandine
+#. Chainmail
+#. Half Plate
+#. Scale mail
+#. Full Plate
+
+Misc. Items
+~~~~~~~~~~~
+
+Roll or pick 3 random items:
+
+.. rst-class:: three-columns
+
+#. Antitoxin
+#. Horse
+#. Rope
+#. Bear trap
+#. Lantern
+#. Shield
+#. Crowbar
+#. Lockpicks
+#. Shovel
+#. Holy symbol
+#. Magnesium strip
+#. Silver mirror
+#. Fine powder
+#. Medicinal herbs
+#. Spyglass
+#. Grappling hook
+#. Net
+#. Tinderbox
+#. Grease
+#. Oil flask
 
