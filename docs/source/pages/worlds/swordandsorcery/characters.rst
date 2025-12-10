@@ -9,7 +9,7 @@ Homeland
 Choose or roll your homeland:
 
 #. :hoverxref:`Amazonia <homeland-amazonia>` - Amazonians begin with the ``Foraging`` and ``Hunting`` skills.
-#. :hoverxref:`Aquitaigne <homeland-aquitaigne>` - Aquitaigneans begin with the ``Lore`` and ``Craft`` skills.
+#. :hoverxref:`Aquitaigne <homeland-aquitaigne>` - Aquitaignesse begin with the ``Lore`` and ``Craft`` skills.
 #. :hoverxref:`Argos <homeland-argos>` - Argossians begin with the ``Sailing`` and ``Persuasion`` skills.
 #. :hoverxref:`Atlantis <homeland-atlantis>` - Atlanteans begin with the ``Athletics`` and ``Lore`` skills.
 #. :hoverxref:`Avalon <homeland-avalon>` - Avalonians begin with the ``Traditions`` and ``Riding`` skills.
@@ -17,10 +17,10 @@ Choose or roll your homeland:
 #. :hoverxref:`Darfar <homeland-darfar>` - Darfari begin with the ``Tracking`` and ``Taming`` skills.
 #. :hoverxref:`Kithai <homeland-kithai>` - Kithians begin with the ``Acrobatics`` and ``Craft`` skills.
 #. :hoverxref:`Nemedia <homeland-nemedia>` - Nemedians begin with the ``Traditions`` and ``Persuasion`` skills.
-#. :hoverxref:`Northlands <homeland-northlands>` - Northlanders begin with the ``Battle`` and ``Survival`` skills.
-#. :hoverxref:`Vendhya <homeland-vendhya>` - Vendhyans begin with the ``Traditions`` and ``Herbalism`` skills.
+#. :hoverxref:`Northlands <homeland-northlands>` - Northlanders begin with the ``Battle`` and ``Intimidation`` skills.
+#. :hoverxref:`Vendhya <homeland-vendhya>` - Vendhi begin with the ``Traditions`` and ``Herbalism`` skills.
 #. :hoverxref:`Stygia <homeland-stygia>` - Stygians begin with the ``Taming`` and ``Deception`` skills.
-#. :hoverxref:`Zamora <homeland-zamora>` - Zamorans begin with the ``Performance`` and ``Deception`` skills.
+#. :hoverxref:`Zamora <homeland-zamora>` - Zamorians begin with the ``Performance`` and ``Deception`` skills.
 
 Caste
 -----
@@ -59,7 +59,7 @@ time to ponder the matter, you think you know who was
 behind it. Who are they, what motives did they have, and
 do you deserve to be among the invested?
 
-Gain or Increase the ``Deception`` skill.
+*Gain or Increase the* ``Deception`` *skill*.
 
 2. Gifted Mark
 **************
@@ -74,7 +74,7 @@ your work, and his stern words became a shadow in the
 back of your mind. What was his criticism, and do you
 still use the mark?
 
-Gain or Increase the ``Craft`` skill.
+*Gain or Increase the* ``Craft`` *skill*.
 
 3. The Quiet Hours of Peace
 ***************************
@@ -88,7 +88,7 @@ poorly and its edge was fragile, but you needed it and you
 were unwilling to steal a blade. Why did you need the blade,
 and did it serve its purpose?
 
-Gain or Increase the ``Battle`` skill.
+*Gain or Increase the* ``Battle`` *skill*.
 
 4. Pressed for War
 ******************
@@ -102,7 +102,7 @@ more work than most journeymen and produced some
 quality work, despite the pressures outside. What was
 your greatest creation from that time? What came of it?
 
-Gain or Increase the ``Craft`` skill.
+*Gain or Increase the* ``Craft`` *skill*.
 
 5. Too Many Closed Mines
 ************************
@@ -115,7 +115,7 @@ prospectors tried to steal it from you. What happened? Did
 you get enough metal to achieve the journeyman rank, or
 did you have to look elsewhere?
 
-Gain or Increase the ``Foraging`` skill.
+*Gain or Increase the* ``Foraging`` *skill*.
 
 6. Sundered Mark
 ****************
@@ -130,7 +130,7 @@ performing your craft, it is only because of what few friends
 will still stand by you. How did you earn the ire of the guild,
 and who can you still count on?
 
-Gain or Increase the ``Persuasion`` skill.
+*Gain or Increase the* ``Persuasion`` *skill*.
 
 .. _serfslave-stories:
 
@@ -148,6 +148,8 @@ building on the fringe of society. Then something brought it
 to an end. Who betrayed your band? What, or who, were the
 guards looking for? Why do your former friends mistrust you?
 
+*Gain or Increase the* ``Deception`` *skill*.
+
 2. Hidden Far from Noble Sight
 ******************************
 
@@ -157,6 +159,8 @@ every penny, constantly on the move. Then you found it: a
 perfect home, far from suspicious eyes. That home is gone
 now, just a memory that makes you smile. Where was that
 home, and what made it so special?
+
+*Gain or Increase the* ``Travel`` *skill*.
 
 3. One of the Multitudes
 ************************
@@ -168,6 +172,8 @@ As the uprising spread through the camp, with dozens of
 others you won your escape. Did you fight your oppressors
 valiantly, or did you slink away like a cur?
 
+*Gain or Increase the* ``Athletics`` *skill*.
+
 4. Under the Eyes of the Masters
 ********************************
 
@@ -177,11 +183,15 @@ not worth the cost of retrieval. Still you know the strange
 one from the blackened tower has spies that watch your
 every step. Why is the strange one so interested in you?
 
+*Gain or Increase the* ``Hiding`` *skill*.
+
 5. Hunted by Your Master
 ************************
 
 Your former master never forgot the indignity of your
 escape. Now with estate in ruins, she lives only for vengeance. Who is she and why does she hate you so much?
+
+*Gain or Increase the* ``Intimidation`` *skill*.
 
 6. Hunted by the Law
 ********************
@@ -191,6 +201,8 @@ in the alleys. Perhaps you committed the crime and it was
 worth it. Perhaps you are unjustly tormented. Either way, a
 trail of suffering follows in your wake. Whose suffering do
 you regret the most and what will you do to put them at ease?
+
+*Gain or Increase the* ``Persuasion`` *skill*.
 
 .. _farmer-stories:
 
@@ -205,6 +217,8 @@ spill its bounty and how the seasons seemed to be fair.
 You remember the fellowship of your loved ones. Where
 are they now?
 
+*Gain or Increase the* ``Foraging`` *skill*.
+
 2. Ample for Winter
 *******************
 
@@ -216,6 +230,8 @@ you scarcely remember the people of your village. Should
 you return, they would scarce remember you. Perhaps
 there is someone there worth returning to see. Do you even
 remember that person’s name?
+
+*Gain or Increase the* ``Athletics`` *skill*.
 
 3. Winter in the Balance
 ************************
@@ -229,6 +245,8 @@ knights. One knight in particular took pleasure in the
 hardship he inflicted. If you meet him again, will you
 take revenge? Why?
 
+*Gain or Increase the* ``Hiding`` *skill*.
+
 4. Meager Soup and Angry Eyes
 *****************************
 
@@ -240,6 +258,8 @@ game was scarce and you had to keep your kills to yourself.
 Eventually, you were found out and the angry eyes of the
 villagers were terrible to behold. Were you punished, and
 did you ever redeem yourself?
+
+*Gain or Increase the* ``Hunting`` *skill*.
 
 5. Not a Spare Bean
 *******************
@@ -254,6 +274,8 @@ The horse was short work for the butcher and you were
 sent south to find someone to buy the man’s sword. Did
 you find a buyer? Did you take the profits home?
 
+*Gain or Increase the* ``Persuasion`` *skill*.
+
 6. Famine
 *********
 
@@ -265,6 +287,8 @@ of prey. As the knife sunk deep into the landowner’s agent,
 rain began to fall. You looked on in horror, as desperation
 revealed its ugliest side. You were forced to ask yourself the
 hardest question. How hungry were you?
+
+*Gain or Increase the* ``Deception`` *skill*.
 
 .. _herder-stories:
 
@@ -281,6 +305,8 @@ were rich enough to afford comforts your forebears had
 never indulged in. What did you get a taste for, and does
 it tempt you still?
 
+*Gain or Increase the* ``Performance`` *skill*.
+
 2. Nights of Sweet Silence
 **************************
 
@@ -290,6 +316,8 @@ days were tender and the nights were long. You spent more
 time at play than at work, and gained memories that still
 lighten your heart, even in leaner years. Of these, what is
 your fondest memory?
+
+*Gain or Increase the* ``Lore`` *skill*.
 
 3. Howls in the Night
 *********************
@@ -304,6 +332,8 @@ you emerged into daylight, she seemed a hundred years
 older and you never slept properly again. What dreams
 haunt you still?
 
+*Gain or Increase the* ``Hunting`` *skill*.
+
 4. A Decimated Herd
 *******************
 
@@ -316,6 +346,8 @@ money divided amongst you. In the morning, you found
 him hanged with a lock of his wife’s hair still woven around
 his fingers. Just the night before he had seemed so wise.
 What was the last thing he said to you?
+
+*Gain or Increase the* ``Herbalism`` *skill*.
 
 5. Wolves Amongst the Flock
 ***************************
@@ -330,6 +362,8 @@ snow while carrying a bundle of wet branches, you saw it
 and looked into its eyes. To this day those eyes haunt you.
 What did you see and why did it let you live?
 
+*Gain or Increase the* ``Tracking`` *skill*.
+
 6. Raiders
 **********
 
@@ -343,6 +377,8 @@ the third night the raiders struck. Half the herd was stolen
 and fifteen were placed upon the pyre. Finally, it was time
 for the young to speak and your voice joined many. What
 did you do, and what was the cost?
+
+*Gain or Increase the* ``Battle`` *skill*.
 
 .. _merchant-stories:
 
@@ -363,6 +399,8 @@ to ruinous amounts. While he was alive, the old man had
 a motto that governed all his business dealings. What was
 that motto, and do you agree with it?
 
+*Gain or Increase the* ``Persuasion`` *skill*.
+
 2. Profits from the Town
 ************************
 
@@ -374,6 +412,8 @@ deal that the visitors didn’t want your aunt to know. A
 generous woman, she always made sure you were rewarded
 whenever a significant deal was brokered. What was your
 biggest score, and did the customer ever find out?
+
+*Gain or Increase the* ``Hiding`` *skill*.
 
 3. Profits from the Road
 ************************
@@ -387,6 +427,8 @@ caravan routes. Still, it’s not like you didn’t have adventures
 or see amazing sights. What was the most amazing thing
 you have ever seen?
 
+*Gain or Increase the* ``Travel`` *skill*.
+
 4. The Lash of Taxation
 ***********************
 
@@ -396,6 +438,8 @@ that sometimes a merchant needs to have two cargoes: one
 to be seen, and one to pay for the trip. You also witnessed
 firsthand what happens to smugglers. Who did you see
 suffering at the hands of the lord’s soldiers?
+
+*Gain or Increase the* ``Deception`` *skill*.
 
 5. Hard-won Profits
 *******************
@@ -407,6 +451,8 @@ but the taxes on that service were exorbitant. You spoke
 up and offered a plan that made half your family revile
 you and the rest love you. What was your plan, and why
 was it so effective?
+
+*Gain or Increase the* ``Performance`` *skill*.
 
 6. Ruin
 *******
@@ -426,6 +472,8 @@ that you’ve started to rise, you must consider your options.
 What vengeance, if any, will you take upon the courtier?
 How will you escape his wrath?
 
+*Gain or Increase the* ``Intimidation`` *skill*.
+
 .. _outcast-stories:
 
 Outcast Stories
@@ -439,6 +487,8 @@ in a time of need a charitable man of means gave food and
 shelter enough to survive. What had enfeebled you, and
 who was your benefactor?
 
+*Gain or Increase the* ``Foraging`` *skill*.
+
 2. The Charity of Pompous Priests
 *********************************
 
@@ -449,6 +499,8 @@ at any other table would be the height of dining. Did
 you take anything from the priest’s home, and is your
 theft known?
 
+*Gain or Increase the* ``Lore`` *skill*.
+
 3. Food and Rough Liquor
 ************************
 
@@ -457,6 +509,8 @@ was shared with cheer and many fond (if humble) memories
 were made. Now this shanty is no more. What befell its
 inhabitants? Did any survive?
 
+*Gain or Increase the* ``Craft`` *skill*.
+
 4. One of the Rabble
 ********************
 
@@ -464,6 +518,8 @@ There were hundreds squabbling over food in the shadows
 of the lord’s fealty. Betrayal was a part of life, but you never
 expected it from your fellow outcasts. Who betrayed you,
 and why do you still feel the sting of the betrayal?
+
+*Gain or Increase the* ``Deception`` *skill*.
 
 5. Shunned Even by Lepers
 *************************
@@ -474,6 +530,8 @@ or why it happened, but it marked you as surely as if it were
 branded upon your face. Why do the beggars spit at your
 shadow? Are there any that remember you with kindness?
 
+*Gain or Increase the* ``Hiding`` *skill*.
+
 6. Hunted by the Law
 ********************
 
@@ -483,6 +541,8 @@ the crime and it was worth it. Perhaps you are unjustly
 persecuted. Either way, a trail of suffering follows in your
 wake. Whose suffering do you regret the most and what
 will you do to put them at ease?
+
+*Gain or Increase the* ``Pickpocket`` *skill*.
 
 .. _nobility-stories:
 
@@ -729,7 +789,6 @@ Skills
 - Intimidation
 - Lockpicking
 - Lore
-- Perception
 - Performance
 - Persuasion
 - Pickpocket

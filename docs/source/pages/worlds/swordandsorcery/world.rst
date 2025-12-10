@@ -28,7 +28,7 @@ Aquitaigne
 
 *Plains · Cities · Nobility · Great Army · Woodlands · Rivers · Academic Knowledge · Manor Palaces*
 
-Use the :hoverxref:`Aquitaignean names <aquitaigne-names>` for naming characters and places from Aquitaigne.
+Use the :hoverxref:`Aquitaignesse names <aquitaigne-names>` for naming characters and places from Aquitaigne.
 
 .. _homeland-argos:
 
@@ -39,7 +39,7 @@ Argos
 
 *Coast · Archipelago · Seafarers · Pirates · Trade · Pleasures · Valleys · Haunted Forests*
 
-Use the :hoverxref:`Argossean names <argos-names>` for naming characters and places from Argos.
+Use the :hoverxref:`Argossian names <argos-names>` for naming characters and places from Argos.
 
 .. _homeland-atlantis:
 
@@ -94,7 +94,7 @@ Kithai
 
 *Humid · Forests · Fields · Cities · Emperor · Martial Arts · Ancient Culture*
 
-Use the :hoverxref:`Kithai names <kithai-names>` for naming characters and places from Kithai.
+Use the :hoverxref:`Kithian names <kithai-names>` for naming characters and places from Kithai.
 
 .. _homeland-nemedia:
 
@@ -127,7 +127,7 @@ Vendhya
 
 *Tropical · Uncharted · Temples · Jungle · Valuables · Hordes  · Maharaja*
 
-Use the :hoverxref:`Vendhyan names <vendhya-names>` for naming characters and places from Vendhya.
+Use the :hoverxref:`Vendhi names <vendhya-names>` for naming characters and places from Vendhya.
 
 .. _homeland-stygia:
 
@@ -239,8 +239,8 @@ Place Names
 
 .. _aquitaigne-names:
 
-Aquitaignean names
-~~~~~~~~~~~~~~~~~~
+Aquitaignesse names
+~~~~~~~~~~~~~~~~~~~
 
 Female Names
 ^^^^^^^^^^^^
@@ -323,7 +323,7 @@ Place Names
 
 .. _argos-names:
 
-Argossean names
+Argossian names
 ~~~~~~~~~~~~~~~
 
 Female Names
@@ -798,8 +798,8 @@ Place Names
 
 .. _kithai-names:
 
-Kithai names
-~~~~~~~~~~~~
+Kithian names
+~~~~~~~~~~~~~
 
 Female Names
 ^^^^^^^^^^^^
@@ -1051,8 +1051,8 @@ Place Names
 
 .. _vendhya-names:
 
-Vendhyan names
-~~~~~~~~~~~~~~
+Vendhi names
+~~~~~~~~~~~~
 
 Female Names
 ^^^^^^^^^^^^
