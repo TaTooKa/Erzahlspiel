@@ -935,9 +935,6 @@ so). Others look to these years with fondness: you do not.
 - Gain or Increase one of the ``Acrobatics``, ``Hiding``, ``Lockpicking``, or ``Pickpocket`` skills (your choice).
 - Gain Equipment: A memento of someone that is long gone.
 
-
-TODO
-
 Backgrounds
 -----------
 
