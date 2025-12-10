@@ -560,7 +560,7 @@ none. While much of the training was typical, some of it
 was bizarre, to say the least. What strange knowledge did
 this notable personage seek to impart to you?
 
-*Gain or Increase the* ``???`` *skill*.
+*Gain or Increase the* ``Lore`` *skill*.
 
 2. Guest of a Rival
 *******************
@@ -572,7 +572,7 @@ night, you wandered the halls and witnessed three warriors
 speaking in hushed tones about your host, your family’s
 rival. What did you hear, and what did you do about it?
 
-*Gain or Increase the* ``???`` *skill*.
+*Gain or Increase the* ``Deception`` *skill*.
 
 3. Left to Your Own Devices
 ***************************
@@ -584,7 +584,7 @@ you were free to pursue talents that a proper tutor might
 have deemed unsuitable. What did you get up to when no
 one was watching?
 
-*Gain or Increase the* ``???`` *skill*.
+*Gain or Increase the* ``Acrobatics`` *skill*.
 
 4. Exile to the Estates
 ***********************
@@ -597,7 +597,7 @@ impoverished, abandoned by your family. What, if anything,
 did you do to provoke this banishment? Was it just? Did
 you ever make amends?
 
-*Gain or Increase the* ``???`` *skill*.
+*Gain or Increase the* ``Travel`` *skill*.
 
 5. Scandal
 **********
@@ -610,7 +610,7 @@ Bribes were paid, and the offense was put behind you, but
 other nobles know what happened, and often speak ill of
 you behind your back. What was the scandal?
 
-*Gain or Increase the* ``???`` *skill*.
+*Gain or Increase the* ``Performance`` *skill*.
 
 6. Blood Feud
 *************
@@ -623,7 +623,7 @@ one solution: a blood feud. It matters not whether it was
 called by your enemies or your allies. The only things that
 matter are who your enemies are, and who will survive?
 
-*Gain or Increase the* ``???`` *skill*.
+*Gain or Increase the* ``Intimidation`` *skill*.
 
 .. _priesthood-stories:
 
@@ -642,7 +642,7 @@ You have even come to the aid of one of your land’s more
 gifted artists. What aid did they require, and how did you
 help? Have they repaid the favor?
 
-*Gain or Increase the* ``???`` *skill*.
+*Gain or Increase the* ``Craft`` *skill*.
 
 2. Beneficial Omens
 *******************
@@ -654,7 +654,7 @@ tasks, seeking answers to questions they will not share with
 you. What was your strangest task? Did you complete it,
 and were there any notable omens during its completion?
 
-*Gain or Increase the* ``???`` *skill*.
+*Gain or Increase the* ``Lore`` *skill*.
 
 3. A Place in Need of Guidance
 ******************************
@@ -669,7 +669,7 @@ paid off. Your master refused to pay, and the consequences
 were dire. What happened to your shrine? What happened
 to the noble who set into motion its downfall?
 
-*Gain or Increase the* ``???`` *skill*.
+*Gain or Increase the* ``Hiding`` *skill*.
 
 4. Intolerant Potentates
 ************************
@@ -684,7 +684,7 @@ brought to your faith. Did you help this person escape,
 or were you prevented somehow? What became of this
 potential follower?
 
-*Gain or Increase the* ``???`` *skill*.
+*Gain or Increase the* ``Battle`` *skill*.
 
 5. Ill Omens
 ************
@@ -699,7 +699,7 @@ seemingly needless, sometimes dangerous errands. What
 was your most perilous task? Did you complete it, and how
 many died during its completion?
 
-*Gain or Increase the* ``???`` *skill*.
+*Gain or Increase the* ``Intimidation`` *skill*.
 
 6. Forced Penance
 *****************
@@ -712,7 +712,7 @@ was brief, but unduly harsh. What were you accused of?
 What was the penance? Do you know who incriminated
 you? Do you plot revenge?
 
-*Gain or Increase the* ``???`` *skill*.
+*Gain or Increase the* ``Deception`` *skill*.
 
 .. _warrior-stories:
 
@@ -734,7 +734,7 @@ your lord’s own servants and presented to him at the feast
 afterward. What valor had you accomplished? What words
 did he have for you?
 
-*Gain or Increase the* ``???`` *skill*.
+*Gain or Increase the* ``Lore`` *skill*.
 
 2. Glorious Battle
 ******************
@@ -753,7 +753,7 @@ veterans. Your company was promoted to guard the sunrise
 flank and those who survived became strong friends. How
 do you mark your membership in this august company?
 
-*Gain or Increase the* ``???`` *skill*.
+*Gain or Increase the* ``Hiding`` *skill*.
 
 3. Idle Hours Guarding Open Gates
 *********************************
@@ -766,7 +766,7 @@ halted, spat at the ground, and rode back the way they
 came. Do you remember anything about these strangers?
 Did you find out why they did not enter?
 
-*Gain or Increase the* ``???`` *skill*.
+*Gain or Increase the* ``Intimidation`` *skill*.
 
 4. Idle Hours Guarding Cold Walls
 *********************************
@@ -779,7 +779,7 @@ Eventually even these pursuits grew stale and you were
 forced to find your own entertainments. How did you
 survive the boredom? What pursuits did you engage in?
 
-*Gain or Increase the* ``???`` *skill*.
+*Gain or Increase the* ``Performance`` *skill*.
 
 5. Blood-soaked Endeavor
 ************************
@@ -794,7 +794,7 @@ to profit from the battle, you searched the nearby tents and
 left, knowing the enemy would never truly recover. What
 loot did you gather and whose hand did you prize it from?
 
-*Gain or Increase the* ``???`` *skill*.
+*Gain or Increase the* ``Pickpocket`` *skill*.
 
 6. Disastrous Battle
 ********************
@@ -807,7 +807,7 @@ arrows into your ranks and soon there wasn’t a soldier left
 unmarked. Only a very few limped away from the battle,
 and none made it home. How did you escape?
 
-*Gain or Increase the* ``???`` *skill*.
+*Gain or Increase the* ``Athletics`` *skill*.
 
 Education
 ---------
