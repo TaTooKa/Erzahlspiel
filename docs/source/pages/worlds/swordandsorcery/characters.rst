@@ -29,7 +29,7 @@ Amazonia
 
 .. figure:: /_static/images/amazonia.jpg
 
-Jungle · Wildlands · Matriarchy · Primal Beasts · Bloodsports
+*Jungle · Wildlands · Matriarchy · Primal Beasts · Bloodsports*
 
 Use the :hoverxref:`Amazonian names <amazonia-darfar-names>` for naming characters and places from Amazonia.
 
@@ -42,7 +42,7 @@ Aquitaigne
 
 .. figure:: /_static/images/aquitaigne.jpg
 
-Plains · Cities · Nobility · Great Army · Woodlands · Rivers · Academic Knowledge · Manor Palaces
+*Plains · Cities · Nobility · Great Army · Woodlands · Rivers · Academic Knowledge · Manor Palaces*
 
 Use the :hoverxref:`Aquitaignean names <aquitaigne-names>` for naming characters and places from Aquitaigne.
 
@@ -53,7 +53,7 @@ Argos
 
 .. figure:: /_static/images/argos.jpg
 
-Coast · Archipelago · Seafarers · Pirates · Trade · Pleasures · Valleys · Haunted Forests
+*Coast · Archipelago · Seafarers · Pirates · Trade · Pleasures · Valleys · Haunted Forests*
 
 Use the :hoverxref:`Argossean names <argos-names>` for naming characters and places from Argos.
 
@@ -64,7 +64,7 @@ Atlantis
 
 .. figure:: /_static/images/atlantis.jpg
 
-Lost City · Sunken Island · Advanced Civilization · Hubris · Sufficiently Advanced Technology
+*Lost City · Sunken Island · Advanced Civilization · Hubris · Sufficiently Advanced Technology*
 
 Use the :hoverxref:`Atlantean names <atlantis-names>` for naming characters and places from Atlantis.
 
@@ -75,7 +75,7 @@ Avalon
 
 .. figure:: /_static/images/avalon.jpg
 
-Plains · Rivers · Castles · Towering Ruins · Royal Intrigue · Woodlands
+*Plains · Rivers · Castles · Towering Ruins · Royal Intrigue · Woodlands*
 
 Use the :hoverxref:`Avalonian names <avalon-names>` for naming characters and places from Avalon.
 
@@ -86,7 +86,7 @@ Barovia
 
 .. figure:: /_static/images/barovia.jpg
 
-Taiga · Gothic · Monsters · Woodlands · Rivers · Vampires · Werewolves · Church
+*Taiga · Gothic · Monsters · Woodlands · Rivers · Vampires · Werewolves · Church*
 
 Use the :hoverxref:`Barovian names <barovia-names>` for naming characters and places from Barovia.
 
@@ -97,7 +97,7 @@ Darfar
 
 .. figure:: /_static/images/darfar.jpg
 
-Savannah · Jungles · Cannibals · Slavers · Mercenaries · Dire Beasts
+*Savannah · Jungles · Cannibals · Slavers · Mercenaries · Dire Beasts*
 
 Use the :hoverxref:`Darfari names <amazonia-darfar-names>` for naming characters and places from Darfar.
 
@@ -108,7 +108,7 @@ Kithai
 
 .. figure:: /_static/images/kithai.jpg
 
-Humid · Forests · Fields · Cities · Emperor · Martial Arts · Ancient Culture
+*Humid · Forests · Fields · Cities · Emperor · Martial Arts · Ancient Culture*
 
 Use the :hoverxref:`Kithai names <kithai-names>` for naming characters and places from Kithai.
 
@@ -119,7 +119,7 @@ Nemedia
 
 .. figure:: /_static/images/nemedia.jpg
 
-Empire · Fertile Plains · Mountains · Baronies · Historians · Architecture · Conquerors
+*Empire · Fertile Plains · Mountains · Baronies · Historians · Architecture · Conquerors*
 
 Use the :hoverxref:`Nemedian names <nemedia-names>` for naming characters and places from Nemedia.
 
@@ -130,7 +130,7 @@ Northlands
 
 .. figure:: /_static/images/northlands.jpg
 
-Tribal · harsh · hunter-gatherers · fierce warriors · Darkwoods · Jarls · Villages
+*Tribal · harsh · hunter-gatherers · fierce warriors · Darkwoods · Jarls · Villages*
 
 Use the :hoverxref:`Northlander names <northland-names>` for naming characters and places from the Northlands.
 
@@ -141,7 +141,7 @@ Vendhya
 
 .. figure:: /_static/images/vendhya.jpg
 
-Tropical · Uncharted · Temples · Jungle · Valuables · Hordes  · Maharaja
+*Tropical · Uncharted · Temples · Jungle · Valuables · Hordes  · Maharaja*
 
 Use the :hoverxref:`Vendhyan names <vendhya-names>` for naming characters and places from Vendhya.
 
@@ -150,9 +150,9 @@ Use the :hoverxref:`Vendhyan names <vendhya-names>` for naming characters and pl
 Stygia
 ~~~~~~
 
-.. figure:: /_static/images/styigia.jpg
+.. figure:: /_static/images/stygia.jpg
 
-Vast Desert · Tombs and Ruins · Serpent Race · Nomads · Slavers · Caravans · Arid Mountains and Hills
+*Vast Desert · Tombs and Ruins · Serpent Race · Nomads · Slavers · Caravans · Arid Mountains and Hills*
 
 Use the :hoverxref:`Stygian names <stygia-names>` for naming characters and places from Stygia.
 
@@ -163,7 +163,7 @@ Zamora
 
 .. figure:: /_static/images/zamora.jpg
 
-Mountains · Merchant Princes · Cults · Rogues · Rich Culture · Corruption
+*Mountains · Merchant Princes · Cults · Rogues · Rich Culture · Corruption*
 
 Use the :hoverxref:`Zamorian names <zamora-names>` for naming characters and places from Zamora.
 
