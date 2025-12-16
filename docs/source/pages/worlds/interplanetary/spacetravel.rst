@@ -147,291 +147,57 @@ Travel Times and DeltaV Costs
 
 Choose the amount of Gs of acceleration you want to burn at, and check how much time it will take to traverse between Planetary Systems and at what Δv cost.
 
-0.01g of Acceleration
-~~~~~~~~~~~~~~~~~~~~~
+Average Travel Time and Δv Cost between planetary systems at 0.01G
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-.. list-table:: Average Travel Time and Δv Cost between planetary systems at 0.01G
-   :align: center
-   :header-rows: 1
-   :stub-columns: 1
-   :widths: 10, 18, 18, 18, 18, 18
+.. figure:: /_static/images/sci-fi-travel-time-0-01G.jpg
 
-   * - 0.01g
-     - EARTH SYSTEM
-     - MARS SYSTEM
-     - ASTEROID BELT
-     - JOVIAN SYSTEM
-     - SATURNIAN SYSTEM
-   * - EARTH SYSTEM
-     - | 
-       | 〰
-       |
-     - | 494.7 h
-       | (20.6 days)
-       | Δv 174.7 km/s
-     - | 912.7 h
-       | (38.0 days)
-       | Δv 322.3 km/s
-     - | 1406.0 h
-       | (58.6 days)
-       | Δv 496.5 km/s
-     - | 2004.9 h
-       | (83.5 days)
-       | Δv 708.0 km/s
-   * - MARS SYSTEM
-     - | 494.7 h
-       | (20.6 days)
-       | Δv 174.7 km/s
-     - | 
-       | 〰
-       | 
-     - | 764.0 h
-       | (31.8 days)
-       | Δv 269.8 km/s
-     - | 1316.1 h 
-       | (54.8 days)
-       | Δv 464.8 km/s
-     - | 1942.9 h 
-       | (81.0 days)
-       | Δv 686.1 km/s
-   * - ASTEROID BELT
-     - | 912.7 h
-       | (38.0 days)
-       | Δv 322.3 km/s
-     - | 764.0 h
-       | (31.8 days)
-       | Δv 269.8 km/s
-     - | 
-       | 〰
-       | 
-     - | 1071.7 h 
-       | (44.7 days)
-       | Δv 378.5 km/s
-     - | 1787.7 h
-       | (74.5 days)
-       | Δv 631.3 km/s
-   * - JOVIAN SYSTEM
-     - | 1406.0 h
-       | (58.6 days)
-       | Δv 496.5 km/s
-     - | 1316.1 h 
-       | (54.8 days)
-       | Δv 464.8 km/s
-     - | 1071.7 h 
-       | (44.7 days)
-       | Δv 378.5 km/s
-     - | 
-       | 〰
-       | 
-     - | 1429.2 h
-       | (59.6 days)
-       | Δv 504.7 km/s
-   * - SATURNIAN SYSTEM
-     - | 2004.9 h
-       | (83.5 days)
-       | Δv 708.0 km/s
-     - | 1942.9 h 
-       | (81.0 days)
-       | Δv 686.1 km/s
-     - | 1787.7 h
-       | (74.5 days)
-       | Δv 631.3 km/s
-     - | 1429.2 h
-       | (59.6 days)
-       | Δv 504.7 km/s
-     - | 
-       | 〰
-       | 
+Average Travel Time and Δv Cost between planetary systems at 0.1G
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-0.1g of Acceleration
-~~~~~~~~~~~~~~~~~~~~~
+.. figure:: /_static/images/sci-fi-travel-time-0-1G.jpg
 
-.. list-table:: Average Travel Time and Δv Cost between planetary systems at 0.1G
-   :align: center
-   :header-rows: 1
-   :stub-columns: 1
-   :widths: 10, 18, 18, 18, 18, 18
+Average Travel Time and Δv Cost between planetary systems at 0.2G
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-   * - 0.1g
-     - EARTH SYSTEM
-     - MARS SYSTEM
-     - ASTEROID BELT
-     - JOVIAN SYSTEM
-     - SATURNIAN SYSTEM
-   * - EARTH SYSTEM
-     - | 
-       | 〰
-       |
-     - | 156.4 h 
-       | (6.5 days)
-       | Δv 552.5 km/s
-     - | 288.6 h
-       | (12.0 days)
-       | Δv 1.0 Mm/s
-     - | 444.6 h
-       | (18.5 days)
-       | Δv 1.6 Mm/s
-     - | 634.0 h
-       | (26.4 days) 
-       | Δv 2.2 Mm/s
-   * - MARS SYSTEM
-     - | 156.4 h 
-       | (6.5 days)
-       | Δv 552.5 km/s
-     - | 
-       | 〰
-       | 
-     - | 241.6 h
-       | (10.1 days)
-       | Δv 853.2 km/s
-     - | 416.2 h
-       | (17.3 days)
-       | Δv 1.5 Mm/s 
-     - | 614.4 h
-       | (25.6 days)
-       | Δv 2.2 Mm/s
-   * - ASTEROID BELT
-     - | 288.6 h
-       | (12.0 days)
-       | Δv 1.0 Mm/s
-     - | 241.6 h
-       | (10.1 days)
-       | Δv 853.2 km/s
-     - | 
-       | 〰
-       | 
-     - | 338.9 h
-       | (14.1 days) 
-       | Δv 1.2 Mm/s
-     - | 565.3 h
-       | (23.6 days)
-       | Δv 2.0 Mm/s
-   * - JOVIAN SYSTEM
-     - | 444.6 h
-       | (18.5 days)
-       | Δv 1.6 Mm/s
-     - | 416.2 h
-       | (17.3 days)
-       | Δv 1.5 Mm/s
-     - | 338.9 h
-       | (14.1 days)
-       | Δv 1.2 Mm/s
-     - | 
-       | 〰
-       | 
-     - | 452.0 h
-       | (18.8 days)
-       | Δv 1.6 Mm/s
-   * - SATURNIAN SYSTEM
-     - | 634.0 h
-       | (26.4 days)
-       | Δv 2.2 Mm/s
-     - | 614.4 h
-       | (25.6 days)
-       | Δv 2.2 Mm/s
-     - | 565.3 h
-       | (23.6 days)
-       | Δv 2.0 Mm/s
-     - | 452.0 h
-       | (18.8 days)
-       | Δv 1.6 Mm/s
-     - | 
-       | 〰
-       | 
+.. figure:: /_static/images/sci-fi-travel-time-0-2G.jpg
 
-0.2g of Acceleration
-~~~~~~~~~~~~~~~~~~~~~
+Average Travel Time and Δv Cost between planetary systems at 0.3G
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-.. list-table:: Average Travel Time and Δv Cost between planetary systems at 0.2G
-   :align: center
-   :header-rows: 1
-   :stub-columns: 1
-   :widths: 10, 18, 18, 18, 18, 18
+.. figure:: /_static/images/sci-fi-travel-time-0-3G.jpg
 
-   * - 0.2g
-     - EARTH SYSTEM
-     - MARS SYSTEM
-     - ASTEROID BELT
-     - JOVIAN SYSTEM
-     - SATURNIAN SYSTEM
-   * - EARTH SYSTEM
-     - | 
-       | 〰
-       |
-     - | 110.6 h 
-       | (4.6 days)
-       | Δv 781.4 km/s
-     - | 204.1 h
-       | (8.5 days)
-       | Δv 1.4 Mm/s
-     - | 314.4 h
-       | (13.1 days)
-       | Δv 2.2 Mm/s
-     - | 448.3 h
-       | (18.7 days)
-       | Δv 3.2 Mm/s
-   * - MARS SYSTEM
-     - | 110.6 h
-       | (4.6 days)
-       | Δv 781.4 km/s
-     - | 
-       | 〰
-       | 
-     - | 170.8 h
-       | (7.1 days)
-       | Δv 1.2 Mm/s
-     - | 
-       | 
-       | 
-     - | 
-       | 
-       | 
-   * - ASTEROID BELT
-     - | 
-       | 
-       | 
-     - | 
-       | 
-       | 
-     - | 
-       | 〰
-       | 
-     - | 
-       | 
-       | 
-     - | 
-       | 
-       | 
-   * - JOVIAN SYSTEM
-     - | 
-       | 
-       | 
-     - | 
-       | 
-       | 
-     - | 
-       | 
-       | 
-     - | 
-       | 〰
-       | 
-     - | 
-       | 
-       | 
-   * - SATURNIAN SYSTEM
-     - | 
-       | 
-       | 
-     - | 
-       | 
-       | 
-     - | 
-       | 
-       | 
-     - | 
-       | 
-       | 
-     - | 
-       | 〰
-       | 
+Average Travel Time and Δv Cost between planetary systems at 0.4G
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+.. figure:: /_static/images/sci-fi-travel-time-0-4G.jpg
+
+Average Travel Time and Δv Cost between planetary systems at 0.5G
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+.. figure:: /_static/images/sci-fi-travel-time-0-5G.jpg
+
+Average Travel Time and Δv Cost between planetary systems at 1G
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+.. figure:: /_static/images/sci-fi-travel-time-1G.jpg
+
+Average Travel Time and Δv Cost between planetary systems at 2G
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+.. figure:: /_static/images/sci-fi-travel-time-2G.jpg
+
+Average Travel Time and Δv Cost between planetary systems at 3G
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+.. figure:: /_static/images/sci-fi-travel-time-3G.jpg
+
+Average Travel Time and Δv Cost between planetary systems at 5G
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+.. figure:: /_static/images/sci-fi-travel-time-5G.jpg
+
+Average Travel Time and Δv Cost between planetary systems at 10G
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+.. figure:: /_static/images/sci-fi-travel-time-10G.jpg
