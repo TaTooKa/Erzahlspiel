@@ -147,79 +147,100 @@ Travel Times and DeltaV Costs
 
 Choose the amount of Gs of acceleration you want to burn at, and check how much time it will take to traverse between Planetary Systems and at what Δv cost.
 
-0.01G of Acceleration
-~~~~~~~~~~~~~~~~~~~~~
+Interplanetary Transits
+~~~~~~~~~~~~~~~~~~~~~~~
 
-Average Travel Time and Δv Cost between planetary systems at 0.01G
+0.01G of Acceleration
+^^^^^^^^^^^^^^^^^^^^^
+
+Average Travel Time and Δv Cost between planetary systems at 0.01G:
 
 .. figure:: /_static/images/sci-fi-travel-time-0-01G.jpg
 
 0.1G of Acceleration
-~~~~~~~~~~~~~~~~~~~~
+^^^^^^^^^^^^^^^^^^^^
 
-Average Travel Time and Δv Cost between planetary systems at 0.1G
+Average Travel Time and Δv Cost between planetary systems at 0.1G:
 
 .. figure:: /_static/images/sci-fi-travel-time-0-1G.jpg
 
 0.2G of Acceleration
-~~~~~~~~~~~~~~~~~~~~
+^^^^^^^^^^^^^^^^^^^^
 
-Average Travel Time and Δv Cost between planetary systems at 0.2G
+Average Travel Time and Δv Cost between planetary systems at 0.2G:
 
 .. figure:: /_static/images/sci-fi-travel-time-0-2G.jpg
 
 0.3G of Acceleration
-~~~~~~~~~~~~~~~~~~~~
+^^^^^^^^^^^^^^^^^^^^
 
-Average Travel Time and Δv Cost between planetary systems at 0.3G
+Average Travel Time and Δv Cost between planetary systems at 0.3G:
 
 .. figure:: /_static/images/sci-fi-travel-time-0-3G.jpg
 
 0.4G of Acceleration
-~~~~~~~~~~~~~~~~~~~~
+^^^^^^^^^^^^^^^^^^^^
 
-Average Travel Time and Δv Cost between planetary systems at 0.4G
+Average Travel Time and Δv Cost between planetary systems at 0.4G:
 
 .. figure:: /_static/images/sci-fi-travel-time-0-4G.jpg
 
 0.5G of Acceleration
-~~~~~~~~~~~~~~~~~~~~
+^^^^^^^^^^^^^^^^^^^^
 
-Average Travel Time and Δv Cost between planetary systems at 0.5G
+Average Travel Time and Δv Cost between planetary systems at 0.5G:
 
 .. figure:: /_static/images/sci-fi-travel-time-0-5G.jpg
 
 1G of Acceleration
-~~~~~~~~~~~~~~~~~~
+^^^^^^^^^^^^^^^^^^
 
-Average Travel Time and Δv Cost between planetary systems at 1G
+Average Travel Time and Δv Cost between planetary systems at 1G:
 
 .. figure:: /_static/images/sci-fi-travel-time-1G.jpg
 
 2G of Acceleration
-~~~~~~~~~~~~~~~~~~~
+^^^^^^^^^^^^^^^^^^
 
-Average Travel Time and Δv Cost between planetary systems at 2G
+Average Travel Time and Δv Cost between planetary systems at 2G:
 
 .. figure:: /_static/images/sci-fi-travel-time-2G.jpg
 
 3G of Acceleration
-~~~~~~~~~~~~~~~~~~
+^^^^^^^^^^^^^^^^^^
 
-Average Travel Time and Δv Cost between planetary systems at 3G
+Average Travel Time and Δv Cost between planetary systems at 3G:
 
 .. figure:: /_static/images/sci-fi-travel-time-3G.jpg
 
 5G of Acceleration
-~~~~~~~~~~~~~~~~~~
+^^^^^^^^^^^^^^^^^^
 
-Average Travel Time and Δv Cost between planetary systems at 5G
+Average Travel Time and Δv Cost between planetary systems at 5G:
 
 .. figure:: /_static/images/sci-fi-travel-time-5G.jpg
 
 10G of Acceleration
-~~~~~~~~~~~~~~~~~~~
+^^^^^^^^^^^^^^^^^^^
 
-Average Travel Time and Δv Cost between planetary systems at 10G
+Average Travel Time and Δv Cost between planetary systems at 10G:
 
 .. figure:: /_static/images/sci-fi-travel-time-10G.jpg
+
+Inter-System Transits
+~~~~~~~~~~~~~~~~~~~~~
+
+Average Travel Time and Δv Cost between Stations, Moons and Lagrangian Points in the same planetary system [#]_:
+
+.. [#] For objects at distances approximate to moon orbits or planet-moon Lagrangian Points. The average distance from Earth to Luna (384400 km) was used to calculate these values. L4 and L5 are roughly at the same distance (326400 km) which makes it close enough that you can use this same table.
+
+.. figure:: /_static/images/sci-fi-travel-time-intersystem.jpg
+
+Inter-Orbit Transits
+~~~~~~~~~~~~~~~~~~~~
+
+Average Travel Time and Δv Cost between Stations in planetary orbit [#]_:
+
+.. [#] For distances between objects in the orbit of a planet. The average distance of 30,000 km was used for these calculations. Since distances between low and high orbits are negligible for the purposes of Δv budget costs, you can use this same table for any.
+
+.. figure:: /_static/images/sci-fi-travel-time-interorbit.jpg
