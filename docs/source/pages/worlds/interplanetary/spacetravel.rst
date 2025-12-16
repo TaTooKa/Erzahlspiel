@@ -230,11 +230,15 @@ Average Travel Time and Δv Cost between planetary systems at 10G:
 Inter-System Transits
 ~~~~~~~~~~~~~~~~~~~~~
 
-Average Travel Time and Δv Cost between Stations, Moons and Lagrangian Points in the same planetary system [#]_:
+Average Travel Time and Δv Cost between Stations, Moons and Satellite Lagrangian Points in the same planetary system [#]_:
 
 .. [#] For objects at distances approximate to moon orbits or planet-moon Lagrangian Points. The average distance from Earth to Luna (384400 km) was used to calculate these values. L4 and L5 are roughly at the same distance (326400 km) which makes it close enough that you can use this same table.
 
 .. figure:: /_static/images/sci-fi-travel-time-intersystem.jpg
+
+.. figure:: /_static/images/earth-moon-lagrange-points.png
+
+   This image shows Earth-Luna Lagrangian Points. The distance to Earth-Sun Lagrangian Points is much vaster (L4 and L5 are 30 million km away from Earth), that they are not considered Inter-system Transits. You can calculate transit times and costs manually to these points if needed. 
 
 Inter-Orbit Transits
 ~~~~~~~~~~~~~~~~~~~~
