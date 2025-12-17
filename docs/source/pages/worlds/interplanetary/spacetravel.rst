@@ -133,7 +133,7 @@ In order to **execute a maneuver to come to a full stop while in transit** (eith
 
 .. math::
 
-    M_t = \frac{\frac{T_t}{P_t}}{d} * 10
+    M_t = \frac{T_t/P_t}{d} * 10
 
 6. Determine the **new Δv cost** for this maneuver (Δvₙ). The formula is:
 
@@ -149,30 +149,44 @@ In order to **execute a maneuver to come to a full stop while in transit** (eith
 
 **From these steps you should obtain:**
 
-  d = Deceleration in Gs sustained during this maneuver until coming to a full stop.
+  **d** = Deceleration in Gs sustained during this maneuver until coming to a full stop.
 
-  Mₜ = Total time that the maneuver will take until coming to a full stop.
+  **Mₜ** = Total time that the maneuver will take until coming to a full stop.
 
-  Δvₙ = The additional Δv cost that this maneuver entails.
+  **Δvₙ** = The additional Δv cost that this maneuver entails.
 
-  Δvₜ  = The total Δv cost of the original trip (until interrupted) plus the breaking maneuver.
+  **Δvₜ**  = The total Δv cost of the original trip (until interrupted) plus the breaking maneuver.
 
 .. admonition:: Take into consideration that:
 
-  - If you input a low value of d (low deceleration in Gs), the maneuver solution might not make sense (the original transit time could be lower than the new one, which defeats the purpose of breaking harder than planned).
+  - If you input a low value of **d** (low deceleration in Gs), the maneuver solution might not make sense (the original transit time could be lower than the new one, which defeats the purpose of breaking harder than planned).
   - If you were already on a trip with a high Δv cost and/or use a big deceleration value in Gs, the new calculated Δv cost could be prohibitive (i.e. your ship might not have enough Δv budget left to break this hard, even if the passengers on board could endure the high gravity).
 
 .. epigraph:: Emergency Break Example
 
-   The crew is travelling from the Earth System to the Asteroid Belt at 0.5G. The original Δv cost of the trip was 2.3 Mm/s, and it would’ve taken a total of 129.1 hours.
+   *The crew is travelling from the Earth System to the Asteroid Belt at 0.5G. The original Δv cost of the trip was 2.3 Mm/s, and it would’ve taken a total of 129.1 hours.*
 
-   30 hours in, the crew decides to come to a full stop to investigate a mysterious signal nearby. 
+   *30 hours in, the crew decides to come to a full stop to investigate a mysterious signal nearby.*
 
-   30h is 23% of the original 129.1h. So far, they’ve only spent 534.5 km/s of their projected original Δv cost (original cost multiplied by the time percentage over 100).
+   *30h is 23% of the original 129.1h. So far, they’ve only spent 534.5 km/s of their projected original Δv cost (original cost multiplied by the time percentage over 100).*
 
-   The captain decides to decelerate at 2G, which will put them at a full stop in 27.8 hours (original time over time percentage, divided by deceleration, all multiplied by ten). This will add 4.6Mm/s to the Δv cost, which tallies up to a total of 5.1Mm/s (4.6Mm/s + 534.5 km/s). More than double of what they had planned to spend on this trip. Ouch.
+   *The captain decides to decelerate at 2G, which will put them at a full stop in 27.8 hours (original time over time percentage, divided by deceleration, all multiplied by ten). This will add 4.6Mm/s to the Δv cost, which tallies up to a total of 5.1Mm/s (4.6Mm/s + 534.5 km/s). More than double of what they had planned to spend on this trip. Ouch.*
 
-   The captain could’ve chosen to decelerate at 5 G’s and drop the time down to 11 h, but this would’ve been prohibitive; not only because the crew would suffer the high-Gs, but also because the total Δv cost would increase to 12Mm/s, which their ship cannot achieve. If they chose a deceleration of 1G instead, the time to stop would increase to 55.6 hours, but the total Δv cost would be 2.8Mm/s, a much more acceptable figure.
+   *The captain could’ve chosen to decelerate at 5 G’s and drop the time down to 11 h, but this would’ve been prohibitive; not only because the crew would suffer the high-Gs, but also because the total Δv cost would increase to 12Mm/s, which their ship cannot achieve. If they chose a deceleration of 1G instead, the time to stop would increase to 55.6 hours, but the total Δv cost would be 2.8Mm/s, a much more acceptable figure.*
+
+Simplified Calculations
+^^^^^^^^^^^^^^^^^^^^^^^
+
+Because this is a tabletop RPG and it’s not that fun to pause the game to solve equations [#]_, consider using a simplified method that will not be as accurate but will represent the choices the characters should make during an emergency break situation.
+
+.. [#] Certain types of nerds would disagree.
+
+- The crew or captain should choose a desired deceleration in Gs (**d**).
+- **New total Δv cost**: Multiply the original Δv cost of the trip by 1.X, where X is **d**.
+- **New total transit time**: Divide the original total transit time (in hours) by **d**.
+
+This easy calculation will not be as realistic or involved, but will still make the characters’
+choice matter (higher G deceleration takes less time to break, but costs more Δv).
 
 
 Distance between Planetary Systems
