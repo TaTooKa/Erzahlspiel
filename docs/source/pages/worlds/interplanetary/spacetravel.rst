@@ -108,6 +108,20 @@ The simplified formula is:
 
    Increased\ Transit\ Time = original\ transit\ time * (coasting\ time\ percentage * 2) 
 
+Emergency Breaks and Abrupt Trajectory Changes
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+It is undesired, but not extremely rare, to have to abort a planned brachistochrone transit (full or partial) for some reason. Maybe there is an unexpected object in a collision course; perhaps there’s an emergency that requires “stopping” (or considerably slowing down); maybe there is a distress call nearby that needs attention or immediate action; perhaps the captain decides to change destination mid-flight. Whatever the case, a vessel that is darting through space (either in a 0G drift or under thrust) will need to accrue an unexpected Δv cost to reduce speed.
+
+In order to **execute a maneuver to come to a full stop while in transit** (either full thrust or partial drift), follow these steps:
+
+1. Take note of the original Δv cost of the trip (Δvₒ) that was still not fully spent.
+2. Find out how much time has passed in transit in hours (Aₜ), and compare with the original total time for the trip (Tₜ). Calculate this percentage with this formula:
+
+.. math::
+
+    P_t = \frac{A_t-T_t}{/T_t} * 100
+
 Distance between Planetary Systems
 ----------------------------------
 
