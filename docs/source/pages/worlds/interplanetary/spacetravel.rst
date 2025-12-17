@@ -39,7 +39,7 @@ Outside of those earlier techniques, nowadays most if not all spacecraft use wha
 Full Brachistochrone Transit
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-The vessel accelerates at a constant **g** until the midpoint, turns around and decelerates at the same constant g until its destination. Consult the tables on the following pages of this chapter for already calculated figures and Δv costs for common transit routes and Gs.
+The vessel accelerates at a constant **g** until the midpoint, turns around and decelerates at the same constant g until its destination. Consult the tables on the :hoverxref:`travel times and costs section <interplanetary-travel-times-costs>` for already calculated figures and Δv costs for common transit routes and Gs.
 
 If you wish to calculate the Δv cost and transit times on your own, you can use these kinematic formulas:
 
@@ -222,6 +222,8 @@ Communication Delay between Planetary Systems
 .. warning::
 
    These comm delays are at a best-case-scenario, probably with military or government priority. Those civilians who can pay the exorbitant amounts of money to have high-priority comms could probably expect 2X or 3X these delays; most common people should probably expect 10X these figures.
+
+.. _interplanetary-travel-times-costs:
 
 Travel Times and DeltaV Costs
 -----------------------------
